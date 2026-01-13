@@ -1,8 +1,8 @@
 @prefix tom: <https://w3id.org/toRoll/vocs/taginOM/> .
 @prefix skos: <tom:http://www.w3.org/2004/02/skos/core#> .
 
-tom: a skos:ConceptScheme .
-        dct:title "Tagin & OM"@en, "Tagin & OM"@de ;
+tom: a skos:ConceptScheme ;
+        dct:title "Tagin & OM"@en, "Tagin & OM"@de .
 
 
 tom:tagin a  skos:Concept ;
