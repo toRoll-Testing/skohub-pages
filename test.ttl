@@ -18,3 +18,8 @@ tom:1tag a skos:Concept ;
 tom:alef_1000  a skos:Concept ;
         skos:broader tom:1tag ;
         skos:prefLabel "alef_1000" .
+
+tom:alef_0001  a skos:Concept ;
+        skos:broader tom:1tag ;
+        skos:prefLabel "alef_0001" .
+
