@@ -3,21 +3,24 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 
 tom: a skos:ConceptScheme ;
-        dct:title "Tagin & OM"@en, "Tagin & OM"@de .
-
+        dct:title "Tagin & OM"@en, "Tagin & OM"@de ;
+        skos:hasTopConcept tom:tagin, tom:1tag; tom:alef_1000, tom:alef_0001 .
 
 tom:tagin a  skos:Concept ;
         skos:narrower tom:1tag ;
-        skos:prefLabel "tagin" .
+        skos:prefLabel "tagin" ;
+        skos:topConceptOf tom: .
 
 tom:1tag a skos:Concept ;
         skos:broader tom:tagin ;
         skos:narrower tom:alef_1000 ;
-        skos:prefLabel "1 tag" .
+        skos:prefLabel "1 tag" ;
+        skos:topConceptOf tom: .
 
 tom:alef_1000  a skos:Concept ;
         skos:broader tom:1tag ;
-        skos:prefLabel "alef_1000" .
+        skos:prefLabel "alef_1000" ;
+        skos:topConceptOf tom: .
 
 tom:alef_0001  a skos:Concept ;
         skos:broader tom:1tag ;
