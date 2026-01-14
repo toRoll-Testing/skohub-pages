@@ -4,7 +4,7 @@
 
 tom: a skos:ConceptScheme ;
         dct:title "Tagin & OM"@en, "Tagin & OM"@de ;
-        skos:hasTopConcept tom:tagin, tom:1tag; tom:alef_1000, tom:alef_0001 .
+        skos:hasTopConcept tom:tagin, tom:1tag, tom:alef_1000, tom:alef_0001 .
 
 tom:tagin a  skos:Concept ;
         skos:narrower tom:1tag ;
