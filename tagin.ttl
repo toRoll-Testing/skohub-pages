@@ -4,7 +4,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tom: a skos:ConceptScheme ;
-    dct:title "Tagin"@en, "Tagin"@de ;
+    dct:title "Tagin";
     skos:hasTopConcept tom:tagin, tom:1tag, tom:alef_1000 .
 
 tom:tagin a  skos:Concept ;
