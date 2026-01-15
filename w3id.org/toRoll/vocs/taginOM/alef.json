@@ -6,15 +6,21 @@
   },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/alef_1000",
-      "prefLabel": {
-        "de": "alef_1000"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/alef_0001",
       "prefLabel": {
         "de": "alef_0001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/alef_0002",
+      "prefLabel": {
+        "de": "alef_0002"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/alef_1000",
+      "prefLabel": {
+        "de": "alef_1000"
       }
     },
     {
@@ -39,12 +45,6 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/alef_2000",
       "prefLabel": {
         "de": "alef_2000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/alef_0002",
-      "prefLabel": {
-        "de": "alef_0002"
       }
     },
     {
