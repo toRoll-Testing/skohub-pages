@@ -6,11 +6,7 @@
   },
   "inScheme": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/",
-      "title": {
-        "en": "Tagin",
-        "de": "Tagin"
-      }
+      "id": "https://w3id.org/toRoll/vocs/taginOM/"
     }
   ],
   "inSchemeAll": [
@@ -20,11 +16,7 @@
   ],
   "topConceptOf": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/",
-      "title": {
-        "en": "Tagin",
-        "de": "Tagin"
-      }
+      "id": "https://w3id.org/toRoll/vocs/taginOM/"
     }
   ],
   "@context": {

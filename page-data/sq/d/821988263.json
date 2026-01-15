@@ -1,1 +1,1 @@
-{"data":{"allConceptScheme":{"edges":[{"node":{"id":"https://example.org/colour/","fields":{"languages":["en","de"]}}},{"node":{"id":"https://w3id.org/toRoll/vocs/taginOM/","fields":{"languages":["en","de","@none"]}}}]}}}
+{"data":{"allConceptScheme":{"edges":[{"node":{"id":"https://example.org/colour/","fields":{"languages":["en","de"]}}},{"node":{"id":"https://w3id.org/toRoll/vocs/taginOM/","fields":{"languages":["@none"]}}}]}}}
