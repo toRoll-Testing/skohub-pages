@@ -17,6 +17,10 @@ tom:green a skos:Concept ;
     skos:narrower tom:grassgreen ;
     skos:topConceptOf tom: .
     
-colour:grassgreen a skos:Concept ;
+tom:grassgreen a skos:Concept ;
     skos:prefLabel "grass-green"@en, "Grasgrün"@de ;
-    skos:inScheme colour: .
+    skos:inScheme tom: .
+
+tom:tagingreen a skos:Concept ;
+    skos:prefLabel "tagin-green"@en, "tagingrün"@de ;
+    skos:inScheme tom: .
