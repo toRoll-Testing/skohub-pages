@@ -2,15 +2,61 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/tagin",
   "type": "Concept",
   "prefLabel": {
-    "en": "tagin",
     "de": "tagin"
   },
   "narrower": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/1tag",
       "prefLabel": {
-        "en": "1 tag",
         "de": "1 tag"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/2tagin",
+      "prefLabel": {
+        "de": "2 tagin"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/3tagin",
+      "prefLabel": {
+        "de": "3 tagin"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/4tagin",
+      "prefLabel": {
+        "de": "4 tagin"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/5tagin",
+      "prefLabel": {
+        "de": "5 tagin"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/6tagin",
+      "prefLabel": {
+        "de": "6 tagin"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/7tagin",
+      "prefLabel": {
+        "de": "7 tagin"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/8tagin",
+      "prefLabel": {
+        "de": "8 tagin"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/9tagin",
+      "prefLabel": {
+        "de": "9 tagin"
       }
     }
   ],
@@ -18,8 +64,8 @@
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
       "title": {
-        "en": "Tagin",
-        "de": "Tagin"
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
       }
     }
   ],
@@ -32,8 +78,8 @@
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
       "title": {
-        "en": "Tagin",
-        "de": "Tagin"
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
       }
     }
   ],
