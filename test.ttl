@@ -4,23 +4,22 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tom: a skos:ConceptScheme ;
-        dct:title "Tagin & OM"@en, "Tagin & OM"@de;
-        skos:hasTopConcept tom:tagin .
+        dct:title "Tagin & OM"@en, "Tagin & OM"@de.
 
 
 tom:tagin a  skos:Concept ;
         skos:narrower tom:1tag ;
-        skos:prefLabel "tagin" .
+        skos:prefLabel "tagin"@de .
 
 tom:1tag a skos:Concept ;
         skos:broader tom:tagin ;
         skos:narrower tom:alef_1000 ;
-        skos:prefLabel "1 tag" .
+        skos:prefLabel "1 tag"@de .
 
 tom:alef_1000  a skos:Concept ;
         skos:broader tom:1tag ;
-        skos:prefLabel "alef_1000" .
+        skos:prefLabel "alef_1000"@de .
 
 tom:alef_0001  a skos:Concept ;
         skos:broader tom:1tag ;
-        skos:prefLabel "alef_0001" .
+        skos:prefLabel "alef_0001"@de .
