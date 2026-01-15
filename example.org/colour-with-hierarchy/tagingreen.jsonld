@@ -1,17 +1,9 @@
 {
-  "id": "https://example.org/colour-with-hierarchy/violet",
+  "id": "https://example.org/colour-with-hierarchy/tagingreen",
   "type": "Concept",
   "prefLabel": {
-    "en": "violet",
-    "de": "Violett"
-  },
-  "altLabel": {
-    "en": [
-      "purple"
-    ],
-    "de": [
-      "Lila"
-    ]
+    "en": "tagin-green",
+    "de": "tagingrün"
   },
   "inScheme": [
     {
@@ -25,15 +17,6 @@
   "inSchemeAll": [
     {
       "id": "https://example.org/colour-with-hierarchy/"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://example.org/colour-with-hierarchy/",
-      "title": {
-        "en": "test vocabulary with hierarchy",
-        "de": "testvok mit Hierarchie"
-      }
     }
   ],
   "@context": {
