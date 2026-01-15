@@ -5,7 +5,7 @@
 
 tom: a skos:ConceptScheme ;
         dct:title "Tagin & Otiyyot Meshunnot"@en,  "Tagin & Otijjot Meshunnot"@de ;
-        skos:hasTopConcept tom:tagin, tom:ayin, tom:beit, tom:alef.
+        skos:hasTopConcept tom:tagin, tom:ayin, tom:beit, tom:alef, tom:alef_0001, tom:alef_0002 .
 
 tom:tagin
         a  skos:Concept ;
