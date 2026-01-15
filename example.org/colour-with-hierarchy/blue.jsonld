@@ -1,9 +1,9 @@
 {
-  "id": "https://example.org/colour-with-hierarchy/tagingreen",
+  "id": "https://example.org/colour-with-hierarchy/blue",
   "type": "Concept",
   "prefLabel": {
-    "en": "tagin-green",
-    "de": "tagingrün"
+    "en": "blue",
+    "de": "blau"
   },
   "inScheme": [
     {
@@ -17,6 +17,15 @@
   "inSchemeAll": [
     {
       "id": "https://example.org/colour-with-hierarchy/"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://example.org/colour-with-hierarchy/",
+      "title": {
+        "en": "test vocabulary with hierarchy",
+        "de": "testvok mit Hierarchie"
+      }
     }
   ],
   "@context": {
