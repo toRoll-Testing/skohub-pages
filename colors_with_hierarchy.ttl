@@ -5,7 +5,7 @@
 
 tom: a skos:ConceptScheme ;
     dct:title "test vocabulary with hierarchy"@en, "testvok mit Hierarchie"@de ;
-    skos:hasTopConcept tom:violet, tom:green .
+    skos:hasTopConcept tom:violet, tom:green, tom:blue.
 
 tom:violet a skos:Concept ;
     skos:prefLabel "Violett"@de, "violet"@en ;
@@ -21,6 +21,6 @@ tom:grassgreen a skos:Concept ;
     skos:prefLabel "grass-green"@en, "Grasgrün"@de ;
     skos:inScheme tom: .
 
-tom:tagingreen a skos:Concept ;
-    skos:prefLabel "tagin-green"@en, "tagingrün"@de ;
-    skos:inScheme tom: .
+tom:blue a skos:Concept ;
+    skos:prefLabel "blue"@en, "blau"@de ;
+    skos:topConceptOf tom: .
