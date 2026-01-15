@@ -4,19 +4,19 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tom: a skos:ConceptScheme ;
-    dct:title "Tagin";
+    dct:title "Tagin"@de;
     skos:hasTopConcept tom:tagin, tom:1tag, tom:alef_1000 .
 
 tom:tagin a  skos:Concept ;
         skos:narrower tom:1tag ;
-        skos:prefLabel "tagin" ;
+        skos:prefLabel "tagin"@de ;
         skos:topConceptOf tom: .
 
 tom:1tag a skos:Concept ;
         skos:broader tom:tagin ;
         skos:narrower tom:alef_1000 ; 
-        skos:prefLabel "1 tag" .
+        skos:prefLabel "1 tag"@de .
 
 tom:alef_1000 a skos:Concept ;
         skos:broader tom:1tag ;
-        skos:prefLabel "alef_1000" .
+        skos:prefLabel "alef_1000"@de .
