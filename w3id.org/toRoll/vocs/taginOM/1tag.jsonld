@@ -1,17 +1,29 @@
 {
   "id": "https://w3id.org/toRoll/vocs/taginOM/1tag",
   "type": "Concept",
+  "prefLabel": {
+    "de": "1 tag"
+  },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/alef_1000"
+      "id": "https://w3id.org/toRoll/vocs/taginOM/alef_1000",
+      "prefLabel": {
+        "de": "alef_1000"
+      }
     }
   ],
   "broader": {
-    "id": "https://w3id.org/toRoll/vocs/taginOM/tagin"
+    "id": "https://w3id.org/toRoll/vocs/taginOM/tagin",
+    "prefLabel": {
+      "de": "tagin"
+    }
   },
   "inScheme": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/"
+      "id": "https://w3id.org/toRoll/vocs/taginOM/",
+      "title": {
+        "de": "Tagin"
+      }
     }
   ],
   "inSchemeAll": [
@@ -21,7 +33,10 @@
   ],
   "topConceptOf": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/"
+      "id": "https://w3id.org/toRoll/vocs/taginOM/",
+      "title": {
+        "de": "Tagin"
+      }
     }
   ],
   "@context": {

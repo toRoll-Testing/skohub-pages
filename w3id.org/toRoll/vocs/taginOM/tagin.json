@@ -1,14 +1,23 @@
 {
   "id": "https://w3id.org/toRoll/vocs/taginOM/tagin",
   "type": "Concept",
+  "prefLabel": {
+    "de": "tagin"
+  },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/1tag"
+      "id": "https://w3id.org/toRoll/vocs/taginOM/1tag",
+      "prefLabel": {
+        "de": "1 tag"
+      }
     }
   ],
   "inScheme": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/"
+      "id": "https://w3id.org/toRoll/vocs/taginOM/",
+      "title": {
+        "de": "Tagin"
+      }
     }
   ],
   "inSchemeAll": [
@@ -18,7 +27,10 @@
   ],
   "topConceptOf": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/"
+      "id": "https://w3id.org/toRoll/vocs/taginOM/",
+      "title": {
+        "de": "Tagin"
+      }
     }
   ],
   "@context": {
