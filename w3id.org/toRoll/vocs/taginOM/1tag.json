@@ -1,0 +1,775 @@
+{
+  "id": "https://w3id.org/toRoll/vocs/taginOM/1tag",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "1 tag"
+  },
+  "narrower": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/pe_w0100000",
+      "prefLabel": {
+        "de": "pe_w0100000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_10p",
+      "prefLabel": {
+        "de": "nunsofit_10p"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/pe_w1000000",
+      "prefLabel": {
+        "de": "pe_w1000000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/he_1000",
+      "prefLabel": {
+        "de": "he_1000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_100",
+      "prefLabel": {
+        "de": "zayin_100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_01000",
+      "prefLabel": {
+        "de": "het_01000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_e100bb",
+      "prefLabel": {
+        "de": "het_e100bb"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_e010pp",
+      "prefLabel": {
+        "de": "het_e010pp"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_100",
+      "prefLabel": {
+        "de": "nunsofit_100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w10",
+      "prefLabel": {
+        "de": "teth_w10"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/vav_e100",
+      "prefLabel": {
+        "de": "vav_e100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_e010bb",
+      "prefLabel": {
+        "de": "het_e010bb"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_01b0",
+      "prefLabel": {
+        "de": "ayin_01b0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_01p0",
+      "prefLabel": {
+        "de": "ayin_01p0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_1000",
+      "prefLabel": {
+        "de": "dalet_1000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_e0100b",
+      "prefLabel": {
+        "de": "het_e0100b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/pe_0100000",
+      "prefLabel": {
+        "de": "pe_0100000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/pe_1000000",
+      "prefLabel": {
+        "de": "pe_1000000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/pe_w10000p0",
+      "prefLabel": {
+        "de": "pe_w10000p0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/pesofit_10000",
+      "prefLabel": {
+        "de": "pesofit_10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/beit_1000000",
+      "prefLabel": {
+        "de": "beit_1000000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/alef_1000",
+      "prefLabel": {
+        "de": "alef_1000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_1000",
+      "prefLabel": {
+        "de": "ayin_1000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_10b0",
+      "prefLabel": {
+        "de": "ayin_10b0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/beit_0001000",
+      "prefLabel": {
+        "de": "beit_0001000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/beit_0100000",
+      "prefLabel": {
+        "de": "beit_0100000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_e10000",
+      "prefLabel": {
+        "de": "het_e10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_1000b",
+      "prefLabel": {
+        "de": "het_1000b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/pesofit_w10000",
+      "prefLabel": {
+        "de": "pesofit_w10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_000010",
+      "prefLabel": {
+        "de": "samekh_000010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_10",
+      "prefLabel": {
+        "de": "teth_10"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/vav_100",
+      "prefLabel": {
+        "de": "vav_100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_1bb",
+      "prefLabel": {
+        "de": "zayin_1bb"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_0100",
+      "prefLabel": {
+        "de": "resh_0100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_1000",
+      "prefLabel": {
+        "de": "resh_1000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_00100",
+      "prefLabel": {
+        "de": "qof_00100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_01000",
+      "prefLabel": {
+        "de": "qof_01000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_10000",
+      "prefLabel": {
+        "de": "qof_10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_101001",
+      "prefLabel": {
+        "de": "memsofit_101001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/beit_0000010",
+      "prefLabel": {
+        "de": "beit_0000010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_10000",
+      "prefLabel": {
+        "de": "het_10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_er10000",
+      "prefLabel": {
+        "de": "het_er10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_000010",
+      "prefLabel": {
+        "de": "kaf_000010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_100000",
+      "prefLabel": {
+        "de": "memsofit_100000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/pe_0000010",
+      "prefLabel": {
+        "de": "pe_0000010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_0001",
+      "prefLabel": {
+        "de": "resh_0001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_100000",
+      "prefLabel": {
+        "de": "samekh_100000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/vav_e1pp",
+      "prefLabel": {
+        "de": "vav_e1pp"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/vav_e1pb",
+      "prefLabel": {
+        "de": "vav_e1pb"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsadesofit_0100",
+      "prefLabel": {
+        "de": "tsadesofit_0100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_01000",
+      "prefLabel": {
+        "de": "kafsofit_01000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/nun_10b",
+      "prefLabel": {
+        "de": "nun_10b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/alef_0001",
+      "prefLabel": {
+        "de": "alef_0001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/alef_0100",
+      "prefLabel": {
+        "de": "alef_0100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e1000",
+      "prefLabel": {
+        "de": "ayin_e1000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/beit_0010000",
+      "prefLabel": {
+        "de": "beit_0010000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_0001",
+      "prefLabel": {
+        "de": "dalet_0001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/he_0001",
+      "prefLabel": {
+        "de": "he_0001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/he_0100",
+      "prefLabel": {
+        "de": "he_0100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/he_f001",
+      "prefLabel": {
+        "de": "he_f001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_010bb",
+      "prefLabel": {
+        "de": "het_010bb"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_r10000",
+      "prefLabel": {
+        "de": "het_r10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_10000",
+      "prefLabel": {
+        "de": "kafsofit_10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_1f0",
+      "prefLabel": {
+        "de": "lamed_1f0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_10000",
+      "prefLabel": {
+        "de": "mem_10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_1p0",
+      "prefLabel": {
+        "de": "zayin_1p0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e10p0",
+      "prefLabel": {
+        "de": "ayin_e10p0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_00100",
+      "prefLabel": {
+        "de": "kafsofit_00100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_010",
+      "prefLabel": {
+        "de": "lamed_010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/pesofit_00001",
+      "prefLabel": {
+        "de": "pesofit_00001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_f0001",
+      "prefLabel": {
+        "de": "qof_f0001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_0010",
+      "prefLabel": {
+        "de": "resh_0010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tav_e000001",
+      "prefLabel": {
+        "de": "tav_e000001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_100",
+      "prefLabel": {
+        "de": "tsade_100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/vav_001",
+      "prefLabel": {
+        "de": "vav_001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/vav_1b0",
+      "prefLabel": {
+        "de": "vav_1b0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/vav_10p",
+      "prefLabel": {
+        "de": "vav_10p"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/vav_1pp",
+      "prefLabel": {
+        "de": "vav_1pp"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/vav_1bb",
+      "prefLabel": {
+        "de": "vav_1bb"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_001",
+      "prefLabel": {
+        "de": "yod_001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_100",
+      "prefLabel": {
+        "de": "yod_100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_1p0",
+      "prefLabel": {
+        "de": "yod_1p0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_1b0",
+      "prefLabel": {
+        "de": "zayin_1b0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_10p",
+      "prefLabel": {
+        "de": "yod_10p"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/shin_0010",
+      "prefLabel": {
+        "de": "shin_0010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/shin_1000",
+      "prefLabel": {
+        "de": "shin_1000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tav_000010",
+      "prefLabel": {
+        "de": "tav_000010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tav_010000",
+      "prefLabel": {
+        "de": "tav_010000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tav_100000",
+      "prefLabel": {
+        "de": "tav_100000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/nun_10p",
+      "prefLabel": {
+        "de": "nun_10p"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_0100",
+      "prefLabel": {
+        "de": "dalet_0100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_1p0",
+      "prefLabel": {
+        "de": "nunsofit_1p0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_0100b",
+      "prefLabel": {
+        "de": "het_0100b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_010000",
+      "prefLabel": {
+        "de": "kaf_010000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_100000",
+      "prefLabel": {
+        "de": "kaf_100000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_010p0",
+      "prefLabel": {
+        "de": "kafsofit_010p0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_01000",
+      "prefLabel": {
+        "de": "mem_01000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_000001",
+      "prefLabel": {
+        "de": "memsofit_000001"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/toRoll/vocs/taginOM/tagin",
+    "prefLabel": {
+      "de": "tagin"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/",
+      "title": {
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/",
+      "title": {
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
+      }
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

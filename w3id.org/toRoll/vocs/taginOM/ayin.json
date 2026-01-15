@@ -30,18 +30,6 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e1000",
-      "prefLabel": {
-        "de": "ayin_e1000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e10p0",
-      "prefLabel": {
-        "de": "ayin_e10p0"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_02p0",
       "prefLabel": {
         "de": "ayin_02p0"
@@ -78,12 +66,6 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_11p0",
-      "prefLabel": {
-        "de": "ayin_11p0"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_3p00",
       "prefLabel": {
         "de": "ayin_3p00"
@@ -108,87 +90,9 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_2100",
-      "prefLabel": {
-        "de": "ayin_2100"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_30b0",
-      "prefLabel": {
-        "de": "ayin_30b0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_3f00",
-      "prefLabel": {
-        "de": "ayin_3f00"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e0300",
-      "prefLabel": {
-        "de": "ayin_e0300"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e30b0",
-      "prefLabel": {
-        "de": "ayin_e30b0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e3bb0",
-      "prefLabel": {
-        "de": "ayin_e3bb0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e3fb0",
-      "prefLabel": {
-        "de": "ayin_e3fb0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e3p00",
-      "prefLabel": {
-        "de": "ayin_e3p00"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_0300",
-      "prefLabel": {
-        "de": "ayin_0300"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_1200",
-      "prefLabel": {
-        "de": "ayin_1200"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_p220",
       "prefLabel": {
         "de": "ayin_p220"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_3010",
-      "prefLabel": {
-        "de": "ayin_3010"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_4000",
-      "prefLabel": {
-        "de": "ayin_4000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_3100",
-      "prefLabel": {
-        "de": "ayin_3100"
       }
     },
     {
@@ -216,15 +120,15 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_we0000",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_00b0",
       "prefLabel": {
-        "de": "ayin_we0000"
+        "de": "ayin_00b0"
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e0b00",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_0bb0",
       "prefLabel": {
-        "de": "ayin_e0b00"
+        "de": "ayin_0bb0"
       }
     },
     {
@@ -246,6 +150,84 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_w0000",
+      "prefLabel": {
+        "de": "ayin_w0000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_3010",
+      "prefLabel": {
+        "de": "ayin_3010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_we0000",
+      "prefLabel": {
+        "de": "ayin_we0000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_2100",
+      "prefLabel": {
+        "de": "ayin_2100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_30b0",
+      "prefLabel": {
+        "de": "ayin_30b0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_3f00",
+      "prefLabel": {
+        "de": "ayin_3f00"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e0300",
+      "prefLabel": {
+        "de": "ayin_e0300"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e0b00",
+      "prefLabel": {
+        "de": "ayin_e0b00"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e1000",
+      "prefLabel": {
+        "de": "ayin_e1000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e30b0",
+      "prefLabel": {
+        "de": "ayin_e30b0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e3bb0",
+      "prefLabel": {
+        "de": "ayin_e3bb0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e3fb0",
+      "prefLabel": {
+        "de": "ayin_e3fb0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e3p00",
+      "prefLabel": {
+        "de": "ayin_e3p00"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_pp00",
       "prefLabel": {
         "de": "ayin_pp00"
@@ -255,6 +237,24 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_ppp0",
       "prefLabel": {
         "de": "ayin_ppp0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_11p0",
+      "prefLabel": {
+        "de": "ayin_11p0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_4000",
+      "prefLabel": {
+        "de": "ayin_4000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_e10p0",
+      "prefLabel": {
+        "de": "ayin_e10p0"
       }
     },
     {
@@ -270,21 +270,21 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_w0000",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_0300",
       "prefLabel": {
-        "de": "ayin_w0000"
+        "de": "ayin_0300"
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_00b0",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_1200",
       "prefLabel": {
-        "de": "ayin_00b0"
+        "de": "ayin_1200"
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_0bb0",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_3100",
       "prefLabel": {
-        "de": "ayin_0bb0"
+        "de": "ayin_3100"
       }
     }
   ],

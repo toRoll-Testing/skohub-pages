@@ -1,0 +1,475 @@
+{
+  "id": "https://w3id.org/toRoll/vocs/taginOM/het",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "het"
+  },
+  "narrower": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_01000",
+      "prefLabel": {
+        "de": "het_01000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_e100bb",
+      "prefLabel": {
+        "de": "het_e100bb"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_e010pp",
+      "prefLabel": {
+        "de": "het_e010pp"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_e010bb",
+      "prefLabel": {
+        "de": "het_e010bb"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_e0100b",
+      "prefLabel": {
+        "de": "het_e0100b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_e10000",
+      "prefLabel": {
+        "de": "het_e10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_1000b",
+      "prefLabel": {
+        "de": "het_1000b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_10100",
+      "prefLabel": {
+        "de": "het_10100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_e1010b",
+      "prefLabel": {
+        "de": "het_e1010b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_02000",
+      "prefLabel": {
+        "de": "het_02000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_11000",
+      "prefLabel": {
+        "de": "het_11000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_e011bb",
+      "prefLabel": {
+        "de": "het_e011bb"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_e02000",
+      "prefLabel": {
+        "de": "het_e02000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_01100",
+      "prefLabel": {
+        "de": "het_01100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_11100",
+      "prefLabel": {
+        "de": "het_11100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_10200",
+      "prefLabel": {
+        "de": "het_10200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_21000",
+      "prefLabel": {
+        "de": "het_21000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_er000pp",
+      "prefLabel": {
+        "de": "het_er000pp"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_er000bb",
+      "prefLabel": {
+        "de": "het_er000bb"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_eb000b",
+      "prefLabel": {
+        "de": "het_eb000b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_er0000p",
+      "prefLabel": {
+        "de": "het_er0000p"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_0000b",
+      "prefLabel": {
+        "de": "het_0000b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_000bb",
+      "prefLabel": {
+        "de": "het_000bb"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_r00000",
+      "prefLabel": {
+        "de": "het_r00000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_s00000",
+      "prefLabel": {
+        "de": "het_s00000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_10000",
+      "prefLabel": {
+        "de": "het_10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_er00000",
+      "prefLabel": {
+        "de": "het_er00000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_er10000",
+      "prefLabel": {
+        "de": "het_er10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_er20000",
+      "prefLabel": {
+        "de": "het_er20000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_er10100",
+      "prefLabel": {
+        "de": "het_er10100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_c00000",
+      "prefLabel": {
+        "de": "het_c00000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_010bb",
+      "prefLabel": {
+        "de": "het_010bb"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_0110b",
+      "prefLabel": {
+        "de": "het_0110b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_0f000",
+      "prefLabel": {
+        "de": "het_0f000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_101bb",
+      "prefLabel": {
+        "de": "het_101bb"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_r10000",
+      "prefLabel": {
+        "de": "het_r10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_r10100",
+      "prefLabel": {
+        "de": "het_r10100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_r1010b",
+      "prefLabel": {
+        "de": "het_r1010b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_r101bb",
+      "prefLabel": {
+        "de": "het_r101bb"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_r101pp",
+      "prefLabel": {
+        "de": "het_r101pp"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_0100b",
+      "prefLabel": {
+        "de": "het_0100b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_1010b",
+      "prefLabel": {
+        "de": "het_1010b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_e10100",
+      "prefLabel": {
+        "de": "het_e10100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_110bb",
+      "prefLabel": {
+        "de": "het_110bb"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_rb020b",
+      "prefLabel": {
+        "de": "het_rb020b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_12000",
+      "prefLabel": {
+        "de": "het_12000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_20001",
+      "prefLabel": {
+        "de": "het_20001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_e11000",
+      "prefLabel": {
+        "de": "het_e11000"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/toRoll/vocs/taginOM/Hebrew",
+    "prefLabel": {
+      "de": "Hebrew"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/",
+      "title": {
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/",
+      "title": {
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
+      }
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
