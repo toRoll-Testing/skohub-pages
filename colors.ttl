@@ -23,6 +23,6 @@ colour:yellow a skos:Concept ;
     skos:prefLabel "gelb"@de, "yellow"@en ;
     skos:topConceptOf colour: .
 
-colour:red a skos:Concept ;
-    skos:prefLabel "rot"@de, "red"@en ;
+colour:green a skos:Concept ;
+    skos:prefLabel "grün"@de, "green"@en ;
     skos:topConceptOf colour: .
