@@ -6,9 +6,9 @@
   },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w10",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_02",
       "prefLabel": {
-        "de": "teth_w10"
+        "de": "teth_02"
       }
     },
     {
@@ -24,39 +24,21 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_20",
-      "prefLabel": {
-        "de": "teth_20"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w11",
-      "prefLabel": {
-        "de": "teth_w11"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/teth_12",
       "prefLabel": {
         "de": "teth_12"
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w21",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_20",
       "prefLabel": {
-        "de": "teth_w21"
+        "de": "teth_20"
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_31",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_21",
       "prefLabel": {
-        "de": "teth_31"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w31",
-      "prefLabel": {
-        "de": "teth_w31"
+        "de": "teth_21"
       }
     },
     {
@@ -66,33 +48,15 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_31",
+      "prefLabel": {
+        "de": "teth_31"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/teth_32",
       "prefLabel": {
         "de": "teth_32"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w00",
-      "prefLabel": {
-        "de": "teth_w00"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w32",
-      "prefLabel": {
-        "de": "teth_w32"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_02",
-      "prefLabel": {
-        "de": "teth_02"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_21",
-      "prefLabel": {
-        "de": "teth_21"
       }
     },
     {
@@ -120,15 +84,51 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w30",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w00",
       "prefLabel": {
-        "de": "teth_w30"
+        "de": "teth_w00"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w10",
+      "prefLabel": {
+        "de": "teth_w10"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w11",
+      "prefLabel": {
+        "de": "teth_w11"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w21",
+      "prefLabel": {
+        "de": "teth_w21"
       }
     },
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w23",
       "prefLabel": {
         "de": "teth_w23"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w30",
+      "prefLabel": {
+        "de": "teth_w30"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w31",
+      "prefLabel": {
+        "de": "teth_w31"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w32",
+      "prefLabel": {
+        "de": "teth_w32"
       }
     },
     {

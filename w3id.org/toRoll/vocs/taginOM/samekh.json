@@ -12,48 +12,6 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_101000",
-      "prefLabel": {
-        "de": "samekh_101000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_111000",
-      "prefLabel": {
-        "de": "samekh_111000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_101100",
-      "prefLabel": {
-        "de": "samekh_101100"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_101010",
-      "prefLabel": {
-        "de": "samekh_101010"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_111010",
-      "prefLabel": {
-        "de": "samekh_111010"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_100000",
-      "prefLabel": {
-        "de": "samekh_100000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_020000",
-      "prefLabel": {
-        "de": "samekh_020000"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_002000",
       "prefLabel": {
         "de": "samekh_002000"
@@ -72,27 +30,33 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_020000",
+      "prefLabel": {
+        "de": "samekh_020000"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_020010",
       "prefLabel": {
         "de": "samekh_020010"
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_102000",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_030010",
       "prefLabel": {
-        "de": "samekh_102000"
+        "de": "samekh_030010"
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_300000",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_100000",
       "prefLabel": {
-        "de": "samekh_300000"
+        "de": "samekh_100000"
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_f00000",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_101000",
       "prefLabel": {
-        "de": "samekh_f00000"
+        "de": "samekh_101000"
       }
     },
     {
@@ -102,21 +66,57 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_101010",
+      "prefLabel": {
+        "de": "samekh_101010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_101011",
+      "prefLabel": {
+        "de": "samekh_101011"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_101100",
+      "prefLabel": {
+        "de": "samekh_101100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_102000",
+      "prefLabel": {
+        "de": "samekh_102000"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_110010",
       "prefLabel": {
         "de": "samekh_110010"
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_120001",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_111000",
       "prefLabel": {
-        "de": "samekh_120001"
+        "de": "samekh_111000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_111010",
+      "prefLabel": {
+        "de": "samekh_111010"
       }
     },
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_120000",
       "prefLabel": {
         "de": "samekh_120000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_120001",
+      "prefLabel": {
+        "de": "samekh_120001"
       }
     },
     {
@@ -138,9 +138,9 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_030010",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_300000",
       "prefLabel": {
-        "de": "samekh_030010"
+        "de": "samekh_300000"
       }
     },
     {
@@ -150,9 +150,9 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_101011",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_f00000",
       "prefLabel": {
-        "de": "samekh_101011"
+        "de": "samekh_f00000"
       }
     }
   ],

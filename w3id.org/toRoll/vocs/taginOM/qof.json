@@ -12,111 +12,9 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_01000",
-      "prefLabel": {
-        "de": "qof_01000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_10000",
-      "prefLabel": {
-        "de": "qof_10000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_101p0",
-      "prefLabel": {
-        "de": "qof_101p0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_01100",
-      "prefLabel": {
-        "de": "qof_01100"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_10100",
-      "prefLabel": {
-        "de": "qof_10100"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_11000",
-      "prefLabel": {
-        "de": "qof_11000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_b1100",
-      "prefLabel": {
-        "de": "qof_b1100"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_10101",
-      "prefLabel": {
-        "de": "qof_10101"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_01101",
-      "prefLabel": {
-        "de": "qof_01101"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_11100",
-      "prefLabel": {
-        "de": "qof_11100"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_c00000",
-      "prefLabel": {
-        "de": "qof_c00000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_02100",
-      "prefLabel": {
-        "de": "qof_02100"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_02000",
-      "prefLabel": {
-        "de": "qof_02000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_20000",
-      "prefLabel": {
-        "de": "qof_20000"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/qof_00200",
       "prefLabel": {
         "de": "qof_00200"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_03000",
-      "prefLabel": {
-        "de": "qof_03000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_10200",
-      "prefLabel": {
-        "de": "qof_10200"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_11101",
-      "prefLabel": {
-        "de": "qof_11101"
       }
     },
     {
@@ -126,9 +24,75 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_f0001",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_01000",
       "prefLabel": {
-        "de": "qof_f0001"
+        "de": "qof_01000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_01100",
+      "prefLabel": {
+        "de": "qof_01100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_01101",
+      "prefLabel": {
+        "de": "qof_01101"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_02000",
+      "prefLabel": {
+        "de": "qof_02000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_02100",
+      "prefLabel": {
+        "de": "qof_02100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_03000",
+      "prefLabel": {
+        "de": "qof_03000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_10000",
+      "prefLabel": {
+        "de": "qof_10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_10100",
+      "prefLabel": {
+        "de": "qof_10100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_10101",
+      "prefLabel": {
+        "de": "qof_10101"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_101p0",
+      "prefLabel": {
+        "de": "qof_101p0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_10200",
+      "prefLabel": {
+        "de": "qof_10200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_11000",
+      "prefLabel": {
+        "de": "qof_11000"
       }
     },
     {
@@ -138,9 +102,27 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_11100",
+      "prefLabel": {
+        "de": "qof_11100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_11101",
+      "prefLabel": {
+        "de": "qof_11101"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/qof_12001",
       "prefLabel": {
         "de": "qof_12001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_20000",
+      "prefLabel": {
+        "de": "qof_20000"
       }
     },
     {
@@ -153,6 +135,24 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/qof_200p1",
       "prefLabel": {
         "de": "qof_200p1"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_b1100",
+      "prefLabel": {
+        "de": "qof_b1100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_c00000",
+      "prefLabel": {
+        "de": "qof_c00000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_f0001",
+      "prefLabel": {
+        "de": "qof_f0001"
       }
     }
   ],

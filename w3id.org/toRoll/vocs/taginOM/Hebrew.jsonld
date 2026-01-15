@@ -6,15 +6,15 @@
   },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/pe",
-      "prefLabel": {
-        "de": "pe"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/alef",
       "prefLabel": {
         "de": "alef"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin",
+      "prefLabel": {
+        "de": "ayin"
       }
     },
     {
@@ -24,15 +24,15 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/gimel",
-      "prefLabel": {
-        "de": "gimel"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/dalet",
       "prefLabel": {
         "de": "dalet"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/gimel",
+      "prefLabel": {
+        "de": "gimel"
       }
     },
     {
@@ -42,33 +42,9 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/vav",
-      "prefLabel": {
-        "de": "vav"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/zayin",
-      "prefLabel": {
-        "de": "zayin"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/het",
       "prefLabel": {
         "de": "het"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth",
-      "prefLabel": {
-        "de": "teth"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/yod",
-      "prefLabel": {
-        "de": "yod"
       }
     },
     {
@@ -114,33 +90,15 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/pe",
       "prefLabel": {
-        "de": "samekh"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin",
-      "prefLabel": {
-        "de": "ayin"
+        "de": "pe"
       }
     },
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/pesofit",
       "prefLabel": {
         "de": "pesofit"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade",
-      "prefLabel": {
-        "de": "tsade"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsadesofit",
-      "prefLabel": {
-        "de": "tsadesofit"
       }
     },
     {
@@ -156,6 +114,12 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh",
+      "prefLabel": {
+        "de": "samekh"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/shin",
       "prefLabel": {
         "de": "shin"
@@ -165,6 +129,42 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/tav",
       "prefLabel": {
         "de": "tav"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/teth",
+      "prefLabel": {
+        "de": "teth"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade",
+      "prefLabel": {
+        "de": "tsade"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsadesofit",
+      "prefLabel": {
+        "de": "tsadesofit"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/vav",
+      "prefLabel": {
+        "de": "vav"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod",
+      "prefLabel": {
+        "de": "yod"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/zayin",
+      "prefLabel": {
+        "de": "zayin"
       }
     }
   ],

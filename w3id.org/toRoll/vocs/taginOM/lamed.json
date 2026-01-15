@@ -12,9 +12,15 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_2f0",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_00p",
       "prefLabel": {
-        "de": "lamed_2f0"
+        "de": "lamed_00p"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_010",
+      "prefLabel": {
+        "de": "lamed_010"
       }
     },
     {
@@ -24,21 +30,15 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_f00",
-      "prefLabel": {
-        "de": "lamed_f00"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_p00",
-      "prefLabel": {
-        "de": "lamed_p00"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_1f0",
       "prefLabel": {
         "de": "lamed_1f0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_2f0",
+      "prefLabel": {
+        "de": "lamed_2f0"
       }
     },
     {
@@ -54,21 +54,21 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_f00",
+      "prefLabel": {
+        "de": "lamed_f00"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_f20",
       "prefLabel": {
         "de": "lamed_f20"
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_00p",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_p00",
       "prefLabel": {
-        "de": "lamed_00p"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_010",
-      "prefLabel": {
-        "de": "lamed_010"
+        "de": "lamed_p00"
       }
     }
   ],

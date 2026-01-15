@@ -6,84 +6,6 @@
   },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_2f0",
-      "prefLabel": {
-        "de": "lamed_2f0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_11001",
-      "prefLabel": {
-        "de": "mem_11001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_10101",
-      "prefLabel": {
-        "de": "qof_10101"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_01101",
-      "prefLabel": {
-        "de": "qof_01101"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_101010",
-      "prefLabel": {
-        "de": "memsofit_101010"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_101001",
-      "prefLabel": {
-        "de": "memsofit_101001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_011001",
-      "prefLabel": {
-        "de": "memsofit_011001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/he_1011",
-      "prefLabel": {
-        "de": "he_1011"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_11100b",
-      "prefLabel": {
-        "de": "kaf_11100b"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_101011",
-      "prefLabel": {
-        "de": "memsofit_101011"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/he_1111",
-      "prefLabel": {
-        "de": "he_1111"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_0f0",
-      "prefLabel": {
-        "de": "lamed_0f0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_f00",
-      "prefLabel": {
-        "de": "lamed_f00"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_3f00",
       "prefLabel": {
         "de": "ayin_3f00"
@@ -99,6 +21,18 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/beit_00f0000",
       "prefLabel": {
         "de": "beit_00f0000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/he_1011",
+      "prefLabel": {
+        "de": "he_1011"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/he_1111",
+      "prefLabel": {
+        "de": "he_1111"
       }
     },
     {
@@ -120,9 +54,39 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_11100b",
+      "prefLabel": {
+        "de": "kaf_11100b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_e0200f",
+      "prefLabel": {
+        "de": "kafsofit_e0200f"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_0f0",
+      "prefLabel": {
+        "de": "lamed_0f0"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_1f0",
       "prefLabel": {
         "de": "lamed_1f0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_2f0",
+      "prefLabel": {
+        "de": "lamed_2f0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_f00",
+      "prefLabel": {
+        "de": "lamed_f00"
       }
     },
     {
@@ -132,15 +96,51 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_11001",
+      "prefLabel": {
+        "de": "mem_11001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_011001",
+      "prefLabel": {
+        "de": "memsofit_011001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_101001",
+      "prefLabel": {
+        "de": "memsofit_101001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_101010",
+      "prefLabel": {
+        "de": "memsofit_101010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_101011",
+      "prefLabel": {
+        "de": "memsofit_101011"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/nun_30f",
       "prefLabel": {
         "de": "nun_30f"
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_e0200f",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_01101",
       "prefLabel": {
-        "de": "kafsofit_e0200f"
+        "de": "qof_01101"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/qof_10101",
+      "prefLabel": {
+        "de": "qof_10101"
       }
     },
     {
@@ -156,15 +156,15 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tav_f00b00",
-      "prefLabel": {
-        "de": "tav_f00b00"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/tav_f00000",
       "prefLabel": {
         "de": "tav_f00000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tav_f00b00",
+      "prefLabel": {
+        "de": "tav_f00b00"
       }
     }
   ],

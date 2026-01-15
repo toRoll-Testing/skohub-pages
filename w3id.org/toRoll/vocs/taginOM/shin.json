@@ -12,6 +12,12 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/shin_0210",
+      "prefLabel": {
+        "de": "shin_0210"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/shin_0300",
       "prefLabel": {
         "de": "shin_0300"
@@ -30,6 +36,12 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/shin_1200",
+      "prefLabel": {
+        "de": "shin_1200"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/shin_1230",
       "prefLabel": {
         "de": "shin_1230"
@@ -42,6 +54,12 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/shin_2010",
+      "prefLabel": {
+        "de": "shin_2010"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/shin_2100",
       "prefLabel": {
         "de": "shin_2100"
@@ -51,6 +69,12 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/shin_2120",
       "prefLabel": {
         "de": "shin_2120"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/shin_2130",
+      "prefLabel": {
+        "de": "shin_2130"
       }
     },
     {
@@ -108,6 +132,12 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/shin_3130",
+      "prefLabel": {
+        "de": "shin_3130"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/shin_3210",
       "prefLabel": {
         "de": "shin_3210"
@@ -159,36 +189,6 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/shin_e3001",
       "prefLabel": {
         "de": "shin_e3001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/shin_0210",
-      "prefLabel": {
-        "de": "shin_0210"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/shin_1200",
-      "prefLabel": {
-        "de": "shin_1200"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/shin_2010",
-      "prefLabel": {
-        "de": "shin_2010"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/shin_3130",
-      "prefLabel": {
-        "de": "shin_3130"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/shin_2130",
-      "prefLabel": {
-        "de": "shin_2130"
       }
     }
   ],

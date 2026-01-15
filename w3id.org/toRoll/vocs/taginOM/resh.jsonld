@@ -6,75 +6,9 @@
   },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_0100",
-      "prefLabel": {
-        "de": "resh_0100"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_1000",
-      "prefLabel": {
-        "de": "resh_1000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_0110",
-      "prefLabel": {
-        "de": "resh_0110"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_1010",
-      "prefLabel": {
-        "de": "resh_1010"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_1100",
-      "prefLabel": {
-        "de": "resh_1100"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_2000",
-      "prefLabel": {
-        "de": "resh_2000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_1011",
-      "prefLabel": {
-        "de": "resh_1011"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_1110",
-      "prefLabel": {
-        "de": "resh_1110"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_b000",
-      "prefLabel": {
-        "de": "resh_b000"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/resh_0001",
       "prefLabel": {
         "de": "resh_0001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_1001",
-      "prefLabel": {
-        "de": "resh_1001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_0011",
-      "prefLabel": {
-        "de": "resh_0011"
       }
     },
     {
@@ -84,15 +18,81 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_0011",
+      "prefLabel": {
+        "de": "resh_0011"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_0100",
+      "prefLabel": {
+        "de": "resh_0100"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/resh_0101",
       "prefLabel": {
         "de": "resh_0101"
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_0110",
+      "prefLabel": {
+        "de": "resh_0110"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/resh_0200",
       "prefLabel": {
         "de": "resh_0200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_1000",
+      "prefLabel": {
+        "de": "resh_1000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_1001",
+      "prefLabel": {
+        "de": "resh_1001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_1010",
+      "prefLabel": {
+        "de": "resh_1010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_1011",
+      "prefLabel": {
+        "de": "resh_1011"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_1100",
+      "prefLabel": {
+        "de": "resh_1100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_1110",
+      "prefLabel": {
+        "de": "resh_1110"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_2000",
+      "prefLabel": {
+        "de": "resh_2000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/resh_b000",
+      "prefLabel": {
+        "de": "resh_b000"
       }
     },
     {

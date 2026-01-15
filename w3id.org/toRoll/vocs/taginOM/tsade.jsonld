@@ -6,72 +6,6 @@
   },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_e300",
-      "prefLabel": {
-        "de": "tsade_e300"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_111",
-      "prefLabel": {
-        "de": "tsade_111"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_210",
-      "prefLabel": {
-        "de": "tsade_210"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_320",
-      "prefLabel": {
-        "de": "tsade_320"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_32p",
-      "prefLabel": {
-        "de": "tsade_32p"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_230",
-      "prefLabel": {
-        "de": "tsade_230"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_420",
-      "prefLabel": {
-        "de": "tsade_420"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_410",
-      "prefLabel": {
-        "de": "tsade_410"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_301",
-      "prefLabel": {
-        "de": "tsade_301"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_b0b",
-      "prefLabel": {
-        "de": "tsade_b0b"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_e00b",
-      "prefLabel": {
-        "de": "tsade_e00b"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_020",
       "prefLabel": {
         "de": "tsade_020"
@@ -81,6 +15,18 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_100",
       "prefLabel": {
         "de": "tsade_100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_110",
+      "prefLabel": {
+        "de": "tsade_110"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_111",
+      "prefLabel": {
+        "de": "tsade_111"
       }
     },
     {
@@ -96,9 +42,39 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_210",
+      "prefLabel": {
+        "de": "tsade_210"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_230",
+      "prefLabel": {
+        "de": "tsade_230"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_301",
+      "prefLabel": {
+        "de": "tsade_301"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_310",
       "prefLabel": {
         "de": "tsade_310"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_320",
+      "prefLabel": {
+        "de": "tsade_320"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_32p",
+      "prefLabel": {
+        "de": "tsade_32p"
       }
     },
     {
@@ -108,15 +84,39 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_110",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_410",
       "prefLabel": {
-        "de": "tsade_110"
+        "de": "tsade_410"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_420",
+      "prefLabel": {
+        "de": "tsade_420"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_b0b",
+      "prefLabel": {
+        "de": "tsade_b0b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_e00b",
+      "prefLabel": {
+        "de": "tsade_e00b"
       }
     },
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_e00p",
       "prefLabel": {
         "de": "tsade_e00p"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_e300",
+      "prefLabel": {
+        "de": "tsade_e300"
       }
     }
   ],

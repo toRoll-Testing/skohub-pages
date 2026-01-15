@@ -6,12 +6,6 @@
   },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/alef_2202",
-      "prefLabel": {
-        "de": "alef_2202"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/alef_1203",
       "prefLabel": {
         "de": "alef_1203"
@@ -24,21 +18,21 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/alef_2202",
+      "prefLabel": {
+        "de": "alef_2202"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/alef_2302",
       "prefLabel": {
         "de": "alef_2302"
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/pe_1010022",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/alef_3102",
       "prefLabel": {
-        "de": "pe_1010022"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_420",
-      "prefLabel": {
-        "de": "tsade_420"
+        "de": "alef_3102"
       }
     },
     {
@@ -60,27 +54,9 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/alef_3102",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/pe_1010022",
       "prefLabel": {
-        "de": "alef_3102"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_42",
-      "prefLabel": {
-        "de": "teth_42"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_330",
-      "prefLabel": {
-        "de": "tsade_330"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tsadesofit_3300",
-      "prefLabel": {
-        "de": "tsadesofit_3300"
+        "de": "pe_1010022"
       }
     },
     {
@@ -114,9 +90,33 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_42",
+      "prefLabel": {
+        "de": "teth_42"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w33",
       "prefLabel": {
         "de": "teth_w33"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_330",
+      "prefLabel": {
+        "de": "tsade_330"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_420",
+      "prefLabel": {
+        "de": "tsade_420"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsadesofit_3300",
+      "prefLabel": {
+        "de": "tsadesofit_3300"
       }
     }
   ],

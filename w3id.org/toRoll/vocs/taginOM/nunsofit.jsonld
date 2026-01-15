@@ -6,15 +6,57 @@
   },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_10p",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_00p",
       "prefLabel": {
-        "de": "nunsofit_10p"
+        "de": "nunsofit_00p"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_0b0",
+      "prefLabel": {
+        "de": "nunsofit_0b0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_0p0",
+      "prefLabel": {
+        "de": "nunsofit_0p0"
       }
     },
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_100",
       "prefLabel": {
         "de": "nunsofit_100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_10p",
+      "prefLabel": {
+        "de": "nunsofit_10p"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_110",
+      "prefLabel": {
+        "de": "nunsofit_110"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_1p0",
+      "prefLabel": {
+        "de": "nunsofit_1p0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_200",
+      "prefLabel": {
+        "de": "nunsofit_200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_300",
+      "prefLabel": {
+        "de": "nunsofit_300"
       }
     },
     {
@@ -27,36 +69,6 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_3bp",
       "prefLabel": {
         "de": "nunsofit_3bp"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_0b0",
-      "prefLabel": {
-        "de": "nunsofit_0b0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_00p",
-      "prefLabel": {
-        "de": "nunsofit_00p"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_0p0",
-      "prefLabel": {
-        "de": "nunsofit_0p0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_110",
-      "prefLabel": {
-        "de": "nunsofit_110"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_200",
-      "prefLabel": {
-        "de": "nunsofit_200"
       }
     },
     {
@@ -81,18 +93,6 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_we300",
       "prefLabel": {
         "de": "nunsofit_we300"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_1p0",
-      "prefLabel": {
-        "de": "nunsofit_1p0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_300",
-      "prefLabel": {
-        "de": "nunsofit_300"
       }
     }
   ],

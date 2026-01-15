@@ -6,15 +6,15 @@
   },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_0p0",
-      "prefLabel": {
-        "de": "yod_0p0"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/yod_001",
       "prefLabel": {
         "de": "yod_001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_0p0",
+      "prefLabel": {
+        "de": "yod_0p0"
       }
     },
     {
@@ -27,6 +27,12 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/yod_101",
       "prefLabel": {
         "de": "yod_101"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_10p",
+      "prefLabel": {
+        "de": "yod_10p"
       }
     },
     {
@@ -48,21 +54,15 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_s000",
-      "prefLabel": {
-        "de": "yod_s000"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/yod_e000",
       "prefLabel": {
         "de": "yod_e000"
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_10p",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_s000",
       "prefLabel": {
-        "de": "yod_10p"
+        "de": "yod_s000"
       }
     }
   ],

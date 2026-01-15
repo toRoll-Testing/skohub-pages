@@ -6,15 +6,15 @@
   },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/nun_i300",
-      "prefLabel": {
-        "de": "nun_i300"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/nun_i000",
       "prefLabel": {
         "de": "nun_i000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/nun_i300",
+      "prefLabel": {
+        "de": "nun_i300"
       }
     }
   ],

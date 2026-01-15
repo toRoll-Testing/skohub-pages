@@ -6,9 +6,21 @@
   },
   "narrower": [
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_0b0",
+      "prefLabel": {
+        "de": "zayin_0b0"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_100",
       "prefLabel": {
         "de": "zayin_100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_1b0",
+      "prefLabel": {
+        "de": "zayin_1b0"
       }
     },
     {
@@ -18,9 +30,21 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_1p0",
+      "prefLabel": {
+        "de": "zayin_1p0"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_200",
       "prefLabel": {
         "de": "zayin_200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_2b0",
+      "prefLabel": {
+        "de": "zayin_2b0"
       }
     },
     {
@@ -33,36 +57,6 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_3bb",
       "prefLabel": {
         "de": "zayin_3bb"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_0b0",
-      "prefLabel": {
-        "de": "zayin_0b0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_p00",
-      "prefLabel": {
-        "de": "zayin_p00"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_1p0",
-      "prefLabel": {
-        "de": "zayin_1p0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_1b0",
-      "prefLabel": {
-        "de": "zayin_1b0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_2b0",
-      "prefLabel": {
-        "de": "zayin_2b0"
       }
     },
     {
@@ -81,6 +75,12 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_b00",
       "prefLabel": {
         "de": "zayin_b00"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/zayin_p00",
+      "prefLabel": {
+        "de": "zayin_p00"
       }
     },
     {

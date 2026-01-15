@@ -6,24 +6,6 @@
   },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tav_100001",
-      "prefLabel": {
-        "de": "tav_100001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tav_e000001",
-      "prefLabel": {
-        "de": "tav_e000001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tav_f00b00",
-      "prefLabel": {
-        "de": "tav_f00b00"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/tav_000010",
       "prefLabel": {
         "de": "tav_000010"
@@ -54,9 +36,27 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tav_02000",
+      "prefLabel": {
+        "de": "tav_02000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tav_020000",
+      "prefLabel": {
+        "de": "tav_020000"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/tav_100000",
       "prefLabel": {
         "de": "tav_100000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tav_100001",
+      "prefLabel": {
+        "de": "tav_100001"
       }
     },
     {
@@ -84,21 +84,21 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tav_e000001",
+      "prefLabel": {
+        "de": "tav_e000001"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/tav_f00000",
       "prefLabel": {
         "de": "tav_f00000"
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tav_02000",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tav_f00b00",
       "prefLabel": {
-        "de": "tav_02000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/tav_020000",
-      "prefLabel": {
-        "de": "tav_020000"
+        "de": "tav_f00b00"
       }
     }
   ],

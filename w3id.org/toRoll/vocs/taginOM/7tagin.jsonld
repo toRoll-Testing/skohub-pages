@@ -6,12 +6,6 @@
   },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/alef_4300",
-      "prefLabel": {
-        "de": "alef_4300"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/alef_2212",
       "prefLabel": {
         "de": "alef_2212"
@@ -24,15 +18,21 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_121111",
-      "prefLabel": {
-        "de": "memsofit_121111"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/alef_3220",
       "prefLabel": {
         "de": "alef_3220"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/alef_4300",
+      "prefLabel": {
+        "de": "alef_4300"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_121111",
+      "prefLabel": {
+        "de": "memsofit_121111"
       }
     },
     {
@@ -48,6 +48,12 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/shin_3130",
+      "prefLabel": {
+        "de": "shin_3130"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/shin_3220",
       "prefLabel": {
         "de": "shin_3220"
@@ -57,12 +63,6 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/shin_3230",
       "prefLabel": {
         "de": "shin_3230"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/shin_3130",
-      "prefLabel": {
-        "de": "shin_3130"
       }
     }
   ],

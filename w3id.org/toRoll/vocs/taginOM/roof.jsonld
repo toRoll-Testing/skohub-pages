@@ -6,15 +6,9 @@
   },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/het_er000pp",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_er00000",
       "prefLabel": {
-        "de": "het_er000pp"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/het_er000bb",
-      "prefLabel": {
-        "de": "het_er000bb"
+        "de": "het_er00000"
       }
     },
     {
@@ -24,15 +18,15 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/het_r00000",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_er000bb",
       "prefLabel": {
-        "de": "het_r00000"
+        "de": "het_er000bb"
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/het_er00000",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_er000pp",
       "prefLabel": {
-        "de": "het_er00000"
+        "de": "het_er000pp"
       }
     },
     {
@@ -42,15 +36,21 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_er10100",
+      "prefLabel": {
+        "de": "het_er10100"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/het_er20000",
       "prefLabel": {
         "de": "het_er20000"
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/het_er10100",
+      "id": "https://w3id.org/toRoll/vocs/taginOM/het_r00000",
       "prefLabel": {
-        "de": "het_er10100"
+        "de": "het_r00000"
       }
     },
     {
