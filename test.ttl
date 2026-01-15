@@ -1,18 +1,24 @@
-@prefix ct: <https://w3id.org/MoRe-SFB1475/CT/concepts/> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix ns0: <https://w3id.org/MoRe-SFB1475/CT/> .
+@prefix tom: <https://w3id.org/toRoll/vocs/taginOM/> .
+@prefix skos: <tom:http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
 
-ct:571296194
-  skos:prefLabel "Above"@en ;
-  skos:definition "Use this domain for words that express the idea that something is above another thing. The concept 'above' is inherently relational, expressing the relative positions of two things."@en ;
-  skos:broader ct:491051945 ;
-  a skos:Concept .
+tom: a skos:ConceptScheme ;
+        dct:title "Tagin & OM"@en, "Tagin & OM"@de .
 
-ns0:concepts
-  skos:prefLabel "Semantic Domains"@en ;
-  a skos:ConceptScheme .
 
-ct:491051945
-  skos:prefLabel "On"@en ;
-  a skos:Concept ;
-  skos:narrower ct:571296194 .
+tom:tagin a  skos:Concept ;
+        skos:narrower tom:1tag ;
+        skos:prefLabel "tagin" .
+
+tom:1tag a skos:Concept ;
+        skos:broader tom:tagin ;
+        skos:narrower tom:alef_1000 ;
+        skos:prefLabel "1 tag" .
+
+tom:alef_1000  a skos:Concept ;
+        skos:broader tom:1tag ;
+        skos:prefLabel "alef_1000" .
+
+tom:alef_0001  a skos:Concept ;
+        skos:broader tom:1tag ;
+        skos:prefLabel "alef_0001" .
