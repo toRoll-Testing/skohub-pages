@@ -2,11 +2,13 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/alef_1000",
   "type": "Concept",
   "prefLabel": {
+    "en": "alef_1000",
     "de": "alef_1000"
   },
   "broader": {
     "id": "https://w3id.org/toRoll/vocs/taginOM/1tag",
     "prefLabel": {
+      "en": "1 tag",
       "de": "1 tag"
     }
   },
@@ -14,6 +16,7 @@
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
       "title": {
+        "en": "Tagin",
         "de": "Tagin"
       }
     }
@@ -27,6 +30,7 @@
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
       "title": {
+        "en": "Tagin",
         "de": "Tagin"
       }
     }
