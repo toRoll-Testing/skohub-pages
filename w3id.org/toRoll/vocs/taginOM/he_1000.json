@@ -1,18 +1,20 @@
 {
-  "id": "https://w3id.org/toRoll/vocs/taginOM/he",
+  "id": "https://w3id.org/toRoll/vocs/taginOM/he_1000",
   "type": "Concept",
   "prefLabel": {
-    "de": "he"
+    "en": "he_1000",
+    "de": "he_1000"
   },
-  "narrower": [
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/he_1000",
-      "prefLabel": {
-        "en": "he_1000",
-        "de": "he_1000"
-      }
+  "definition": {
+    "en": "Variant of with one tag at the first position.",
+    "de": "Variante des He mit einem Tag auf der ersten Position."
+  },
+  "broader": {
+    "id": "https://w3id.org/toRoll/vocs/taginOM/he",
+    "prefLabel": {
+      "de": "he"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
@@ -25,15 +27,6 @@
   "inSchemeAll": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/",
-      "title": {
-        "en": "TOM Letters",
-        "de": "TOM Buchstaben"
-      }
     }
   ],
   "@context": {
