@@ -1,0 +1,4587 @@
+@prefix tom: <https://w3id.org/toRoll/vocs/taginOM/>.
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+tom: a skos:ConceptScheme ;
+        dct:title "Tagin & Otiyyot Meshunnot"@en,  "Tagin & Otijjot Meshunnot"@de ;
+        skos:hasTopConcept 
+tom:alef ,
+tom:ayin ,
+tom:beit ,
+tom:dalet ,
+tom:gimel ,
+tom:he ,
+tom:het ,
+tom:kaf ,
+tom:kafsofit ,
+tom:lamed ,
+tom:mem ,
+tom:memsofit ,
+tom:nun ,
+tom:nunsofit ,
+tom:pe ,
+tom:pesofit ,
+tom:qof ,
+tom:resh ,
+tom:samekh ,
+tom:shin ,
+tom:tav ,
+tom:teth ,
+tom:tsade ,
+tom:tsadesofit ,
+tom:vav ,
+tom:yod ,
+tom:zayin .
+
+tom:pe_w0100000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:wrapped , tom:pe ;
+        skos:prefLabel
+                "pe_w0100000"@de .
+
+tom:nunsofit_10p
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:pretzel , tom:nunsofit ;
+        skos:prefLabel
+                "nunsofit_10p"@de .
+
+tom:pe_w1000000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:wrapped , tom:pe ;
+        skos:prefLabel
+                "pe_w1000000"@de .
+
+tom:he_1000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:he ;
+        skos:prefLabel
+                "he_1000"@de .
+
+tom:zayin_100
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:zayin ;
+        skos:prefLabel
+                "zayin_100"@de .
+
+tom:het_01000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:het ;
+        skos:prefLabel
+                "het_01000"@de .
+
+tom:het_e100bb
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:elongated , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_e100bb"@de .
+
+tom:het_e010pp
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:elongated , tom:pretzel , tom:het ;
+        skos:prefLabel
+                "het_e010pp"@de .
+
+tom:nunsofit_100
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:nunsofit ;
+        skos:prefLabel
+                "nunsofit_100"@de .
+
+tom:teth_w10
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:wrapped , tom:teth ;
+        skos:prefLabel
+                "teth_w10"@de .
+
+tom:vav_e100
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:elongated , tom:vav ;
+        skos:prefLabel
+                "vav_e100"@de .
+
+tom:het_e010bb
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:elongated , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_e010bb"@de .
+
+tom:ayin_01b0
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:bow , tom:ayin ;
+        skos:prefLabel
+                "ayin_01b0"@de .
+
+tom:ayin_01p0
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_01p0"@de .
+
+tom:dalet_1000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:dalet ;
+        skos:prefLabel
+                "dalet_1000"@de .
+
+tom:het_e0100b
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:elongated , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_e0100b"@de .
+
+tom:pe_0100000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:pe ;
+        skos:prefLabel
+                "pe_0100000"@de .
+
+tom:pe_1000000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:pe ;
+        skos:prefLabel
+                "pe_1000000"@de .
+
+tom:pe_w10000p0
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:pretzel , tom:wrapped , tom:pe ;
+        skos:prefLabel
+                "pe_w10000p0"@de .
+
+tom:pesofit_10000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_10000"@de .
+
+tom:beit_1000000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:beit ;
+        skos:prefLabel
+                "beit_1000000"@de .
+
+tom:alef_1000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:alef ;
+        skos:prefLabel
+                "alef_1000"@de .
+
+tom:ayin_1000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:ayin ;
+        skos:prefLabel
+                "ayin_1000"@de .
+
+tom:ayin_10b0
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:bow , tom:ayin ;
+        skos:prefLabel
+                "ayin_10b0"@de .
+
+tom:beit_0001000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:beit ;
+        skos:prefLabel
+                "beit_0001000"@de .
+
+tom:beit_0100000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:beit ;
+        skos:prefLabel
+                "beit_0100000"@de .
+
+tom:het_e10000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:elongated , tom:het ;
+        skos:prefLabel
+                "het_e10000"@de .
+
+tom:het_1000b
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_1000b"@de .
+
+tom:pesofit_w10000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:wrapped , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_w10000"@de .
+
+tom:samekh_000010
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:samekh ;
+        skos:prefLabel
+                "samekh_000010"@de .
+
+tom:teth_10
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:teth ;
+        skos:prefLabel
+                "teth_10"@de .
+
+tom:vav_100
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:vav ;
+        skos:prefLabel
+                "vav_100"@de .
+
+tom:zayin_1bb
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:bow , tom:zayin ;
+        skos:prefLabel
+                "zayin_1bb"@de .
+
+tom:resh_0100
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:resh ;
+        skos:prefLabel
+                "resh_0100"@de .
+
+tom:resh_1000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:resh ;
+        skos:prefLabel
+                "resh_1000"@de .
+
+tom:qof_00100
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:qof ;
+        skos:prefLabel
+                "qof_00100"@de .
+
+tom:qof_01000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:qof ;
+        skos:prefLabel
+                "qof_01000"@de .
+
+tom:qof_10000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:qof ;
+        skos:prefLabel
+                "qof_10000"@de .
+
+tom:pe_1010000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1010000"@de .
+
+tom:memsofit_100001
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_100001"@de .
+
+tom:alef_1100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:alef ;
+        skos:prefLabel
+                "alef_1100"@de .
+
+tom:gimel_20
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:gimel ;
+        skos:prefLabel
+                "gimel_20"@de .
+
+tom:dalet_1010
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:dalet ;
+        skos:prefLabel
+                "dalet_1010"@de .
+
+tom:he_1010
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:he ;
+        skos:prefLabel
+                "he_1010"@de .
+
+tom:het_10100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:het ;
+        skos:prefLabel
+                "het_10100"@de .
+
+tom:het_e1010b
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:elongated , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_e1010b"@de .
+
+tom:teth_11
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:teth ;
+        skos:prefLabel
+                "teth_11"@de .
+
+tom:kaf_101000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:kaf ;
+        skos:prefLabel
+                "kaf_101000"@de .
+
+tom:kaf_101b00
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:bow , tom:kaf ;
+        skos:prefLabel
+                "kaf_101b00"@de .
+
+tom:mem_01100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:mem ;
+        skos:prefLabel
+                "mem_01100"@de .
+
+tom:memsofit_101000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_101000"@de .
+
+tom:samekh_101000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_101000"@de .
+
+tom:pesofit_10100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_10100"@de .
+
+tom:pe_w1100000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:wrapped , tom:pe ;
+        skos:prefLabel
+                "pe_w1100000"@de .
+
+tom:he_1100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:he ;
+        skos:prefLabel
+                "he_1100"@de .
+
+tom:ayin_02p0
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_02p0"@de .
+
+tom:mem_10100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:mem ;
+        skos:prefLabel
+                "mem_10100"@de .
+
+tom:ayin_0200
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:ayin ;
+        skos:prefLabel
+                "ayin_0200"@de .
+
+tom:ayin_11b0
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:bow , tom:ayin ;
+        skos:prefLabel
+                "ayin_11b0"@de .
+
+tom:het_02000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:het ;
+        skos:prefLabel
+                "het_02000"@de .
+
+tom:lamed_002
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:lamed ;
+        skos:prefLabel
+                "lamed_002"@de .
+
+tom:teth_20
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:teth ;
+        skos:prefLabel
+                "teth_20"@de .
+
+tom:lamed_2f0
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:flag , tom:lamed ;
+        skos:prefLabel
+                "lamed_2f0"@de .
+
+tom:beit_1010000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:beit ;
+        skos:prefLabel
+                "beit_1010000"@de .
+
+tom:beit_1100000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:beit ;
+        skos:prefLabel
+                "beit_1100000"@de .
+
+tom:ayin_w02b0
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:bow , tom:ayin ;
+        skos:prefLabel
+                "ayin_w02b0"@de .
+
+tom:ayin_1100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:ayin ;
+        skos:prefLabel
+                "ayin_1100"@de .
+
+tom:ayin_2000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:ayin ;
+        skos:prefLabel
+                "ayin_2000"@de .
+
+tom:het_11000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:het ;
+        skos:prefLabel
+                "het_11000"@de .
+
+tom:het_e011bb
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:elongated , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_e011bb"@de .
+
+tom:he_0010
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:he ;
+        skos:prefLabel
+                "he_0010"@de .
+
+tom:het_e02000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:elongated , tom:het ;
+        skos:prefLabel
+                "het_e02000"@de .
+
+tom:pe_1000001
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1000001"@de .
+
+tom:pesofit_w10100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:wrapped , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_w10100"@de .
+
+tom:vav_200
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:vav ;
+        skos:prefLabel
+                "vav_200"@de .
+
+tom:zayin_200
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:zayin ;
+        skos:prefLabel
+                "zayin_200"@de .
+
+tom:qof_101p0
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pretzel , tom:qof ;
+        skos:prefLabel
+                "qof_101p0"@de .
+
+tom:pesofit_w11000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:wrapped , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_w11000"@de .
+
+tom:resh_0110
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:resh ;
+        skos:prefLabel
+                "resh_0110"@de .
+
+tom:resh_1010
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:resh ;
+        skos:prefLabel
+                "resh_1010"@de .
+
+tom:resh_1100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:resh ;
+        skos:prefLabel
+                "resh_1100"@de .
+
+tom:resh_2000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:resh ;
+        skos:prefLabel
+                "resh_2000"@de .
+
+tom:qof_01100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:qof ;
+        skos:prefLabel
+                "qof_01100"@de .
+
+tom:qof_10100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:qof ;
+        skos:prefLabel
+                "qof_10100"@de .
+
+tom:qof_11000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:qof ;
+        skos:prefLabel
+                "qof_11000"@de .
+
+tom:qof_b1100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:bow , tom:qof ;
+        skos:prefLabel
+                "qof_b1100"@de .
+
+tom:het_01100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:het ;
+        skos:prefLabel
+                "het_01100"@de .
+
+tom:teth_w11
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:wrapped , tom:teth ;
+        skos:prefLabel
+                "teth_w11"@de .
+
+tom:mem_11001
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:flag , tom:mem ;
+        skos:prefLabel
+                "mem_11001"@de .
+
+tom:qof_10101
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:flag , tom:qof ;
+        skos:prefLabel
+                "qof_10101"@de .
+
+tom:qof_01101
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:flag , tom:qof ;
+        skos:prefLabel
+                "qof_01101"@de .
+
+tom:memsofit_101010
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:flag , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_101010"@de .
+
+tom:memsofit_101001
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:flag , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_101001"@de .
+
+tom:memsofit_011001
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:flag , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_011001"@de .
+
+tom:he_1011
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:flag , tom:he ;
+        skos:prefLabel
+                "he_1011"@de .
+
+tom:beit_1010001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:beit ;
+        skos:prefLabel
+                "beit_1010001"@de .
+
+tom:dalet_1110
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:dalet ;
+        skos:prefLabel
+                "dalet_1110"@de .
+
+tom:he_1110
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:he ;
+        skos:prefLabel
+                "he_1110"@de .
+
+tom:zayin_3b0
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:bow , tom:zayin ;
+        skos:prefLabel
+                "zayin_3b0"@de .
+
+tom:het_11100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:het ;
+        skos:prefLabel
+                "het_11100"@de .
+
+tom:kaf_101010
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:kaf ;
+        skos:prefLabel
+                "kaf_101010"@de .
+
+tom:kaf_11100b
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:flag , tom:kaf ;
+        skos:prefLabel
+                "kaf_11100b"@de .
+
+tom:memsofit_111000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_111000"@de .
+
+tom:nunsofit_3b0
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:bow , tom:nunsofit ;
+        skos:prefLabel
+                "nunsofit_3b0"@de .
+
+tom:nunsofit_3bp
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pretzel , tom:bow , tom:nunsofit ;
+        skos:prefLabel
+                "nunsofit_3bp"@de .
+
+tom:samekh_111000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_111000"@de .
+
+tom:samekh_101100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_101100"@de .
+
+tom:ayin_3p00
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_3p00"@de .
+
+tom:ayin_30p0
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_30p0"@de .
+
+tom:ayin_e3000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:elongated , tom:ayin ;
+        skos:prefLabel
+                "ayin_e3000"@de .
+
+tom:pesofit_10002
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_10002"@de .
+
+tom:pe_1110000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1110000"@de .
+
+tom:mem_11100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:mem ;
+        skos:prefLabel
+                "mem_11100"@de .
+
+tom:mem_01200
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:mem ;
+        skos:prefLabel
+                "mem_01200"@de .
+
+tom:samekh_101010
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_101010"@de .
+
+tom:pe_1010010
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1010010"@de .
+
+tom:pe_1011000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1011000"@de .
+
+tom:ayin_3pp0
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_3pp0"@de .
+
+tom:kaf_111000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:kaf ;
+        skos:prefLabel
+                "kaf_111000"@de .
+
+tom:memsofit_210000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_210000"@de .
+
+tom:pe_w1110000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:wrapped , tom:pe ;
+        skos:prefLabel
+                "pe_w1110000"@de .
+
+tom:pesofit_11100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_11100"@de .
+
+tom:tsade_e300
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:elongated , tom:tsade ;
+        skos:prefLabel
+                "tsade_e300"@de .
+
+tom:beit_1110000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:beit ;
+        skos:prefLabel
+                "beit_1110000"@de .
+
+tom:het_10200
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:het ;
+        skos:prefLabel
+                "het_10200"@de .
+
+tom:het_21000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:het ;
+        skos:prefLabel
+                "het_21000"@de .
+
+tom:memsofit_101100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_101100"@de .
+
+tom:pesofit_10101
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_10101"@de .
+
+tom:resh_1011
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:resh ;
+        skos:prefLabel
+                "resh_1011"@de .
+
+tom:teth_12
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:teth ;
+        skos:prefLabel
+                "teth_12"@de .
+
+tom:teth_w21
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:wrapped , tom:teth ;
+        skos:prefLabel
+                "teth_w21"@de .
+
+tom:tsade_111
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:tsade ;
+        skos:prefLabel
+                "tsade_111"@de .
+
+tom:tsade_210
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:tsade ;
+        skos:prefLabel
+                "tsade_210"@de .
+
+tom:zayin_3bb
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:bow , tom:zayin ;
+        skos:prefLabel
+                "zayin_3bb"@de .
+
+tom:pesofit_w11100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:wrapped , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_w11100"@de .
+
+tom:resh_1110
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:resh ;
+        skos:prefLabel
+                "resh_1110"@de .
+
+tom:qof_11100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:qof ;
+        skos:prefLabel
+                "qof_11100"@de .
+
+tom:pe_1011010
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1011010"@de .
+
+tom:memsofit_101011
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:flag , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_101011"@de .
+
+tom:he_1111
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:flag , tom:he ;
+        skos:prefLabel
+                "he_1111"@de .
+
+tom:dalet_1111
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:dalet ;
+        skos:prefLabel
+                "dalet_1111"@de .
+
+tom:dalet_1021
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:dalet ;
+        skos:prefLabel
+                "dalet_1021"@de .
+
+tom:pe_1010011
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1010011"@de .
+
+tom:gimel_40
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:gimel ;
+        skos:prefLabel
+                "gimel_40"@de .
+
+tom:he_1210
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:he ;
+        skos:prefLabel
+                "he_1210"@de .
+
+tom:teth_31
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:teth ;
+        skos:prefLabel
+                "teth_31"@de .
+
+tom:memsofit_101110
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_101110"@de .
+
+tom:ayin_p220
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:5tagin , tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_p220"@de .
+
+tom:pesofit_01102
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_01102"@de .
+
+tom:alef_2200
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:alef ;
+        skos:prefLabel
+                "alef_2200"@de .
+
+tom:beit_1011010
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:beit ;
+        skos:prefLabel
+                "beit_1011010"@de .
+
+tom:he_2020
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:he ;
+        skos:prefLabel
+                "he_2020"@de .
+
+tom:memsofit_112000
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_112000"@de .
+
+tom:pe_w1011010
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:wrapped , tom:pe ;
+        skos:prefLabel
+                "pe_w1011010"@de .
+
+tom:pesofit_10102
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_10102"@de .
+
+tom:teth_w31
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:wrapped , tom:teth ;
+        skos:prefLabel
+                "teth_w31"@de .
+
+tom:beit_1210000
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:beit ;
+        skos:prefLabel
+                "beit_1210000"@de .
+
+tom:alef_1300
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:alef ;
+        skos:prefLabel
+                "alef_1300"@de .
+
+tom:dalet_1210
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:dalet ;
+        skos:prefLabel
+                "dalet_1210"@de .
+
+tom:samekh_111010
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_111010"@de .
+
+tom:teth_22
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:teth ;
+        skos:prefLabel
+                "teth_22"@de .
+
+tom:tsadesofit_1120
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:tsadesofit ;
+        skos:prefLabel
+                "tsadesofit_1120"@de .
+
+tom:pe_1010002
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1010002"@de .
+
+tom:pe_1011011
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1011011"@de .
+
+tom:alef_3200
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:alef ;
+        skos:prefLabel
+                "alef_3200"@de .
+
+tom:teth_32
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:teth ;
+        skos:prefLabel
+                "teth_32"@de .
+
+tom:ayin_3200
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:ayin ;
+        skos:prefLabel
+                "ayin_3200"@de .
+
+tom:tsade_320
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:tsade ;
+        skos:prefLabel
+                "tsade_320"@de .
+
+tom:tsade_32p
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:pretzel , tom:tsade ;
+        skos:prefLabel
+                "tsade_32p"@de .
+
+tom:tsade_230
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:tsade ;
+        skos:prefLabel
+                "tsade_230"@de .
+
+tom:alef_2102
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:alef ;
+        skos:prefLabel
+                "alef_2102"@de .
+
+tom:alef_1301
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:alef ;
+        skos:prefLabel
+                "alef_1301"@de .
+
+tom:alef_2300
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:alef ;
+        skos:prefLabel
+                "alef_2300"@de .
+
+tom:pe_1010021
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1010021"@de .
+
+tom:tsadesofit_3200
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:tsadesofit ;
+        skos:prefLabel
+                "tsadesofit_3200"@de .
+
+tom:alef_2202
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:alef ;
+        skos:prefLabel
+                "alef_2202"@de .
+
+tom:alef_1203
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:alef ;
+        skos:prefLabel
+                "alef_1203"@de .
+
+tom:alef_2112
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:alef ;
+        skos:prefLabel
+                "alef_2112"@de .
+
+tom:alef_2302
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:alef ;
+        skos:prefLabel
+                "alef_2302"@de .
+
+tom:pe_1010022
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1010022"@de .
+
+tom:tsade_420
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:tsade ;
+        skos:prefLabel
+                "tsade_420"@de .
+
+tom:alef_4300
+        a       skos:Concept ;
+        skos:broader
+                tom:7tagin , tom:alef ;
+        skos:prefLabel
+                "alef_4300"@de .
+
+tom:alef_2212
+        a       skos:Concept ;
+        skos:broader
+                tom:7tagin , tom:alef ;
+        skos:prefLabel
+                "alef_2212"@de .
+
+tom:alef_3202
+        a       skos:Concept ;
+        skos:broader
+                tom:7tagin , tom:alef ;
+        skos:prefLabel
+                "alef_3202"@de .
+
+tom:alef_3222
+        a       skos:Concept ;
+        skos:broader
+                tom:9tagin , tom:alef ;
+        skos:prefLabel
+                "alef_3222"@de .
+
+tom:otijjotmeshunnot
+        a       skos:Concept ;
+        skos:narrower
+                tom:elongated , tom:flag , tom:pretzel , tom:wrapped , tom:roof , tom:bow , tom:inversed , tom:crooked , tom:struckthrough , tom:zigzag ;
+        skos:prefLabel
+                "otijjot meshunnot"@de .
+
+tom:elongated
+        a       skos:Concept ;
+        skos:broader
+                tom:otijjotmeshunnot ;
+        skos:narrower
+                tom:het_e100bb , tom:het_e010pp , tom:vav_e100 , tom:het_e010bb , tom:het_e0100b , tom:het_e10000 , tom:het_e1010b , tom:het_e011bb , tom:het_e02000 , tom:ayin_e3000 , tom:tsade_e300 , tom:vav_e0bp , tom:vav_e0p0 , tom:het_er000pp , tom:het_er000bb , tom:ayin_e0000 , tom:ayin_e00b0 , tom:ayin_ep000 , tom:het_eb000b , tom:het_er0000p , tom:vav_e0b0 , tom:vav_e0bb , tom:het_er00000 , tom:het_er10000 , tom:het_er20000 , tom:het_er10100 , tom:vav_e1pp , tom:vav_e1pb , tom:tsade_e00b , tom:ayin_we0000 , tom:alef_e0000 , tom:ayin_e0300 , tom:ayin_e0b00 , tom:ayin_e1000 , tom:ayin_e30b0 , tom:ayin_e3bb0 , tom:ayin_e3fb0 , tom:ayin_e3p00 , tom:mem_e00000 , tom:ayin_e10p0 , tom:he_e0000 , tom:kafsofit_e0200f , tom:nun_e300 , tom:nunsofit_we300 , tom:resh_e0000 , tom:tav_e000001 , tom:teth_e30 , tom:tsadesofit_e3000 , tom:yod_e000 , tom:shin_e3000 , tom:shin_e3001 , tom:tav_e000000 , tom:het_e10100 , tom:het_e11000 , tom:tsade_e00p ;
+        skos:prefLabel
+                "elongated"@de .
+
+tom:flag
+        a       skos:Concept ;
+        skos:broader
+                tom:otijjotmeshunnot ;
+        skos:narrower
+                tom:lamed_2f0 , tom:lamed_0f0 , tom:lamed_f00 , tom:ayin_3f00 , tom:ayin_e3fb0 , tom:beit_00f0000 , tom:he_f000 , tom:he_f001 , tom:het_0f000 , tom:lamed_1f0 , tom:lamed_f20 , tom:nun_30f , tom:kafsofit_e0200f , tom:qof_f0001 , tom:samekh_f00000 , tom:tav_f00b00 , tom:tav_f00000 ;
+        skos:prefLabel
+                "flag"@de .
+
+tom:pretzel
+        a       skos:Concept ;
+        skos:broader
+                tom:otijjotmeshunnot ;
+        skos:narrower
+                tom:nunsofit_10p , tom:het_e010pp , tom:ayin_01p0 , tom:pe_w10000p0 , tom:ayin_02p0 , tom:qof_101p0 , tom:nunsofit_3bp , tom:ayin_3p00 , tom:ayin_30p0 , tom:ayin_3pp0 , tom:ayin_p220 , tom:tsade_32p , tom:vav_e0bp , tom:vav_e0p0 , tom:het_er000pp , tom:ayin_we00000 , tom:ayin_ep000 , tom:het_er0000p , tom:vav_00p , tom:vav_0pp , tom:zayin_p00 , tom:ayin_0p00 , tom:ayin_p0p0 , tom:nunsofit_00p , tom:ayin_00p0 , tom:nunsofit_0p0 , tom:lamed_p00 , tom:vav_e1pp , tom:vav_e1pb , tom:kafsofit_0000p , tom:kafsofit_1110p , tom:nun_00p , tom:ayin_e3p00 , tom:het_r101pp , tom:nun_3p0 , tom:nun_3pp , tom:nunsofit_4p0 , tom:zayin_1p0 , tom:ayin_pp00 , tom:ayin_ppp0 , tom:ayin_11p0 , tom:ayin_e10p0 , tom:kafsofit_020p0 , tom:kafsofit_0200p , tom:lamed_00p , tom:nun_p0p , tom:qof_00p00 , tom:vav_10p , tom:vav_1pp , tom:yod_0p0 , tom:yod_1p0 , tom:yod_10p , tom:tav_000p00 , tom:nun_10p , tom:nunsofit_1p0 , tom:ayin_p000 , tom:ayin_0pp0 , tom:kafsofit_010p0 , tom:nun_30p , tom:qof_200p1 , tom:tsade_e00p ;
+        skos:prefLabel
+                "pretzel"@de .
+
+tom:wrapped
+        a       skos:Concept ;
+        skos:broader
+                tom:otijjotmeshunnot ;
+        skos:narrower
+                tom:pe_w0100000 , tom:pe_w1000000 , tom:teth_w10 , tom:pe_w10000p0 , tom:pesofit_w10000 , tom:pe_w1100000 , tom:pesofit_w10100 , tom:pesofit_w11000 , tom:teth_w11 , tom:pe_w1110000 , tom:teth_w21 , tom:pesofit_w11100 , tom:pe_w1011010 , tom:teth_w31 , tom:pe_w0000000 , tom:pe_w1010000 , tom:teth_w00 , tom:ayin_w0000 , tom:pesofit_w00000 , tom:teth_w32 , tom:ayin_we0000 , tom:pe_w0020000 , tom:pe_w01100b0 , tom:pe_w0111000 , tom:pe_w1000001 , tom:nunsofit_w300 , tom:nunsofit_we300 , tom:teth_w30 , tom:zayin_w400 , tom:teth_w23 , tom:teth_w33 ;
+        skos:prefLabel
+                "wrapped"@de .
+
+tom:roof
+        a       skos:Concept ;
+        skos:broader
+                tom:otijjotmeshunnot ;
+        skos:narrower
+                tom:het_er000pp , tom:het_er000bb , tom:het_er0000p , tom:het_r00000 , tom:het_er00000 , tom:het_er10000 , tom:het_er20000 , tom:het_er10100 , tom:het_r10000 , tom:het_r10100 , tom:het_r1010b , tom:het_r101bb , tom:het_r101pp , tom:het_rb020b ;
+        skos:prefLabel
+                "roof"@de .
+
+tom:bow
+        a       skos:Concept ;
+        skos:broader
+                tom:otijjotmeshunnot ;
+        skos:narrower
+                tom:het_e100bb , tom:het_e010bb , tom:ayin_01b0 , tom:het_e0100b , tom:ayin_10b0 , tom:het_1000b , tom:zayin_1bb , tom:het_e1010b , tom:kaf_101b00 , tom:ayin_11b0 , tom:ayin_w02b0 , tom:het_e011bb , tom:qof_b1100 , tom:zayin_3b0 , tom:kaf_11100b , tom:nunsofit_3b0 , tom:nunsofit_3bp , tom:zayin_3bb , tom:vav_e0bp , tom:het_er000bb , tom:ayin_e00b0 , tom:het_eb000b , tom:vav_e0b0 , tom:vav_e0bb , tom:kaf_0000b0 , tom:he_b000 , tom:gimel_0b , tom:nunsofit_0b0 , tom:ayin_00b0 , tom:het_0000b , tom:het_000bb , tom:mem_b0000 , tom:ayin_0bb0 , tom:pe_00b0000 , tom:zayin_0b0 , tom:resh_b000 , tom:vav_e1pb , tom:tsade_b0b , tom:tsade_e00b , tom:kaf_1010b0 , tom:nun_00b , tom:nun_10b , tom:nun_30b , tom:ayin_30b0 , tom:ayin_e30b0 , tom:ayin_e3bb0 , tom:ayin_e3fb0 , tom:beit_00000b0 , tom:het_010bb , tom:het_0110b , tom:het_101bb , tom:het_r1010b , tom:het_r101bb , tom:kaf_b00000 , tom:lamed_b00 , tom:lamed_b02 , tom:nun_3b0 , tom:nunsofit_4b0 , tom:pe_w01100b0 , tom:tav_f00b00 , tom:vav_0b0 , tom:vav_1b0 , tom:vav_1b1 , tom:vav_0bb , tom:vav_1bb , tom:zayin_1b0 , tom:zayin_2b0 , tom:zayin_4b0 , tom:zayin_5b0 , tom:zayin_b00 , tom:tav_0000b0 , tom:het_0100b , tom:pe_101b000 , tom:het_1010b , tom:het_110bb , tom:het_rb020b ;
+        skos:prefLabel
+                "bow"@de .
+
+tom:vav_e0bp
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:pretzel , tom:bow , tom:vav ;
+        skos:prefLabel
+                "vav_e0bp"@de .
+
+tom:vav_e0p0
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:pretzel , tom:vav ;
+        skos:prefLabel
+                "vav_e0p0"@de .
+
+tom:het_er000pp
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:pretzel , tom:roof , tom:het ;
+        skos:prefLabel
+                "het_er000pp"@de .
+
+tom:het_er000bb
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:roof , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_er000bb"@de .
+
+tom:ayin_e0000
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:ayin ;
+        skos:prefLabel
+                "ayin_e0000"@de .
+
+tom:ayin_e00b0
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:bow , tom:ayin ;
+        skos:prefLabel
+                "ayin_e00b0"@de .
+
+tom:ayin_ep000
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_ep000"@de .
+
+tom:het_eb000b
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_eb000b"@de .
+
+tom:het_er0000p
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:pretzel , tom:roof , tom:het ;
+        skos:prefLabel
+                "het_er0000p"@de .
+
+tom:vav_e0b0
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:bow , tom:vav ;
+        skos:prefLabel
+                "vav_e0b0"@de .
+
+tom:vav_e0bb
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:bow , tom:vav ;
+        skos:prefLabel
+                "vav_e0bb"@de .
+
+tom:lamed_0f0
+        a       skos:Concept ;
+        skos:broader
+                tom:flag , tom:lamed ;
+        skos:prefLabel
+                "lamed_0f0"@de .
+
+tom:lamed_f00
+        a       skos:Concept ;
+        skos:broader
+                tom:flag , tom:lamed ;
+        skos:prefLabel
+                "lamed_f00"@de .
+
+tom:kaf_0000b0
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:kaf ;
+        skos:prefLabel
+                "kaf_0000b0"@de .
+
+tom:he_b000
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:he ;
+        skos:prefLabel
+                "he_b000"@de .
+
+tom:gimel_0b
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:gimel ;
+        skos:prefLabel
+                "gimel_0b"@de .
+
+tom:nunsofit_0b0
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:nunsofit ;
+        skos:prefLabel
+                "nunsofit_0b0"@de .
+
+tom:ayin_00b0
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:ayin ;
+        skos:prefLabel
+                "ayin_00b0"@de .
+
+tom:het_0000b
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:het ;
+        skos:prefLabel
+                "het_0000b"@de .
+
+tom:het_000bb
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:het ;
+        skos:prefLabel
+                "het_000bb"@de .
+
+tom:mem_b0000
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:mem ;
+        skos:prefLabel
+                "mem_b0000"@de .
+
+tom:ayin_0bb0
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:ayin ;
+        skos:prefLabel
+                "ayin_0bb0"@de .
+
+tom:pe_00b0000
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:pe ;
+        skos:prefLabel
+                "pe_00b0000"@de .
+
+tom:zayin_0b0
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:zayin ;
+        skos:prefLabel
+                "zayin_0b0"@de .
+
+tom:resh_b000
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:resh ;
+        skos:prefLabel
+                "resh_b000"@de .
+
+tom:vav_00p
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:vav ;
+        skos:prefLabel
+                "vav_00p"@de .
+
+tom:vav_0pp
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:vav ;
+        skos:prefLabel
+                "vav_0pp"@de .
+
+tom:zayin_p00
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:zayin ;
+        skos:prefLabel
+                "zayin_p00"@de .
+
+tom:ayin_0p00
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_0p00"@de .
+
+tom:ayin_p0p0
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_p0p0"@de .
+
+tom:nunsofit_00p
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:nunsofit ;
+        skos:prefLabel
+                "nunsofit_00p"@de .
+
+tom:ayin_00p0
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_00p0"@de .
+
+tom:nunsofit_0p0
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:nunsofit ;
+        skos:prefLabel
+                "nunsofit_0p0"@de .
+
+tom:lamed_p00
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:lamed ;
+        skos:prefLabel
+                "lamed_p00"@de .
+
+tom:pe_w0000000
+        a       skos:Concept ;
+        skos:broader
+                tom:wrapped , tom:pe ;
+        skos:prefLabel
+                "pe_w0000000"@de .
+
+tom:pe_w1010000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:wrapped , tom:pe ;
+        skos:prefLabel
+                "pe_w1010000"@de .
+
+tom:teth_w00
+        a       skos:Concept ;
+        skos:broader
+                tom:wrapped , tom:teth ;
+        skos:prefLabel
+                "teth_w00"@de .
+
+tom:ayin_w0000
+        a       skos:Concept ;
+        skos:broader
+                tom:wrapped , tom:ayin ;
+        skos:prefLabel
+                "ayin_w0000"@de .
+
+tom:pesofit_w00000
+        a       skos:Concept ;
+        skos:broader
+                tom:wrapped , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_w00000"@de .
+
+tom:het_r00000
+        a       skos:Concept ;
+        skos:broader
+                tom:roof , tom:het ;
+        skos:prefLabel
+                "het_r00000"@de .
+
+tom:pe
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:pe_w0100000 , tom:pe_w1000000 , tom:pe_0100000 , tom:pe_1000000 , tom:pe_w10000p0 , tom:pe_1010000 , tom:pe_w1100000 , tom:pe_1000001 , tom:pe_1110000 , tom:pe_1010010 , tom:pe_1011000 , tom:pe_w1110000 , tom:pe_1011010 , tom:pe_1010011 , tom:pe_w1011010 , tom:pe_1010002 , tom:pe_1011011 , tom:pe_1010021 , tom:pe_1010022 , tom:pe_00b0000 , tom:pe_w0000000 , tom:pe_w1010000 , tom:pe_0000010 , tom:pe_0000002 , tom:pe_0110000 , tom:pe_1001000 , tom:pe_1011002 , tom:pe_1020000 , tom:pe_1111000 , tom:pe_1111010 , tom:pe_1111100 , tom:pe_1210000 , tom:pe_w0020000 , tom:pe_w01100b0 , tom:pe_w0111000 , tom:pe_w1000001 , tom:pe_0200000 , tom:pe_1100000 , tom:pe_2000000 , tom:pe_2100000 , tom:pe_1010001 , tom:pe_101b000 , tom:pe_1100001 , tom:pe_1200002 , tom:pe_2100001 ;
+        skos:prefLabel
+                "pe"@de .
+
+tom:Hebrew
+        a       skos:Concept ;
+        skos:narrower
+                tom:pe , tom:alef , tom:beit , tom:gimel , tom:dalet , tom:he , tom:vav , tom:zayin , tom:het , tom:teth , tom:yod , tom:kaf , tom:kafsofit , tom:lamed , tom:mem , tom:memsofit , tom:nun , tom:nunsofit , tom:samekh , tom:ayin , tom:pesofit , tom:tsade , tom:tsadesofit , tom:qof , tom:resh , tom:shin , tom:tav ;
+        skos:prefLabel
+                "Hebrew"@de .
+
+tom:alef
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:alef_1000 , tom:alef_1100 , tom:alef_2200 , tom:alef_1300 , tom:alef_3200 , tom:alef_2102 , tom:alef_1301 , tom:alef_2300 , tom:alef_2202 , tom:alef_1203 , tom:alef_2112 , tom:alef_2302 , tom:alef_4300 , tom:alef_2212 , tom:alef_3202 , tom:alef_3222 , tom:alef_0001 , tom:alef_0100 , tom:alef_0200 , tom:alef_0302 , tom:alef_1202 , tom:alef_2000 , tom:alef_2100 , tom:alef_3000 , tom:alef_3100 , tom:alef_3300 , tom:alef_3302 , tom:alef_4200 , tom:alef_e0000 , tom:alef_3220 , tom:alef_0002 , tom:alef_3102 , tom:alef_3312 , tom:alef_1102 ;
+        skos:prefLabel
+                "alef"@de .
+
+tom:beit
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:beit_1000000 , tom:beit_0001000 , tom:beit_0100000 , tom:beit_1010000 , tom:beit_1100000 , tom:beit_1010001 , tom:beit_1110000 , tom:beit_1011010 , tom:beit_1210000 , tom:beit_0000010 , tom:beit_2300000 , tom:beit_00000b0 , tom:beit_0010000 , tom:beit_00f0000 , tom:beit_0110000 , tom:beit_2000001 , tom:beit_0200000 , tom:beit_3000000 ;
+        skos:prefLabel
+                "beit"@de .
+
+tom:gimel
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:gimel_20 , tom:gimel_40 , tom:gimel_0b , tom:gimel_31 ;
+        skos:prefLabel
+                "gimel"@de .
+
+tom:dalet
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:dalet_1000 , tom:dalet_1010 , tom:dalet_1110 , tom:dalet_1111 , tom:dalet_1021 , tom:dalet_1210 , tom:dalet_0001 , tom:dalet_0110 , tom:dalet_0200 , tom:dalet_0100 , tom:dalet_1112 ;
+        skos:prefLabel
+                "dalet"@de .
+
+tom:he
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:he_1000 , tom:he_1010 , tom:he_1100 , tom:he_0010 , tom:he_1011 , tom:he_1110 , tom:he_1111 , tom:he_1210 , tom:he_2020 , tom:he_b000 , tom:he_1001 , tom:he_0001 , tom:he_0020 , tom:he_0100 , tom:he_0110 , tom:he_0200 , tom:he_0210 , tom:he_1020 , tom:he_1120 , tom:he_1200 , tom:he_1201 , tom:he_2000 , tom:he_2010 , tom:he_2300 , tom:he_3021 , tom:he_f000 , tom:he_f001 , tom:he_0300 , tom:he_e0000 , tom:he_0201 , tom:he_0301 , tom:he_2100 , tom:he_2001 , tom:he_3001 ;
+        skos:prefLabel
+                "he"@de .
+
+tom:vav
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:vav_e100 , tom:vav_100 , tom:vav_200 , tom:vav_e0bp , tom:vav_e0p0 , tom:vav_e0b0 , tom:vav_e0bb , tom:vav_00p , tom:vav_0pp , tom:vav_101 , tom:vav_e1pp , tom:vav_e1pb , tom:vav_001 , tom:vav_0b0 , tom:vav_1b0 , tom:vav_1b1 , tom:vav_0bb , tom:vav_10p , tom:vav_1pp , tom:vav_1bb ;
+        skos:prefLabel
+                "vav"@de .
+
+tom:zayin
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:zayin_100 , tom:zayin_1bb , tom:zayin_200 , tom:zayin_3b0 , tom:zayin_3bb , tom:zayin_0b0 , tom:zayin_p00 , tom:zayin_1p0 , tom:zayin_1b0 , tom:zayin_2b0 , tom:zayin_4b0 , tom:zayin_5b0 , tom:zayin_b00 , tom:zayin_w400 ;
+        skos:prefLabel
+                "zayin"@de .
+
+tom:het
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:het_01000 , tom:het_e100bb , tom:het_e010pp , tom:het_e010bb , tom:het_e0100b , tom:het_e10000 , tom:het_1000b , tom:het_10100 , tom:het_e1010b , tom:het_02000 , tom:het_11000 , tom:het_e011bb , tom:het_e02000 , tom:het_01100 , tom:het_11100 , tom:het_10200 , tom:het_21000 , tom:het_er000pp , tom:het_er000bb , tom:het_eb000b , tom:het_er0000p , tom:het_0000b , tom:het_000bb , tom:het_r00000 , tom:het_s00000 , tom:het_10000 , tom:het_er00000 , tom:het_er10000 , tom:het_er20000 , tom:het_er10100 , tom:het_c00000 , tom:het_010bb , tom:het_0110b , tom:het_0f000 , tom:het_101bb , tom:het_r10000 , tom:het_r10100 , tom:het_r1010b , tom:het_r101bb , tom:het_r101pp , tom:het_0100b , tom:het_1010b , tom:het_e10100 , tom:het_110bb , tom:het_rb020b , tom:het_12000 , tom:het_20001 , tom:het_e11000 ;
+        skos:prefLabel
+                "het"@de .
+
+tom:het_s00000
+        a       skos:Concept ;
+        skos:broader
+                tom:het , tom:struckthrough ;
+        skos:prefLabel
+                "het_s00000"@de .
+
+tom:teth
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:teth_w10 , tom:teth_10 , tom:teth_11 , tom:teth_20 , tom:teth_w11 , tom:teth_12 , tom:teth_w21 , tom:teth_31 , tom:teth_w31 , tom:teth_22 , tom:teth_32 , tom:teth_w00 , tom:teth_w32 , tom:teth_02 , tom:teth_21 , tom:teth_40 , tom:teth_41 , tom:teth_42 , tom:teth_e30 , tom:teth_w30 , tom:teth_w23 , tom:teth_w33 ;
+        skos:prefLabel
+                "teth"@de .
+
+tom:yod
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:yod_0p0 , tom:yod_001 , tom:yod_100 , tom:yod_101 , tom:yod_1p0 , tom:yod_200 , tom:yod_300 , tom:yod_s000 , tom:yod_e000 , tom:yod_10p ;
+        skos:prefLabel
+                "yod"@de .
+
+tom:kaf
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:kaf_101000 , tom:kaf_101b00 , tom:kaf_101010 , tom:kaf_11100b , tom:kaf_111000 , tom:kaf_0000b0 , tom:kaf_000010 , tom:kaf_1010b0 , tom:kaf_002000 , tom:kaf_011000 , tom:kaf_011010 , tom:kaf_020000 , tom:kaf_101001 , tom:kaf_110000 , tom:kaf_110001 , tom:kaf_b00000 , tom:kaf_010000 , tom:kaf_030000 , tom:kaf_100000 , tom:kaf_200001 ;
+        skos:prefLabel
+                "kaf"@de .
+
+tom:kafsofit
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:kafsofit_0000p , tom:kafsofit_01000 , tom:kafsofit_02100 , tom:kafsofit_10100 , tom:kafsofit_10101 , tom:kafsofit_11100 , tom:kafsofit_11101 , tom:kafsofit_1110p , tom:kafsofit_12100 , tom:kafsofit_20200 , tom:kafsofit_00200 , tom:kafsofit_01100 , tom:kafsofit_10000 , tom:kafsofit_10200 , tom:kafsofit_130z1 , tom:kafsofit_02000 , tom:kafsofit_00100 , tom:kafsofit_02001 , tom:kafsofit_020p0 , tom:kafsofit_e0200f , tom:kafsofit_0200p , tom:kafsofit_010p0 , tom:kafsofit_11000 , tom:kafsofit_12001 , tom:kafsofit_21001 , tom:kafsofit_30001 ;
+        skos:prefLabel
+                "kafsofit"@de .
+
+tom:lamed
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:lamed_002 , tom:lamed_2f0 , tom:lamed_0f0 , tom:lamed_f00 , tom:lamed_p00 , tom:lamed_1f0 , tom:lamed_b00 , tom:lamed_b02 , tom:lamed_f20 , tom:lamed_00p , tom:lamed_010 ;
+        skos:prefLabel
+                "lamed"@de .
+
+tom:mem
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:mem_01100 , tom:mem_10100 , tom:mem_11001 , tom:mem_11100 , tom:mem_01200 , tom:mem_b0000 , tom:mem_10101 , tom:mem_02000 , tom:mem_10000 , tom:mem_20200 , tom:mem_e00000 , tom:mem_00200 , tom:mem_03000 , tom:mem_02100 , tom:mem_20100 , tom:mem_12100 , tom:mem_11000 , tom:mem_01000 , tom:mem_31000 ;
+        skos:prefLabel
+                "mem"@de .
+
+tom:memsofit
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:memsofit_100001 , tom:memsofit_101000 , tom:memsofit_101010 , tom:memsofit_101001 , tom:memsofit_011001 , tom:memsofit_111000 , tom:memsofit_210000 , tom:memsofit_101100 , tom:memsofit_101011 , tom:memsofit_101110 , tom:memsofit_112000 , tom:memsofit_100000 , tom:memsofit_002000 , tom:memsofit_003000 , tom:memsofit_011000 , tom:memsofit_020000 , tom:memsofit_102000 , tom:memsofit_102001 , tom:memsofit_102110 , tom:memsofit_110000 , tom:memsofit_121111 , tom:memsofit_200000 , tom:memsofit_000001 , tom:memsofit_110001 , tom:memsofit_120001 , tom:memsofit_200001 ;
+        skos:prefLabel
+                "memsofit"@de .
+
+tom:nun
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:nun_00b , tom:nun_00p , tom:nun_10b , tom:nun_200 , tom:nun_30b , tom:nun_i300 , tom:nun_30f , tom:nun_3b0 , tom:nun_3p0 , tom:nun_3pp , tom:nun_i000 , tom:nun_p0p , tom:nun_e300 , tom:nun_10p , tom:nun_30p ;
+        skos:prefLabel
+                "nun"@de .
+
+tom:nunsofit
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:nunsofit_10p , tom:nunsofit_100 , tom:nunsofit_3b0 , tom:nunsofit_3bp , tom:nunsofit_0b0 , tom:nunsofit_00p , tom:nunsofit_0p0 , tom:nunsofit_110 , tom:nunsofit_200 , tom:nunsofit_4b0 , tom:nunsofit_4p0 , tom:nunsofit_w300 , tom:nunsofit_we300 , tom:nunsofit_1p0 , tom:nunsofit_300 ;
+        skos:prefLabel
+                "nunsofit"@de .
+
+tom:samekh
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:samekh_000010 , tom:samekh_101000 , tom:samekh_111000 , tom:samekh_101100 , tom:samekh_101010 , tom:samekh_111010 , tom:samekh_100000 , tom:samekh_020000 , tom:samekh_002000 , tom:samekh_011000 , tom:samekh_011010 , tom:samekh_020010 , tom:samekh_102000 , tom:samekh_300000 , tom:samekh_f00000 , tom:samekh_101001 , tom:samekh_110010 , tom:samekh_120001 , tom:samekh_120000 , tom:samekh_120010 , tom:samekh_130000 , tom:samekh_210010 , tom:samekh_030010 , tom:samekh_300001 , tom:samekh_101011 ;
+        skos:prefLabel
+                "samekh"@de .
+
+tom:ayin
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:ayin_01b0 , tom:ayin_01p0 , tom:ayin_1000 , tom:ayin_10b0 , tom:ayin_02p0 , tom:ayin_0200 , tom:ayin_11b0 , tom:ayin_w02b0 , tom:ayin_1100 , tom:ayin_2000 , tom:ayin_3p00 , tom:ayin_30p0 , tom:ayin_e3000 , tom:ayin_3pp0 , tom:ayin_p220 , tom:ayin_3200 , tom:ayin_e0000 , tom:ayin_e00b0 , tom:ayin_ep000 , tom:ayin_00b0 , tom:ayin_0bb0 , tom:ayin_0p00 , tom:ayin_p0p0 , tom:ayin_00p0 , tom:ayin_w0000 , tom:ayin_3010 , tom:ayin_we0000 , tom:ayin_2100 , tom:ayin_30b0 , tom:ayin_3f00 , tom:ayin_e0300 , tom:ayin_e0b00 , tom:ayin_e1000 , tom:ayin_e30b0 , tom:ayin_e3bb0 , tom:ayin_e3fb0 , tom:ayin_e3p00 , tom:ayin_pp00 , tom:ayin_ppp0 , tom:ayin_11p0 , tom:ayin_4000 , tom:ayin_e10p0 , tom:ayin_p000 , tom:ayin_0pp0 , tom:ayin_0300 , tom:ayin_1200 , tom:ayin_3100 ;
+        skos:prefLabel
+                "ayin"@de .
+
+tom:pesofit
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:pesofit_10000 , tom:pesofit_w10000 , tom:pesofit_10100 , tom:pesofit_w10100 , tom:pesofit_w11000 , tom:pesofit_10002 , tom:pesofit_11100 , tom:pesofit_10101 , tom:pesofit_w11100 , tom:pesofit_01102 , tom:pesofit_10102 , tom:pesofit_w00000 , tom:pesofit_11000 , tom:pesofit_11001 , tom:pesofit_00001 , tom:pesofit_01100 , tom:pesofit_01101 , tom:pesofit_20001 , tom:pesofit_00002 , tom:pesofit_02001 , tom:pesofit_11002 ;
+        skos:prefLabel
+                "pesofit"@de .
+
+tom:tsade
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:tsade_e300 , tom:tsade_111 , tom:tsade_210 , tom:tsade_320 , tom:tsade_32p , tom:tsade_230 , tom:tsade_420 , tom:tsade_410 , tom:tsade_301 , tom:tsade_b0b , tom:tsade_e00b , tom:tsade_020 , tom:tsade_100 , tom:tsade_120 , tom:tsade_200 , tom:tsade_310 , tom:tsade_330 , tom:tsade_110 , tom:tsade_e00p ;
+        skos:prefLabel
+                "tsade"@de .
+
+tom:tsade_410
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:tsade ;
+        skos:prefLabel
+                "tsade_410"@de .
+
+tom:tsadesofit
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:tsadesofit_1120 , tom:tsadesofit_3200 , tom:tsadesofit_0100 , tom:tsadesofit_3100 , tom:tsadesofit_2000 , tom:tsadesofit_2100 , tom:tsadesofit_3300 , tom:tsadesofit_e3000 ;
+        skos:prefLabel
+                "tsadesofit"@de .
+
+tom:qof
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:qof_00100 , tom:qof_01000 , tom:qof_10000 , tom:qof_101p0 , tom:qof_01100 , tom:qof_10100 , tom:qof_11000 , tom:qof_b1100 , tom:qof_10101 , tom:qof_01101 , tom:qof_11100 , tom:qof_c00000 , tom:qof_02100 , tom:qof_02000 , tom:qof_20000 , tom:qof_00200 , tom:qof_03000 , tom:qof_10200 , tom:qof_11101 , tom:qof_00p00 , tom:qof_f0001 , tom:qof_11001 , tom:qof_12001 , tom:qof_20001 , tom:qof_200p1 ;
+        skos:prefLabel
+                "qof"@de .
+
+tom:resh
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:resh_0100 , tom:resh_1000 , tom:resh_0110 , tom:resh_1010 , tom:resh_1100 , tom:resh_2000 , tom:resh_1011 , tom:resh_1110 , tom:resh_b000 , tom:resh_0001 , tom:resh_1001 , tom:resh_0011 , tom:resh_0010 , tom:resh_0101 , tom:resh_0200 , tom:resh_e0000 ;
+        skos:prefLabel
+                "resh"@de .
+
+tom:shin
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:shin_0010 , tom:shin_0300 , tom:shin_1000 , tom:shin_1110 , tom:shin_1230 , tom:shin_2000 , tom:shin_2100 , tom:shin_2120 , tom:shin_2210 , tom:shin_2220 , tom:shin_2230 , tom:shin_2320 , tom:shin_3010 , tom:shin_3020 , tom:shin_3100 , tom:shin_3110 , tom:shin_3120 , tom:shin_3210 , tom:shin_3220 , tom:shin_3230 , tom:shin_3300 , tom:shin_3320 , tom:shin_3330 , tom:shin_4000 , tom:shin_e3000 , tom:shin_e3001 , tom:shin_0210 , tom:shin_1200 , tom:shin_2010 , tom:shin_3130 , tom:shin_2130 ;
+        skos:prefLabel
+                "shin"@de .
+
+tom:tav
+        a       skos:Concept ;
+        skos:broader
+                tom:Hebrew ;
+        skos:narrower
+                tom:tav_100001 , tom:tav_e000001 , tom:tav_f00b00 , tom:tav_000010 , tom:tav_0000b0 , tom:tav_000p00 , tom:tav_010000 , tom:tav_011000 , tom:tav_100000 , tom:tav_101000 , tom:tav_111000 , tom:tav_200000 , tom:tav_e000000 , tom:tav_f00000 , tom:tav_020000 ;
+        skos:prefLabel
+                "tav"@de .
+
+tom:inversed
+        a       skos:Concept ;
+        skos:broader
+                tom:otijjotmeshunnot ;
+        skos:narrower
+                tom:nun_i300 , tom:nun_i000 ;
+        skos:prefLabel
+                "inversed"@de .
+
+tom:ayin_3010
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:ayin ;
+        skos:prefLabel
+                "ayin_3010"@de .
+
+tom:beit_0000010
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:beit ;
+        skos:prefLabel
+                "beit_0000010"@de .
+
+tom:beit_2300000
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:beit ;
+        skos:prefLabel
+                "beit_2300000"@de .
+
+tom:he_1001
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:he ;
+        skos:prefLabel
+                "he_1001"@de .
+
+tom:het_10000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:het ;
+        skos:prefLabel
+                "het_10000"@de .
+
+tom:het_er00000
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:roof , tom:het ;
+        skos:prefLabel
+                "het_er00000"@de .
+
+tom:het_er10000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:elongated , tom:roof , tom:het ;
+        skos:prefLabel
+                "het_er10000"@de .
+
+tom:het_er20000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:elongated , tom:roof , tom:het ;
+        skos:prefLabel
+                "het_er20000"@de .
+
+tom:het_er10100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:elongated , tom:roof , tom:het ;
+        skos:prefLabel
+                "het_er10100"@de .
+
+tom:het_c00000
+        a       skos:Concept ;
+        skos:broader
+                tom:het , tom:crooked ;
+        skos:prefLabel
+                "het_c00000"@de .
+
+tom:crooked
+        a       skos:Concept ;
+        skos:broader
+                tom:otijjotmeshunnot ;
+        skos:narrower
+                tom:het_c00000 , tom:qof_c00000 ;
+        skos:prefLabel
+                "crooked"@de .
+
+tom:kaf_000010
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:kaf ;
+        skos:prefLabel
+                "kaf_000010"@de .
+
+tom:memsofit_100000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_100000"@de .
+
+tom:nunsofit_110
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:nunsofit ;
+        skos:prefLabel
+                "nunsofit_110"@de .
+
+tom:pe_0000010
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:pe ;
+        skos:prefLabel
+                "pe_0000010"@de .
+
+tom:qof_c00000
+        a       skos:Concept ;
+        skos:broader
+                tom:qof , tom:crooked ;
+        skos:prefLabel
+                "qof_c00000"@de .
+
+tom:resh_0001
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:resh ;
+        skos:prefLabel
+                "resh_0001"@de .
+
+tom:resh_1001
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:resh ;
+        skos:prefLabel
+                "resh_1001"@de .
+
+tom:samekh_100000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:samekh ;
+        skos:prefLabel
+                "samekh_100000"@de .
+
+tom:teth_w32
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:wrapped , tom:teth ;
+        skos:prefLabel
+                "teth_w32"@de .
+
+tom:vav_101
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:vav ;
+        skos:prefLabel
+                "vav_101"@de .
+
+tom:vav_e1pp
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:elongated , tom:pretzel , tom:vav ;
+        skos:prefLabel
+                "vav_e1pp"@de .
+
+tom:vav_e1pb
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:elongated , tom:pretzel , tom:bow , tom:vav ;
+        skos:prefLabel
+                "vav_e1pb"@de .
+
+tom:tsade_301
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:tsade ;
+        skos:prefLabel
+                "tsade_301"@de .
+
+tom:tsade_b0b
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:tsade ;
+        skos:prefLabel
+                "tsade_b0b"@de .
+
+tom:tsadesofit_0100
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:tsadesofit ;
+        skos:prefLabel
+                "tsadesofit_0100"@de .
+
+tom:tsadesofit_3100
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:tsadesofit ;
+        skos:prefLabel
+                "tsadesofit_3100"@de .
+
+tom:tsade_e00b
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:bow , tom:tsade ;
+        skos:prefLabel
+                "tsade_e00b"@de .
+
+tom:ayin_we0000
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:wrapped , tom:ayin ;
+        skos:prefLabel
+                "ayin_we0000"@de .
+
+tom:mem_10101
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:mem ;
+        skos:prefLabel
+                "mem_10101"@de .
+
+tom:qof_02100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:qof ;
+        skos:prefLabel
+                "qof_02100"@de .
+
+tom:kaf_1010b0
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:bow , tom:kaf ;
+        skos:prefLabel
+                "kaf_1010b0"@de .
+
+tom:struckthrough
+        a       skos:Concept ;
+        skos:broader
+                tom:otijjotmeshunnot ;
+        skos:narrower
+                tom:het_s00000 , tom:yod_s000 ;
+        skos:prefLabel
+                "struckthrough"@de .
+
+tom:kafsofit_0000p
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_0000p"@de .
+
+tom:kafsofit_01000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_01000"@de .
+
+tom:kafsofit_02100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_02100"@de .
+
+tom:kafsofit_10100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_10100"@de .
+
+tom:kafsofit_10101
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_10101"@de .
+
+tom:kafsofit_11100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_11100"@de .
+
+tom:kafsofit_11101
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_11101"@de .
+
+tom:kafsofit_1110p
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pretzel , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_1110p"@de .
+
+tom:kafsofit_12100
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_12100"@de .
+
+tom:kafsofit_20200
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_20200"@de .
+
+tom:nun_00b
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:nun ;
+        skos:prefLabel
+                "nun_00b"@de .
+
+tom:nun_00p
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:nun ;
+        skos:prefLabel
+                "nun_00p"@de .
+
+tom:nun_10b
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:bow , tom:nun ;
+        skos:prefLabel
+                "nun_10b"@de .
+
+tom:nun_200
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:nun ;
+        skos:prefLabel
+                "nun_200"@de .
+
+tom:nun_30b
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:bow , tom:nun ;
+        skos:prefLabel
+                "nun_30b"@de .
+
+tom:nun_i300
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:nun , tom:inversed ;
+        skos:prefLabel
+                "nun_i300"@de .
+
+tom:alef_0001
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:alef ;
+        skos:prefLabel
+                "alef_0001"@de .
+
+tom:alef_0100
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:alef ;
+        skos:prefLabel
+                "alef_0100"@de .
+
+tom:alef_0200
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:alef ;
+        skos:prefLabel
+                "alef_0200"@de .
+
+tom:alef_0302
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:alef ;
+        skos:prefLabel
+                "alef_0302"@de .
+
+tom:alef_1202
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:alef ;
+        skos:prefLabel
+                "alef_1202"@de .
+
+tom:alef_2000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:alef ;
+        skos:prefLabel
+                "alef_2000"@de .
+
+tom:alef_2100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:alef ;
+        skos:prefLabel
+                "alef_2100"@de .
+
+tom:alef_3000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:alef ;
+        skos:prefLabel
+                "alef_3000"@de .
+
+tom:alef_3100
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:alef ;
+        skos:prefLabel
+                "alef_3100"@de .
+
+tom:alef_3300
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:alef ;
+        skos:prefLabel
+                "alef_3300"@de .
+
+tom:alef_3302
+        a       skos:Concept ;
+        skos:broader
+                tom:8tagin , tom:alef ;
+        skos:prefLabel
+                "alef_3302"@de .
+
+tom:alef_4200
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:alef ;
+        skos:prefLabel
+                "alef_4200"@de .
+
+tom:alef_e0000
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:alef ;
+        skos:prefLabel
+                "alef_e0000"@de .
+
+tom:ayin_2100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:ayin ;
+        skos:prefLabel
+                "ayin_2100"@de .
+
+tom:ayin_30b0
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:bow , tom:ayin ;
+        skos:prefLabel
+                "ayin_30b0"@de .
+
+tom:ayin_3f00
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:flag , tom:ayin ;
+        skos:prefLabel
+                "ayin_3f00"@de .
+
+tom:ayin_e0300
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:elongated , tom:ayin ;
+        skos:prefLabel
+                "ayin_e0300"@de .
+
+tom:ayin_e0b00
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:ayin ;
+        skos:prefLabel
+                "ayin_e0b00"@de .
+
+tom:ayin_e1000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:elongated , tom:ayin ;
+        skos:prefLabel
+                "ayin_e1000"@de .
+
+tom:ayin_e30b0
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:elongated , tom:bow , tom:ayin ;
+        skos:prefLabel
+                "ayin_e30b0"@de .
+
+tom:ayin_e3bb0
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:elongated , tom:bow , tom:ayin ;
+        skos:prefLabel
+                "ayin_e3bb0"@de .
+
+tom:ayin_e3fb0
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:elongated , tom:flag , tom:bow , tom:ayin ;
+        skos:prefLabel
+                "ayin_e3fb0"@de .
+
+tom:ayin_e3p00
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:elongated , tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_e3p00"@de .
+
+tom:beit_00000b0
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:beit ;
+        skos:prefLabel
+                "beit_00000b0"@de .
+
+tom:beit_0010000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:beit ;
+        skos:prefLabel
+                "beit_0010000"@de .
+
+tom:beit_00f0000
+        a       skos:Concept ;
+        skos:broader
+                tom:flag , tom:beit ;
+        skos:prefLabel
+                "beit_00f0000"@de .
+
+tom:beit_0110000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:beit ;
+        skos:prefLabel
+                "beit_0110000"@de .
+
+tom:beit_2000001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:beit ;
+        skos:prefLabel
+                "beit_2000001"@de .
+
+tom:dalet_0001
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:dalet ;
+        skos:prefLabel
+                "dalet_0001"@de .
+
+tom:dalet_0110
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:dalet ;
+        skos:prefLabel
+                "dalet_0110"@de .
+
+tom:he_0001
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:he ;
+        skos:prefLabel
+                "he_0001"@de .
+
+tom:he_0020
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:he ;
+        skos:prefLabel
+                "he_0020"@de .
+
+tom:he_0100
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:he ;
+        skos:prefLabel
+                "he_0100"@de .
+
+tom:he_0110
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:he ;
+        skos:prefLabel
+                "he_0110"@de .
+
+tom:he_0120
+        a       skos:Concept ;
+        skos:prefLabel
+                "he_0120"@de .
+
+tom:he_0200
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:he ;
+        skos:prefLabel
+                "he_0200"@de .
+
+tom:he_0210
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:he ;
+        skos:prefLabel
+                "he_0210"@de .
+
+tom:he_1020
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:he ;
+        skos:prefLabel
+                "he_1020"@de .
+
+tom:he_1120
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:he ;
+        skos:prefLabel
+                "he_1120"@de .
+
+tom:he_1200
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:he ;
+        skos:prefLabel
+                "he_1200"@de .
+
+tom:he_1201
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:he ;
+        skos:prefLabel
+                "he_1201"@de .
+
+tom:he_2000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:he ;
+        skos:prefLabel
+                "he_2000"@de .
+
+tom:he_2010
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:he ;
+        skos:prefLabel
+                "he_2010"@de .
+
+tom:he_2300
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:he ;
+        skos:prefLabel
+                "he_2300"@de .
+
+tom:he_3021
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:he ;
+        skos:prefLabel
+                "he_3021"@de .
+
+tom:he_f000
+        a       skos:Concept ;
+        skos:broader
+                tom:flag , tom:he ;
+        skos:prefLabel
+                "he_f000"@de .
+
+tom:he_f001
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:flag , tom:he ;
+        skos:prefLabel
+                "he_f001"@de .
+
+tom:het_010bb
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_010bb"@de .
+
+tom:het_0110b
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_0110b"@de .
+
+tom:het_0f000
+        a       skos:Concept ;
+        skos:broader
+                tom:flag , tom:het ;
+        skos:prefLabel
+                "het_0f000"@de .
+
+tom:het_101bb
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_101bb"@de .
+
+tom:het_r10000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:roof , tom:het ;
+        skos:prefLabel
+                "het_r10000"@de .
+
+tom:het_r10100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:roof , tom:het ;
+        skos:prefLabel
+                "het_r10100"@de .
+
+tom:het_r1010b
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:roof , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_r1010b"@de .
+
+tom:het_r101bb
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:roof , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_r101bb"@de .
+
+tom:het_r101pp
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pretzel , tom:roof , tom:het ;
+        skos:prefLabel
+                "het_r101pp"@de .
+
+tom:kaf_002000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:kaf ;
+        skos:prefLabel
+                "kaf_002000"@de .
+
+tom:kaf_011000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:kaf ;
+        skos:prefLabel
+                "kaf_011000"@de .
+
+tom:kaf_011010
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:kaf ;
+        skos:prefLabel
+                "kaf_011010"@de .
+
+tom:kaf_020000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:kaf ;
+        skos:prefLabel
+                "kaf_020000"@de .
+
+tom:kaf_101001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:kaf ;
+        skos:prefLabel
+                "kaf_101001"@de .
+
+tom:kaf_110000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:kaf ;
+        skos:prefLabel
+                "kaf_110000"@de .
+
+tom:kaf_110001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:kaf ;
+        skos:prefLabel
+                "kaf_110001"@de .
+
+tom:kaf_b00000
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:kaf ;
+        skos:prefLabel
+                "kaf_b00000"@de .
+
+tom:kafsofit_00200
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_00200"@de .
+
+tom:kafsofit_01100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_01100"@de .
+
+tom:kafsofit_10000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_10000"@de .
+
+tom:kafsofit_10200
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_10200"@de .
+
+tom:kafsofit_130z1
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:kafsofit , tom:zigzag ;
+        skos:prefLabel
+                "kafsofit_130z1"@de .
+
+tom:lamed_1f0
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:flag , tom:lamed ;
+        skos:prefLabel
+                "lamed_1f0"@de .
+
+tom:lamed_b00
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:lamed ;
+        skos:prefLabel
+                "lamed_b00"@de .
+
+tom:lamed_b02
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:bow , tom:lamed ;
+        skos:prefLabel
+                "lamed_b02"@de .
+
+tom:lamed_f20
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:flag , tom:lamed ;
+        skos:prefLabel
+                "lamed_f20"@de .
+
+tom:mem_02000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:mem ;
+        skos:prefLabel
+                "mem_02000"@de .
+
+tom:mem_10000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:mem ;
+        skos:prefLabel
+                "mem_10000"@de .
+
+tom:mem_20200
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:mem ;
+        skos:prefLabel
+                "mem_20200"@de .
+
+tom:mem_e00000
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:mem ;
+        skos:prefLabel
+                "mem_e00000"@de .
+
+tom:memsofit_002000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_002000"@de .
+
+tom:memsofit_003000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_003000"@de .
+
+tom:memsofit_011000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_011000"@de .
+
+tom:memsofit_020000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_020000"@de .
+
+tom:memsofit_102000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_102000"@de .
+
+tom:memsofit_102001
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_102001"@de .
+
+tom:memsofit_102110
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_102110"@de .
+
+tom:memsofit_110000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_110000"@de .
+
+tom:memsofit_121111
+        a       skos:Concept ;
+        skos:broader
+                tom:7tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_121111"@de .
+
+tom:memsofit_200000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_200000"@de .
+
+tom:nun_30f
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:flag , tom:nun ;
+        skos:prefLabel
+                "nun_30f"@de .
+
+tom:nun_3b0
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:bow , tom:nun ;
+        skos:prefLabel
+                "nun_3b0"@de .
+
+tom:nun_3p0
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pretzel , tom:nun ;
+        skos:prefLabel
+                "nun_3p0"@de .
+
+tom:nun_3pp
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pretzel , tom:nun ;
+        skos:prefLabel
+                "nun_3pp"@de .
+
+tom:nunsofit_200
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:nunsofit ;
+        skos:prefLabel
+                "nunsofit_200"@de .
+
+tom:nunsofit_4b0
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:bow , tom:nunsofit ;
+        skos:prefLabel
+                "nunsofit_4b0"@de .
+
+tom:nunsofit_4p0
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:pretzel , tom:nunsofit ;
+        skos:prefLabel
+                "nunsofit_4p0"@de .
+
+tom:pe_0000002
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pe ;
+        skos:prefLabel
+                "pe_0000002"@de .
+
+tom:pe_0110000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pe ;
+        skos:prefLabel
+                "pe_0110000"@de .
+
+tom:pe_1001000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1001000"@de .
+
+tom:pe_1011002
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1011002"@de .
+
+tom:pe_1020000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1020000"@de .
+
+tom:pe_1111000
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1111000"@de .
+
+tom:pe_1111010
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1111010"@de .
+
+tom:pe_1111100
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1111100"@de .
+
+tom:pe_1210000
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1210000"@de .
+
+tom:pe_w0020000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:wrapped , tom:pe ;
+        skos:prefLabel
+                "pe_w0020000"@de .
+
+tom:pe_w01100b0
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:wrapped , tom:bow , tom:pe ;
+        skos:prefLabel
+                "pe_w01100b0"@de .
+
+tom:pe_w0111000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:wrapped , tom:pe ;
+        skos:prefLabel
+                "pe_w0111000"@de .
+
+tom:pe_w1000001
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:wrapped , tom:pe ;
+        skos:prefLabel
+                "pe_w1000001"@de .
+
+tom:qof_02000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:qof ;
+        skos:prefLabel
+                "qof_02000"@de .
+
+tom:samekh_020000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_020000"@de .
+
+tom:zayin_1p0
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:pretzel , tom:zayin ;
+        skos:prefLabel
+                "zayin_1p0"@de .
+
+tom:ayin_pp00
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_pp00"@de .
+
+tom:ayin_ppp0
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_ppp0"@de .
+
+tom:alef_3220
+        a       skos:Concept ;
+        skos:broader
+                tom:7tagin , tom:alef ;
+        skos:prefLabel
+                "alef_3220"@de .
+
+tom:nun_i000
+        a       skos:Concept ;
+        skos:broader
+                tom:nun , tom:inversed ;
+        skos:prefLabel
+                "nun_i000"@de .
+
+tom:zigzag
+        a       skos:Concept ;
+        skos:broader
+                tom:otijjotmeshunnot ;
+        skos:narrower
+                tom:kafsofit_130z1 ;
+        skos:prefLabel
+                "zigzag"@de .
+
+tom:he_0300
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:he ;
+        skos:prefLabel
+                "he_0300"@de .
+
+tom:qof_20000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:qof ;
+        skos:prefLabel
+                "qof_20000"@de .
+
+tom:mem_00200
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:mem ;
+        skos:prefLabel
+                "mem_00200"@de .
+
+tom:beit_0200000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:beit ;
+        skos:prefLabel
+                "beit_0200000"@de .
+
+tom:kafsofit_02000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_02000"@de .
+
+tom:pesofit_11000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_11000"@de .
+
+tom:pesofit_11001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_11001"@de .
+
+tom:alef_0002
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:alef ;
+        skos:prefLabel
+                "alef_0002"@de .
+
+tom:alef_3102
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:alef ;
+        skos:prefLabel
+                "alef_3102"@de .
+
+tom:alef_3312
+        a       skos:Concept ;
+        skos:broader
+                tom:9tagin , tom:alef ;
+        skos:prefLabel
+                "alef_3312"@de .
+
+tom:ayin_11p0
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_11p0"@de .
+
+tom:ayin_4000
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:ayin ;
+        skos:prefLabel
+                "ayin_4000"@de .
+
+tom:ayin_e10p0
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:elongated , tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_e10p0"@de .
+
+tom:beit_3000000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:beit ;
+        skos:prefLabel
+                "beit_3000000"@de .
+
+tom:dalet_0200
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:dalet ;
+        skos:prefLabel
+                "dalet_0200"@de .
+
+tom:he_e0000
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:he ;
+        skos:prefLabel
+                "he_e0000"@de .
+
+tom:kafsofit_00100
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_00100"@de .
+
+tom:kafsofit_02001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_02001"@de .
+
+tom:kafsofit_020p0
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pretzel , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_020p0"@de .
+
+tom:kafsofit_e0200f
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:elongated , tom:flag , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_e0200f"@de .
+
+tom:kafsofit_0200p
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pretzel , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_0200p"@de .
+
+tom:lamed_00p
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:lamed ;
+        skos:prefLabel
+                "lamed_00p"@de .
+
+tom:lamed_010
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:lamed ;
+        skos:prefLabel
+                "lamed_010"@de .
+
+tom:mem_03000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:mem ;
+        skos:prefLabel
+                "mem_03000"@de .
+
+tom:mem_02100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:mem ;
+        skos:prefLabel
+                "mem_02100"@de .
+
+tom:nun_p0p
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:nun ;
+        skos:prefLabel
+                "nun_p0p"@de .
+
+tom:nun_e300
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:elongated , tom:nun ;
+        skos:prefLabel
+                "nun_e300"@de .
+
+tom:nunsofit_w300
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:wrapped , tom:nunsofit ;
+        skos:prefLabel
+                "nunsofit_w300"@de .
+
+tom:nunsofit_we300
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:elongated , tom:wrapped , tom:nunsofit ;
+        skos:prefLabel
+                "nunsofit_we300"@de .
+
+tom:pe_0200000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pe ;
+        skos:prefLabel
+                "pe_0200000"@de .
+
+tom:pe_1100000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1100000"@de .
+
+tom:pe_2000000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pe ;
+        skos:prefLabel
+                "pe_2000000"@de .
+
+tom:pesofit_00001
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_00001"@de .
+
+tom:pesofit_01100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_01100"@de .
+
+tom:pesofit_01101
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_01101"@de .
+
+tom:pesofit_20001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_20001"@de .
+
+tom:qof_00200
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:qof ;
+        skos:prefLabel
+                "qof_00200"@de .
+
+tom:qof_03000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:qof ;
+        skos:prefLabel
+                "qof_03000"@de .
+
+tom:qof_10200
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:qof ;
+        skos:prefLabel
+                "qof_10200"@de .
+
+tom:qof_11101
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:qof ;
+        skos:prefLabel
+                "qof_11101"@de .
+
+tom:qof_00p00
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:qof ;
+        skos:prefLabel
+                "qof_00p00"@de .
+
+tom:qof_f0001
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:flag , tom:qof ;
+        skos:prefLabel
+                "qof_f0001"@de .
+
+tom:resh_0011
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:resh ;
+        skos:prefLabel
+                "resh_0011"@de .
+
+tom:resh_0010
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:resh ;
+        skos:prefLabel
+                "resh_0010"@de .
+
+tom:resh_0101
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:resh ;
+        skos:prefLabel
+                "resh_0101"@de .
+
+tom:resh_0200
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:resh ;
+        skos:prefLabel
+                "resh_0200"@de .
+
+tom:resh_e0000
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:resh ;
+        skos:prefLabel
+                "resh_e0000"@de .
+
+tom:samekh_002000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_002000"@de .
+
+tom:samekh_011000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_011000"@de .
+
+tom:samekh_011010
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_011010"@de .
+
+tom:samekh_020010
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_020010"@de .
+
+tom:samekh_102000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_102000"@de .
+
+tom:samekh_300000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_300000"@de .
+
+tom:samekh_f00000
+        a       skos:Concept ;
+        skos:broader
+                tom:flag , tom:samekh ;
+        skos:prefLabel
+                "samekh_f00000"@de .
+
+tom:tav_100001
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:tav ;
+        skos:prefLabel
+                "tav_100001"@de .
+
+tom:tav_e000001
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:elongated , tom:tav ;
+        skos:prefLabel
+                "tav_e000001"@de .
+
+tom:tav_f00b00
+        a       skos:Concept ;
+        skos:broader
+                tom:flag , tom:bow , tom:tav ;
+        skos:prefLabel
+                "tav_f00b00"@de .
+
+tom:teth_02
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:teth ;
+        skos:prefLabel
+                "teth_02"@de .
+
+tom:teth_21
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:teth ;
+        skos:prefLabel
+                "teth_21"@de .
+
+tom:teth_40
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:teth ;
+        skos:prefLabel
+                "teth_40"@de .
+
+tom:teth_41
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:teth ;
+        skos:prefLabel
+                "teth_41"@de .
+
+tom:teth_42
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:teth ;
+        skos:prefLabel
+                "teth_42"@de .
+
+tom:teth_e30
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:elongated , tom:teth ;
+        skos:prefLabel
+                "teth_e30"@de .
+
+tom:teth_w30
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:wrapped , tom:teth ;
+        skos:prefLabel
+                "teth_w30"@de .
+
+tom:tsade_020
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:tsade ;
+        skos:prefLabel
+                "tsade_020"@de .
+
+tom:tsade_100
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:tsade ;
+        skos:prefLabel
+                "tsade_100"@de .
+
+tom:tsade_120
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:tsade ;
+        skos:prefLabel
+                "tsade_120"@de .
+
+tom:tsade_200
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:tsade ;
+        skos:prefLabel
+                "tsade_200"@de .
+
+tom:tsade_310
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:tsade ;
+        skos:prefLabel
+                "tsade_310"@de .
+
+tom:tsade_330
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:tsade ;
+        skos:prefLabel
+                "tsade_330"@de .
+
+tom:tsadesofit_2000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:tsadesofit ;
+        skos:prefLabel
+                "tsadesofit_2000"@de .
+
+tom:tsadesofit_2100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:tsadesofit ;
+        skos:prefLabel
+                "tsadesofit_2100"@de .
+
+tom:tsadesofit_3300
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:tsadesofit ;
+        skos:prefLabel
+                "tsadesofit_3300"@de .
+
+tom:tsadesofit_e3000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:elongated , tom:tsadesofit ;
+        skos:prefLabel
+                "tsadesofit_e3000"@de .
+
+tom:vav_001
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:vav ;
+        skos:prefLabel
+                "vav_001"@de .
+
+tom:vav_0b0
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:vav ;
+        skos:prefLabel
+                "vav_0b0"@de .
+
+tom:vav_1b0
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:bow , tom:vav ;
+        skos:prefLabel
+                "vav_1b0"@de .
+
+tom:vav_1b1
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:bow , tom:vav ;
+        skos:prefLabel
+                "vav_1b1"@de .
+
+tom:vav_0bb
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:vav ;
+        skos:prefLabel
+                "vav_0bb"@de .
+
+tom:vav_10p
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:pretzel , tom:vav ;
+        skos:prefLabel
+                "vav_10p"@de .
+
+tom:vav_1pp
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:pretzel , tom:vav ;
+        skos:prefLabel
+                "vav_1pp"@de .
+
+tom:vav_1bb
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:bow , tom:vav ;
+        skos:prefLabel
+                "vav_1bb"@de .
+
+tom:yod_0p0
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:yod ;
+        skos:prefLabel
+                "yod_0p0"@de .
+
+tom:yod_001
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:yod ;
+        skos:prefLabel
+                "yod_001"@de .
+
+tom:yod_100
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:yod ;
+        skos:prefLabel
+                "yod_100"@de .
+
+tom:yod_101
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:yod ;
+        skos:prefLabel
+                "yod_101"@de .
+
+tom:yod_1p0
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:pretzel , tom:yod ;
+        skos:prefLabel
+                "yod_1p0"@de .
+
+tom:yod_200
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:yod ;
+        skos:prefLabel
+                "yod_200"@de .
+
+tom:yod_300
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:yod ;
+        skos:prefLabel
+                "yod_300"@de .
+
+tom:yod_s000
+        a       skos:Concept ;
+        skos:broader
+                tom:yod , tom:struckthrough ;
+        skos:prefLabel
+                "yod_s000"@de .
+
+tom:zayin_1b0
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:bow , tom:zayin ;
+        skos:prefLabel
+                "zayin_1b0"@de .
+
+tom:zayin_2b0
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:bow , tom:zayin ;
+        skos:prefLabel
+                "zayin_2b0"@de .
+
+tom:zayin_4b0
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:bow , tom:zayin ;
+        skos:prefLabel
+                "zayin_4b0"@de .
+
+tom:zayin_5b0
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:bow , tom:zayin ;
+        skos:prefLabel
+                "zayin_5b0"@de .
+
+tom:zayin_b00
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:zayin ;
+        skos:prefLabel
+                "zayin_b00"@de .
+
+tom:zayin_w400
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:wrapped , tom:zayin ;
+        skos:prefLabel
+                "zayin_w400"@de .
+
+tom:yod_e000
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:yod ;
+        skos:prefLabel
+                "yod_e000"@de .
+
+tom:yod_10p
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:pretzel , tom:yod ;
+        skos:prefLabel
+                "yod_10p"@de .
+
+tom:shin_0010
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:shin ;
+        skos:prefLabel
+                "shin_0010"@de .
+
+tom:shin_0300
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:shin ;
+        skos:prefLabel
+                "shin_0300"@de .
+
+tom:shin_1000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:shin ;
+        skos:prefLabel
+                "shin_1000"@de .
+
+tom:shin_1110
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:shin ;
+        skos:prefLabel
+                "shin_1110"@de .
+
+tom:shin_1230
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:shin ;
+        skos:prefLabel
+                "shin_1230"@de .
+
+tom:shin_2000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:shin ;
+        skos:prefLabel
+                "shin_2000"@de .
+
+tom:shin_2100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:shin ;
+        skos:prefLabel
+                "shin_2100"@de .
+
+tom:shin_2120
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:shin ;
+        skos:prefLabel
+                "shin_2120"@de .
+
+tom:shin_2210
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:shin ;
+        skos:prefLabel
+                "shin_2210"@de .
+
+tom:shin_2220
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:shin ;
+        skos:prefLabel
+                "shin_2220"@de .
+
+tom:shin_2230
+        a       skos:Concept ;
+        skos:broader
+                tom:7tagin , tom:shin ;
+        skos:prefLabel
+                "shin_2230"@de .
+
+tom:shin_2320
+        a       skos:Concept ;
+        skos:broader
+                tom:7tagin , tom:shin ;
+        skos:prefLabel
+                "shin_2320"@de .
+
+tom:shin_3010
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:shin ;
+        skos:prefLabel
+                "shin_3010"@de .
+
+tom:shin_3020
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:shin ;
+        skos:prefLabel
+                "shin_3020"@de .
+
+tom:shin_3100
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:shin ;
+        skos:prefLabel
+                "shin_3100"@de .
+
+tom:shin_3110
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:shin ;
+        skos:prefLabel
+                "shin_3110"@de .
+
+tom:shin_3120
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:shin ;
+        skos:prefLabel
+                "shin_3120"@de .
+
+tom:shin_3210
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:shin ;
+        skos:prefLabel
+                "shin_3210"@de .
+
+tom:shin_3220
+        a       skos:Concept ;
+        skos:broader
+                tom:7tagin , tom:shin ;
+        skos:prefLabel
+                "shin_3220"@de .
+
+tom:shin_3230
+        a       skos:Concept ;
+        skos:broader
+                tom:7tagin , tom:shin ;
+        skos:prefLabel
+                "shin_3230"@de .
+
+tom:shin_3300
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:shin ;
+        skos:prefLabel
+                "shin_3300"@de .
+
+tom:shin_3320
+        a       skos:Concept ;
+        skos:broader
+                tom:8tagin , tom:shin ;
+        skos:prefLabel
+                "shin_3320"@de .
+
+tom:shin_3330
+        a       skos:Concept ;
+        skos:broader
+                tom:9tagin , tom:shin ;
+        skos:prefLabel
+                "shin_3330"@de .
+
+tom:shin_4000
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:shin ;
+        skos:prefLabel
+                "shin_4000"@de .
+
+tom:shin_e3000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:elongated , tom:shin ;
+        skos:prefLabel
+                "shin_e3000"@de .
+
+tom:shin_e3001
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:elongated , tom:shin ;
+        skos:prefLabel
+                "shin_e3001"@de .
+
+tom:tav_000010
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:tav ;
+        skos:prefLabel
+                "tav_000010"@de .
+
+tom:tav_0000b0
+        a       skos:Concept ;
+        skos:broader
+                tom:bow , tom:tav ;
+        skos:prefLabel
+                "tav_0000b0"@de .
+
+tom:tav_000p00
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:tav ;
+        skos:prefLabel
+                "tav_000p00"@de .
+
+tom:tav_010000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:tav ;
+        skos:prefLabel
+                "tav_010000"@de .
+
+tom:tav_011000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:tav ;
+        skos:prefLabel
+                "tav_011000"@de .
+
+tom:tav_100000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:tav ;
+        skos:prefLabel
+                "tav_100000"@de .
+
+tom:tav_101000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:tav ;
+        skos:prefLabel
+                "tav_101000"@de .
+
+tom:tav_111000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:tav ;
+        skos:prefLabel
+                "tav_111000"@de .
+
+tom:tav_200000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:tav ;
+        skos:prefLabel
+                "tav_200000"@de .
+
+tom:tav_e000000
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:tav ;
+        skos:prefLabel
+                "tav_e000000"@de .
+
+tom:tav_f00000
+        a       skos:Concept ;
+        skos:broader
+                tom:flag , tom:tav ;
+        skos:prefLabel
+                "tav_f00000"@de .
+
+tom:mem_20100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:mem ;
+        skos:prefLabel
+                "mem_20100"@de .
+
+tom:nun_10p
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:pretzel , tom:nun ;
+        skos:prefLabel
+                "nun_10p"@de .
+
+tom:dalet_0100
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:dalet ;
+        skos:prefLabel
+                "dalet_0100"@de .
+
+tom:nunsofit_1p0
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:pretzel , tom:nunsofit ;
+        skos:prefLabel
+                "nunsofit_1p0"@de .
+
+tom:ayin_p000
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_p000"@de .
+
+tom:mem_12100
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:mem ;
+        skos:prefLabel
+                "mem_12100"@de .
+
+tom:tsade_110
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:tsade ;
+        skos:prefLabel
+                "tsade_110"@de .
+
+tom:het_0100b
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_0100b"@de .
+
+tom:tav_02000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:tav ;
+        skos:prefLabel
+                "tav_02000"@de .
+
+tom:mem_11000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:mem ;
+        skos:prefLabel
+                "mem_11000"@de .
+
+tom:pe_2100000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pe ;
+        skos:prefLabel
+                "pe_2100000"@de .
+
+tom:pe_1010001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1010001"@de .
+
+tom:nunsofit_300
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:nunsofit ;
+        skos:prefLabel
+                "nunsofit_300"@de .
+
+tom:ayin_0pp0
+        a       skos:Concept ;
+        skos:broader
+                tom:pretzel , tom:ayin ;
+        skos:prefLabel
+                "ayin_0pp0"@de .
+
+tom:dalet_1112
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:dalet ;
+        skos:prefLabel
+                "dalet_1112"@de .
+
+tom:gimel_31
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:gimel ;
+        skos:prefLabel
+                "gimel_31"@de .
+
+tom:he_0201
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:he ;
+        skos:prefLabel
+                "he_0201"@de .
+
+tom:he_0301
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:he ;
+        skos:prefLabel
+                "he_0301"@de .
+
+tom:he_2100
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:he ;
+        skos:prefLabel
+                "he_2100"@de .
+
+tom:kaf_010000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:kaf ;
+        skos:prefLabel
+                "kaf_010000"@de .
+
+tom:kaf_030000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:kaf ;
+        skos:prefLabel
+                "kaf_030000"@de .
+
+tom:kaf_100000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:kaf ;
+        skos:prefLabel
+                "kaf_100000"@de .
+
+tom:kafsofit_010p0
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:pretzel , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_010p0"@de .
+
+tom:kafsofit_11000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_11000"@de .
+
+tom:mem_01000
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:mem ;
+        skos:prefLabel
+                "mem_01000"@de .
+
+tom:mem_31000
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:mem ;
+        skos:prefLabel
+                "mem_31000"@de .
+
+tom:nun_30p
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pretzel , tom:nun ;
+        skos:prefLabel
+                "nun_30p"@de .
+
+tom:pe_101b000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:bow , tom:pe ;
+        skos:prefLabel
+                "pe_101b000"@de .
+
+tom:pe_1100001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1100001"@de .
+
+tom:pesofit_00002
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_00002"@de .
+
+tom:pesofit_02001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_02001"@de .
+
+tom:tav_020000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:tav ;
+        skos:prefLabel
+                "tav_020000"@de .
+
+tom:alef_1102
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:alef ;
+        skos:prefLabel
+                "alef_1102"@de .
+
+tom:ayin_0300
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:ayin ;
+        skos:prefLabel
+                "ayin_0300"@de .
+
+tom:ayin_1200
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:ayin ;
+        skos:prefLabel
+                "ayin_1200"@de .
+
+tom:ayin_3100
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:ayin ;
+        skos:prefLabel
+                "ayin_3100"@de .
+
+tom:he_2001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:he ;
+        skos:prefLabel
+                "he_2001"@de .
+
+tom:he_3001
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:he ;
+        skos:prefLabel
+                "he_3001"@de .
+
+tom:het_1010b
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_1010b"@de .
+
+tom:het_e10100
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:elongated , tom:het ;
+        skos:prefLabel
+                "het_e10100"@de .
+
+tom:het_110bb
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_110bb"@de .
+
+tom:het_rb020b
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:roof , tom:bow , tom:het ;
+        skos:prefLabel
+                "het_rb020b"@de .
+
+tom:het_12000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:het ;
+        skos:prefLabel
+                "het_12000"@de .
+
+tom:het_20001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:het ;
+        skos:prefLabel
+                "het_20001"@de .
+
+tom:het_e11000
+        a       skos:Concept ;
+        skos:broader
+                tom:2tagin , tom:elongated , tom:het ;
+        skos:prefLabel
+                "het_e11000"@de .
+
+tom:kaf_200001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:kaf ;
+        skos:prefLabel
+                "kaf_200001"@de .
+
+tom:kafsofit_12001
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_12001"@de .
+
+tom:kafsofit_21001
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_21001"@de .
+
+tom:kafsofit_30001
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:kafsofit ;
+        skos:prefLabel
+                "kafsofit_30001"@de .
+
+tom:memsofit_000001
+        a       skos:Concept ;
+        skos:broader
+                tom:1tag , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_000001"@de .
+
+tom:memsofit_110001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_110001"@de .
+
+tom:memsofit_120001
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_120001"@de .
+
+tom:memsofit_200001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:memsofit ;
+        skos:prefLabel
+                "memsofit_200001"@de .
+
+tom:pe_1200002
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:pe ;
+        skos:prefLabel
+                "pe_1200002"@de .
+
+tom:pe_2100001
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:pe ;
+        skos:prefLabel
+                "pe_2100001"@de .
+
+tom:pesofit_11002
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:pesofit ;
+        skos:prefLabel
+                "pesofit_11002"@de .
+
+tom:qof_11001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:qof ;
+        skos:prefLabel
+                "qof_11001"@de .
+
+tom:qof_12001
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:qof ;
+        skos:prefLabel
+                "qof_12001"@de .
+
+tom:qof_20001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:qof ;
+        skos:prefLabel
+                "qof_20001"@de .
+
+tom:qof_200p1
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:pretzel , tom:qof ;
+        skos:prefLabel
+                "qof_200p1"@de .
+
+tom:samekh_101001
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_101001"@de .
+
+tom:samekh_110010
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_110010"@de .
+
+tom:samekh_120001
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_120001"@de .
+
+tom:samekh_120000
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_120000"@de .
+
+tom:samekh_120010
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_120010"@de .
+
+tom:samekh_130000
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_130000"@de .
+
+tom:samekh_210010
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_210010"@de .
+
+tom:samekh_030010
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_030010"@de .
+
+tom:samekh_300001
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_300001"@de .
+
+tom:shin_0210
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:shin ;
+        skos:prefLabel
+                "shin_0210"@de .
+
+tom:shin_1200
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:shin ;
+        skos:prefLabel
+                "shin_1200"@de .
+
+tom:shin_2010
+        a       skos:Concept ;
+        skos:broader
+                tom:3tagin , tom:shin ;
+        skos:prefLabel
+                "shin_2010"@de .
+
+tom:shin_3130
+        a       skos:Concept ;
+        skos:broader
+                tom:7tagin , tom:shin ;
+        skos:prefLabel
+                "shin_3130"@de .
+
+tom:shin_2130
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:shin ;
+        skos:prefLabel
+                "shin_2130"@de .
+
+tom:teth_w23
+        a       skos:Concept ;
+        skos:broader
+                tom:5tagin , tom:wrapped , tom:teth ;
+        skos:prefLabel
+                "teth_w23"@de .
+
+tom:teth_w33
+        a       skos:Concept ;
+        skos:broader
+                tom:6tagin , tom:wrapped , tom:teth ;
+        skos:prefLabel
+                "teth_w33"@de .
+
+tom:tsade_e00p
+        a       skos:Concept ;
+        skos:broader
+                tom:elongated , tom:pretzel , tom:tsade ;
+        skos:prefLabel
+                "tsade_e00p"@de .
+
+tom:samekh_101011
+        a       skos:Concept ;
+        skos:broader
+                tom:4tagin , tom:samekh ;
+        skos:prefLabel
+                "samekh_101011"@de .
