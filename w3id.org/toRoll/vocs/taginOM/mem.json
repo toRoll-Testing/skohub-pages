@@ -72,6 +72,12 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_11001",
+      "prefLabel": {
+        "de": "mem_11001"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/mem_11100",
       "prefLabel": {
         "de": "mem_11100"
@@ -99,6 +105,18 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/mem_31000",
       "prefLabel": {
         "de": "mem_31000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_b0000",
+      "prefLabel": {
+        "de": "mem_b0000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_e00000",
+      "prefLabel": {
+        "de": "mem_e00000"
       }
     }
   ],

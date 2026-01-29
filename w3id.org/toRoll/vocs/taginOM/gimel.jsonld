@@ -6,6 +6,12 @@
   },
   "narrower": [
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/gimel_0b",
+      "prefLabel": {
+        "de": "gimel_0b"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/gimel_20",
       "prefLabel": {
         "de": "gimel_20"

@@ -4,6 +4,14 @@
   "prefLabel": {
     "de": "zigzag"
   },
+  "narrower": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_130z1",
+      "prefLabel": {
+        "de": "kafsofit_130z1"
+      }
+    }
+  ],
   "broader": {
     "id": "https://w3id.org/toRoll/vocs/taginOM/otijjotmeshunnot",
     "prefLabel": {

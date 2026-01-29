@@ -12,6 +12,12 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/beit_00000b0",
+      "prefLabel": {
+        "de": "beit_00000b0"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/beit_0001000",
       "prefLabel": {
         "de": "beit_0001000"
@@ -21,6 +27,12 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/beit_0010000",
       "prefLabel": {
         "de": "beit_0010000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/beit_00f0000",
+      "prefLabel": {
+        "de": "beit_00f0000"
       }
     },
     {

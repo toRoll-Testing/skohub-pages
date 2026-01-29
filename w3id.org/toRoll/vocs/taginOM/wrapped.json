@@ -6,6 +6,30 @@
   },
   "narrower": [
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_w0000",
+      "prefLabel": {
+        "de": "ayin_w0000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_we0000",
+      "prefLabel": {
+        "de": "ayin_we0000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_w300",
+      "prefLabel": {
+        "de": "nunsofit_w300"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_we300",
+      "prefLabel": {
+        "de": "nunsofit_we300"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/pe_w0000000",
       "prefLabel": {
         "de": "pe_w0000000"

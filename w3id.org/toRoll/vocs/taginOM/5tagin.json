@@ -48,6 +48,12 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_p220",
+      "prefLabel": {
+        "de": "ayin_p220"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/beit_2300000",
       "prefLabel": {
         "de": "beit_2300000"
@@ -63,6 +69,12 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/he_2300",
       "prefLabel": {
         "de": "he_2300"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_130z1",
+      "prefLabel": {
+        "de": "kafsofit_130z1"
       }
     },
     {
