@@ -4,7 +4,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 tom: a skos:ConceptScheme ;
-        dct:title "Tagin & Otiyyot Meshunnot"@en,  "Tagin & Otijjot Meshunnot"@de ;
+        dct:title "TOM Letters"@en,  "TOM Buchstaben"@de ;
         skos:hasTopConcept 
 tom:alef ,
 tom:ayin ,
