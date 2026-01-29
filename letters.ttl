@@ -34,26 +34,142 @@ tom:vav ,
 tom:yod ,
 tom:zayin .
 
-tom:pe_w0100000
+tom:alef
         a       skos:Concept ;
-        skos:broader
-                tom:pe ;
         skos:prefLabel
-                "pe_w0100000"@de .
+                "alef"@de .
 
-tom:nunsofit_10p
+tom:ayin
         a       skos:Concept ;
-        skos:broader
-                tom:nunsofit ;
         skos:prefLabel
-                "nunsofit_10p"@de .
+                "ayin"@de .
 
-tom:pe_w1000000
+tom:beit
         a       skos:Concept ;
-        skos:broader
-                tom:pe ;
         skos:prefLabel
-                "pe_w1000000"@de .
+                "beit"@de .
+
+tom:dalet
+        a       skos:Concept ;
+        skos:prefLabel
+                "dalet"@de .
+
+tom:gimel
+        a       skos:Concept ;
+        skos:prefLabel
+                "gimel"@de .
+
+tom:he
+        a       skos:Concept ;
+        skos:narrower
+                tom:he_1000 ;
+        skos:prefLabel
+                "he"@de .
+
+tom:het
+        a       skos:Concept ;
+        skos:prefLabel
+                "het"@de .
+
+tom:kaf
+        a       skos:Concept ;
+        skos:prefLabel
+                "kaf"@de .
+
+tom:kafsofit
+        a       skos:Concept ;
+        skos:prefLabel
+                "kafsofit"@de .
+
+tom:lamed
+        a       skos:Concept ;
+        skos:prefLabel
+                "lamed"@de .
+
+tom:mem
+        a       skos:Concept ;
+        skos:prefLabel
+                "mem"@de .
+
+tom:memsofit
+        a       skos:Concept ;
+        skos:prefLabel
+                "memsofit"@de .
+
+tom:nun
+        a       skos:Concept ;
+        skos:prefLabel
+                "nun"@de .
+
+tom:nunsofit
+        a       skos:Concept ;
+        skos:prefLabel
+                "nunsofit"@de .
+
+tom:pe
+        a       skos:Concept ;
+        skos:prefLabel
+                "pe"@de .
+
+tom:pesofit
+        a       skos:Concept ;
+        skos:prefLabel
+                "pesofit"@de .
+
+tom:qof
+        a       skos:Concept ;
+        skos:prefLabel
+                "qof"@de .
+
+tom:resh
+        a       skos:Concept ;
+        skos:prefLabel
+                "resh"@de .
+
+tom:samekh
+        a       skos:Concept ;
+        skos:prefLabel
+                "samekh"@de .
+
+tom:shin
+        a       skos:Concept ;
+        skos:prefLabel
+                "shin"@de .
+
+tom:tav
+        a       skos:Concept ;
+        skos:prefLabel
+                "tav"@de .
+
+tom:teth
+        a       skos:Concept ;
+        skos:prefLabel
+                "teth"@de .
+
+tom:tsade
+        a       skos:Concept ;
+        skos:prefLabel
+                "tsade"@de .
+
+tom:tsadesofit
+        a       skos:Concept ;
+        skos:prefLabel
+                "tsadesofit"@de .
+
+tom:vav
+        a       skos:Concept ;
+        skos:prefLabel
+                "vav"@de .
+
+tom:yod
+        a       skos:Concept ;
+        skos:prefLabel
+                "yod"@de .
+
+tom:zayin
+        a       skos:Concept ;
+        skos:prefLabel
+                "zayin"@de .
 
 tom:he_1000
         a       skos:Concept ;
@@ -61,3 +177,4 @@ tom:he_1000
                 tom:he ;
         skos:prefLabel
                 "he_1000"@de .
+
