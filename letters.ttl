@@ -183,7 +183,7 @@ tom:he_1000
         skos:definition
                 "Variante des He mit einem Tag auf der ersten Position."@de , "Variant of with one tag at the first position."@en ;
         skos:scopeNote 
-                "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-1000"@de , "Naming scheme: https://example.github.io/docs/letters/he.html#variante-1000" ;
+                "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-1000"@de , "Naming scheme: https://example.github.io/docs/letters/he.html#variante-1000"@en ;
         skos:hiddenLabel
                 "1tag" .
 
