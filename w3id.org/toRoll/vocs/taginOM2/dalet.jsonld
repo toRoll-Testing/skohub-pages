@@ -4,12 +4,86 @@
   "prefLabel": {
     "de": "dalet"
   },
+  "narrower": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/dalet_0001",
+      "prefLabel": {
+        "de": "dalet_0001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/dalet_0100",
+      "prefLabel": {
+        "de": "dalet_0100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/dalet_0110",
+      "prefLabel": {
+        "de": "dalet_0110"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/dalet_0200",
+      "prefLabel": {
+        "de": "dalet_0200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/dalet_1000",
+      "prefLabel": {
+        "de": "dalet_1000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/dalet_1010",
+      "prefLabel": {
+        "de": "dalet_1010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/dalet_1021",
+      "prefLabel": {
+        "de": "dalet_1021"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/dalet_1110",
+      "prefLabel": {
+        "de": "dalet_1110"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/dalet_1111",
+      "prefLabel": {
+        "de": "dalet_1111"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/dalet_1112",
+      "prefLabel": {
+        "de": "dalet_1112"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/dalet_1210",
+      "prefLabel": {
+        "de": "dalet_1210"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/toRoll/vocs/taginOM2/Hebrew",
+    "prefLabel": {
+      "de": "Hebrew"
+    }
+  },
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM2/",
       "title": {
-        "en": "TOM Letters",
-        "de": "TOM Buchstaben"
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
       }
     }
   ],
@@ -22,8 +96,8 @@
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM2/",
       "title": {
-        "en": "TOM Letters",
-        "de": "TOM Buchstaben"
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
       }
     }
   ],

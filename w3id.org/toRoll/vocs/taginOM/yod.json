@@ -4,80 +4,12 @@
   "prefLabel": {
     "de": "yod"
   },
-  "narrower": [
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_001",
-      "prefLabel": {
-        "de": "yod_001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_0p0",
-      "prefLabel": {
-        "de": "yod_0p0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_100",
-      "prefLabel": {
-        "de": "yod_100"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_101",
-      "prefLabel": {
-        "de": "yod_101"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_10p",
-      "prefLabel": {
-        "de": "yod_10p"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_1p0",
-      "prefLabel": {
-        "de": "yod_1p0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_200",
-      "prefLabel": {
-        "de": "yod_200"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_300",
-      "prefLabel": {
-        "de": "yod_300"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_e000",
-      "prefLabel": {
-        "de": "yod_e000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_s000",
-      "prefLabel": {
-        "de": "yod_s000"
-      }
-    }
-  ],
-  "broader": {
-    "id": "https://w3id.org/toRoll/vocs/taginOM/Hebrew",
-    "prefLabel": {
-      "de": "Hebrew"
-    }
-  },
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
       "title": {
-        "en": "Tagin & Otiyyot Meshunnot",
-        "de": "Tagin & Otijjot Meshunnot"
+        "en": "TOM Letters",
+        "de": "TOM Buchstaben"
       }
     }
   ],
@@ -90,8 +22,8 @@
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
       "title": {
-        "en": "Tagin & Otiyyot Meshunnot",
-        "de": "Tagin & Otijjot Meshunnot"
+        "en": "TOM Letters",
+        "de": "TOM Buchstaben"
       }
     }
   ],

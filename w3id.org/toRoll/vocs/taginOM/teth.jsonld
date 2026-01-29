@@ -4,152 +4,12 @@
   "prefLabel": {
     "de": "teth"
   },
-  "narrower": [
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_02",
-      "prefLabel": {
-        "de": "teth_02"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_10",
-      "prefLabel": {
-        "de": "teth_10"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_11",
-      "prefLabel": {
-        "de": "teth_11"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_12",
-      "prefLabel": {
-        "de": "teth_12"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_20",
-      "prefLabel": {
-        "de": "teth_20"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_21",
-      "prefLabel": {
-        "de": "teth_21"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_22",
-      "prefLabel": {
-        "de": "teth_22"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_31",
-      "prefLabel": {
-        "de": "teth_31"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_32",
-      "prefLabel": {
-        "de": "teth_32"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_40",
-      "prefLabel": {
-        "de": "teth_40"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_41",
-      "prefLabel": {
-        "de": "teth_41"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_42",
-      "prefLabel": {
-        "de": "teth_42"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_e30",
-      "prefLabel": {
-        "de": "teth_e30"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w00",
-      "prefLabel": {
-        "de": "teth_w00"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w10",
-      "prefLabel": {
-        "de": "teth_w10"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w11",
-      "prefLabel": {
-        "de": "teth_w11"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w21",
-      "prefLabel": {
-        "de": "teth_w21"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w23",
-      "prefLabel": {
-        "de": "teth_w23"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w30",
-      "prefLabel": {
-        "de": "teth_w30"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w31",
-      "prefLabel": {
-        "de": "teth_w31"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w32",
-      "prefLabel": {
-        "de": "teth_w32"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/teth_w33",
-      "prefLabel": {
-        "de": "teth_w33"
-      }
-    }
-  ],
-  "broader": {
-    "id": "https://w3id.org/toRoll/vocs/taginOM/Hebrew",
-    "prefLabel": {
-      "de": "Hebrew"
-    }
-  },
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
       "title": {
-        "en": "Tagin & Otiyyot Meshunnot",
-        "de": "Tagin & Otijjot Meshunnot"
+        "en": "TOM Letters",
+        "de": "TOM Buchstaben"
       }
     }
   ],
@@ -162,8 +22,8 @@
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
       "title": {
-        "en": "Tagin & Otiyyot Meshunnot",
-        "de": "Tagin & Otijjot Meshunnot"
+        "en": "TOM Letters",
+        "de": "TOM Buchstaben"
       }
     }
   ],

@@ -4,12 +4,206 @@
   "prefLabel": {
     "de": "shin"
   },
+  "narrower": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_0010",
+      "prefLabel": {
+        "de": "shin_0010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_0210",
+      "prefLabel": {
+        "de": "shin_0210"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_0300",
+      "prefLabel": {
+        "de": "shin_0300"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_1000",
+      "prefLabel": {
+        "de": "shin_1000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_1110",
+      "prefLabel": {
+        "de": "shin_1110"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_1200",
+      "prefLabel": {
+        "de": "shin_1200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_1230",
+      "prefLabel": {
+        "de": "shin_1230"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_2000",
+      "prefLabel": {
+        "de": "shin_2000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_2010",
+      "prefLabel": {
+        "de": "shin_2010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_2100",
+      "prefLabel": {
+        "de": "shin_2100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_2120",
+      "prefLabel": {
+        "de": "shin_2120"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_2130",
+      "prefLabel": {
+        "de": "shin_2130"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_2210",
+      "prefLabel": {
+        "de": "shin_2210"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_2220",
+      "prefLabel": {
+        "de": "shin_2220"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_2230",
+      "prefLabel": {
+        "de": "shin_2230"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_2320",
+      "prefLabel": {
+        "de": "shin_2320"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_3010",
+      "prefLabel": {
+        "de": "shin_3010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_3020",
+      "prefLabel": {
+        "de": "shin_3020"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_3100",
+      "prefLabel": {
+        "de": "shin_3100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_3110",
+      "prefLabel": {
+        "de": "shin_3110"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_3120",
+      "prefLabel": {
+        "de": "shin_3120"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_3130",
+      "prefLabel": {
+        "de": "shin_3130"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_3210",
+      "prefLabel": {
+        "de": "shin_3210"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_3220",
+      "prefLabel": {
+        "de": "shin_3220"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_3230",
+      "prefLabel": {
+        "de": "shin_3230"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_3300",
+      "prefLabel": {
+        "de": "shin_3300"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_3320",
+      "prefLabel": {
+        "de": "shin_3320"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_3330",
+      "prefLabel": {
+        "de": "shin_3330"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_4000",
+      "prefLabel": {
+        "de": "shin_4000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_e3000",
+      "prefLabel": {
+        "de": "shin_e3000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_e3001",
+      "prefLabel": {
+        "de": "shin_e3001"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/toRoll/vocs/taginOM2/Hebrew",
+    "prefLabel": {
+      "de": "Hebrew"
+    }
+  },
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM2/",
       "title": {
-        "en": "TOM Letters",
-        "de": "TOM Buchstaben"
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
       }
     }
   ],
@@ -22,8 +216,8 @@
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM2/",
       "title": {
-        "en": "TOM Letters",
-        "de": "TOM Buchstaben"
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
       }
     }
   ],

@@ -4,140 +4,12 @@
   "prefLabel": {
     "de": "kaf"
   },
-  "narrower": [
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_000010",
-      "prefLabel": {
-        "de": "kaf_000010"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_0000b0",
-      "prefLabel": {
-        "de": "kaf_0000b0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_002000",
-      "prefLabel": {
-        "de": "kaf_002000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_010000",
-      "prefLabel": {
-        "de": "kaf_010000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_011000",
-      "prefLabel": {
-        "de": "kaf_011000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_011010",
-      "prefLabel": {
-        "de": "kaf_011010"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_020000",
-      "prefLabel": {
-        "de": "kaf_020000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_030000",
-      "prefLabel": {
-        "de": "kaf_030000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_100000",
-      "prefLabel": {
-        "de": "kaf_100000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_101000",
-      "prefLabel": {
-        "de": "kaf_101000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_101001",
-      "prefLabel": {
-        "de": "kaf_101001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_101010",
-      "prefLabel": {
-        "de": "kaf_101010"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_1010b0",
-      "prefLabel": {
-        "de": "kaf_1010b0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_101b00",
-      "prefLabel": {
-        "de": "kaf_101b00"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_110000",
-      "prefLabel": {
-        "de": "kaf_110000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_110001",
-      "prefLabel": {
-        "de": "kaf_110001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_111000",
-      "prefLabel": {
-        "de": "kaf_111000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_11100b",
-      "prefLabel": {
-        "de": "kaf_11100b"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_200001",
-      "prefLabel": {
-        "de": "kaf_200001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kaf_b00000",
-      "prefLabel": {
-        "de": "kaf_b00000"
-      }
-    }
-  ],
-  "broader": {
-    "id": "https://w3id.org/toRoll/vocs/taginOM/Hebrew",
-    "prefLabel": {
-      "de": "Hebrew"
-    }
-  },
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
       "title": {
-        "en": "Tagin & Otiyyot Meshunnot",
-        "de": "Tagin & Otijjot Meshunnot"
+        "en": "TOM Letters",
+        "de": "TOM Buchstaben"
       }
     }
   ],
@@ -150,8 +22,8 @@
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
       "title": {
-        "en": "Tagin & Otiyyot Meshunnot",
-        "de": "Tagin & Otijjot Meshunnot"
+        "en": "TOM Letters",
+        "de": "TOM Buchstaben"
       }
     }
   ],

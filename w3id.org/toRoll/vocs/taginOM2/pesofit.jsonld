@@ -4,12 +4,146 @@
   "prefLabel": {
     "de": "pesofit"
   },
+  "narrower": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_00001",
+      "prefLabel": {
+        "de": "pesofit_00001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_00002",
+      "prefLabel": {
+        "de": "pesofit_00002"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_01100",
+      "prefLabel": {
+        "de": "pesofit_01100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_01101",
+      "prefLabel": {
+        "de": "pesofit_01101"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_01102",
+      "prefLabel": {
+        "de": "pesofit_01102"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_02001",
+      "prefLabel": {
+        "de": "pesofit_02001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_10000",
+      "prefLabel": {
+        "de": "pesofit_10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_10002",
+      "prefLabel": {
+        "de": "pesofit_10002"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_10100",
+      "prefLabel": {
+        "de": "pesofit_10100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_10101",
+      "prefLabel": {
+        "de": "pesofit_10101"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_10102",
+      "prefLabel": {
+        "de": "pesofit_10102"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_11000",
+      "prefLabel": {
+        "de": "pesofit_11000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_11001",
+      "prefLabel": {
+        "de": "pesofit_11001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_11002",
+      "prefLabel": {
+        "de": "pesofit_11002"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_11100",
+      "prefLabel": {
+        "de": "pesofit_11100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_20001",
+      "prefLabel": {
+        "de": "pesofit_20001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_w00000",
+      "prefLabel": {
+        "de": "pesofit_w00000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_w10000",
+      "prefLabel": {
+        "de": "pesofit_w10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_w10100",
+      "prefLabel": {
+        "de": "pesofit_w10100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_w11000",
+      "prefLabel": {
+        "de": "pesofit_w11000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_w11100",
+      "prefLabel": {
+        "de": "pesofit_w11100"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/toRoll/vocs/taginOM2/Hebrew",
+    "prefLabel": {
+      "de": "Hebrew"
+    }
+  },
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM2/",
       "title": {
-        "en": "TOM Letters",
-        "de": "TOM Buchstaben"
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
       }
     }
   ],
@@ -22,8 +156,8 @@
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM2/",
       "title": {
-        "en": "TOM Letters",
-        "de": "TOM Buchstaben"
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
       }
     }
   ],

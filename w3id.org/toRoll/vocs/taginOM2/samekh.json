@@ -4,12 +4,170 @@
   "prefLabel": {
     "de": "samekh"
   },
+  "narrower": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_000010",
+      "prefLabel": {
+        "de": "samekh_000010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_002000",
+      "prefLabel": {
+        "de": "samekh_002000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_011000",
+      "prefLabel": {
+        "de": "samekh_011000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_011010",
+      "prefLabel": {
+        "de": "samekh_011010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_020000",
+      "prefLabel": {
+        "de": "samekh_020000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_020010",
+      "prefLabel": {
+        "de": "samekh_020010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_030010",
+      "prefLabel": {
+        "de": "samekh_030010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_100000",
+      "prefLabel": {
+        "de": "samekh_100000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_101000",
+      "prefLabel": {
+        "de": "samekh_101000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_101001",
+      "prefLabel": {
+        "de": "samekh_101001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_101010",
+      "prefLabel": {
+        "de": "samekh_101010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_101011",
+      "prefLabel": {
+        "de": "samekh_101011"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_101100",
+      "prefLabel": {
+        "de": "samekh_101100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_102000",
+      "prefLabel": {
+        "de": "samekh_102000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_110010",
+      "prefLabel": {
+        "de": "samekh_110010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_111000",
+      "prefLabel": {
+        "de": "samekh_111000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_111010",
+      "prefLabel": {
+        "de": "samekh_111010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_120000",
+      "prefLabel": {
+        "de": "samekh_120000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_120001",
+      "prefLabel": {
+        "de": "samekh_120001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_120010",
+      "prefLabel": {
+        "de": "samekh_120010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_130000",
+      "prefLabel": {
+        "de": "samekh_130000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_210010",
+      "prefLabel": {
+        "de": "samekh_210010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_300000",
+      "prefLabel": {
+        "de": "samekh_300000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_300001",
+      "prefLabel": {
+        "de": "samekh_300001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_f00000",
+      "prefLabel": {
+        "de": "samekh_f00000"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/toRoll/vocs/taginOM2/Hebrew",
+    "prefLabel": {
+      "de": "Hebrew"
+    }
+  },
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM2/",
       "title": {
-        "en": "TOM Letters",
-        "de": "TOM Buchstaben"
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
       }
     }
   ],
@@ -22,8 +180,8 @@
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM2/",
       "title": {
-        "en": "TOM Letters",
-        "de": "TOM Buchstaben"
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
       }
     }
   ],

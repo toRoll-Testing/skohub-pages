@@ -4,44 +4,12 @@
   "prefLabel": {
     "de": "gimel"
   },
-  "narrower": [
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/gimel_0b",
-      "prefLabel": {
-        "de": "gimel_0b"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/gimel_20",
-      "prefLabel": {
-        "de": "gimel_20"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/gimel_31",
-      "prefLabel": {
-        "de": "gimel_31"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/gimel_40",
-      "prefLabel": {
-        "de": "gimel_40"
-      }
-    }
-  ],
-  "broader": {
-    "id": "https://w3id.org/toRoll/vocs/taginOM/Hebrew",
-    "prefLabel": {
-      "de": "Hebrew"
-    }
-  },
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
       "title": {
-        "en": "Tagin & Otiyyot Meshunnot",
-        "de": "Tagin & Otijjot Meshunnot"
+        "en": "TOM Letters",
+        "de": "TOM Buchstaben"
       }
     }
   ],
@@ -54,8 +22,8 @@
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
       "title": {
-        "en": "Tagin & Otiyyot Meshunnot",
-        "de": "Tagin & Otijjot Meshunnot"
+        "en": "TOM Letters",
+        "de": "TOM Buchstaben"
       }
     }
   ],

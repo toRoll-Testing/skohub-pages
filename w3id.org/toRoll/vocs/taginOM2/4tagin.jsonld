@@ -1,0 +1,619 @@
+{
+  "id": "https://w3id.org/toRoll/vocs/taginOM2/4tagin",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "4 tagin"
+  },
+  "narrower": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_1102",
+      "prefLabel": {
+        "de": "alef_1102"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_1300",
+      "prefLabel": {
+        "de": "alef_1300"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_2200",
+      "prefLabel": {
+        "de": "alef_2200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_3100",
+      "prefLabel": {
+        "de": "alef_3100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/ayin_3010",
+      "prefLabel": {
+        "de": "ayin_3010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/ayin_3100",
+      "prefLabel": {
+        "de": "ayin_3100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/ayin_4000",
+      "prefLabel": {
+        "de": "ayin_4000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/ayin_p220",
+      "prefLabel": {
+        "de": "ayin_p220"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/beit_1011010",
+      "prefLabel": {
+        "de": "beit_1011010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/beit_1210000",
+      "prefLabel": {
+        "de": "beit_1210000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/dalet_1021",
+      "prefLabel": {
+        "de": "dalet_1021"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/dalet_1111",
+      "prefLabel": {
+        "de": "dalet_1111"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/dalet_1210",
+      "prefLabel": {
+        "de": "dalet_1210"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/gimel_31",
+      "prefLabel": {
+        "de": "gimel_31"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/gimel_40",
+      "prefLabel": {
+        "de": "gimel_40"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/he_0301",
+      "prefLabel": {
+        "de": "he_0301"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/he_1111",
+      "prefLabel": {
+        "de": "he_1111"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/he_1120",
+      "prefLabel": {
+        "de": "he_1120"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/he_1201",
+      "prefLabel": {
+        "de": "he_1201"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/he_1210",
+      "prefLabel": {
+        "de": "he_1210"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/he_2020",
+      "prefLabel": {
+        "de": "he_2020"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/he_3001",
+      "prefLabel": {
+        "de": "he_3001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/kafsofit_11101",
+      "prefLabel": {
+        "de": "kafsofit_11101"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/kafsofit_12001",
+      "prefLabel": {
+        "de": "kafsofit_12001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/kafsofit_12100",
+      "prefLabel": {
+        "de": "kafsofit_12100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/kafsofit_20200",
+      "prefLabel": {
+        "de": "kafsofit_20200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/kafsofit_21001",
+      "prefLabel": {
+        "de": "kafsofit_21001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/kafsofit_30001",
+      "prefLabel": {
+        "de": "kafsofit_30001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/mem_12100",
+      "prefLabel": {
+        "de": "mem_12100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/mem_20200",
+      "prefLabel": {
+        "de": "mem_20200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/mem_31000",
+      "prefLabel": {
+        "de": "mem_31000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/memsofit_101011",
+      "prefLabel": {
+        "de": "memsofit_101011"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/memsofit_101110",
+      "prefLabel": {
+        "de": "memsofit_101110"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/memsofit_102001",
+      "prefLabel": {
+        "de": "memsofit_102001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/memsofit_112000",
+      "prefLabel": {
+        "de": "memsofit_112000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/memsofit_120001",
+      "prefLabel": {
+        "de": "memsofit_120001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_4b0",
+      "prefLabel": {
+        "de": "nunsofit_4b0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_4p0",
+      "prefLabel": {
+        "de": "nunsofit_4p0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pe_1010002",
+      "prefLabel": {
+        "de": "pe_1010002"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pe_1010011",
+      "prefLabel": {
+        "de": "pe_1010011"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pe_1011010",
+      "prefLabel": {
+        "de": "pe_1011010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pe_1111000",
+      "prefLabel": {
+        "de": "pe_1111000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pe_1210000",
+      "prefLabel": {
+        "de": "pe_1210000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pe_2100001",
+      "prefLabel": {
+        "de": "pe_2100001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pe_w1011010",
+      "prefLabel": {
+        "de": "pe_w1011010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_01102",
+      "prefLabel": {
+        "de": "pesofit_01102"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_10102",
+      "prefLabel": {
+        "de": "pesofit_10102"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/pesofit_11002",
+      "prefLabel": {
+        "de": "pesofit_11002"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/qof_11101",
+      "prefLabel": {
+        "de": "qof_11101"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/qof_12001",
+      "prefLabel": {
+        "de": "qof_12001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_030010",
+      "prefLabel": {
+        "de": "samekh_030010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_101011",
+      "prefLabel": {
+        "de": "samekh_101011"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_111010",
+      "prefLabel": {
+        "de": "samekh_111010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_120001",
+      "prefLabel": {
+        "de": "samekh_120001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_120010",
+      "prefLabel": {
+        "de": "samekh_120010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_130000",
+      "prefLabel": {
+        "de": "samekh_130000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_210010",
+      "prefLabel": {
+        "de": "samekh_210010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/samekh_300001",
+      "prefLabel": {
+        "de": "samekh_300001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_3010",
+      "prefLabel": {
+        "de": "shin_3010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_3100",
+      "prefLabel": {
+        "de": "shin_3100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_4000",
+      "prefLabel": {
+        "de": "shin_4000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/shin_e3001",
+      "prefLabel": {
+        "de": "shin_e3001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/teth_22",
+      "prefLabel": {
+        "de": "teth_22"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/teth_31",
+      "prefLabel": {
+        "de": "teth_31"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/teth_40",
+      "prefLabel": {
+        "de": "teth_40"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/teth_w31",
+      "prefLabel": {
+        "de": "teth_w31"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/tsade_301",
+      "prefLabel": {
+        "de": "tsade_301"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/tsade_310",
+      "prefLabel": {
+        "de": "tsade_310"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/tsadesofit_1120",
+      "prefLabel": {
+        "de": "tsadesofit_1120"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/tsadesofit_3100",
+      "prefLabel": {
+        "de": "tsadesofit_3100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/zayin_4b0",
+      "prefLabel": {
+        "de": "zayin_4b0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/zayin_w400",
+      "prefLabel": {
+        "de": "zayin_w400"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/toRoll/vocs/taginOM2/tagin",
+    "prefLabel": {
+      "de": "tagin"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/",
+      "title": {
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
+      }
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/",
+      "title": {
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
+      }
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

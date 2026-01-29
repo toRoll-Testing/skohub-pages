@@ -4,12 +4,110 @@
   "prefLabel": {
     "de": "nunsofit"
   },
+  "narrower": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_00p",
+      "prefLabel": {
+        "de": "nunsofit_00p"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_0b0",
+      "prefLabel": {
+        "de": "nunsofit_0b0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_0p0",
+      "prefLabel": {
+        "de": "nunsofit_0p0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_100",
+      "prefLabel": {
+        "de": "nunsofit_100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_10p",
+      "prefLabel": {
+        "de": "nunsofit_10p"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_110",
+      "prefLabel": {
+        "de": "nunsofit_110"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_1p0",
+      "prefLabel": {
+        "de": "nunsofit_1p0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_200",
+      "prefLabel": {
+        "de": "nunsofit_200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_300",
+      "prefLabel": {
+        "de": "nunsofit_300"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_3b0",
+      "prefLabel": {
+        "de": "nunsofit_3b0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_3bp",
+      "prefLabel": {
+        "de": "nunsofit_3bp"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_4b0",
+      "prefLabel": {
+        "de": "nunsofit_4b0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_4p0",
+      "prefLabel": {
+        "de": "nunsofit_4p0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_w300",
+      "prefLabel": {
+        "de": "nunsofit_w300"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/nunsofit_we300",
+      "prefLabel": {
+        "de": "nunsofit_we300"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/toRoll/vocs/taginOM2/Hebrew",
+    "prefLabel": {
+      "de": "Hebrew"
+    }
+  },
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM2/",
       "title": {
-        "en": "TOM Letters",
-        "de": "TOM Buchstaben"
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
       }
     }
   ],
@@ -22,8 +120,8 @@
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM2/",
       "title": {
-        "en": "TOM Letters",
-        "de": "TOM Buchstaben"
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
       }
     }
   ],

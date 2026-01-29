@@ -4,12 +4,224 @@
   "prefLabel": {
     "de": "alef"
   },
+  "narrower": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_0001",
+      "prefLabel": {
+        "de": "alef_0001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_0002",
+      "prefLabel": {
+        "de": "alef_0002"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_0100",
+      "prefLabel": {
+        "de": "alef_0100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_0200",
+      "prefLabel": {
+        "de": "alef_0200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_0302",
+      "prefLabel": {
+        "de": "alef_0302"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_1000",
+      "prefLabel": {
+        "de": "alef_1000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_1100",
+      "prefLabel": {
+        "de": "alef_1100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_1102",
+      "prefLabel": {
+        "de": "alef_1102"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_1202",
+      "prefLabel": {
+        "de": "alef_1202"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_1203",
+      "prefLabel": {
+        "de": "alef_1203"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_1300",
+      "prefLabel": {
+        "de": "alef_1300"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_1301",
+      "prefLabel": {
+        "de": "alef_1301"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_2000",
+      "prefLabel": {
+        "de": "alef_2000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_2100",
+      "prefLabel": {
+        "de": "alef_2100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_2102",
+      "prefLabel": {
+        "de": "alef_2102"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_2112",
+      "prefLabel": {
+        "de": "alef_2112"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_2200",
+      "prefLabel": {
+        "de": "alef_2200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_2202",
+      "prefLabel": {
+        "de": "alef_2202"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_2212",
+      "prefLabel": {
+        "de": "alef_2212"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_2300",
+      "prefLabel": {
+        "de": "alef_2300"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_2302",
+      "prefLabel": {
+        "de": "alef_2302"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_3000",
+      "prefLabel": {
+        "de": "alef_3000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_3100",
+      "prefLabel": {
+        "de": "alef_3100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_3102",
+      "prefLabel": {
+        "de": "alef_3102"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_3200",
+      "prefLabel": {
+        "de": "alef_3200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_3202",
+      "prefLabel": {
+        "de": "alef_3202"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_3220",
+      "prefLabel": {
+        "de": "alef_3220"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_3222",
+      "prefLabel": {
+        "de": "alef_3222"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_3300",
+      "prefLabel": {
+        "de": "alef_3300"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_3302",
+      "prefLabel": {
+        "de": "alef_3302"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_3312",
+      "prefLabel": {
+        "de": "alef_3312"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_4200",
+      "prefLabel": {
+        "de": "alef_4200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_4300",
+      "prefLabel": {
+        "de": "alef_4300"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM2/alef_e0000",
+      "prefLabel": {
+        "de": "alef_e0000"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/toRoll/vocs/taginOM2/Hebrew",
+    "prefLabel": {
+      "de": "Hebrew"
+    }
+  },
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM2/",
       "title": {
-        "en": "TOM Letters",
-        "de": "TOM Buchstaben"
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
       }
     }
   ],
@@ -22,8 +234,8 @@
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM2/",
       "title": {
-        "en": "TOM Letters",
-        "de": "TOM Buchstaben"
+        "en": "Tagin & Otiyyot Meshunnot",
+        "de": "Tagin & Otijjot Meshunnot"
       }
     }
   ],
