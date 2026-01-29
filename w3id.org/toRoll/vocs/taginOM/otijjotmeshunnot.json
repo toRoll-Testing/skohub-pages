@@ -6,36 +6,6 @@
   },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/bow",
-      "prefLabel": {
-        "de": "bow"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/crooked",
-      "prefLabel": {
-        "de": "crooked"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/elongated",
-      "prefLabel": {
-        "de": "elongated"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/flag",
-      "prefLabel": {
-        "de": "flag"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/inversed",
-      "prefLabel": {
-        "de": "inversed"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/pretzel",
       "prefLabel": {
         "de": "pretzel"

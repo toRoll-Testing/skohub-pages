@@ -6,12 +6,6 @@
   },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_0000p",
-      "prefLabel": {
-        "de": "kafsofit_0000p"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_00100",
       "prefLabel": {
         "de": "kafsofit_00100"
@@ -30,12 +24,6 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_010p0",
-      "prefLabel": {
-        "de": "kafsofit_010p0"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_01100",
       "prefLabel": {
         "de": "kafsofit_01100"
@@ -51,18 +39,6 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_02001",
       "prefLabel": {
         "de": "kafsofit_02001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_0200p",
-      "prefLabel": {
-        "de": "kafsofit_0200p"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_020p0",
-      "prefLabel": {
-        "de": "kafsofit_020p0"
       }
     },
     {
@@ -114,12 +90,6 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_1110p",
-      "prefLabel": {
-        "de": "kafsofit_1110p"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_12001",
       "prefLabel": {
         "de": "kafsofit_12001"
@@ -129,12 +99,6 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_12100",
       "prefLabel": {
         "de": "kafsofit_12100"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_130z1",
-      "prefLabel": {
-        "de": "kafsofit_130z1"
       }
     },
     {
@@ -153,12 +117,6 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_30001",
       "prefLabel": {
         "de": "kafsofit_30001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit_e0200f",
-      "prefLabel": {
-        "de": "kafsofit_e0200f"
       }
     }
   ],

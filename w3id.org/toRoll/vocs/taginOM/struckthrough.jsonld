@@ -6,12 +6,6 @@
   },
   "narrower": [
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/het_s00000",
-      "prefLabel": {
-        "de": "het_s00000"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/yod_s000",
       "prefLabel": {
         "de": "yod_s000"

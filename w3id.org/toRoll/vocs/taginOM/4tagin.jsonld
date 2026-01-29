@@ -48,12 +48,6 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/ayin_p220",
-      "prefLabel": {
-        "de": "ayin_p220"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/beit_1011010",
       "prefLabel": {
         "de": "beit_1011010"
@@ -99,12 +93,6 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/he_0301",
       "prefLabel": {
         "de": "he_0301"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/he_1111",
-      "prefLabel": {
-        "de": "he_1111"
       }
     },
     {
@@ -192,12 +180,6 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_101011",
-      "prefLabel": {
-        "de": "memsofit_101011"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_101110",
       "prefLabel": {
         "de": "memsofit_101110"
@@ -219,18 +201,6 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_120001",
       "prefLabel": {
         "de": "memsofit_120001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_4b0",
-      "prefLabel": {
-        "de": "nunsofit_4b0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/nunsofit_4p0",
-      "prefLabel": {
-        "de": "nunsofit_4p0"
       }
     },
     {

@@ -84,12 +84,6 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/he_1011",
-      "prefLabel": {
-        "de": "he_1011"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/he_1020",
       "prefLabel": {
         "de": "he_1020"
@@ -105,12 +99,6 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/he_1110",
       "prefLabel": {
         "de": "he_1110"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/he_1111",
-      "prefLabel": {
-        "de": "he_1111"
       }
     },
     {
@@ -183,30 +171,6 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/he_3021",
       "prefLabel": {
         "de": "he_3021"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/he_b000",
-      "prefLabel": {
-        "de": "he_b000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/he_e0000",
-      "prefLabel": {
-        "de": "he_e0000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/he_f000",
-      "prefLabel": {
-        "de": "he_f000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/he_f001",
-      "prefLabel": {
-        "de": "he_f001"
       }
     }
   ],

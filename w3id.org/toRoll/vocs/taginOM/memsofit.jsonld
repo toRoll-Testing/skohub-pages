@@ -30,12 +30,6 @@
       }
     },
     {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_011001",
-      "prefLabel": {
-        "de": "memsofit_011001"
-      }
-    },
-    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_020000",
       "prefLabel": {
         "de": "memsofit_020000"
@@ -57,24 +51,6 @@
       "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_101000",
       "prefLabel": {
         "de": "memsofit_101000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_101001",
-      "prefLabel": {
-        "de": "memsofit_101001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_101010",
-      "prefLabel": {
-        "de": "memsofit_101010"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit_101011",
-      "prefLabel": {
-        "de": "memsofit_101011"
       }
     },
     {
