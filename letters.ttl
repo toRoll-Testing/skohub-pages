@@ -548,9 +548,6 @@ tom:he_3021
         "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-3021"@de ,
         "Naming scheme: https://example.github.io/docs/letters/he.html#variante-3021"@en .
 
-@prefix tom: <http://example.org/tom/> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-
 ############################################################
 # Block 2 — Variants with 'b' (bow)
 ############################################################
