@@ -172,18 +172,444 @@ tom:zayin
         skos:prefLabel
                 "zayin"@de .
 
+############################################################
+# Block 1 — Variants with tagin only
+############################################################
+
+tom:he_0001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_0001"@de , "he_0001"@en ;
+    skos:definition
+        "Variante des He mit einem Tag an der vierten Position und ohne Tagin an den ersten drei Positionen."@de ,
+        "Variant of the He with one tag at the fourth position and no tagin at the first three positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-0001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-0001"@en .
+
+tom:he_0010
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_0010"@de , "he_0010"@en ;
+    skos:definition
+        "Variante des He mit einem Tag an der dritten Position und ohne Tagin an den anderen Positionen."@de ,
+        "Variant of the He with one tag at the third position and no tagin at the other positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-0010"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-0010"@en .
+
+tom:he_0020
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_0020"@de , "he_0020"@en ;
+    skos:definition
+        "Variante des He mit zwei Tagin an der dritten Position und ohne Tagin an den anderen Positionen."@de ,
+        "Variant of the He with two tagin at the third position and no tagin at the other positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-0020"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-0020"@en .
+
+tom:he_0100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_0100"@de , "he_0100"@en ;
+    skos:definition
+        "Variante des He mit einem Tag an der zweiten Position und ohne Tagin an den anderen Positionen."@de ,
+        "Variant of the He with one tag at the second position and no tagin at the other positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-0100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-0100"@en .
+
+tom:he_0110
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_0110"@de , "he_0110"@en ;
+    skos:definition
+        "Variante des He mit einem Tag an der zweiten Position, einem Tag an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-0110"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-0110"@en .
+
+tom:he_0120
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_0120"@de , "he_0120"@en ;
+    skos:definition
+        "Variante des He mit einem Tag an der zweiten Position, zwei Tagin an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with one tag at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-0120"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-0120"@en .
+
+tom:he_0200
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_0200"@de , "he_0200"@en ;
+    skos:definition
+        "Variante des He mit zwei Tagin an der zweiten Position und ohne Tagin an den anderen Positionen."@de ,
+        "Variant of the He with two tagin at the second position and no tagin at the other positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-0200"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-0200"@en .
+
+tom:he_0201
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_0201"@de , "he_0201"@en ;
+    skos:definition
+        "Variante des He mit zwei Tagin an der zweiten Position, einem Tag an der vierten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with two tagin at the second position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-0201"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-0201"@en .
+
+tom:he_0210
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_0210"@de , "he_0210"@en ;
+    skos:definition
+        "Variante des He mit zwei Tagin an der zweiten Position, einem Tag an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with two tagin at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-0210"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-0210"@en .
+
+tom:he_0300
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_0300"@de , "he_0300"@en ;
+    skos:definition
+        "Variante des He mit drei Tagin an der zweiten Position und ohne Tagin an den anderen Positionen."@de ,
+        "Variant of the He with three tagin at the second position and no tagin at the other positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-0300"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-0300"@en .
+
+tom:he_0301
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_0301"@de , "he_0301"@en ;
+    skos:definition
+        "Variante des He mit drei Tagin an der zweiten Position, einem Tag an der vierten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with three tagin at the second position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-0301"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-0301"@en .
+
 tom:he_1000
-        a       skos:Concept ;
-        skos:inScheme 
-                tom: ;
-        skos:broader
-                tom:he ;
-        skos:prefLabel
-                "he_1000"@de ,  "he_1000"@en ;
-        skos:definition
-                "Variante des He mit einem Tag auf der ersten Position."@de , "Variant of with one tag at the first position."@en ;
-        skos:scopeNote 
-                "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-1000"@de , "Naming scheme: https://example.github.io/docs/letters/he.html#variante-1000"@en ;
-        skos:hiddenLabel
-                "1tag" .
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_1000"@de , "he_1000"@en ;
+    skos:definition
+        "Variante des He mit einem Tag an der ersten Position und ohne Tagin an den anderen Positionen."@de ,
+        "Variant of the He with one tag at the first position and no tagin at the other positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-1000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-1000"@en .
+
+tom:he_1001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_1001"@de , "he_1001"@en ;
+    skos:definition
+        "Variante des He mit einem Tag an der ersten Position, einem Tag an der vierten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with one tag at the first position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-1001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-1001"@en .
+
+tom:he_1010
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_1010"@de , "he_1010"@en ;
+    skos:definition
+        "Variante des He mit einem Tag an der ersten Position, einem Tag an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-1010"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-1010"@en .
+
+tom:he_1011
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_1011"@de , "he_1011"@en ;
+    skos:definition
+        "Variante des He mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position und ohne Tagin an der zweiten Position."@de ,
+        "Variant of the He with one tag at the first position, one tag at the third position, one tag at the fourth position, and no tagin at the second position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-1011"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-1011"@en .
+
+tom:he_1020
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_1020"@de , "he_1020"@en ;
+    skos:definition
+        "Variante des He mit einem Tag an der ersten Position, zwei Tagin an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with one tag at the first position, two tagin at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-1020"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-1020"@en .
+
+tom:he_1100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_1100"@de , "he_1100"@en ;
+    skos:definition
+        "Variante des He mit einem Tag an der ersten Position, einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-1100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-1100"@en .
+
+tom:he_1110
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_1110"@de , "he_1110"@en ;
+    skos:definition
+        "Variante des He mit drei Tagin: jeweils ein Tag an der ersten, zweiten und dritten Position sowie ohne Tagin an der vierten Position."@de ,
+        "Variant of the He with three tagin: one tag at the first, second and third position, and no tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-1110"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-1110"@en .
+
+tom:he_1111
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_1111"@de , "he_1111"@en ;
+    skos:definition
+        "Variante des He mit vier Tagin: jeweils ein Tag an der ersten, zweiten, dritten und vierten Position."@de ,
+        "Variant of the He with four tagin: one tag at the first, second, third and fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-1111"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-1111"@en .
+
+tom:he_1120
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_1120"@de , "he_1120"@en ;
+    skos:definition
+        "Variante des He mit einem Tag an der ersten Position, einem Tag an der zweiten Position, zwei Tagin an der dritten Position und ohne Tagin an der vierten Position."@de ,
+        "Variant of the He with one tag at the first position, one tag at the second position, two tagin at the third position, and no tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-1120"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-1120"@en .
+
+tom:he_1200
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_1200"@de , "he_1200"@en ;
+    skos:definition
+        "Variante des He mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with one tag at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-1200"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-1200"@en .
+
+tom:he_1201
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_1201"@de , "he_1201"@en ;
+    skos:definition
+        "Variante des He mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der vierten Position und ohne Tagin an der dritten Position."@de ,
+        "Variant of the He with one tag at the first position, two tagin at the second position, one tag at the fourth position, and no tagin at the third position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-1201"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-1201"@en .
+
+tom:he_1210
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_1210"@de , "he_1210"@en ;
+    skos:definition
+        "Variante des He mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der dritten Position und ohne Tagin an der vierten Position."@de ,
+        "Variant of the He with one tag at the first position, two tagin at the second position, one tag at the third position, and no tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-1210"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-1210"@en .
+
+tom:he_2000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_2000"@de , "he_2000"@en ;
+    skos:definition
+        "Variante des He mit zwei Tagin an der ersten Position und ohne Tagin an den anderen Positionen."@de ,
+        "Variant of the He with two tagin at the first position and no tagin at the other positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-2000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-2000"@en .
+
+tom:he_2001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_2001"@de , "he_2001"@en ;
+    skos:definition
+        "Variante des He mit zwei Tagin an der ersten Position, einem Tag an der vierten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with two tagin at the first position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-2001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-2001"@en .
+
+tom:he_2010
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_2010"@de , "he_2010"@en ;
+    skos:definition
+        "Variante des He mit zwei Tagin an der ersten Position, einem Tag an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with two tagin at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-2010"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-2010"@en .
+
+tom:he_2020
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_2020"@de , "he_2020"@en ;
+    skos:definition
+        "Variante des He mit zwei Tagin an der ersten Position, zwei Tagin an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with two tagin at the first position, two tagin at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-2020"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-2020"@en .
+
+tom:he_2100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_2100"@de , "he_2100"@en ;
+    skos:definition
+        "Variante des He mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-2100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-2100"@en .
+
+tom:he_2300
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_2300"@de , "he_2300"@en ;
+    skos:definition
+        "Variante des He mit zwei Tagin an der ersten Position, drei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with two tagin at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-2300"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-2300"@en .
+
+tom:he_3001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_3001"@de , "he_3001"@en ;
+    skos:definition
+        "Variante des He mit drei Tagin an der ersten Position, einem Tag an der vierten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with three tagin at the first position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-3001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-3001"@en .
+
+tom:he_3021
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_3021"@de , "he_3021"@en ;
+    skos:definition
+        "Variante des He mit drei Tagin an der ersten Position, zwei Tagin an der dritten Position, einem Tag an der vierten Position und ohne Tagin an der zweiten Position."@de ,
+        "Variant of the He with three tagin at the first position, two tagin at the third position, one tag at the fourth position, and no tagin at the second position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-3021"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-3021"@en .
+
+@prefix tom: <http://example.org/tom/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+############################################################
+# Block 2 — Variants with 'b' (bow)
+############################################################
+
+tom:he_b000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_b000"@de , "he_b000"@en ;
+    skos:definition
+        "Variante des He mit einem Bogen an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with one bow at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-b000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-b000"@en .
+
+
+############################################################
+# Block 3 — Variants with 'f' (flag)
+############################################################
+
+tom:he_f000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_f000"@de , "he_f000"@en ;
+    skos:definition
+        "Variante des He mit einem Fähnchen an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the He with one flag at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-f000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-f000"@en .
+
+tom:he_f001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_f001"@de , "he_f001"@en ;
+    skos:definition
+        "Variante des He mit einem Fähnchen an der ersten Position, keinem Tagin an der zweiten und dritten Position sowie einem Tag an der vierten Position."@de ,
+        "Variant of the He with one flag at the first position, no tagin at the second and third positions, and one tag at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-f001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-f001"@en .
+
+
+############################################################
+# Block 4 — Variants with 'e' (elongated)
+############################################################
+
+tom:he_e0000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_e0000"@de , "he_e0000"@en ;
+    skos:definition
+        "Verlängerte Variante des He ohne Tagin an allen vier Positionen."@de ,
+        "Elongated variant of the He with no tagin at any of the four positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-e0000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-e0000"@en .
 
