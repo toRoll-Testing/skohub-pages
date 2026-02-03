@@ -4550,9 +4550,526 @@ tom:pe_w1110000
 # Block 16: variants of pesofit
 ############################################################
 
+tom:pesofit_00001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_00001"@de , "pesofit_00001"@en ;
+  skos:definition "Variante des Pesofit mit einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with one tag at the fifth position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-00001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-00001"@en .
+
+tom:pesofit_00002
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_00002"@de , "pesofit_00002"@en ;
+  skos:definition "Variante des Pesofit mit zwei Tagin an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with two tagin at the fifth position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-00002"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-00002"@en .
+
+tom:pesofit_01100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_01100"@de , "pesofit_01100"@en ;
+  skos:definition "Variante des Pesofit mit einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-01100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-01100"@en .
+
+tom:pesofit_01101
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_01101"@de , "pesofit_01101"@en ;
+  skos:definition "Variante des Pesofit mit einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with one tag at the second position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-01101"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-01101"@en .
+
+tom:pesofit_01102
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_01102"@de , "pesofit_01102"@en ;
+  skos:definition "Variante des Pesofit mit einem Tag an der zweiten Position, einem Tag an der dritten Position, zwei Tagin an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with one tag at the second position, one tag at the third position, two tagin at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-01102"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-01102"@en .
+
+tom:pesofit_02001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_02001"@de , "pesofit_02001"@en ;
+  skos:definition "Variante des Pesofit mit zwei Tagin an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with two tagin at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-02001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-02001"@en .
+
+tom:pesofit_10000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_10000"@de , "pesofit_10000"@en ;
+  skos:definition "Variante des Pesofit mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-10000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-10000"@en .
+
+tom:pesofit_10002
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_10002"@de , "pesofit_10002"@en ;
+  skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, zwei Tagin an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with one tag at the first position, two tagin at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-10002"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-10002"@en .
+
+tom:pesofit_100p0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_100p0"@de , "pesofit_100p0"@en ;
+  skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, einem Kringel an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with one tag at the first position, one pretzel at the fourth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-100p0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-100p0"@en .
+
+tom:pesofit_10100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_10100"@de , "pesofit_10100"@en ;
+  skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-10100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-10100"@en .
+
+tom:pesofit_10101
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_10101"@de , "pesofit_10101"@en ;
+  skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with one tag at the first position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-10101"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-10101"@en .
+
+tom:pesofit_10102
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_10102"@de , "pesofit_10102"@en ;
+  skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der dritten Position, zwei Tagin an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with one tag at the first position, one tag at the third position, two tagin at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-10102"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-10102"@en .
+
+tom:pesofit_11000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_11000"@de , "pesofit_11000"@en ;
+  skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-11000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-11000"@en .
+
+tom:pesofit_11001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_11001"@de , "pesofit_11001"@en ;
+  skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with one tag at the first position, one tag at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-11001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-11001"@en .
+
+tom:pesofit_11002
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_11002"@de , "pesofit_11002"@en ;
+  skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position, zwei Tagin an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with one tag at the first position, one tag at the second position, two tagin at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-11002"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-11002"@en .
+
+tom:pesofit_11100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_11100"@de , "pesofit_11100"@en ;
+  skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-11100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-11100"@en .
+
+tom:pesofit_20001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_20001"@de , "pesofit_20001"@en ;
+  skos:definition "Variante des Pesofit mit zwei Tagin an der ersten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Pesofit with two tagin at the first position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-20001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-20001"@en .
+
+tom:pesofit_w00000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_w00000"@de , "pesofit_w00000"@en ;
+  skos:definition "Gewickelte Variante des Pesofit ohne Tagin an allen Positionen."@de ,
+                  "Wrapped variant of the Pesofit with no tagin at any of the positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-w00000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-w00000"@en .
+
+tom:pesofit_w10000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_w10000"@de , "pesofit_w10000"@en ;
+  skos:definition "Gewickelte Variante des Pesofit mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Wrapped variant of the Pesofit with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-w10000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-w10000"@en .
+
+tom:pesofit_w10100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_w10100"@de , "pesofit_w10100"@en ;
+  skos:definition "Gewickelte Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Wrapped variant of the Pesofit with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-w10100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-w10100"@en .
+
+tom:pesofit_w11000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_w11000"@de , "pesofit_w11000"@en ;
+  skos:definition "Gewickelte Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Wrapped variant of the Pesofit with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-w11000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-w11000"@en .
+
+tom:pesofit_w11100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pesofit ;
+  skos:prefLabel "pesofit_w11100"@de , "pesofit_w11100"@en ;
+  skos:definition "Gewickelte Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Wrapped variant of the Pesofit with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/pesofit.html#variante-w11100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/pesofit.html#variante-w11100"@en .
+
 ############################################################
 # Block 17: variants of qof
 ############################################################
+
+tom:qof_00100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_00100"@de , "qof_00100"@en ;
+  skos:definition "Variante des Qof mit einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one tag at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-00100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-00100"@en .
+
+tom:qof_00200
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_00200"@de , "qof_00200"@en ;
+  skos:definition "Variante des Qof mit zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with two tagin at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-00200"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-00200"@en .
+
+tom:qof_00p00
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_00p00"@de , "qof_00p00"@en ;
+  skos:definition "Variante des Qof mit einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one pretzel at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-00p00"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-00p00"@en .
+
+tom:qof_01000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_01000"@de , "qof_01000"@en ;
+  skos:definition "Variante des Qof mit einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one tag at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-01000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-01000"@en .
+
+tom:qof_01100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_01100"@de , "qof_01100"@en ;
+  skos:definition "Variante des Qof mit einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-01100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-01100"@en .
+
+tom:qof_01101
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_01101"@de , "qof_01101"@en ;
+  skos:definition "Variante des Qof mit einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one tag at the second position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-01101"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-01101"@en .
+
+tom:qof_02000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_02000"@de , "qof_02000"@en ;
+  skos:definition "Variante des Qof mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with two tagin at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-02000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-02000"@en .
+
+tom:qof_02100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_02100"@de , "qof_02100"@en ;
+  skos:definition "Variante des Qof mit zwei Tagin an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with two tagin at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-02100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-02100"@en .
+
+tom:qof_03000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_03000"@de , "qof_03000"@en ;
+  skos:definition "Variante des Qof mit drei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with three tagin at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-03000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-03000"@en .
+
+tom:qof_10000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_10000"@de , "qof_10000"@en ;
+  skos:definition "Variante des Qof mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-10000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-10000"@en .
+
+tom:qof_10100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_10100"@de , "qof_10100"@en ;
+  skos:definition "Variante des Qof mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-10100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-10100"@en .
+
+tom:qof_10101
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_10101"@de , "qof_10101"@en ;
+  skos:definition "Variante des Qof mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one tag at the first position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-10101"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-10101"@en .
+
+tom:qof_101p0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_101p0"@de , "qof_101p0"@en ;
+  skos:definition "Variante des Qof mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Kringel an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one tag at the first position, one tag at the third position, one pretzel at the fourth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-101p0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-101p0"@en .
+
+tom:qof_10200
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_10200"@de , "qof_10200"@en ;
+  skos:definition "Variante des Qof mit einem Tag an der ersten Position, zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one tag at the first position, two tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-10200"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-10200"@en .
+
+tom:qof_11000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_11000"@de , "qof_11000"@en ;
+  skos:definition "Variante des Qof mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-11000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-11000"@en .
+
+tom:qof_11001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_11001"@de , "qof_11001"@en ;
+  skos:definition "Variante des Qof mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one tag at the first position, one tag at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-11001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-11001"@en .
+
+tom:qof_11100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_11100"@de , "qof_11100"@en ;
+  skos:definition "Variante des Qof mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-11100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-11100"@en .
+
+tom:qof_11101
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_11101"@de , "qof_11101"@en ;
+  skos:definition "Variante des Qof mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one tag at the first position, one tag at the second position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-11101"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-11101"@en .
+
+tom:qof_12001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_12001"@de , "qof_12001"@en ;
+  skos:definition "Variante des Qof mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one tag at the first position, two tagin at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-12001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-12001"@en .
+
+tom:qof_20000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_20000"@de , "qof_20000"@en ;
+  skos:definition "Variante des Qof mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with two tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-20000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-20000"@en .
+
+tom:qof_20001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_20001"@de , "qof_20001"@en ;
+  skos:definition "Variante des Qof mit zwei Tagin an der ersten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with two tagin at the first position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-20001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-20001"@en .
+
+tom:qof_200p1
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_200p1"@de , "qof_200p1"@en ;
+  skos:definition "Variante des Qof mit zwei Tagin an der ersten Position, einem Kringel an der vierten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with two tagin at the first position, one pretzel at the fourth position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-200p1"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-200p1"@en .
+
+tom:qof_b1100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_b1100"@de , "qof_b1100"@en ;
+  skos:definition "Variante des Qof mit einem Bogen an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one bow at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-b1100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-b1100"@en .
+
+tom:qof_c00000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_c00000"@de , "qof_c00000"@en ;
+  skos:definition "Verzerrte Variante des Qof ohne Tagin an allen Positionen."@de ,
+                  "Crooked variant of the Qof with no tagin at any of the positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-c00000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-c00000"@en .
+
+tom:qof_f0001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:qof ;
+  skos:prefLabel "qof_f0001"@de , "qof_f0001"@en ;
+  skos:definition "Variante des Qof mit einem Fähnchen an der ersten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Qof with one flag at the first position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/qof.html#variante-f0001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/qof.html#variante-f0001"@en .
 
 ############################################################
 # Block 18: variants of resh
