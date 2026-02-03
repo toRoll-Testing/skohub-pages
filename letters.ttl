@@ -38,139 +38,137 @@ tom:zayin .
 tom:alef
         a       skos:Concept ;
         skos:prefLabel
-                "alef"@de .
+                "alef"@de, "alef"@en .
 
 tom:ayin
         a       skos:Concept ;
         skos:prefLabel
-                "ayin"@de .
+                "ayin"@de, "ayin"@en .
 
 tom:beit
         a       skos:Concept ;
         skos:prefLabel
-                "beit"@de .
+                "beit"@de, "beit"@en .
 
 tom:dalet
         a       skos:Concept ;
         skos:prefLabel
-                "dalet"@de .
+                "dalet"@de, "dalet"@en .
 
 tom:gimel
         a       skos:Concept ;
         skos:prefLabel
-                "gimel"@de .
+                "gimel"@de, "gimel"@en .
 
 tom:he
         a       skos:Concept ;
-        skos:narrower
-                tom:he_1000 ;
         skos:prefLabel
-                "he"@de .
+                "he"@de, "he"@en .
 
 tom:het
         a       skos:Concept ;
         skos:prefLabel
-                "het"@de .
+                "het"@de, "het"@en .
 
 tom:kaf
         a       skos:Concept ;
         skos:prefLabel
-                "kaf"@de .
+                "kaf"@de, "kaf"@en .
 
 tom:kafsofit
         a       skos:Concept ;
         skos:prefLabel
-                "kafsofit"@de .
+                "kafsofit"@de, "kafsofit"@en .
 
 tom:lamed
         a       skos:Concept ;
         skos:prefLabel
-                "lamed"@de .
+                "lamed"@de, "lamed"@en .
 
 tom:mem
         a       skos:Concept ;
         skos:prefLabel
-                "mem"@de .
+                "mem"@de, "mem"@en .
 
 tom:memsofit
         a       skos:Concept ;
         skos:prefLabel
-                "memsofit"@de .
+                "memsofit"@de, "memsofit"@en .
 
 tom:nun
         a       skos:Concept ;
         skos:prefLabel
-                "nun"@de .
+                "nun"@de, "nun"@en .
 
 tom:nunsofit
         a       skos:Concept ;
         skos:prefLabel
-                "nunsofit"@de .
+                "nunsofit"@de, "nunsofit"@en .
 
 tom:pe
         a       skos:Concept ;
         skos:prefLabel
-                "pe"@de .
+                "pe"@de, "pe"@en .
 
 tom:pesofit
         a       skos:Concept ;
         skos:prefLabel
-                "pesofit"@de .
+                "pesofit"@de, "pesofit"@en .
 
 tom:qof
         a       skos:Concept ;
         skos:prefLabel
-                "qof"@de .
+                "qof"@de, "qof"@en .
 
 tom:resh
         a       skos:Concept ;
         skos:prefLabel
-                "resh"@de .
+                "resh"@de, "resh"@en .
 
 tom:samekh
         a       skos:Concept ;
         skos:prefLabel
-                "samekh"@de .
+                "samekh"@de, "samekh"@en .
 
 tom:shin
         a       skos:Concept ;
         skos:prefLabel
-                "shin"@de .
+                "shin"@de, "shin"@en .
 
 tom:tav
         a       skos:Concept ;
         skos:prefLabel
-                "tav"@de .
+                "tav"@de, "tav"@en .
 
 tom:teth
         a       skos:Concept ;
         skos:prefLabel
-                "teth"@de .
+                "teth"@de, "teth"@en .
 
 tom:tsade
         a       skos:Concept ;
         skos:prefLabel
-                "tsade"@de .
+                "tsade"@de, "tsade"@en .
 
 tom:tsadesofit
         a       skos:Concept ;
         skos:prefLabel
-                "tsadesofit"@de .
+                "tsadesofit"@de, "tsadesofit"@en .
 
 tom:vav
         a       skos:Concept ;
         skos:prefLabel
-                "vav"@de .
+                "vav"@de, "vav"@en .
 
 tom:yod
         a       skos:Concept ;
         skos:prefLabel
-                "yod"@de .
+                "yod"@de, "yod"@en .
 
 tom:zayin
         a       skos:Concept ;
         skos:prefLabel
-                "zayin"@de .
+                "zayin"@de, "zayin"@en .
 
 ############################################################
 # block 1a: variants of alef
