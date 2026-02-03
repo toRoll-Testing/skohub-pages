@@ -6519,9 +6519,317 @@ tom:tsade_e300
 # Block 24: variants of tsadesofit
 ############################################################
 
+tom:tsadesofit_0100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsadesofit ;
+  skos:prefLabel "tsadesofit_0100"@de , "tsadesofit_0100"@en ;
+  skos:definition "Variante des Tsadesofit mit einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tsadesofit with one tag at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsadesofit.html#variante-0100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsadesofit.html#variante-0100"@en .
+
+tom:tsadesofit_1120
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsadesofit ;
+  skos:prefLabel "tsadesofit_1120"@de , "tsadesofit_1120"@en ;
+  skos:definition "Variante des Tsadesofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position, zwei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Tsadesofit with one tag at the first position, one tag at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsadesofit.html#variante-1120"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsadesofit.html#variante-1120"@en .
+
+tom:tsadesofit_2000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsadesofit ;
+  skos:prefLabel "tsadesofit_2000"@de , "tsadesofit_2000"@en ;
+  skos:definition "Variante des Tsadesofit mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tsadesofit with two tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsadesofit.html#variante-2000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsadesofit.html#variante-2000"@en .
+
+tom:tsadesofit_2100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsadesofit ;
+  skos:prefLabel "tsadesofit_2100"@de , "tsadesofit_2100"@en ;
+  skos:definition "Variante des Tsadesofit mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tsadesofit with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsadesofit.html#variante-2100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsadesofit.html#variante-2100"@en .
+
+tom:tsadesofit_3100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsadesofit ;
+  skos:prefLabel "tsadesofit_3100"@de , "tsadesofit_3100"@en ;
+  skos:definition "Variante des Tsadesofit mit drei Tagin an der ersten Position, einem Tag an der zweite Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tsadesofit with three tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsadesofit.html#variante-3100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsadesofit.html#variante-3100"@en .
+
+tom:tsadesofit_3200
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsadesofit ;
+  skos:prefLabel "tsadesofit_3200"@de , "tsadesofit_3200"@en ;
+  skos:definition "Variante des Tsadesofit mit drei Tagin an der erste Position, zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tsadesofit with three tagin at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsadesofit.html#variante-3200"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsadesofit.html#variante-3200"@en .
+
+tom:tsadesofit_3300
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsadesofit ;
+  skos:prefLabel "tsadesofit_3300"@de , "tsadesofit_3300"@en ;
+  skos:definition "Variante des Tsadesofit mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tsadesofit with three tagin at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsadesofit.html#variante-3300"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsadesofit.html#variante-3300"@en .
+
+tom:tsadesofit_e3000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsadesofit ;
+  skos:prefLabel "tsadesofit_e3000"@de , "tsadesofit_e3000"@en ;
+  skos:definition "Verlängerte Variante des Tsadesofit mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Elongated variant of the Tsadesofit with three tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsadesofit.html#variante-e3000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsadesofit.html#variante-e3000"@en .
+
 ############################################################
 # Block 25: variants of vav
 ############################################################
+
+tom:vav_001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_001"@de , "vav_001"@en ;
+  skos:definition "Variante des Vav mit einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Vav with one tag at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-001"@en .
+
+tom:vav_00p
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_00p"@de , "vav_00p"@en ;
+  skos:definition "Variante des Vav mit einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Vav with one pretzel at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-00p"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-00p"@en .
+
+tom:vav_0b0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_0b0"@de , "vav_0b0"@en ;
+  skos:definition "Variante des Vav mit einem Bogen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Vav with one bow at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-0b0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-0b0"@en .
+
+tom:vav_0bb
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_0bb"@de , "vav_0bb"@en ;
+  skos:definition "Variante des Vav mit einem Bogen an der zweiten Position, einem Bogen an der dritten Position sowie ohne Tagin an der ersten Position."@de ,
+                  "Variant of the Vav with one bow at the second position, one bow at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-0bb"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-0bb"@en .
+
+tom:vav_0pp
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_0pp"@de , "vav_0pp"@en ;
+  skos:definition "Variante des Vav mit einem Kringel an der zweiten Position, einem Kringel an der dritten Position sowie ohne Tagin an der ersten Position."@de ,
+                  "Variant of the Vav with one pretzel at the second position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-0pp"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-0pp"@en .
+
+tom:vav_100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_100"@de , "vav_100"@en ;
+  skos:definition "Variante des Vav mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Vav with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-100"@en .
+
+tom:vav_101
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_101"@de , "vav_101"@en ;
+  skos:definition "Variante des Vav mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an der zweiten Position."@de ,
+                  "Variant of the Vav with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-101"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-101"@en .
+
+tom:vav_10p
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_10p"@de , "vav_10p"@en ;
+  skos:definition "Variante des Vav mit einem Tag an der ersten Position, einem Kringel an der dritten Position sowie ohne Tagin an der zweiten Position."@de ,
+                  "Variant of the Vav with one tag at the first position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-10p"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-10p"@en .
+
+tom:vav_1b0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_1b0"@de , "vav_1b0"@en ;
+  skos:definition "Variante des Vav mit einem Tag an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Vav with one tag at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-1b0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-1b0"@en .
+
+tom:vav_1b1
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_1b1"@de , "vav_1b1"@en ;
+  skos:definition "Variante des Vav mit einem Tag an der ersten Position, einem Bogen an der zweiten Position und einem Tag an der dritten Position."@de ,
+                  "Variant of the Vav with one tag at the first position, one bow at the second position, and one tag at the third position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-1b1"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-1b1"@en .
+
+tom:vav_1bb
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_1bb"@de , "vav_1bb"@en ;
+  skos:definition "Variante des Vav mit einem Tag an der ersten Position, einem Bogen an der zweiten Position und einem Bogen an der dritten Position."@de ,
+                  "Variant of the Vav with one tag at the first position, one bow at the second position, and one bow at the third position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-1bb"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-1bb"@en .
+
+tom:vav_1pp
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_1pp"@de , "vav_1pp"@en ;
+  skos:definition "Variante des Vav mit einem Tag an der ersten Position, einem Kringel an der zweiten Position und einem Kringel an der dritten Position."@de ,
+                  "Variant of the Vav with one tag at the first position, one pretzel at the second position, and one pretzel at the third position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-1pp"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-1pp"@en .
+
+tom:vav_200
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_200"@de , "vav_200"@en ;
+  skos:definition "Variante des Vav mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Vav with two tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-200"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-200"@en .
+
+tom:vav_e0b0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_e0b0"@de , "vav_e0b0"@en ;
+  skos:definition "Verlängerte Variante des Vav mit einem Bogen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Elongated variant of the Vav with one bow at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-e0b0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-e0b0"@en .
+
+tom:vav_e0bb
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_e0bb"@de , "vav_e0bb"@en ;
+  skos:definition "Verlängerte Variante des Vav mit einem Bogen an der zweiten Position, einem Bogen an der dritten Position sowie ohne Tagin an der ersten Position."@de ,
+                  "Elongated variant of the Vav with one bow at the second position, one bow at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-e0bb"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-e0bb"@en .
+
+tom:vav_e0bp
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_e0bp"@de , "vav_e0bp"@en ;
+  skos:definition "Verlängerte Variante des Vav mit einem Bogen an der zweiten Position, einem Kringel an der dritten Position sowie ohne Tagin an der ersten Position."@de ,
+                  "Elongated variant of the Vav with one bow at the second position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-e0bp"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-e0bp"@en .
+
+tom:vav_e0p0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_e0p0"@de , "vav_e0p0"@en ;
+  skos:definition "Verlängerte Variante des Vav mit einem Kringel an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Elongated variant of the Vav with one pretzel at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-e0p0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-e0p0"@en .
+
+tom:vav_e100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_e100"@de , "vav_e100"@en ;
+  skos:definition "Verlängerte Variante des Vav mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Elongated variant of the Vav with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-e100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-e100"@en .
+
+tom:vav_e1pb
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_e1pb"@de , "vav_e1pb"@en ;
+  skos:definition "Verlängerte Variante des Vav mit einem Tag an der ersten Position, einem Kringel an der zweiten Position und einem Bogen an der dritten Position."@de ,
+                  "Elongated variant of the Vav with one tag at the first position, one pretzel at the second position, and one bow at the third position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-e1pb"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-e1pb"@en .
+
+tom:vav_e1pp
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:vav ;
+  skos:prefLabel "vav_e1pp"@de , "vav_e1pp"@en ;
+  skos:definition "Verlängerte Variante des Vav mit einem Tag an der ersten Position, einem Kringel an der zweiten Position und einem Kringel an der dritten Position."@de ,
+                  "Elongated variant of the Vav with one tag at the first position, one pretzel at the second position, and one pretzel at the third position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/vav.html#variante-e1pp"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/vav.html#variante-e1pp"@en .
 
 ############################################################
 # Block 26: variants of yod
