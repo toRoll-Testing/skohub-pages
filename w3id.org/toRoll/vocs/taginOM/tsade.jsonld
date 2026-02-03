@@ -4,6 +4,141 @@
   "prefLabel": {
     "de": "tsade"
   },
+  "narrower": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_020",
+      "prefLabel": {
+        "en": "tsade_020",
+        "de": "tsade_020"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_100",
+      "prefLabel": {
+        "en": "tsade_100",
+        "de": "tsade_100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_110",
+      "prefLabel": {
+        "en": "tsade_110",
+        "de": "tsade_110"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_111",
+      "prefLabel": {
+        "en": "tsade_111",
+        "de": "tsade_111"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_120",
+      "prefLabel": {
+        "en": "tsade_120",
+        "de": "tsade_120"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_200",
+      "prefLabel": {
+        "en": "tsade_200",
+        "de": "tsade_200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_210",
+      "prefLabel": {
+        "en": "tsade_210",
+        "de": "tsade_210"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_230",
+      "prefLabel": {
+        "en": "tsade_230",
+        "de": "tsade_230"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_301",
+      "prefLabel": {
+        "en": "tsade_301",
+        "de": "tsade_301"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_310",
+      "prefLabel": {
+        "en": "tsade_310",
+        "de": "tsade_310"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_320",
+      "prefLabel": {
+        "en": "tsade_320",
+        "de": "tsade_320"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_32p",
+      "prefLabel": {
+        "en": "tsade_32p",
+        "de": "tsade_32p"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_330",
+      "prefLabel": {
+        "en": "tsade_330",
+        "de": "tsade_330"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_410",
+      "prefLabel": {
+        "en": "tsade_410",
+        "de": "tsade_410"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_420",
+      "prefLabel": {
+        "en": "tsade_420",
+        "de": "tsade_420"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_b0b",
+      "prefLabel": {
+        "en": "tsade_b0b",
+        "de": "tsade_b0b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_e00b",
+      "prefLabel": {
+        "en": "tsade_e00b",
+        "de": "tsade_e00b"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_e00p",
+      "prefLabel": {
+        "en": "tsade_e00p",
+        "de": "tsade_e00p"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/tsade_e300",
+      "prefLabel": {
+        "en": "tsade_e300",
+        "de": "tsade_e300"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
