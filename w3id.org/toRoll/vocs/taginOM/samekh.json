@@ -4,6 +4,183 @@
   "prefLabel": {
     "de": "samekh"
   },
+  "narrower": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_000010",
+      "prefLabel": {
+        "en": "samekh_000010",
+        "de": "samekh_000010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_002000",
+      "prefLabel": {
+        "en": "samekh_002000",
+        "de": "samekh_002000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_011000",
+      "prefLabel": {
+        "en": "samekh_011000",
+        "de": "samekh_011000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_011010",
+      "prefLabel": {
+        "en": "samekh_011010",
+        "de": "samekh_011010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_020000",
+      "prefLabel": {
+        "en": "samekh_020000",
+        "de": "samekh_020000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_020010",
+      "prefLabel": {
+        "en": "samekh_020010",
+        "de": "samekh_020010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_030010",
+      "prefLabel": {
+        "en": "samekh_030010",
+        "de": "samekh_030010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_100000",
+      "prefLabel": {
+        "en": "samekh_100000",
+        "de": "samekh_100000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_101000",
+      "prefLabel": {
+        "en": "samekh_101000",
+        "de": "samekh_101000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_101001",
+      "prefLabel": {
+        "en": "samekh_101001",
+        "de": "samekh_101001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_101010",
+      "prefLabel": {
+        "en": "samekh_101010",
+        "de": "samekh_101010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_101011",
+      "prefLabel": {
+        "en": "samekh_101011",
+        "de": "samekh_101011"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_101100",
+      "prefLabel": {
+        "en": "samekh_101100",
+        "de": "samekh_101100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_102000",
+      "prefLabel": {
+        "en": "samekh_102000",
+        "de": "samekh_102000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_110010",
+      "prefLabel": {
+        "en": "samekh_110010",
+        "de": "samekh_110010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_111000",
+      "prefLabel": {
+        "en": "samekh_111000",
+        "de": "samekh_111000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_111010",
+      "prefLabel": {
+        "en": "samekh_111010",
+        "de": "samekh_111010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_120000",
+      "prefLabel": {
+        "en": "samekh_120000",
+        "de": "samekh_120000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_120001",
+      "prefLabel": {
+        "en": "samekh_120001",
+        "de": "samekh_120001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_120010",
+      "prefLabel": {
+        "en": "samekh_120010",
+        "de": "samekh_120010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_130000",
+      "prefLabel": {
+        "en": "samekh_130000",
+        "de": "samekh_130000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_210010",
+      "prefLabel": {
+        "en": "samekh_210010",
+        "de": "samekh_210010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_300000",
+      "prefLabel": {
+        "en": "samekh_300000",
+        "de": "samekh_300000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_300001",
+      "prefLabel": {
+        "en": "samekh_300001",
+        "de": "samekh_300001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/samekh_f00000",
+      "prefLabel": {
+        "en": "samekh_f00000",
+        "de": "samekh_f00000"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
