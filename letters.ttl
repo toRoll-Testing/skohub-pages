@@ -6059,9 +6059,461 @@ tom:tav_f00b00
 # Block 22: variants of teth
 ############################################################
 
+tom:teth_02
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_02"@de , "teth_02"@en ;
+  skos:definition "Variante des Teth mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Teth with two tagin at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-02"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-02"@en .
+
+tom:teth_10
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_10"@de , "teth_10"@en ;
+  skos:definition "Variante des Teth mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Teth with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-10"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-10"@en .
+
+tom:teth_11
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_11"@de , "teth_11"@en ;
+  skos:definition "Variante des Teth mit einem Tag an der ersten Position und einem Tag an der zweiten Position."@de ,
+                  "Variant of the Teth with one tag at the first position and one tag at the second position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-11"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-11"@en .
+
+tom:teth_12
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_12"@de , "teth_12"@en ;
+  skos:definition "Variante des Teth mit einem Tag an der ersten Position und zwei Tagin an der zweiten Position."@de ,
+                  "Variant of the Teth with one tag at the first position and two tagin at the second position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-12"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-12"@en .
+
+tom:teth_20
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_20"@de , "teth_20"@en ;
+  skos:definition "Variante des Teth mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Teth with two tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-20"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-20"@en .
+
+tom:teth_21
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_21"@de , "teth_21"@en ;
+  skos:definition "Variante des Teth mit zwei Tagin an der ersten Position und einem Tag an der zweiten Position."@de ,
+                  "Variant of the Teth with two tagin at the first position and one tag at the second position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-21"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-21"@en .
+
+tom:teth_22
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_22"@de , "teth_22"@en ;
+  skos:definition "Variante des Teth mit zwei Tagin an der ersten Position und zwei Tagin an der zweiten Position."@de ,
+                  "Variant of the Teth with two tagin at the first position and two tagin at the second position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-22"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-22"@en .
+
+tom:teth_31
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_31"@de , "teth_31"@en ;
+  skos:definition "Variante des Teth mit drei Tagin an der ersten Position und einem Tag an der zweiten Position."@de ,
+                  "Variant of the Teth with three tagin at the first position and one tag at the second position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-31"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-31"@en .
+
+tom:teth_32
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_32"@de , "teth_32"@en ;
+  skos:definition "Variante des Teth mit drei Tagin an der ersten Position und zwei Tagin an der zweiten Position."@de ,
+                  "Variant of the Teth with three tagin at the first position and two tagin at the second position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-32"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-32"@en .
+
+tom:teth_40
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_40"@de , "teth_40"@en ;
+  skos:definition "Variante des Teth mit vier Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Teth with four tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-40"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-40"@en .
+
+tom:teth_41
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_41"@de , "teth_41"@en ;
+  skos:definition "Variante des Teth mit vier Tagin an der ersten Position und einem Tag an der zweiten Position."@de ,
+                  "Variant of the Teth with four tagin at the first position and one tag at the second position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-41"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-41"@en .
+
+tom:teth_42
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_42"@de , "teth_42"@en ;
+  skos:definition "Variante des Teth mit vier Tagin an der ersten Position und zwei Tagin an der zweiten Position."@de ,
+                  "Variant of the Teth with four tagin at the first position and two tagin at the second position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-42"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-42"@en .
+
+tom:teth_e30
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_e30"@de , "teth_e30"@en ;
+  skos:definition "Verlängerte Variante des Teth mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Elongated variant of the Teth with three tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-e30"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-e30"@en .
+
+tom:teth_w00
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_w00"@de , "teth_w00"@en ;
+  skos:definition "Gewickelte Variante des Teth ohne Tagin an allen Positionen."@de ,
+                  "Wrapped variant of the Teth with no tagin at any of the positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-w00"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-w00"@en .
+
+tom:teth_w10
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_w10"@de , "teth_w10"@en ;
+  skos:definition "Gewickelte Variante des Teth mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Wrapped variant of the Teth with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-w10"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-w10"@en .
+
+tom:teth_w11
+  a skos:Concept ;
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_w11"@de , "teth_w11"@en ;
+  skos:definition "Gewickelte Variante des Teth mit einem Tag an der ersten Position und einem Tag an der zweiten Position."@de ,
+                  "Wrapped variant of the Teth with one tag at the first position and one tag at the second position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-w11"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-w11"@en .
+
+tom:teth_w21
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_w21"@de , "teth_w21"@en ;
+  skos:definition "Gewickelte Variante des Teth mit zwei Tagin an der ersten Position und einem Tag an der zweiten Position."@de ,
+                  "Wrapped variant of the Teth with two tagin at the first position and one tag at the second position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-w21"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-w21"@en .
+
+tom:teth_w23
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_w23"@de , "teth_w23"@en ;
+  skos:definition "Gewickelte Variante des Teth mit zwei Tagin an der ersten Position und drei Tagin an der zweiten Position."@de ,
+                  "Wrapped variant of the Teth with two tagin at the first position and three tagin at the second position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-w23"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-w23"@en .
+
+tom:teth_w30
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_w30"@de , "teth_w30"@en ;
+  skos:definition "Gewickelte Variante des Teth mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Wrapped variant of the Teth with three tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-w30"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-w30"@en .
+
+tom:teth_w31
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_w31"@de , "teth_w31"@en ;
+  skos:definition "Gewickelte Variante des Teth mit drei Tagin an der ersten Position und einem Tag an der zweiten Position."@de ,
+                  "Wrapped variant of the Teth with three tagin at the first position and one tag at the second position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-w31"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-w31"@en .
+
+tom:teth_w32
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_w32"@de , "teth_w32"@en ;
+  skos:definition "Gewickelte Variante des Teth mit drei Tagin an der ersten Position und zwei Tagin an der zweiten Position."@de ,
+                  "Wrapped variant of the Teth with three tagin at the first position and two tagin at the second position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-w32"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-w32"@en .
+
+tom:teth_w33
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:teth ;
+  skos:prefLabel "teth_w33"@de , "teth_w33"@en ;
+  skos:definition "Gewickelte Variante des Teth mit drei Tagin an der ersten Position und drei Tagin an der zweiten Position."@de ,
+                  "Wrapped variant of the Teth with three tagin at the first position and three tagin at the second position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/teth.html#variante-w33"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/teth.html#variante-w33"@en .
+
 ############################################################
 # Block 23: variants of tsade
 ############################################################
+
+tom:tsade_020
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_020"@de , "tsade_020"@en ;
+  skos:definition "Variante des Tsade mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tsade with two tagin at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-020"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-020"@en .
+
+tom:tsade_100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_100"@de , "tsade_100"@en ;
+  skos:definition "Variante des Tsade mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tsade with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-100"@en .
+
+tom:tsade_110
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_110"@de , "tsade_110"@en ;
+  skos:definition "Variante des Tsade mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Tsade with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-110"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-110"@en .
+
+tom:tsade_111
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_111"@de , "tsade_111"@en ;
+  skos:definition "Variante des Tsade mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Tag an der dritten Position."@de ,
+                  "Variant of the Tsade with one tag at the first position, one tag at the second position, and one tag at the third position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-111"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-111"@en .
+
+tom:tsade_120
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_120"@de , "tsade_120"@en ;
+  skos:definition "Variante des Tsade mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Tsade with one tag at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-120"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-120"@en .
+
+tom:tsade_200
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_200"@de , "tsade_200"@en ;
+  skos:definition "Variante des Tsade mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tsade with two tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-200"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-200"@en .
+
+tom:tsade_210
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_210"@de , "tsade_210"@en ;
+  skos:definition "Variante des Tsade mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Tsade with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-210"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-210"@en .
+
+tom:tsade_230
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_230"@de , "tsade_230"@en ;
+  skos:definition "Variante des Tsade mit zwei Tagin an der ersten Position, drei Tagin an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Tsade with two tagin at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-230"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-230"@en .
+
+tom:tsade_301
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_301"@de , "tsade_301"@en ;
+  skos:definition "Variante des Tsade mit drei Tagin an der ersten Position, keinem Tag an der zweiten Position, einem Tag an der dritten Position."@de ,
+                  "Variant of the Tsade with three tagin at the first position, no tagin at the second position, one tag at the third position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-301"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-301"@en .
+
+tom:tsade_310
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_310"@de , "tsade_310"@en ;
+  skos:definition "Variante des Tsade mit drei Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Tsade with three tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-310"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-310"@en .
+
+tom:tsade_320
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_320"@de , "tsade_320"@en ;
+  skos:definition "Variante des Tsade mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Tsade with three tagin at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-320"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-320"@en .
+
+tom:tsade_32p
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_32p"@de , "tsade_32p"@en ;
+  skos:definition "Variante des Tsade mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position und einem Kringel an der dritten Position."@de ,
+                  "Variant of the Tsade with three tagin at the first position, two tagin at the second position, and one pretzel at the third position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-32p"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-32p"@en .
+
+tom:tsade_330
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_330"@de , "tsade_330"@en ;
+  skos:definition "Variante des Tsade mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Tsade with three tagin at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-330"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-330"@en .
+
+tom:tsade_410
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_410"@de , "tsade_410"@en ;
+  skos:definition "Variante des Tsade mit vier Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Tsade with four tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-410"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-410"@en .
+
+tom:tsade_420
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_420"@de , "tsade_420"@en ;
+  skos:definition "Variante des Tsade mit vier Tagin an der ersten Position, zwei Tagin an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Tsade with four tagin at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-420"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-420"@en .
+
+tom:tsade_b0b
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_b0b"@de , "tsade_b0b"@en ;
+  skos:definition "Variante des Tsade mit einem Bogen an der ersten Position, einem Bogen an der dritten Position sowie ohne Tagin an der zweiten Position."@de ,
+                  "Variant of the Tsade with one bow at the first position, one bow at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-b0b"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-b0b"@en .
+
+tom:tsade_e00b
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_e00b"@de , "tsade_e00b"@en ;
+  skos:definition "Verlängerte Variante des Tsade mit einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Elongated variant of the Tsade with one bow at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-e00b"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-e00b"@en .
+
+tom:tsade_e00p
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_e00p"@de , "tsade_e00p"@en ;
+  skos:definition "Verlängerte Variante des Tsade mit einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Elongated variant of the Tsade with one pretzel at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-e00p"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-e00p"@en .
+
+tom:tsade_e300
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tsade ;
+  skos:prefLabel "tsade_e300"@de , "tsade_e300"@en ;
+  skos:definition "Verlängerte Variante des Tsade mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Elongated variant of the Tsade with three tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tsade.html#variante-e300"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tsade.html#variante-e300"@en .
 
 ############################################################
 # Block 24: variants of tsadesofit
