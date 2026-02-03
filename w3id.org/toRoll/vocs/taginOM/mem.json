@@ -4,6 +4,141 @@
   "prefLabel": {
     "de": "mem"
   },
+  "narrower": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_00200",
+      "prefLabel": {
+        "en": "mem_00200",
+        "de": "mem_00200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_01000",
+      "prefLabel": {
+        "en": "mem_01000",
+        "de": "mem_01000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_01100",
+      "prefLabel": {
+        "en": "mem_01100",
+        "de": "mem_01100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_01200",
+      "prefLabel": {
+        "en": "mem_01200",
+        "de": "mem_01200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_02000",
+      "prefLabel": {
+        "en": "mem_02000",
+        "de": "mem_02000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_02100",
+      "prefLabel": {
+        "en": "mem_02100",
+        "de": "mem_02100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_03000",
+      "prefLabel": {
+        "en": "mem_03000",
+        "de": "mem_03000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_10000",
+      "prefLabel": {
+        "en": "mem_10000",
+        "de": "mem_10000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_10100",
+      "prefLabel": {
+        "en": "mem_10100",
+        "de": "mem_10100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_10101",
+      "prefLabel": {
+        "en": "mem_10101",
+        "de": "mem_10101"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_11000",
+      "prefLabel": {
+        "en": "mem_11000",
+        "de": "mem_11000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_11001",
+      "prefLabel": {
+        "en": "mem_11001",
+        "de": "mem_11001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_11100",
+      "prefLabel": {
+        "en": "mem_11100",
+        "de": "mem_11100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_12100",
+      "prefLabel": {
+        "en": "mem_12100",
+        "de": "mem_12100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_20100",
+      "prefLabel": {
+        "en": "mem_20100",
+        "de": "mem_20100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_20200",
+      "prefLabel": {
+        "en": "mem_20200",
+        "de": "mem_20200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_31000",
+      "prefLabel": {
+        "en": "mem_31000",
+        "de": "mem_31000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_b0000",
+      "prefLabel": {
+        "en": "mem_b0000",
+        "de": "mem_b0000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/mem_e00000",
+      "prefLabel": {
+        "en": "mem_e00000",
+        "de": "mem_e00000"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
