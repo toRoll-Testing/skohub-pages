@@ -1,39 +1,28 @@
 {
-  "id": "https://w3id.org/toRoll/vocs/taginOM/gimel",
+  "id": "https://w3id.org/toRoll/vocs/taginOM/gimel_20",
   "type": "Concept",
   "prefLabel": {
-    "de": "gimel"
+    "en": "gimel_20",
+    "de": "gimel_20"
   },
-  "narrower": [
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/gimel_0b",
-      "prefLabel": {
-        "en": "gimel_0b",
-        "de": "gimel_0b"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/gimel_20",
-      "prefLabel": {
-        "en": "gimel_20",
-        "de": "gimel_20"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/gimel_31",
-      "prefLabel": {
-        "en": "gimel_31",
-        "de": "gimel_31"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/gimel_40",
-      "prefLabel": {
-        "en": "gimel_40",
-        "de": "gimel_40"
-      }
+  "definition": {
+    "en": "Variant of the Gimel with two tagin at the first position and no tagin at the remaining positions.",
+    "de": "Variante des Gimel mit zwei Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."
+  },
+  "scopeNote": {
+    "en": [
+      "Naming scheme: https://example.github.io/docs/letters/gimel.html#variante-20"
+    ],
+    "de": [
+      "Benennungsschema: https://example.github.io/docs/letters/gimel.html#variante-20"
+    ]
+  },
+  "broader": {
+    "id": "https://w3id.org/toRoll/vocs/taginOM/gimel",
+    "prefLabel": {
+      "de": "gimel"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
@@ -46,15 +35,6 @@
   "inSchemeAll": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/",
-      "title": {
-        "en": "TOM Letters",
-        "de": "TOM Buchstaben"
-      }
     }
   ],
   "@context": {
