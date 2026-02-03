@@ -3277,3 +3277,235 @@ tom:lamed_p00
     skos:scopeNote
         "Benennungsschema: https://example.github.io/docs/letters/lamed.html#variante-p00"@de ,
         "Naming scheme: https://example.github.io/docs/letters/lamed.html#variante-p00"@en .
+
+############################################################
+# Block 11: variants of mem
+############################################################
+
+tom:mem_00200
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_00200"@de , "mem_00200"@en ;
+    skos:definition
+        "Variante des Mem mit zwei Tagin an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with two tagin at the third position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-00200"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-00200"@en .
+
+tom:mem_01000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_01000"@de , "mem_01000"@en ;
+    skos:definition
+        "Variante des Mem mit einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with one tag at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-01000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-01000"@en .
+
+tom:mem_01100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_01100"@de , "mem_01100"@en ;
+    skos:definition
+        "Variante des Mem mit einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with one tag at the second position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-01100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-01100"@en .
+
+tom:mem_01200
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_01200"@de , "mem_01200"@en ;
+    skos:definition
+        "Variante des Mem mit einem Tag an der zweiten Position und zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with one tag at the second position and two tagin at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-01200"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-01200"@en .
+
+tom:mem_02000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_02000"@de , "mem_02000"@en ;
+    skos:definition
+        "Variante des Mem mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with two tagin at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-02000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-02000"@en .
+
+tom:mem_02100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_02100"@de , "mem_02100"@en ;
+    skos:definition
+        "Variante des Mem mit zwei Tagin an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with two tagin at the second position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-02100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-02100"@en .
+
+tom:mem_03000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_03000"@de , "mem_03000"@en ;
+    skos:definition
+        "Variante des Mem mit drei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with three tagin at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-03000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-03000"@en .
+
+tom:mem_10000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_10000"@de , "mem_10000"@en ;
+    skos:definition
+        "Variante des Mem mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with one tag at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-10000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-10000"@en .
+
+tom:mem_10100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_10100"@de , "mem_10100"@en ;
+    skos:definition
+        "Variante des Mem mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-10100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-10100"@en .
+
+tom:mem_10101
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_10101"@de , "mem_10101"@en ;
+    skos:definition
+        "Variante des Mem mit einem Tag an der ersten, dritten und fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with one tag at the first, third, and fifth positions, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-10101"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-10101"@en .
+
+tom:mem_11000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_11000"@de , "mem_11000"@en ;
+    skos:definition
+        "Variante des Mem mit einem Tag an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with one tag at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-11000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-11000"@en .
+
+tom:mem_11001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_11001"@de , "mem_11001"@en ;
+    skos:definition
+        "Variante des Mem mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with one tag at the first position, one tag at the second position, and one tag at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-11001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-11001"@en .
+
+tom:mem_11100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_11100"@de , "mem_11100"@en ;
+    skos:definition
+        "Variante des Mem mit einem Tag an der ersten, zweiten und dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with one tag at the first, second, and third positions, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-11100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-11100"@en .
+
+tom:mem_12100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_12100"@de , "mem_12100"@en ;
+    skos:definition
+        "Variante des Mem mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with one tag at the first position, two tagin at the second position, and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-12100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-12100"@en .
+
+tom:mem_20100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_20100"@de , "mem_20100"@en ;
+    skos:definition
+        "Variante des Mem mit zwei Tagin an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with two tagin at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-20100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-20100"@en .
+
+tom:mem_20200
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_20200"@de , "mem_20200"@en ;
+    skos:definition
+        "Variante des Mem mit zwei Tagin an der ersten Position und zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with two tagin at the first position and two tagin at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-20200"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-20200"@en .
+
+tom:mem_31000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_31000"@de , "mem_31000"@en ;
+    skos:definition
+        "Variante des Mem mit drei Tagin an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with three tagin at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-31000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-31000"@en .
+
+tom:mem_b0000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_b0000"@de , "mem_b0000"@en ;
+    skos:definition
+        "Variante des Mem mit einem Bogen an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Mem with one bow at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-b0000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-b0000"@en .
+
+tom:mem_e00000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:mem ;
+    skos:prefLabel "mem_e00000"@de , "mem_e00000"@en ;
+    skos:definition
+        "Verlängerte Variante des Mem ohne Tagin an allen fünf Positionen."@de ,
+        "Elongated variant of the Mem with no tagin at any of the five positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-e00000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-e00000"@en .
