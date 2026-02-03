@@ -2,6 +2,7 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/kafsofit",
   "type": "Concept",
   "prefLabel": {
+    "en": "kafsofit",
     "de": "kafsofit"
   },
   "narrower": [

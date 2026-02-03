@@ -2,6 +2,7 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/lamed",
   "type": "Concept",
   "prefLabel": {
+    "en": "lamed",
     "de": "lamed"
   },
   "narrower": [

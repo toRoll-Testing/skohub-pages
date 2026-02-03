@@ -2,6 +2,7 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/beit",
   "type": "Concept",
   "prefLabel": {
+    "en": "beit",
     "de": "beit"
   },
   "narrower": [

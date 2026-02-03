@@ -2,6 +2,7 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/shin",
   "type": "Concept",
   "prefLabel": {
+    "en": "shin",
     "de": "shin"
   },
   "narrower": [

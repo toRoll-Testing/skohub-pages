@@ -2,6 +2,7 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/pesofit",
   "type": "Concept",
   "prefLabel": {
+    "en": "pesofit",
     "de": "pesofit"
   },
   "narrower": [

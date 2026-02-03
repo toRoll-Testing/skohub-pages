@@ -2,6 +2,7 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/tav",
   "type": "Concept",
   "prefLabel": {
+    "en": "tav",
     "de": "tav"
   },
   "narrower": [

@@ -2,6 +2,7 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/pe",
   "type": "Concept",
   "prefLabel": {
+    "en": "pe",
     "de": "pe"
   },
   "narrower": [

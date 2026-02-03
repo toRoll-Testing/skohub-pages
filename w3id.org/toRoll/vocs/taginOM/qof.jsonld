@@ -2,6 +2,7 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/qof",
   "type": "Concept",
   "prefLabel": {
+    "en": "qof",
     "de": "qof"
   },
   "narrower": [

@@ -2,6 +2,7 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/samekh",
   "type": "Concept",
   "prefLabel": {
+    "en": "samekh",
     "de": "samekh"
   },
   "narrower": [

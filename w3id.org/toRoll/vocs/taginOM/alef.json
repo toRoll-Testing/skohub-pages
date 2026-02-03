@@ -2,6 +2,7 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/alef",
   "type": "Concept",
   "prefLabel": {
+    "en": "alef",
     "de": "alef"
   },
   "narrower": [

@@ -2,6 +2,7 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/zayin",
   "type": "Concept",
   "prefLabel": {
+    "en": "zayin",
     "de": "zayin"
   },
   "narrower": [

@@ -2,6 +2,7 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/yod",
   "type": "Concept",
   "prefLabel": {
+    "en": "yod",
     "de": "yod"
   },
   "narrower": [

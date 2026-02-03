@@ -2,6 +2,7 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/teth",
   "type": "Concept",
   "prefLabel": {
+    "en": "teth",
     "de": "teth"
   },
   "narrower": [

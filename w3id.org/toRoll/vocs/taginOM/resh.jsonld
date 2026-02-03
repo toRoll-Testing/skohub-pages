@@ -2,6 +2,7 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/resh",
   "type": "Concept",
   "prefLabel": {
+    "en": "resh",
     "de": "resh"
   },
   "narrower": [

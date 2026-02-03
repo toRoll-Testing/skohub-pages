@@ -2,6 +2,7 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/memsofit",
   "type": "Concept",
   "prefLabel": {
+    "en": "memsofit",
     "de": "memsofit"
   },
   "narrower": [

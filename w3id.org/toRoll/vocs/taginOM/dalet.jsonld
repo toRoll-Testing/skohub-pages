@@ -2,6 +2,7 @@
   "id": "https://w3id.org/toRoll/vocs/taginOM/dalet",
   "type": "Concept",
   "prefLabel": {
+    "en": "dalet",
     "de": "dalet"
   },
   "narrower": [
