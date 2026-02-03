@@ -3509,3 +3509,487 @@ tom:mem_e00000
     skos:scopeNote
         "Benennungsschema: https://example.github.io/docs/letters/mem.html#variante-e00000"@de ,
         "Naming scheme: https://example.github.io/docs/letters/mem.html#variante-e00000"@en .
+
+############################################################
+# Block 12: variants of memsofit
+############################################################
+
+tom:memsofit_000001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_000001"@de , "memsofit_000001"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the sixth position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-000001"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-000001"@en .
+
+tom:memsofit_002000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_002000"@de , "memsofit_002000"@en ;
+  skos:definition "Variante des Memsofit mit zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with two tagin at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-002000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-002000"@en .
+
+tom:memsofit_003000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_003000"@de , "memsofit_003000"@en ;
+  skos:definition "Variante des Memsofit mit drei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with three tagin at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-003000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-003000"@en .
+
+tom:memsofit_011000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_011000"@de , "memsofit_011000"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-011000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-011000"@en .
+
+tom:memsofit_011001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_011001"@de , "memsofit_011001"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the second position, one tag at the third position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-011001"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-011001"@en .
+
+tom:memsofit_020000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_020000"@de , "memsofit_020000"@en ;
+  skos:definition "Variante des Memsofit mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with two tagin at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-020000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-020000"@en .
+
+tom:memsofit_100000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_100000"@de , "memsofit_100000"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-100000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-100000"@en .
+
+tom:memsofit_100001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_100001"@de , "memsofit_100001"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-100001"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-100001"@en .
+
+tom:memsofit_101000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_101000"@de , "memsofit_101000"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-101000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-101000"@en .
+
+tom:memsofit_101001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_101001"@de , "memsofit_101001"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the third position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-101001"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-101001"@en .
+
+tom:memsofit_101010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_101010"@de , "memsofit_101010"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-101010"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-101010"@en .
+
+tom:memsofit_101011
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_101011"@de , "memsofit_101011"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der fünften Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the third position, one tag at the fifth position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-101011"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-101011"@en .
+
+tom:memsofit_101100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_101100"@de , "memsofit_101100"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the third position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-101100"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-101100"@en .
+
+tom:memsofit_101110
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_101110"@de , "memsofit_101110"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the third position, one tag at the fourth position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-101110"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-101110"@en .
+
+tom:memsofit_102000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_102000"@de , "memsofit_102000"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, two tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-102000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-102000"@en .
+
+tom:memsofit_102001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_102001"@de , "memsofit_102001"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, zwei Tagin an der dritten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, two tagin at the third position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-102001"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-102001"@en .
+
+tom:memsofit_102110
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_102110"@de , "memsofit_102110"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, zwei Tagin an der dritten Position, einem Tag an der vierten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, two tagin at the third position, one tag at the fourth position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-102110"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-102110"@en .
+
+tom:memsofit_110000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_110000"@de , "memsofit_110000"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-110000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-110000"@en .
+
+tom:memsofit_110001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_110001"@de , "memsofit_110001"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the second position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-110001"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-110001"@en .
+
+tom:memsofit_111000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_111000"@de , "memsofit_111000"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-111000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-111000"@en .
+
+tom:memsofit_112000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_112000"@de , "memsofit_112000"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position, zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-112000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-112000"@en .
+
+tom:memsofit_120001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_120001"@de , "memsofit_120001"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, two tagin at the second position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-120001"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-120001"@en .
+
+tom:memsofit_121111
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_121111"@de , "memsofit_121111"@en ;
+  skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, einem Tag an der fünften Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, two tagin at the second position, one tag at the third position, one tag at the fourth position, one tag at the fifth position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-121111"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-121111"@en .
+
+tom:memsofit_200000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_200000"@de , "memsofit_200000"@en ;
+  skos:definition "Variante des Memsofit mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with two tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-200000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-200000"@en .
+
+tom:memsofit_200001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_200001"@de , "memsofit_200001"@en ;
+  skos:definition "Variante des Memsofit mit zwei Tagin an der ersten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with two tagin at the first position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-200001"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-200001"@en .
+
+tom:memsofit_210000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_210000"@de , "memsofit_210000"@en ;
+  skos:definition "Variante des Memsofit mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-210000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-210000"@en .
+
+tom:memsofit_300000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:memsofit ;
+  skos:prefLabel "memsofit_300000"@de , "memsofit_300000"@en ;
+  skos:definition "Variante des Memsofit mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with three tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-300000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/memsofit.html#variante-300000"@en .
+
+############################################################
+# Block 13: variants of nun
+############################################################
+
+tom:nun_00b
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nun ;
+  skos:prefLabel "nun_00b"@de , "nun_00b"@en ;
+  skos:definition "Variante des Nun mit einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with one bow at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-00b"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nun.html#variante-00b"@en .
+
+tom:nun_00p
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nun ;
+  skos:prefLabel "nun_00p"@de , "nun_00p"@en ;
+  skos:definition "Variante des Nun mit einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with one pretzel at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-00p"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nun.html#variante-00p"@en .
+
+tom:nun_10b
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nun ;
+  skos:prefLabel "nun_10b"@de , "nun_10b"@en ;
+  skos:definition "Variante des Nun mit einem Tag an der ersten Position, einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with one tag at the first position, one bow at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-10b"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nun.html#variante-10b"@en .
+
+tom:nun_10p
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nun ;
+  skos:prefLabel "nun_10p"@de , "nun_10p"@en ;
+  skos:definition "Variante des Nun mit einem Tag an der ersten Position, einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with one tag at the first position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-10p"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nun.html#variante-10p"@en .
+
+tom:nun_200
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nun ;
+  skos:prefLabel "nun_200"@de , "nun_200"@en ;
+  skos:definition "Variante des Nun mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with two tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-200"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nun.html#variante-200"@en .
+
+tom:nun_30b
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nun ;
+  skos:prefLabel "nun_30b"@de , "nun_30b"@en ;
+  skos:definition "Variante des Nun mit drei Tagin an der ersten Position, einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with three tagin at the first position, one bow at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-30b"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nun.html#variante-30b"@en .
+
+tom:nun_30f
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nun ;
+  skos:prefLabel "nun_30f"@de , "nun_30f"@en ;
+  skos:definition "Variante des Nun mit drei Tagin an der ersten Position, einem Fähnchen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with three tagin at the first position, one flag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-30f"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nun.html#variante-30f"@en .
+
+tom:nun_30p
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nun ;
+  skos:prefLabel "nun_30p"@de , "nun_30p"@en ;
+  skos:definition "Variante des Nun mit drei Tagin an der ersten Position, einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with three tagin at the first position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-30p"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nun.html#variante-30p"@en .
+
+tom:nun_3b0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nun ;
+  skos:prefLabel "nun_3b0"@de , "nun_3b0"@en ;
+  skos:definition "Variante des Nun mit drei Tagin an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with three tagin at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-3b0"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nun.html#variante-3b0"@en .
+
+tom:nun_3p0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nun ;
+  skos:prefLabel "nun_3p0"@de , "nun_3p0"@en ;
+  skos:definition "Variante des Nun mit drei Tagin an der ersten Position, einem Kringel an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with three tagin at the first position, one pretzel at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-3p0"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nun.html#variante-3p0"@en .
+
+tom:nun_3pp
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nun ;
+  skos:prefLabel "nun_3pp"@de , "nun_3pp"@en ;
+  skos:definition "Variante des Nun mit drei Tagin an der ersten Position, einem Kringel an der zweiten Position, einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with three tagin at the first position, one pretzel at the second position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-3pp"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nun.html#variante-3pp"@en .
+
+tom:nun_e300
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nun ;
+  skos:prefLabel "nun_e300"@de , "nun_e300"@en ;
+  skos:definition "Verlängerte Variante des Nun mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Elongated variant of the Nun with three tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-e300"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nun.html#variante-e300"@en .
+
+tom:nun_i000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nun ;
+  skos:prefLabel "nun_i000"@de , "nun_i000"@en ;
+  skos:definition "Inverse Variante des Nun ohne Tagin an allen Positionen."@de , "Inverse variant of the Nun with no tagin at any of the positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-i000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nun.html#variante-i000"@en .
+
+tom:nun_i300
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nun ;
+  skos:prefLabel "nun_i300"@de , "nun_i300"@en ;
+  skos:definition "Inverse Variante des Nun mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Inverse variant of the Nun with three tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-i300"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nun.html#variante-i300"@en .
+
+tom:nun_p0p
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nun ;
+  skos:prefLabel "nun_p0p"@de , "nun_p0p"@en ;
+  skos:definition "Variante des Nun mit einem Kringel an der ersten Position, einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with one pretzel at the first position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-p0p"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nun.html#variante-p0p"@en .
+
+############################################################
+# Block 14: variants of nunsofit
+############################################################
+
+############################################################
+# Block 15: variants of pe
+############################################################
+
+############################################################
+# Block 16: variants of pesofit
+############################################################
+
+############################################################
+# Block 17: variants of qof
+############################################################
+
+############################################################
+# Block 18: variants of resh
+############################################################
+
+############################################################
+# Block 19: variants of samekh
+############################################################
+
+############################################################
+# Block 20: variants of shin
+############################################################
+
+############################################################
+# Block 21: variants of tav
+############################################################
+
+############################################################
+# Block 22: variants of teth
+############################################################
+
+############################################################
+# Block 23: variants of tsade
+############################################################
+
+############################################################
+# Block 24: variants of tsadesofit
+############################################################
+
+############################################################
+# Block 25: variants of vav
+############################################################
+
+############################################################
+# Block 26: variants of yod
+############################################################
+
+############################################################
+# Block 27: variants of zayin
+############################################################
