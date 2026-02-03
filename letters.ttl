@@ -1157,6 +1157,226 @@ tom:ayin_we0000
         "Naming scheme: https://example.github.io/docs/letters/ayin.html#variante-we0000"@en .
 
 ############################################################
+# block 3: variants of beit
+############################################################
+
+tom:beit_0000010
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_0000010"@de , "beit_0000010"@en ;
+    skos:definition
+        "Variante des Beit mit einem Tag an der sechsten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with one tag at the sixth position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-0000010"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-0000010"@en .
+
+tom:beit_00000b0
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_00000b0"@de , "beit_00000b0"@en ;
+    skos:definition
+        "Variante des Beit mit einem Bogen an der sechsten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with one bow at the sixth position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-00000b0"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-00000b0"@en .
+
+tom:beit_0001000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_0001000"@de , "beit_0001000"@en ;
+    skos:definition
+        "Variante des Beit mit einem Tag an der vierten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with one tag at the fourth position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-0001000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-0001000"@en .
+
+tom:beit_0010000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_0010000"@de , "beit_0010000"@en ;
+    skos:definition
+        "Variante des Beit mit einem Tag an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with one tag at the third position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-0010000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-0010000"@en .
+
+tom:beit_00f0000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_00f0000"@de , "beit_00f0000"@en ;
+    skos:definition
+        "Variante des Beit mit einem Fähnchen an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with one flag at the third position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-00f0000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-00f0000"@en .
+
+tom:beit_0100000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_0100000"@de , "beit_0100000"@en ;
+    skos:definition
+        "Variante des Beit mit einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with one tag at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-0100000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-0100000"@en .
+
+tom:beit_0110000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_0110000"@de , "beit_0110000"@en ;
+    skos:definition
+        "Variante des Beit mit einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with one tag at the second position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-0110000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-0110000"@en .
+
+tom:beit_0200000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_0200000"@de , "beit_0200000"@en ;
+    skos:definition
+        "Variante des Beit mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with two tagin at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-0200000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-0200000"@en .
+
+tom:beit_1000000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_1000000"@de , "beit_1000000"@en ;
+    skos:definition
+        "Variante des Beit mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with one tag at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-1000000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-1000000"@en .
+
+tom:beit_1010000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_1010000"@de , "beit_1010000"@en ;
+    skos:definition
+        "Variante des Beit mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-1010000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-1010000"@en .
+
+tom:beit_1010001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_1010001"@de , "beit_1010001"@en ;
+    skos:definition
+        "Variante des Beit mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie einem Tag an der siebten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with one tag at the first position, one tag at the third position, and one tag at the seventh position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-1010001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-1010001"@en .
+
+tom:beit_1011010
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_1011010"@de , "beit_1011010"@en ;
+    skos:definition
+        "Variante des Beit mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with one tag at the first position, one tag at the third position, one tag at the fourth position, and one tag at the sixth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-1011010"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-1011010"@en .
+
+tom:beit_1100000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_1100000"@de , "beit_1100000"@en ;
+    skos:definition
+        "Variante des Beit mit einem Tag an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with one tag at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-1100000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-1100000"@en .
+
+tom:beit_1110000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_1110000"@de , "beit_1110000"@en ;
+    skos:definition
+        "Variante des Beit mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with one tag at the first position, one tag at the second position, and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-1110000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-1110000"@en .
+
+tom:beit_1210000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_1210000"@de , "beit_1210000"@en ;
+    skos:definition
+        "Variante des Beit mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with one tag at the first position, two tagin at the second position, and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-1210000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-1210000"@en .
+
+tom:beit_2000001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_2000001"@de , "beit_2000001"@en ;
+    skos:definition
+        "Variante des Beit mit zwei Tagin an der ersten Position und einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with two tagin at the first position and one tag at the seventh position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-2000001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-2000001"@en .
+
+tom:beit_2300000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_2300000"@de , "beit_2300000"@en ;
+    skos:definition
+        "Variante des Beit mit zwei Tagin an der ersten Position und drei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with two tagin at the first position and three tagin at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-2300000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-2300000"@en .
+
+tom:beit_3000000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:beit ;
+    skos:prefLabel "beit_3000000"@de , "beit_3000000"@en ;
+    skos:definition
+        "Variante des Beit mit drei Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Beit with three tagin at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/beit.html#variante-3000000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-3000000"@en .
+
+############################################################
 # block xa — variants of he (tagin only)
 ############################################################
 
