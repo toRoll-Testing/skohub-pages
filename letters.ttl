@@ -1377,6 +1377,142 @@ tom:beit_3000000
         "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-3000000"@en .
 
 ############################################################
+# block 4: variants of dalet
+############################################################
+
+tom:dalet_0001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:dalet ;
+    skos:prefLabel "dalet_0001"@de , "dalet_0001"@en ;
+    skos:definition
+        "Variante des Dalet mit einem Tag an der vierten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Dalet with one tag at the fourth position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/dalet.html#variante-0001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/dalet.html#variante-0001"@en .
+
+tom:dalet_0100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:dalet ;
+    skos:prefLabel "dalet_0100"@de , "dalet_0100"@en ;
+    skos:definition
+        "Variante des Dalet mit einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Dalet with one tag at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/dalet.html#variante-0100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/dalet.html#variante-0100"@en .
+
+tom:dalet_0110
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:dalet ;
+    skos:prefLabel "dalet_0110"@de , "dalet_0110"@en ;
+    skos:definition
+        "Variante des Dalet mit einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Dalet with one tag at the second position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungssschema: https://example.github.io/docs/letters/dalet.html#variante-0110"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/dalet.html#variante-0110"@en .
+
+tom:dalet_0200
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:dalet ;
+    skos:prefLabel "dalet_0200"@de , "dalet_0200"@en ;
+    skos:definition
+        "Variante des Dalet mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Dalet with two tagin at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/dalet.html#variante-0200"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/dalet.html#variante-0200"@en .
+
+tom:dalet_1000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:dalet ;
+    skos:prefLabel "dalet_1000"@de , "dalet_1000"@en ;
+    skos:definition
+        "Variante des Dalet mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Dalet with one tag at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/dalet.html#variante-1000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/dalet.html#variante-1000"@en .
+
+tom:dalet_1010
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:dalet ;
+    skos:prefLabel "dalet_1010"@de , "dalet_1010"@en ;
+    skos:definition
+        "Variante des Dalet mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Dalet with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/dalet.html#variante-1010"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/dalet.html#variante-1010"@en .
+
+tom:dalet_1021
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:dalet ;
+    skos:prefLabel "dalet_1021"@de , "dalet_1021"@en ;
+    skos:definition
+        "Variante des Dalet mit einem Tag an der ersten Position, keinem Tagin an der zweiten Position, zwei Tagin an der dritten Position und einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Dalet with one tag at the first position, no tagin at the second position, two tagin at the third position, and one tag at the fourth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/dalet.html#variante-1021"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/dalet.html#variante-1021"@en .
+
+tom:dalet_1110
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:dalet ;
+    skos:prefLabel "dalet_1110"@de , "dalet_1110"@en ;
+    skos:definition
+        "Variante des Dalet mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Dalet with one tag at the first position, one tag at the second position, and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungssschema: https://example.github.io/docs/letters/dalet.html#variante-1110"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/dalet.html#variante-1110"@en .
+
+tom:dalet_1111
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:dalet ;
+    skos:prefLabel "dalet_1111"@de , "dalet_1111"@en ;
+    skos:definition
+        "Variante des Dalet mit einem Tag an jeder der vier Positionen."@de ,
+        "Variant of the Dalet with one tag at each of the four positions."@en ;
+    skos:scopeNote
+        "Benennungssschema: https://example.github.io/docs/letters/dalet.html#variante-1111"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/dalet.html#variante-1111"@en .
+
+tom:dalet_1112
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:dalet ;
+    skos:prefLabel "dalet_1112"@de , "dalet_1112"@en ;
+    skos:definition
+        "Variante des Dalet mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position und zwei Tagin an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Dalet with one tag at the first position, one tag at the second position, one tag at the third position, and two tagin at the fourth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungssschema: https://example.github.io/docs/letters/dalet.html#variante-1112"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/dalet.html#variante-1112"@en .
+
+tom:dalet_1210
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:dalet ;
+    skos:prefLabel "dalet_1210"@de , "dalet_1210"@en ;
+    skos:definition
+        "Variante des Dalet mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Dalet with one tag at the first position, two tagin at the second position, and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungssschema: https://example.github.io/docs/letters/dalet.html#variante-1210"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/dalet.html#variante-1210"@en .
+
+############################################################
 # block xa — variants of he (tagin only)
 ############################################################
 
