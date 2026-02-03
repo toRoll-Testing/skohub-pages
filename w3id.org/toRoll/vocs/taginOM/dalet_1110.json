@@ -1,88 +1,28 @@
 {
-  "id": "https://w3id.org/toRoll/vocs/taginOM/dalet",
+  "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_1110",
   "type": "Concept",
   "prefLabel": {
-    "de": "dalet"
+    "en": "dalet_1110",
+    "de": "dalet_1110"
   },
-  "narrower": [
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_0001",
-      "prefLabel": {
-        "en": "dalet_0001",
-        "de": "dalet_0001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_0100",
-      "prefLabel": {
-        "en": "dalet_0100",
-        "de": "dalet_0100"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_0110",
-      "prefLabel": {
-        "en": "dalet_0110",
-        "de": "dalet_0110"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_0200",
-      "prefLabel": {
-        "en": "dalet_0200",
-        "de": "dalet_0200"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_1000",
-      "prefLabel": {
-        "en": "dalet_1000",
-        "de": "dalet_1000"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_1010",
-      "prefLabel": {
-        "en": "dalet_1010",
-        "de": "dalet_1010"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_1021",
-      "prefLabel": {
-        "en": "dalet_1021",
-        "de": "dalet_1021"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_1110",
-      "prefLabel": {
-        "en": "dalet_1110",
-        "de": "dalet_1110"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_1111",
-      "prefLabel": {
-        "en": "dalet_1111",
-        "de": "dalet_1111"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_1112",
-      "prefLabel": {
-        "en": "dalet_1112",
-        "de": "dalet_1112"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/dalet_1210",
-      "prefLabel": {
-        "en": "dalet_1210",
-        "de": "dalet_1210"
-      }
+  "definition": {
+    "en": "Variant of the Dalet with one tag at the first position, one tag at the second position, and one tag at the third position, and no tagin at the remaining positions.",
+    "de": "Variante des Dalet mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."
+  },
+  "scopeNote": {
+    "en": [
+      "Naming scheme: https://example.github.io/docs/letters/dalet.html#variante-1110"
+    ],
+    "de": [
+      "Benennungssschema: https://example.github.io/docs/letters/dalet.html#variante-1110"
+    ]
+  },
+  "broader": {
+    "id": "https://w3id.org/toRoll/vocs/taginOM/dalet",
+    "prefLabel": {
+      "de": "dalet"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
@@ -95,15 +35,6 @@
   "inSchemeAll": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/",
-      "title": {
-        "en": "TOM Letters",
-        "de": "TOM Buchstaben"
-      }
     }
   ],
   "@context": {
