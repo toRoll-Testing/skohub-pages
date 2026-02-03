@@ -2002,3 +2002,582 @@ tom:he_e0000
         "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-e0000"@de ,
         "Naming scheme: https://example.github.io/docs/letters/he.html#variante-e0000"@en .
 
+############################################################
+# Block 7: variants of het
+############################################################
+
+tom:het_0000b
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_0000b"@de , "het_0000b"@en ;
+    skos:definition
+        "Variante des Het mit einem Bogen an der fünften Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one bow at the fifth position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-0000b"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-0000b"@en .
+
+tom:het_000bb
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_000bb"@de , "het_000bb"@en ;
+    skos:definition
+        "Variante des Het mit einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one bow at the fourth position and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-000bb"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-000bb"@en .
+
+tom:het_01000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_01000"@de , "het_01000"@en ;
+    skos:definition
+        "Variante des Het mit einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one tag at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-01000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-01000"@en .
+
+tom:het_0100b
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_0100b"@de , "het_0100b"@en ;
+    skos:definition
+        "Variante des Het mit einem Tag an der zweiten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one tag at the second position and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-0100b"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-0100b"@en .
+
+tom:het_010bb
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_010bb"@de , "het_010bb"@en ;
+    skos:definition
+        "Variante des Het mit einem Tag an der zweiten Position, einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one tag at the second position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-010bb"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-010bb"@en .
+
+tom:het_01100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_01100"@de , "het_01100"@en ;
+    skos:definition
+        "Variante des Het mit einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one tag at the second position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-01100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-01100"@en .
+
+tom:het_0110b
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_0110b"@de , "het_0110b"@en ;
+    skos:definition
+        "Variante des Het mit einem Tag an der zweiten Position, einem Tag an der dritten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one tag at the second position, one tag at the third position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-0110b"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-0110b"@en .
+
+tom:het_02000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_02000"@de , "het_02000"@en ;
+    skos:definition
+        "Variante des Het mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with two tagin at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-02000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-02000"@en .
+
+tom:het_0f000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_0f000"@de , "het_0f000"@en ;
+    skos:definition
+        "Variante des Het mit einem Fähnchen an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one flag at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-0f000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-0f000"@en .
+
+tom:het_10000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_10000"@de , "het_10000"@en ;
+    skos:definition
+        "Variante des Het mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one tag at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-10000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-10000"@en .
+
+tom:het_1000b
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_1000b"@de , "het_1000b"@en ;
+    skos:definition
+        "Variante des Het mit einem Tag an der ersten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one tag at the first position and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-1000b"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-1000b"@en .
+
+tom:het_10100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_10100"@de , "het_10100"@en ;
+    skos:definition
+        "Variante des Het mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-10100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-10100"@en .
+
+tom:het_1010b
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_1010b"@de , "het_1010b"@en ;
+    skos:definition
+        "Variante des Het mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one tag at the first position, one tag at the third position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-1010b"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-1010b"@en .
+
+tom:het_101bb
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_101bb"@de , "het_101bb"@en ;
+    skos:definition
+        "Variante des Het mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one tag at the first position, one tag at the third position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-101bb"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-101bb"@en .
+
+tom:het_10200
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_10200"@de , "het_10200"@en ;
+    skos:definition
+        "Variante des Het mit einem Tag an der ersten Position und zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one tag at the first position and two tagin at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-10200"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-10200"@en .
+
+tom:het_11000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_11000"@de , "het_11000"@en ;
+    skos:definition
+        "Variante des Het mit einem Tag an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one tag at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-11000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-11000"@en .
+
+tom:het_110bb
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_110bb"@de , "het_110bb"@en ;
+    skos:definition
+        "Variante des Het mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one tag at the first position, one tag at the second position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-110bb"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-110bb"@en .
+
+tom:het_11100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_11100"@de , "het_11100"@en ;
+    skos:definition
+        "Variante des Het mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one tag at the first position, one tag at the second position, and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-11100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-11100"@en .
+
+tom:het_12000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_12000"@de , "het_12000"@en ;
+    skos:definition
+        "Variante des Het mit einem Tag an der ersten Position und zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with one tag at the first position and two tagin at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-12000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-12000"@en .
+
+tom:het_20001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_20001"@de , "het_20001"@en ;
+    skos:definition
+        "Variante des Het mit zwei Tagin an der ersten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with two tagin at the first position and one tag at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-20001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-20001"@en .
+
+tom:het_21000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_21000"@de , "het_21000"@en ;
+    skos:definition
+        "Variante des Het mit zwei Tagin an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Het with two tagin at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-21000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-21000"@en .
+
+tom:het_c00000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_c00000"@de , "het_c00000"@en ;
+    skos:definition
+        "Verzerrte Variante des Het ohne Tagin an allen fünf Positionen."@de ,
+        "Crooked variant of the Het with no tagin at any of the five positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-c00000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-c00000"@en .
+
+tom:het_e0100b
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_e0100b"@de , "het_e0100b"@en ;
+    skos:definition
+        "Verlängerte Variante des Het mit einem Tag an der zweiten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated variant of the Het with one tag at the second position and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-e0100b"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-e0100b"@en .
+
+tom:het_e010bb
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_e010bb"@de , "het_e010bb"@en ;
+    skos:definition
+        "Verlängerte Variante des Het mit einem Tag an der zweiten Position, einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated variant of the Het with one tag at the second position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-e010bb"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-e010bb"@en .
+
+tom:het_e010pp
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_e010pp"@de , "het_e010pp"@en ;
+    skos:definition
+        "Verlängerte Variante des Het mit einem Tag an der zweiten Position, einem Kringel an der vierten Position und einem Kringel an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated variant of the Het with one tag at the second position, one pretzel at the fourth position, and one pretzel at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-e010pp"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-e010pp"@en .
+
+tom:het_e011bb
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_e011bb"@de , "het_e011bb"@en ;
+    skos:definition
+        "Verlängerte Variante des Het mit einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated variant of the Het with one tag at the second position, one tag at the third position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-e011bb"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-e011bb"@en .
+
+tom:het_e02000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_e02000"@de , "het_e02000"@en ;
+    skos:definition
+        "Verlängerte Variante des Het mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated variant of the Het with two tagin at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-e02000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-e02000"@en .
+
+tom:het_e10000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_e10000"@de , "het_e10000"@en ;
+    skos:definition
+        "Verlängerte Variante des Het mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated variant of the Het with one tag at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-e10000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-e10000"@en .
+
+tom:het_e100bb
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_e100bb"@de , "het_e100bb"@en ;
+    skos:definition
+        "Verlängerte Variante des Het mit einem Tag an der ersten Position, einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated variant of the Het with one tag at the first position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-e100bb"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-e100bb"@en .
+
+tom:het_e10100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_e10100"@de , "het_e10100"@en ;
+    skos:definition
+        "Verlängerte Variante des Het mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated variant of the Het with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-e10100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-e10100"@en .
+
+tom:het_e1010b
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_e1010b"@de , "het_e1010b"@en ;
+    skos:definition
+        "Verlängerte Variante des Het mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated variant of the Het with one tag at the first position, one tag at the third position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-e1010b"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-e1010b"@en .
+
+tom:het_e11000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_e11000"@de , "het_e11000"@en ;
+    skos:definition
+        "Verlängerte Variante des Het mit einem Tag an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated variant of the Het with one tag at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-e11000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-e11000"@en .
+
+tom:het_eb000b
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_eb000b"@de , "het_eb000b"@en ;
+    skos:definition
+        "Verlängerte Variante des Het mit einem Bogen an der fünften Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated variant of the Het with one bow at the fifth position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-eb000b"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-eb000b"@en .
+
+tom:het_er00000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_er00000"@de , "het_er00000"@en ;
+    skos:definition
+        "Verlängerte Dach-Variante des Het ohne Tagin an allen fünf Positionen."@de ,
+        "Elongated roof variant of the Het with no tagin at any of the five positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-er00000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-er00000"@en .
+
+tom:het_er0000p
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_er0000p"@de , "het_er0000p"@en ;
+    skos:definition
+        "Verlängerte Dach-Variante des Het mit einem Kringel an der fünften Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated roof variant of the Het with one pretzel at the fifth position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-er0000p"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-er0000p"@en .
+
+tom:het_er000bb
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_er000bb"@de , "het_er000bb"@en ;
+    skos:definition
+        "Verlängerte Dach-Variante des Het mit einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated roof variant of the Het with one bow at the fourth position and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-er000bb"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-er000bb"@en .
+
+tom:het_er000pp
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_er000pp"@de , "het_er000pp"@en ;
+    skos:definition
+        "Verlängerte Dach-Variante des Het mit einem Kringel an der vierten Position und einem Kringel an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated roof variant of the Het with one pretzel at the fourth position and one pretzel at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-er000pp"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-er000pp"@en .
+
+tom:het_er10000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_er10000"@de , "het_er10000"@en ;
+    skos:definition
+        "Verlängerte Dach-Variante des Het mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated roof variant of the Het with one tag at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-er10000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-er10000"@en .
+
+tom:het_er10100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_er10100"@de , "het_er10100"@en ;
+    skos:definition
+        "Verlängerte Dach-Variante des Het mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated roof variant of the Het with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-er10100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-er10100"@en .
+
+tom:het_er20000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_er20000"@de , "het_er20000"@en ;
+    skos:definition
+        "Verlängerte Dach-Variante des Het mit zwei Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated roof variant of the Het with two tagin at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-er20000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-er20000"@en .
+
+tom:het_r00000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_r00000"@de , "het_r00000"@en ;
+    skos:definition
+        "Dach-Variante des Het ohne Tagin an allen fünf Positionen."@de ,
+        "Roof variant of the Het with no tagin at any of the five positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-r00000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-r00000"@en .
+
+tom:het_r10000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_r10000"@de , "het_r10000"@en ;
+    skos:definition
+        "Dach-Variante des Het mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Roof variant of the Het with one tag at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-r10000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-r10000"@en .
+
+tom:het_r10100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_r10100"@de , "het_r10100"@en ;
+    skos:definition
+        "Dach-Variante des Het mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Roof variant of the Het with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-r10100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-r10100"@en .
+
+tom:het_r1010b
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_r1010b"@de , "het_r1010b"@en ;
+    skos:definition
+        "Dach-Variante des Het mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen。"@de ,
+        "Roof variant of the Het with one tag at the first position, one tag at the third position, and one bow at the fifth position, and no tagin at the remaining positions。"@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-r1010b"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-r1010b"@en .
+
+tom:het_r101bb
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_r101bb"@de , "het_r101bb"@en ;
+    skos:definition
+        "Dach-Variante des Het mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Roof variant of the Het with one tag at the first position, one tag at the third position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-r101bb"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-r101bb"@en .
+
+tom:het_r101pp
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_r101pp"@de , "het_r101pp"@en ;
+    skos:definition
+        "Dach-Variante des Het mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Kringel an der vierten Position und einem Kringel an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Roof variant of the Het with one tag at the first position, one tag at the third position, one pretzel at the fourth position, and one pretzel at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-r101pp"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-r101pp"@en .
+
+tom:het_rb020b
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_rb020b"@de , "het_rb020b"@en ;
+    skos:definition
+        "Dach-Variante des Het mit einem Bogen an der zweiten Position, zwei Tagin an der dritten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Roof variant of the Het with one bow at the second position, two tagin at the third position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-rb020b"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-rb020b"@en .
+
+tom:het_s00000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:het ;
+    skos:prefLabel "het_s00000"@de , "het_s00000"@en ;
+    skos:definition
+        "Durchgestrichene Variante des Het ohne Tagin an allen fünf Positionen."@de ,
+        "Struckthrough variant of the Het with no tagin at any of the five positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-s00000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/het.html#variante-s00000"@en .
