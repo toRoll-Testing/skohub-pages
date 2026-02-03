@@ -1513,7 +1513,59 @@ tom:dalet_1210
         "Naming scheme: https://example.github.io/docs/letters/dalet.html#variante-1210"@en .
 
 ############################################################
-# block xa — variants of he (tagin only)
+# block 5: variantes of gimel
+############################################################
+
+tom:gimel_0b
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:gimel ;
+    skos:prefLabel "gimel_0b"@de , "gimel_0b"@en ;
+    skos:definition
+        "Variante des Gimel mit einem Bogen an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Gimel with one bow at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/gimel.html#variante-0b"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/gimel.html#variante-0b"@en .
+
+tom:gimel_20
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:gimel ;
+    skos:prefLabel "gimel_20"@de , "gimel_20"@en ;
+    skos:definition
+        "Variante des Gimel mit zwei Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Gimel with two tagin at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/gimel.html#variante-20"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/gimel.html#variante-20"@en .
+
+tom:gimel_31
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:gimel ;
+    skos:prefLabel "gimel_31"@de , "gimel_31"@en ;
+    skos:definition
+        "Variante des Gimel mit drei Tagin an der ersten Position und einem Tag an der zweiten Position."@de ,
+        "Variant of the Gimel with three tagin at the first position and one tag at the second position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/gimel.html#variante-31"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/gimel.html#variante-31"@en .
+
+tom:gimel_40
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:gimel ;
+    skos:prefLabel "gimel_40"@de , "gimel_40"@en ;
+    skos:definition
+        "Variante des Gimel mit vier Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Gimel with four tagin at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/gimel.html#variante-40"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/gimel.html#variante-40"@en .
+
+############################################################
+# block 6a — variants of he (tagin only)
 ############################################################
 
 tom:he_0001
@@ -1889,7 +1941,7 @@ tom:he_3021
         "Naming scheme: https://example.github.io/docs/letters/he.html#variante-3021"@en .
 
 ############################################################
-# block xb — variants of he with 'b' (bow)
+# block 6b — variants of he with 'b' (bow)
 ############################################################
 
 tom:he_b000
@@ -1906,7 +1958,7 @@ tom:he_b000
 
 
 ############################################################
-# Block xc — variants of he with 'f' (flag)
+# Block 6c — variants of he with 'f' (flag)
 ############################################################
 
 tom:he_f000
@@ -1935,7 +1987,7 @@ tom:he_f001
 
 
 ############################################################
-# Block xd — variants of he with 'e' (elongated)
+# Block 6d — variants of he with 'e' (elongated)
 ############################################################
 
 tom:he_e0000
