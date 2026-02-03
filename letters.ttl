@@ -5534,9 +5534,526 @@ tom:samekh_f00000
 # Block 20: variants of shin
 ############################################################
 
+tom:shin_0010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_0010"@de , "shin_0010"@en ;
+  skos:definition "Variante des Shin mit einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Shin with one tag at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-0010"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-0010"@en .
+
+tom:shin_0210
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_0210"@de , "shin_0210"@en ;
+  skos:definition "Variante des Shin mit zwei Tagin an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Shin with two tagin at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-0210"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-0210"@en .
+
+tom:shin_0300
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_0300"@de , "shin_0300"@en ;
+  skos:definition "Variante des Shin mit drei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Shin with three tagin at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-0300"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-0300"@en .
+
+tom:shin_1000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_1000"@de , "shin_1000"@en ;
+  skos:definition "Variante des Shin mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Shin with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-1000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-1000"@en .
+
+tom:shin_1110
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_1110"@de , "shin_1110"@en ;
+  skos:definition "Variante des Shin mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Shin with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-1110"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-1110"@en .
+
+tom:shin_1200
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_1200"@de , "shin_1200"@en ;
+  skos:definition "Variante des Shin mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Shin with one tag at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-1200"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-1200"@en .
+
+tom:shin_1230
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_1230"@de , "shin_1230"@en ;
+  skos:definition "Variante des Shin mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, drei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Shin with one tag at the first position, two tagin at the second position, three tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-1230"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-1230"@en .
+
+tom:shin_2000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_2000"@de , "shin_2000"@en ;
+  skos:definition "Variante des Shin mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Shin with two tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-2000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-2000"@en .
+
+tom:shin_2010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_2010"@de , "shin_2010"@en ;
+  skos:definition "Variante des Shin mit zwei Tagin an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Shin with two tagin at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-2010"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-2010"@en .
+
+tom:shin_2100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_2100"@de , "shin_2100"@en ;
+  skos:definition "Variante des Shin mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Shin with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-2100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-2100"@en .
+
+tom:shin_2120
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_2120"@de , "shin_2120"@en ;
+  skos:definition "Variante des Shin mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position, zwei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Shin with two tagin at the first position, one tag at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-2120"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-2120"@en .
+
+tom:shin_2130
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_2130"@de , "shin_2130"@en ;
+  skos:definition "Variante des Shin mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position, drei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Shin with two tagin at the first position, one tag at the second position, three tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-2130"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-2130"@en .
+
+tom:shin_2210
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_2210"@de , "shin_2210"@en ;
+  skos:definition "Variante des Shin mit zwei Tagin an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Shin with two tagin at the first position, two tagin at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-2210"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-2210"@en .
+
+tom:shin_2220
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_2220"@de , "shin_2220"@en ;
+  skos:definition "Variante des Shin mit zwei Tagin an der ersten Position, zwei Tagin an der zweiten Position, zwei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Shin with two tagin at the first position, two tagin at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-2220"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-2220"@en .
+
+tom:shin_2230
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_2230"@de , "shin_2230"@en ;
+  skos:definition "Variante des Shin mit zwei Tagin an der ersten Position, zwei Tagin an der zweiten Position, drei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Shin with two tagin at the first position, two tagin at the second position, three tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-2230"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-2230"@en .
+
+tom:shin_2320
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_2320"@de , "shin_2320"@en ;
+  skos:definition "Variante des Shin mit zwei Tagin an der ersten Position, drei Tagin an der zweiten Position, zwei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Shin with two tagin at the first position, three tagin at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-2320"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-2320"@en .
+
+tom:shin_3010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_3010"@de , "shin_3010"@en ;
+  skos:definition "Variante des Shin mit drei Tagin an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Shin with three tagin at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-3010"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-3010"@en .
+
+tom:shin_3020
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_3020"@de , "shin_3020"@en ;
+  skos:definition "Variante des Shin mit drei Tagin an der ersten Position, zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Shin with three tagin at the first position, two tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-3020"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-3020"@en .
+
+tom:shin_3100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_3100"@de , "shin_3100"@en ;
+  skos:definition "Variante des Shin mit drei Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Shin with three tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-3100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-3100"@en .
+
+tom:shin_3110
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_3110"@de , "shin_3110"@en ;
+  skos:definition "Variante des Shin mit drei Tagin an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Shin with three tagin at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-3110"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-3110"@en .
+
+tom:shin_3120
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_3120"@de , "shin_3120"@en ;
+  skos:definition "Variante des Shin mit drei Tagin an der erste Position, einem Tag an der zweiten Position, zwei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Shin with three tagin at the first position, one tag at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-3120"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-3120"@en .
+
+tom:shin_3130
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_3130"@de , "shin_3130"@en ;
+  skos:definition "Variante des Shin mit drei Tagin an der ersten Position, einem Tag an der zweiten Position, drei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Shin with three tagin at the first position, one tag at the second position, three tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-3130"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-3130"@en .
+
+tom:shin_3210
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_3210"@de , "shin_3210"@en ;
+  skos:definition "Variante des Shin mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Shin with three tagin at the first position, two tagin at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-3210"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-3210"@en .
+
+tom:shin_3220
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_3220"@de , "shin_3220"@en ;
+  skos:definition "Variante des Shin mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position, zwei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Shin with three tagin at the first position, two tagin at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-3220"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-3220"@en .
+
+tom:shin_3230
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_3230"@de , "shin_3230"@en ;
+  skos:definition "Variante des Shin mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position, drei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Shin with three tagin at the first position, two tagin at the second position, three tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-3230"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-3230"@en .
+
+tom:shin_3300
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_3300"@de , "shin_3300"@en ;
+  skos:definition "Variante des Shin mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Shin with three tagin at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-3300"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-3300"@en .
+
+tom:shin_3320
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_3320"@de , "shin_3320"@en ;
+  skos:definition "Variante des Shin mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position, zwei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Shin with three tagin at the first position, three tagin at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-3320"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-3320"@en .
+
+tom:shin_3330
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_3330"@de , "shin_3330"@en ;
+  skos:definition "Variante des Shin mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position, drei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
+                  "Variant of the Shin with three tagin at the first position, three tagin at the second position, three tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-3330"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-3330"@en .
+
+tom:shin_4000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_4000"@de , "shin_4000"@en ;
+  skos:definition "Variante des Shin mit vier Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Shin with four tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-4000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-4000"@en .
+
+tom:shin_e3000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_e3000"@de , "shin_e3000"@en ;
+  skos:definition "Verlängerte Variante des Shin mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Elongated variant of the Shin with three tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-e3000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-e3000"@en .
+
+tom:shin_e3001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:shin ;
+  skos:prefLabel "shin_e3001"@de , "shin_e3001"@en ;
+  skos:definition "Verlängerte Variante des Shin mit drei Tagin an der ersten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Elongated variant of the Shin with three tagin at the first position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/shin.html#variante-e3001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/shin.html#variante-e3001"@en .
+
 ############################################################
 # Block 21: variants of tav
 ############################################################
+
+tom:tav_000010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tav ;
+  skos:prefLabel "tav_000010"@de , "tav_000010"@en ;
+  skos:definition "Variante des Tav mit einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tav with one tag at the fifth position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tav.html#variante-000010"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tav.html#variante-000010"@en .
+
+tom:tav_0000b0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tav ;
+  skos:prefLabel "tav_0000b0"@de , "tav_0000b0"@en ;
+  skos:definition "Variante des Tav mit einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tav with one bow at the fifth position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tav.html#variante-0000b0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tav.html#variante-0000b0"@en .
+
+tom:tav_000p00
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tav ;
+  skos:prefLabel "tav_000p00"@de , "tav_000p00"@en ;
+  skos:definition "Variante des Tav mit einem Kringel an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tav with one pretzel at the fourth position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tav.html#variante-000p00"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tav.html#variante-000p00"@en .
+
+tom:tav_010000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tav ;
+  skos:prefLabel "tav_010000"@de , "tav_010000"@en ;
+  skos:definition "Variante des Tav mit einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tav with one tag at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tav.html#variante-010000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tav.html#variante-010000"@en .
+
+tom:tav_011000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tav ;
+  skos:prefLabel "tav_011000"@de , "tav_011000"@en ;
+  skos:definition "Variante des Tav mit einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tav with one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tav.html#variante-011000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tav.html#variante-011000"@en .
+
+tom:tav_02000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tav ;
+  skos:prefLabel "tav_02000"@de , "tav_02000"@en ;
+  skos:definition "Variante des Tav mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tav with two tagin at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tav.html#variante-02000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tav.html#variante-02000"@en .
+
+tom:tav_020000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tav ;
+  skos:prefLabel "tav_020000"@de , "tav_020000"@en ;
+  skos:definition "Variante des Tav mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tav with two tagin at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tav.html#variante-020000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tav.html#variante-020000"@en .
+
+tom:tav_100000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tav ;
+  skos:prefLabel "tav_100000"@de , "tav_100000"@en ;
+  skos:definition "Variante des Tav mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tav with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tav.html#variante-100000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tav.html#variante-100000"@en .
+
+tom:tav_100001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tav ;
+  skos:prefLabel "tav_100001"@de , "tav_100001"@en ;
+  skos:definition "Variante des Tav mit einem Tag an der ersten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tav with one tag at the first position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tav.html#variante-100001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tav.html#variante-100001"@en .
+
+tom:tav_101000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tav ;
+  skos:prefLabel "tav_101000"@de , "tav_101000"@en ;
+  skos:definition "Variante des Tav mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tav with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tav.html#variante-101000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tav.html#variante-101000"@en .
+
+tom:tav_111000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tav ;
+  skos:prefLabel "tav_111000"@de , "tav_111000"@en ;
+  skos:definition "Variante des Tav mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tav with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tav.html#variante-111000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tav.html#variante-111000"@en .
+
+tom:tav_200000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tav ;
+  skos:prefLabel "tav_200000"@de , "tav_200000"@en ;
+  skos:definition "Variante des Tav mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tav with two tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tav.html#variante-200000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tav.html#variante-200000"@en .
+
+tom:tav_e000000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tav ;
+  skos:prefLabel "tav_e000000"@de , "tav_e000000"@en ;
+  skos:definition "Verlängerte Variante des Tav ohne Tagin an allen Positionen."@de ,
+                  "Elongated variant of the Tav with no tagin at any of the positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tav.html#variante-e000000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tav.html#variante-e000000"@en .
+
+tom:tav_e000001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tav ;
+  skos:prefLabel "tav_e000001"@de , "tav_e000001"@en ;
+  skos:definition "Verlängerte Variante des Tav mit einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Elongated variant of the Tav with one tag at the sixth position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tav.html#variante-e000001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tav.html#variante-e000001"@en .
+
+tom:tav_f00000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tav ;
+  skos:prefLabel "tav_f00000"@de , "tav_f00000"@en ;
+  skos:definition "Variante des Tav mit einem Fähnchen an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tav with one flag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tav.html#variante-f00000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tav.html#variante-f00000"@en .
+
+tom:tav_f00b00
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:tav ;
+  skos:prefLabel "tav_f00b00"@de , "tav_f00b00"@en ;
+  skos:definition "Variante des Tav mit einem Fähnchen an der ersten Position, einem Bogen an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Tav with one flag at the first position, one bow at the fourth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/tav.html#variante-f00b00"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/tav.html#variante-f00b00"@en .
 
 ############################################################
 # Block 22: variants of teth
