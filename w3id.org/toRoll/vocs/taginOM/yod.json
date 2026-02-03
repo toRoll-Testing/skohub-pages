@@ -4,6 +4,78 @@
   "prefLabel": {
     "de": "yod"
   },
+  "narrower": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_001",
+      "prefLabel": {
+        "en": "yod_001",
+        "de": "yod_001"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_0p0",
+      "prefLabel": {
+        "en": "yod_0p0",
+        "de": "yod_0p0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_100",
+      "prefLabel": {
+        "en": "yod_100",
+        "de": "yod_100"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_101",
+      "prefLabel": {
+        "en": "yod_101",
+        "de": "yod_101"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_10p",
+      "prefLabel": {
+        "en": "yod_10p",
+        "de": "yod_10p"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_1p0",
+      "prefLabel": {
+        "en": "yod_1p0",
+        "de": "yod_1p0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_200",
+      "prefLabel": {
+        "en": "yod_200",
+        "de": "yod_200"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_300",
+      "prefLabel": {
+        "en": "yod_300",
+        "de": "yod_300"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_e000",
+      "prefLabel": {
+        "en": "yod_e000",
+        "de": "yod_e000"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/yod_s000",
+      "prefLabel": {
+        "en": "yod_s000",
+        "de": "yod_s000"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
