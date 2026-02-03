@@ -3141,3 +3141,139 @@ tom:kafsofit_e0200f
     skos:scopeNote
         "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-e0200f"@de ,
         "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-e0200f"@en .
+
+############################################################
+# Block 10: variants of lamed
+############################################################
+
+tom:lamed_002
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:lamed ;
+    skos:prefLabel "lamed_002"@de , "lamed_002"@en ;
+    skos:definition
+        "Variante des Lamed mit zwei Tagin an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Lamed with two tagin at the third position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/lamed.html#variante-002"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/lamed.html#variante-002"@en .
+
+tom:lamed_00p
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:lamed ;
+    skos:prefLabel "lamed_00p"@de , "lamed_00p"@en ;
+    skos:definition
+        "Variante des Lamed mit einem Kringel an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Lamed with one pretzel at the third position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/lamed.html#variante-00p"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/lamed.html#variante-00p"@en .
+
+tom:lamed_010
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:lamed ;
+    skos:prefLabel "lamed_010"@de , "lamed_010"@en ;
+    skos:definition
+        "Variante des Lamed mit einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Lamed with one tag at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/lamed.html#variante-010"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/lamed.html#variante-010"@en .
+
+tom:lamed_0f0
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:lamed ;
+    skos:prefLabel "lamed_0f0"@de , "lamed_0f0"@en ;
+    skos:definition
+        "Variante des Lamed mit einem Fähnchen an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Lamed with one flag at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/lamed.html#variante-0f0"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/lamed.html#variante-0f0"@en .
+
+tom:lamed_1f0
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:lamed ;
+    skos:prefLabel "lamed_1f0"@de , "lamed_1f0"@en ;
+    skos:definition
+        "Variante des Lamed mit einem Tag an der ersten Position und einem Fähnchen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Lamed with one tag at the first position and one flag at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/lamed.html#variante-1f0"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/lamed.html#variante-1f0"@en .
+
+tom:lamed_2f0
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:lamed ;
+    skos:prefLabel "lamed_2f0"@de , "lamed_2f0"@en ;
+    skos:definition
+        "Variante des Lamed mit zwei Tagin an der ersten Position und einem Fähnchen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Lamed with two tagin at the first position and one flag at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/lamed.html#variante-2f0"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/lamed.html#variante-2f0"@en .
+
+tom:lamed_b00
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:lamed ;
+    skos:prefLabel "lamed_b00"@de , "lamed_b00"@en ;
+    skos:definition
+        "Variante des Lamed mit einem Bogen an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Lamed with one bow at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/lamed.html#variante-b00"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/lamed.html#variante-b00"@en .
+
+tom:lamed_b02
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:lamed ;
+    skos:prefLabel "lamed_b02"@de , "lamed_b02"@en ;
+    skos:definition
+        "Variante des Lamed mit einem Bogen an der ersten Position und zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Lamed with one bow at the first position and two tagin at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/lamed.html#variante-b02"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/lamed.html#variante-b02"@en .
+
+tom:lamed_f00
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:lamed ;
+    skos:prefLabel "lamed_f00"@de , "lamed_f00"@en ;
+    skos:definition
+        "Variante des Lamed mit einem Fähnchen an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Lamed with one flag at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/lamed.html#variante-f00"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/lamed.html#variante-f00"@en .
+
+tom:lamed_f20
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:lamed ;
+    skos:prefLabel "lamed_f20"@de , "lamed_f20"@en ;
+    skos:definition
+        "Variante des Lamed mit einem Fähnchen an der ersten Position und zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Lamed with one flag at the first position and two tagin at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/lamed.html#variante-f20"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/lamed.html#variante-f20"@en .
+
+tom:lamed_p00
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:lamed ;
+    skos:prefLabel "lamed_p00"@de , "lamed_p00"@en ;
+    skos:definition
+        "Variante des Lamed mit einem Kringel an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Lamed with one pretzel at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/lamed.html#variante-p00"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/lamed.html#variante-p00"@en .
