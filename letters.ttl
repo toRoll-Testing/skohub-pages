@@ -5075,9 +5075,460 @@ tom:qof_f0001
 # Block 18: variants of resh
 ############################################################
 
+tom:resh_0001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_0001"@de , "resh_0001"@en ;
+  skos:definition "Variante des Resh mit einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Resh with one tag at the fourth position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-0001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-0001"@en .
+
+tom:resh_0010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_0010"@de , "resh_0010"@en ;
+  skos:definition "Variante des Resh mit einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Resh with one tag at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-0010"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-0010"@en .
+
+tom:resh_0011
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_0011"@de , "resh_0011"@en ;
+  skos:definition "Variante des Resh mit einem Tag an der dritten Position, einem Tag an der quatrième Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Resh with one tag at the third position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-0011"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-0011"@en .
+
+tom:resh_01000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_0100"@de , "resh_0100"@en ;
+  skos:definition "Variante des Resh mit einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Resh with one tag at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-0100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-0100"@en .
+
+tom:resh_0101
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_0101"@de , "resh_0101"@en ;
+  skos:definition "Variante des Resh mit einem Tag an der zweiten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Resh with one tag at the second position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-0101"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-0101"@en .
+
+tom:resh_0110
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_0110"@de , "resh_0110"@en ;
+  skos:definition "Variante des Resh mit einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Resh with one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-0110"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-0110"@en .
+
+tom:resh_0200
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_0200"@de , "resh_0200"@en ;
+  skos:definition "Variante des Resh mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Resh with two tagin at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-0200"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-0200"@en .
+
+tom:resh_1000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_1000"@de , "resh_1000"@en ;
+  skos:definition "Variante des Resh mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Resh with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-1000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-1000"@en .
+
+tom:resh_1001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_1001"@de , "resh_1001"@en ;
+  skos:definition "Variante des Resh mit einem Tag an der ersten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Resh with one tag at the first position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-1001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-1001"@en .
+
+tom:resh_1010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_1010"@de , "resh_1010"@en ;
+  skos:definition "Variante des Resh mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Resh with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-1010"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-1010"@en .
+
+tom:resh_1011
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_1011"@de , "resh_1011"@en ;
+  skos:definition "Variante des Resh mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Resh with one tag at the first position, one tag at the third position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-1011"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-1011"@en .
+
+tom:resh_1100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_1100"@de , "resh_1100"@en ;
+  skos:definition "Variante des Resh mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Resh with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-1100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-1100"@en .
+
+tom:resh_1110
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_1110"@de , "resh_1110"@en ;
+  skos:definition "Variante des Resh mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Resh with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-1110"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-1110"@en .
+
+tom:resh_2000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_2000"@de , "resh_2000"@en ;
+  skos:definition "Variante des Resh mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Resh with two tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-2000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-2000"@en .
+
+tom:resh_b000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_b000"@de , "resh_b000"@en ;
+  skos:definition "Variante des Resh mit einem Bogen an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Resh with one bow at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-b000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-b000"@en .
+
+tom:resh_e0000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:resh ;
+  skos:prefLabel "resh_e0000"@de , "resh_e0000"@en ;
+  skos:definition "Verlängerte Variante des Resh ohne Tagin an allen Positionen."@de ,
+                  "Elongated variant of the Resh with no tagin at any of the positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/resh.html#variante-e0000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/resh.html#variante-e0000"@en .
+
 ############################################################
 # Block 19: variants of samekh
 ############################################################
+
+tom:samekh_000010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_000010"@de , "samekh_000010"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the fifth position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-000010"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-000010"@en .
+
+tom:samekh_002000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_002000"@de , "samekh_002000"@en ;
+  skos:definition "Variante des Samekh mit zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with two tagin at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-002000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-002000"@en .
+
+tom:samekh_011000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_011000"@de , "samekh_011000"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-011000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-011000"@en .
+
+tom:samekh_011010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_011010"@de , "samekh_011010"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the second position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-011010"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-011010"@en .
+
+tom:samekh_020000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_020000"@de , "samekh_020000"@en ;
+  skos:definition "Variante des Samekh mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with two tagin at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-020000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-020000"@en .
+
+tom:samekh_020010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_020010"@de , "samekh_020010"@en ;
+  skos:definition "Variante des Samekh mit zwei Tagin an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with two tagin at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-020010"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-020010"@en .
+
+tom:samekh_030010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_030010"@de , "samekh_030010"@en ;
+  skos:definition "Variante des Samekh mit drei Tagin an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with three tagin at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-030010"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-030010"@en .
+
+tom:samekh_100000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_100000"@de , "samekh_100000"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-100000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-100000"@en .
+
+tom:samekh_101000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_101000"@de , "samekh_101000"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-101000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-101000"@en .
+
+tom:samekh_101001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_101001"@de , "samekh_101001"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the first position, one tag at the third position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-101001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-101001"@en .
+
+tom:samekh_101010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_101010"@de , "samekh_101010"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the first position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-101010"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-101010"@en .
+
+tom:samekh_101011
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_101011"@de , "samekh_101011"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der fünften Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the first position, one tag at the third position, one tag at the fifth position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-101011"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-101011"@en .
+
+tom:samekh_101100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_101100"@de , "samekh_101100"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the first position, one tag at the third position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-101100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-101100"@en .
+
+tom:samekh_102000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_102000"@de , "samekh_102000"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der ersten Position, zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the first position, two tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-102000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-102000"@en .
+
+tom:samekh_110010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_110010"@de , "samekh_110010"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the first position, one tag at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-110010"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-110010"@en .
+
+tom:samekh_111000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_111000"@de , "samekh_111000"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-111000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-111000"@en .
+
+tom:samekh_111010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_111010"@de , "samekh_111010"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the first position, one tag at the second position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-111010"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-111010"@en .
+
+tom:samekh_120000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_120000"@de , "samekh_120000"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-120000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-120000"@en .
+
+tom:samekh_120001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_120001"@de , "samekh_120001"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the first position, two tagin at the second position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-120001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-120001"@en .
+
+tom:samekh_120010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_120010"@de , "samekh_120010"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the first position, two tagin at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-120010"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-120010"@en .
+
+tom:samekh_130000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_130000"@de , "samekh_130000"@en ;
+  skos:definition "Variante des Samekh mit einem Tag an der ersten Position, drei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one tag at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-130000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-130000"@en .
+
+tom:samekh_210010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_210010"@de , "samekh_210010"@en ;
+  skos:definition "Variante des Samekh mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with two tagin at the first position, one tag at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-210010"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-210010"@en .
+
+tom:samekh_300000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_300000"@de , "samekh_300000"@en ;
+  skos:definition "Variante des Samekh mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with three tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-300000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-300000"@en .
+
+tom:samekh_300001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_300001"@de , "samekh_300001"@en ;
+  skos:definition "Variante des Samekh mit drei Tagin an der ersten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with three tagin at the first position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-300001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-300001"@en .
+
+tom:samekh_f00000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:samekh ;
+  skos:prefLabel "samekh_f00000"@de , "samekh_f00000"@en ;
+  skos:definition "Variante des Samekh mit einem Fähnchen an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Samekh with one flag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/samekh.html#variante-f00000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/samekh.html#variante-f00000"@en .
 
 ############################################################
 # Block 20: variants of shin
