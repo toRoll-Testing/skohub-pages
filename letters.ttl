@@ -173,7 +173,423 @@ tom:zayin
                 "zayin"@de .
 
 ############################################################
-# Block 1 — Variants with tagin only
+# block 1a: variants of alef
+############################################################
+
+tom:alef_0001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_0001"@de , "alef_0001"@en ;
+    skos:definition
+        "Variante des Alef mit einem Tag an der vierten Position und ohne Tagin an den ersten drei Positionen."@de ,
+        "Variant of the Alef with one tag at the fourth position and no tagin at the first three positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-0001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-0001"@en .
+
+tom:alef_0002
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_0002"@de , "alef_0002"@en ;
+    skos:definition
+        "Variante des Alef mit zwei Tagin an der vierten Position und ohne Tagin an den ersten drei Positionen."@de ,
+        "Variant of the Alef with two tagin at the fourth position and no tagin at the first three positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-0002"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-0002"@en .
+
+tom:alef_0100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_0100"@de , "alef_0100"@en ;
+    skos:definition
+        "Variante des Alef mit einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Alef with one tag at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-0100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-0100"@en .
+
+tom:alef_0200
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_0200"@de , "alef_0200"@en ;
+    skos:definition
+        "Variante des Alef mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Alef with two tagin at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-0200"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-0200"@en .
+
+tom:alef_0302
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_0302"@de , "alef_0302"@en ;
+    skos:definition
+        "Variante des Alef mit drei Tagin an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
+        "Variant of the Alef with three tagin at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-0302"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-0302"@en .
+
+tom:alef_1000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_1000"@de , "alef_1000"@en ;
+    skos:definition
+        "Variante des Alef mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Alef with one tag at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-1000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-1000"@en .
+
+tom:alef_1100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_1100"@de , "alef_1100"@en ;
+    skos:definition
+        "Variante des Alef mit einem Tag an der ersten Position, einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Alef with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-1100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-1100"@en .
+
+tom:alef_1102
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_1102"@de , "alef_1102"@en ;
+    skos:definition
+        "Variante des Alef mit einem Tag an der ersten Position, einem Tag an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vier­ten Position."@de ,
+        "Variant of the Alef with one tag at the first position, one tag at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-1102"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-1102"@en .
+
+tom:alef_1202
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_1202"@de , "alef_1202"@en ;
+    skos:definition
+        "Variante des Alef mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
+        "Variant of the Alef with one tag at the first position, two tagin at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-1202"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-1202"@en .
+
+tom:alef_1203
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_1203"@de , "alef_1203"@en ;
+    skos:definition
+        "Variante des Alef mit einem Tag an der erste Position, zwei Tagin an der zweiten Position, keinem Tagin an der dritten Position und drei Tagin an der vierten Position."@de ,
+        "Variant of the Alef with one tag at the first position, two tagin at the second position, no tagin at the third position, and three tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-1203"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-1203"@en .
+
+tom:alef_1300
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_1300"@de , "alef_1300"@en ;
+    skos:definition
+        "Variante des Alef mit einem Tag an der ersten Position, drei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Alef with one tag at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-1300"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-1300"@en .
+
+tom:alef_1301
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_1301"@de , "alef_1301"@en ;
+    skos:definition
+        "Variante des Alef mit einem Tag an der ersten Position, drei Tagin an der zweiten Position, keinem Tagin an der dritten Position und einem Tag an der vierten Position."@de ,
+        "Variant of the Alef with one tag at the first position, three tagin at the second position, no tagin at the third position, and one tag at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-1301"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-1301"@en .
+
+tom:alef_2000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_2000"@de , "alef_2000"@en ;
+    skos:definition
+        "Variante des Alef mit zwei Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Alef with two tagin at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-2000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-2000"@en .
+
+tom:alef_2100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_2100"@de , "alef_2100"@en ;
+    skos:definition
+        "Variante des Alef mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Alef with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-2100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-2100"@en .
+
+tom:alef_2102
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_2102"@de , "alef_2102"@en ;
+    skos:definition
+        "Variante des Alef mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
+        "Variant of the Alef with two tagin at the first position, one tag at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-2102"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-2102"@en .
+
+tom:alef_2112
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_2112"@de , "alef_2112"@en ;
+    skos:definition
+        "Variante des Alef mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position und zwei Tagin an der vierten Position."@de ,
+        "Variant of the Alef with two tagin at the first position, one tag at the second position, one tag at the third position, and two tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-2112"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-2112"@en .
+
+tom:alef_2200
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_2200"@de , "alef_2200"@en ;
+    skos:definition
+        "Variante des Alef mit zwei Tagin an der ersten Position, zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Alef with two tagin at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-2200"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-2200"@en .
+
+tom:alef_2202
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_2202"@de , "alef_2202"@en ;
+    skos:definition
+        "Variante des Alef mit zwei Tagin an der ersten Position, zwei Tagin an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
+        "Variant of the Alef with two tagin at the first position, two tagin at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-2202"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-2202"@en .
+
+tom:alef_2212
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_2212"@de , "alef_2212"@en ;
+    skos:definition
+        "Variante des Alef mit zwei Tagin an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der dritten Position und zwei Tagin an der vierten Position."@de ,
+        "Variant of the Alef with two tagin at the first position, two tagin at the second position, one tag at the third position, and two tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-2212"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-2212"@en .
+
+tom:alef_2300
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_2300"@de , "alef_2300"@en ;
+    skos:definition
+        "Variante des Alef mit zwei Tagin an der ersten Position, drei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Alef with two tagin at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-2300"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-2300"@en .
+
+tom:alef_2302
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_2302"@de , "alef_2302"@en ;
+    skos:definition
+        "Variante des Alef mit zwei Tagin an der ersten Position, drei Tagin an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
+        "Variant of the Alef with two tagin at the first position, three tagin at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-2302"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-2302"@en .
+
+tom:alef_3000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_3000"@de , "alef_3000"@en ;
+    skos:definition
+        "Variante des Alef mit drei Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Alef with three tagin at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-3000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-3000"@en .
+
+tom:alef_3100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_3100"@de , "alef_3100"@en ;
+    skos:definition
+        "Variante des Alef mit drei Tagin an der ersten Position, einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Alef with three tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-3100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-3100"@en .
+
+tom:alef_3102
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_3102"@de , "alef_3102"@en ;
+    skos:definition
+        "Variante des Alef mit drei Tagin an der ersten Position, einem Tag an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
+        "Variant of the Alef with three tagin at the first position, one tag at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-3102"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-3102"@en .
+
+tom:alef_3200
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_3200"@de , "alef_3200"@en ;
+    skos:definition
+        "Variante des Alef mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Alef with three tagin at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-3200"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-3200"@en .
+
+tom:alef_3202
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_3202"@de , "alef_3202"@en ;
+    skos:definition
+        "Variante des Alef mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
+        "Variant of the Alef with three tagin at the first position, two tagin at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-3202"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-3202"@en .
+
+tom:alef_3220
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_3220"@de , "alef_3220"@en ;
+    skos:definition
+        "Variante des Alef mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position, zwei Tagin an der dritten Position und ohne Tagin an der vierten Position."@de ,
+        "Variant of the Alef with three tagin at the first position, two tagin at the second position, two tagin at the third position, and no tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-3220"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-3220"@en .
+
+tom:alef_3222
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_3222"@de , "alef_3222"@en ;
+    skos:definition
+        "Variante des Alef mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position, zwei Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
+        "Variant of the Alef with three tagin at the first position, two tagin at the second position, two tagin at the third position, and two tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-3222"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-3222"@en .
+
+tom:alef_3300
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_3300"@de , "alef_3300"@en ;
+    skos:definition
+        "Variante des Alef mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Alef with three tagin at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-3300"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-3300"@en .
+
+tom:alef_3302
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_3302"@de , "alef_3302"@en ;
+    skos:definition
+        "Variante des Alef mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
+        "Variant of the Alef with three tagin at the first position, three tagin at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-3302"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-3302"@en .
+
+tom:alef_3312
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_3312"@de , "alef_3312"@en ;
+    skos:definition
+        "Variante des Alef mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position, einem Tag an der dritten Position und zwei Tagin an der vierten Position."@de ,
+        "Variant of the Alef with three tagin at the first position, three tagin at the second position, one tag at the third position, and two tagin at the fourth position."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-3312"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-3312"@en .
+
+tom:alef_4200
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_4200"@de , "alef_4200"@en ;
+    skos:definition
+        "Variante des Alef mit vier Tagin an der ersten Position, zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Alef with four tagin at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-4200"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-4200"@en .
+
+tom:alef_4300
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_4300"@de , "alef_4300"@en ;
+    skos:definition
+        "Variante des Alef mit vier Tagin an der ersten Position, drei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Alef with four tagin at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-4300"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-4300"@en .
+
+############################################################
+# block 1b: variants of alef with 'e' (elongated)
+############################################################
+
+tom:alef_e0000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:alef ;
+    skos:prefLabel "alef_e0000"@de , "alef_e0000"@en ;
+    skos:definition
+        "Verlängerte Variante des Alef ohne Tagin an allen vier Positionen."@de ,
+        "Elongated variant of the Alef with no tagin at any of the four positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-e0000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-e0000"@en .
+
+############################################################
+# block xa — variants of he (tagin only)
 ############################################################
 
 tom:he_0001
@@ -549,7 +965,7 @@ tom:he_3021
         "Naming scheme: https://example.github.io/docs/letters/he.html#variante-3021"@en .
 
 ############################################################
-# Block 2 — Variants with 'b' (bow)
+# block xb — variants of he with 'b' (bow)
 ############################################################
 
 tom:he_b000
@@ -566,7 +982,7 @@ tom:he_b000
 
 
 ############################################################
-# Block 3 — Variants with 'f' (flag)
+# Block xc — variants of he with 'f' (flag)
 ############################################################
 
 tom:he_f000
@@ -595,7 +1011,7 @@ tom:he_f001
 
 
 ############################################################
-# Block 4 — Variants with 'e' (elongated)
+# Block xd — variants of he with 'e' (elongated)
 ############################################################
 
 tom:he_e0000
