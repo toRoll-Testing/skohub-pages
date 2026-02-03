@@ -1,88 +1,28 @@
 {
-  "id": "https://w3id.org/toRoll/vocs/taginOM/lamed",
+  "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_2f0",
   "type": "Concept",
   "prefLabel": {
-    "de": "lamed"
+    "en": "lamed_2f0",
+    "de": "lamed_2f0"
   },
-  "narrower": [
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_002",
-      "prefLabel": {
-        "en": "lamed_002",
-        "de": "lamed_002"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_00p",
-      "prefLabel": {
-        "en": "lamed_00p",
-        "de": "lamed_00p"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_010",
-      "prefLabel": {
-        "en": "lamed_010",
-        "de": "lamed_010"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_0f0",
-      "prefLabel": {
-        "en": "lamed_0f0",
-        "de": "lamed_0f0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_1f0",
-      "prefLabel": {
-        "en": "lamed_1f0",
-        "de": "lamed_1f0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_2f0",
-      "prefLabel": {
-        "en": "lamed_2f0",
-        "de": "lamed_2f0"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_b00",
-      "prefLabel": {
-        "en": "lamed_b00",
-        "de": "lamed_b00"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_b02",
-      "prefLabel": {
-        "en": "lamed_b02",
-        "de": "lamed_b02"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_f00",
-      "prefLabel": {
-        "en": "lamed_f00",
-        "de": "lamed_f00"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_f20",
-      "prefLabel": {
-        "en": "lamed_f20",
-        "de": "lamed_f20"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_p00",
-      "prefLabel": {
-        "en": "lamed_p00",
-        "de": "lamed_p00"
-      }
+  "definition": {
+    "en": "Variant of the Lamed with two tagin at the first position and one flag at the second position, and no tagin at the remaining positions.",
+    "de": "Variante des Lamed mit zwei Tagin an der ersten Position und einem Fähnchen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."
+  },
+  "scopeNote": {
+    "en": [
+      "Naming scheme: https://example.github.io/docs/letters/lamed.html#variante-2f0"
+    ],
+    "de": [
+      "Benennungsschema: https://example.github.io/docs/letters/lamed.html#variante-2f0"
+    ]
+  },
+  "broader": {
+    "id": "https://w3id.org/toRoll/vocs/taginOM/lamed",
+    "prefLabel": {
+      "de": "lamed"
     }
-  ],
+  },
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
@@ -95,15 +35,6 @@
   "inSchemeAll": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/"
-    }
-  ],
-  "topConceptOf": [
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/",
-      "title": {
-        "en": "TOM Letters",
-        "de": "TOM Buchstaben"
-      }
     }
   ],
   "@context": {

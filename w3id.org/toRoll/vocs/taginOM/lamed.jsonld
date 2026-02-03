@@ -4,6 +4,85 @@
   "prefLabel": {
     "de": "lamed"
   },
+  "narrower": [
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_002",
+      "prefLabel": {
+        "en": "lamed_002",
+        "de": "lamed_002"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_00p",
+      "prefLabel": {
+        "en": "lamed_00p",
+        "de": "lamed_00p"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_010",
+      "prefLabel": {
+        "en": "lamed_010",
+        "de": "lamed_010"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_0f0",
+      "prefLabel": {
+        "en": "lamed_0f0",
+        "de": "lamed_0f0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_1f0",
+      "prefLabel": {
+        "en": "lamed_1f0",
+        "de": "lamed_1f0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_2f0",
+      "prefLabel": {
+        "en": "lamed_2f0",
+        "de": "lamed_2f0"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_b00",
+      "prefLabel": {
+        "en": "lamed_b00",
+        "de": "lamed_b00"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_b02",
+      "prefLabel": {
+        "en": "lamed_b02",
+        "de": "lamed_b02"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_f00",
+      "prefLabel": {
+        "en": "lamed_f00",
+        "de": "lamed_f00"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_f20",
+      "prefLabel": {
+        "en": "lamed_f20",
+        "de": "lamed_f20"
+      }
+    },
+    {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/lamed_p00",
+      "prefLabel": {
+        "en": "lamed_p00",
+        "de": "lamed_p00"
+      }
+    }
+  ],
   "inScheme": [
     {
       "id": "https://w3id.org/toRoll/vocs/taginOM/",
