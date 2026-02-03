@@ -2581,3 +2581,247 @@ tom:het_s00000
     skos:scopeNote
         "Benennungsschema: https://example.github.io/docs/letters/het.html#variante-s00000"@de ,
         "Naming scheme: https://example.github.io/docs/letters/het.html#variante-s00000"@en .
+
+############################################################
+#  Block 8: variants of kaf
+############################################################
+
+tom:kaf_000010
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_000010"@de , "kaf_000010"@en ;
+    skos:definition
+        "Variante des Kaf mit einem Tag an der fünften Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with one tag at the fifth position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-000010"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-000010"@en .
+
+tom:kaf_0000b0
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_0000b0"@de , "kaf_0000b0"@en ;
+    skos:definition
+        "Variante des Kaf mit einem Bogen an der fünften Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with one bow at the fifth position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-0000b0"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-0000b0"@en .
+
+tom:kaf_002000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_002000"@de , "kaf_002000"@en ;
+    skos:definition
+        "Variante des Kaf mit zwei Tagin an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with two tagin at the third position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-002000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-002000"@en .
+
+tom:kaf_010000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_010000"@de , "kaf_010000"@en ;
+    skos:definition
+        "Variante des Kaf mit einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with one tag at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-010000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-010000"@en .
+
+tom:kaf_011000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_011000"@de , "kaf_011000"@en ;
+    skos:definition
+        "Variante des Kaf mit einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with one tag at the second position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-011000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-011000"@en .
+
+tom:kaf_011010
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_011010"@de , "kaf_011010"@en ;
+    skos:definition
+        "Variante des Kaf mit einem Tag an der zweiten Position, einem Tag an der dritten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with one tag at the second position, one tag at the third position, and one tag at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-011010"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-011010"@en .
+
+tom:kaf_020000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_020000"@de , "kaf_020000"@en ;
+    skos:definition
+        "Variante des Kaf mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with two tagin at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-020000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-020000"@en .
+
+tom:kaf_030000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_030000"@de , "kaf_030000"@en ;
+    skos:definition
+        "Variante des Kaf mit drei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with three tagin at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-030000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-030000"@en .
+
+tom:kaf_100000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_100000"@de , "kaf_100000"@en ;
+    skos:definition
+        "Variante des Kaf mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with one tag at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-100000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-100000"@en .
+
+tom:kaf_101000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_101000"@de , "kaf_101000"@en ;
+    skos:definition
+        "Variante des Kaf mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-101000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-101000"@en .
+
+tom:kaf_101001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_101001"@de , "kaf_101001"@en ;
+    skos:definition
+        "Variante des Kaf mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with one tag at the first position, one tag at the third position, and one tag at the sixth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-101001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-101001"@en .
+
+tom:kaf_101010
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_101010"@de , "kaf_101010"@en ;
+    skos:definition
+        "Variante des Kaf mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with one tag at the first position, one tag at the third position, and one tag at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-101010"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-101010"@en .
+
+tom:kaf_1010b0
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_1010b0"@de , "kaf_1010b0"@en ;
+    skos:definition
+        "Variante des Kaf mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with one tag at the first position, one tag at the third position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-1010b0"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-1010b0"@en .
+
+tom:kaf_101b00
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_101b00"@de , "kaf_101b00"@en ;
+    skos:definition
+        "Variante des Kaf mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Bogen an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with one tag at the first position, one tag at the third position, and one bow at the fourth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-101b00"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-101b00"@en .
+
+tom:kaf_110000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_110000"@de , "kaf_110000"@en ;
+    skos:definition
+        "Variante des Kaf mit einem Tag an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with one tag at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-110000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-110000"@en .
+
+tom:kaf_110001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_110001"@de , "kaf_110001"@en ;
+    skos:definition
+        "Variante des Kaf mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with one tag at the first position, one tag at the second position, and one tag at the sixth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-110001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-110001"@en .
+
+tom:kaf_111000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_111000"@de , "kaf_111000"@en ;
+    skos:definition
+        "Variante des Kaf mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with one tag at the first position, one tag at the second position, and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-111000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-111000"@en .
+
+tom:kaf_11100b
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_11100b"@de , "kaf_11100b"@en ;
+    skos:definition
+        "Variante des Kaf mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position und einem Bogen an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with one tag at the first position, one tag at the second position, one tag at the third position, and one bow at the sixth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-11100b"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-11100b"@en .
+
+tom:kaf_200001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_200001"@de , "kaf_200001"@en ;
+    skos:definition
+        "Variante des Kaf mit zwei Tagin an der ersten Position und einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with two tagin at the first position and one tag at the sixth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-200001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-200001"@en .
+
+tom:kaf_b00000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kaf ;
+    skos:prefLabel "kaf_b00000"@de , "kaf_b00000"@en ;
+    skos:definition
+        "Variante des Kaf mit einem Bogen an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kaf with one bow at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-b00000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-b00000"@en .
