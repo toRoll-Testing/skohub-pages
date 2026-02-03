@@ -6835,6 +6835,270 @@ tom:vav_e1pp
 # Block 26: variants of yod
 ############################################################
 
+tom:yod_001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:yod ;
+  skos:prefLabel "yod_001"@de , "yod_001"@en ;
+  skos:definition "Variante des Yod mit einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Yod with one tag at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/yod.html#variante-001"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/yod.html#variante-001"@en .
+
+tom:yod_0p0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:yod ;
+  skos:prefLabel "yod_0p0"@de , "yod_0p0"@en ;
+  skos:definition "Variante des Yod mit einem Kringel an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Yod with one pretzel at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/yod.html#variante-0p0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/yod.html#variante-0p0"@en .
+
+tom:yod_100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:yod ;
+  skos:prefLabel "yod_100"@de , "yod_100"@en ;
+  skos:definition "Variante des Yod mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Yod with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/yod.html#variante-100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/yod.html#variante-100"@en .
+
+tom:yod_101
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:yod ;
+  skos:prefLabel "yod_101"@de , "yod_101"@en ;
+  skos:definition "Variante des Yod mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an der zweiten Position."@de ,
+                  "Variant of the Yod with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/yod.html#variante-101"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/yod.html#variante-101"@en .
+
+tom:yod_10p
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:yod ;
+  skos:prefLabel "yod_10p"@de , "yod_10p"@en ;
+  skos:definition "Variante des Yod mit einem Tag an der ersten Position, einem Kringel an der dritten Position sowie ohne Tagin an der zweiten Position."@de ,
+                  "Variant of the Yod with one tag at the first position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/yod.html#variante-10p"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/yod.html#variante-10p"@en .
+
+tom:yod_1p0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:yod ;
+  skos:prefLabel "yod_1p0"@de , "yod_1p0"@en ;
+  skos:definition "Variante des Yod mit einem Tag an der ersten Position, einem Kringel an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Yod with one tag at the first position, one pretzel at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/yod.html#variante-1p0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/yod.html#variante-1p0"@en .
+
+tom:yod_200
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:yod ;
+  skos:prefLabel "yod_200"@de , "yod_200"@en ;
+  skos:definition "Variante des Yod mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Yod with two tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/yod.html#variante-200"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/yod.html#variante-200"@en .
+
+tom:yod_300
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:yod ;
+  skos:prefLabel "yod_300"@de , "yod_300"@en ;
+  skos:definition "Variante des Yod mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Yod with three tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/yod.html#variante-300"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/yod.html#variante-300"@en .
+
+tom:yod_e000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:yod ;
+  skos:prefLabel "yod_e000"@de , "yod_e000"@en ;
+  skos:definition "Verlängerte Variante des Yod ohne Tagin an allen Positionen."@de ,
+                  "Elongated variant of the Yod with no tagin at any of the positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/yod.html#variante-e000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/yod.html#variante-e000"@en .
+
+tom:yod_s000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:yod ;
+  skos:prefLabel "yod_s000"@de , "yod_s000"@en ;
+  skos:definition "Durchgestrichene Variante des Yod ohne Tagin an allen Positionen."@de ,
+                  "Struckthrough variant of the Yod with no tagin at any of the positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/yod.html#variante-s000"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/yod.html#variante-s000"@en .
+
 ############################################################
 # Block 27: variants of zayin
 ############################################################
+
+tom:zayin_0b0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:zayin ;
+  skos:prefLabel "zayin_0b0"@de , "zayin_0b0"@en ;
+  skos:definition "Variante des Zayin mit einem Bogen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Zayin with one bow at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/zayin.html#variante-0b0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/zayin.html#variante-0b0"@en .
+
+tom:zayin_100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:zayin ;
+  skos:prefLabel "zayin_100"@de , "zayin_100"@en ;
+  skos:definition "Variante des Zayin mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Zayin with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/zayin.html#variante-100"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/zayin.html#variante-100"@en .
+
+tom:zayin_1b0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:zayin ;
+  skos:prefLabel "zayin_1b0"@de , "zayin_1b0"@en ;
+  skos:definition "Variante des Zayin mit einem Tag an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Zayin with one tag at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/zayin.html#variante-1b0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/zayin.html#variante-1b0"@en .
+
+tom:zayin_1bb
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:zayin ;
+  skos:prefLabel "zayin_1bb"@de , "zayin_1bb"@en ;
+  skos:definition "Variante des Zayin mit einem Tag an der ersten Position, einem Bogen an der zweiten Position und einem Bogen an der dritten Position."@de ,
+                  "Variant of the Zayin with one tag at the first position, one bow at the second position, and one bow at the third position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/zayin.html#variante-1bb"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/zayin.html#variante-1bb"@en .
+
+tom:zayin_1p0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:zayin ;
+  skos:prefLabel "zayin_1p0"@de , "zayin_1p0"@en ;
+  skos:definition "Variante des Zayin mit einem Tag an der ersten Position, einem Kringel an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Zayin with one tag at the first position, one pretzel at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/zayin.html#variante-1p0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/zayin.html#variante-1p0"@en .
+
+tom:zayin_200
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:zayin ;
+  skos:prefLabel "zayin_200"@de , "zayin_200"@en ;
+  skos:definition "Variante des Zayin mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Zayin with two tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/zayin.html#variante-200"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/zayin.html#variante-200"@en .
+
+tom:zayin_2b0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:zayin ;
+  skos:prefLabel "zayin_2b0"@de , "zayin_2b0"@en ;
+  skos:definition "Variante des Zayin mit zwei Tagin an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Zayin with two tagin at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/zayin.html#variante-2b0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/zayin.html#variante-2b0"@en .
+
+tom:zayin_3b0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:zayin ;
+  skos:prefLabel "zayin_3b0"@de , "zayin_3b0"@en ;
+  skos:definition "Variante des Zayin mit drei Tagin an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Zayin with three tagin at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/zayin.html#variante-3b0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/zayin.html#variante-3b0"@en .
+
+tom:zayin_3bb
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:zayin ;
+  skos:prefLabel "zayin_3bb"@de , "zayin_3bb"@en ;
+  skos:definition "Variante des Zayin mit drei Tagin an der ersten Position, einem Bogen an der zweiten Position und einem Bogen an der dritten Position."@de ,
+                  "Variant of the Zayin with three tagin at the first position, one bow at the second position, and one bow at the third position."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/zayin.html#variante-3bb"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/zayin.html#variante-3bb"@en .
+
+tom:zayin_4b0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:zayin ;
+  skos:prefLabel "zayin_4b0"@de , "zayin_4b0"@en ;
+  skos:definition "Variante des Zayin mit vier Tagin an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Zayin with four tagin at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/zayin.html#variante-4b0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/zayin.html#variante-4b0"@en .
+
+tom:zayin_5b0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:zayin ;
+  skos:prefLabel "zayin_5b0"@de , "zayin_5b0"@en ;
+  skos:definition "Variante des Zayin mit fünf Tagin an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
+                  "Variant of the Zayin with five tagin at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/zayin.html#variante-5b0"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/zayin.html#variante-5b0"@en .
+
+tom:zayin_b00
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:zayin ;
+  skos:prefLabel "zayin_b00"@de , "zayin_b00"@en ;
+  skos:definition "Variante des Zayin mit einem Bogen an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Zayin with one bow at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/zayin.html#variante-b00"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/zayin.html#variante-b00"@en .
+
+tom:zayin_p00
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:zayin ;
+  skos:prefLabel "zayin_p00"@de , "zayin_p00"@en ;
+  skos:definition "Variante des Zayin mit einem Kringel an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Variant of the Zayin with one pretzel at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/zayin.html#variante-p00"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/zayin.html#variante-p00"@en .
+
+tom:zayin_w400
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:zayin ;
+  skos:prefLabel "zayin_w400"@de , "zayin_w400"@en ;
+  skos:definition "Gewickelte Variante des Zayin mit vier Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+                  "Wrapped variant of the Zayin with four tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+      "Benennungsschema: https://example.github.io/docs/letters/zayin.html#variante-w400"@de ,
+      "Naming scheme: https://example.github.io/docs/letters/zayin.html#variante-w400"@en .
