@@ -3942,9 +3942,609 @@ tom:nun_p0p
 # Block 14: variants of nunsofit
 ############################################################
 
+tom:nunsofit_00p
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nunsofit ;
+  skos:prefLabel "nunsofit_00p"@de , "nunsofit_00p"@en ;
+  skos:definition "Variante des Nunsofit mit einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with one pretzel at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-00p"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nunsofit.html#variante-00p"@en .
+
+tom:nunsofit_0b0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nunsofit ;
+  skos:prefLabel "nunsofit_0b0"@de , "nunsofit_0b0"@en ;
+  skos:definition "Variante des Nunsofit mit einem Bogen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with one bow at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-0b0"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nunsofit.html#variante-0b0"@en .
+
+tom:nunsofit_0p0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nunsofit ;
+  skos:prefLabel "nunsofit_0p0"@de , "nunsofit_0p0"@en ;
+  skos:definition "Variante des Nunsofit mit einem Kringel an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with one pretzel at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-0p0"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nunsofit.html#variante-0p0"@en .
+
+tom:nunsofit_100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nunsofit ;
+  skos:prefLabel "nunsofit_100"@de , "nunsofit_100"@en ;
+  skos:definition "Variante des Nunsofit mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-100"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nunsofit.html#variante-100"@en .
+
+tom:nunsofit_10p
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nunsofit ;
+  skos:prefLabel "nunsofit_10p"@de , "nunsofit_10p"@en ;
+  skos:definition "Variante des Nunsofit mit einem Tag an der ersten Position, einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with one tag at the first position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-10p"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nunsofit.html#variante-10p"@en .
+
+tom:nunsofit_110
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nunsofit ;
+  skos:prefLabel "nunsofit_110"@de , "nunsofit_110"@en ;
+  skos:definition "Variante des Nunsofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-110"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nunsofit.html#variante-110"@en .
+
+tom:nunsofit_1p0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nunsofit ;
+  skos:prefLabel "nunsofit_1p0"@de , "nunsofit_1p0"@en ;
+  skos:definition "Variante des Nunsofit mit einem Tag an der ersten Position, einem Kringel an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with one tag at the first position, one pretzel at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-1p0"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nunsofit.html#variante-1p0"@en .
+
+tom:nunsofit_200
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nunsofit ;
+  skos:prefLabel "nunsofit_200"@de , "nunsofit_200"@en ;
+  skos:definition "Variante des Nunsofit mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with two tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-200"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nunsofit.html#variante-200"@en .
+
+tom:nunsofit_300
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nunsofit ;
+  skos:prefLabel "nunsofit_300"@de , "nunsofit_300"@en ;
+  skos:definition "Variante des Nunsofit mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with three tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-300"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nunsofit.html#variante-300"@en .
+
+tom:nunsofit_3b0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nunsofit ;
+  skos:prefLabel "nunsofit_3b0"@de , "nunsofit_3b0"@en ;
+  skos:definition "Variante des Nunsofit mit drei Tagin an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with three tagin at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-3b0"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nunsofit.html#variante-3b0"@en .
+
+tom:nunsofit_3bp
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nunsofit ;
+  skos:prefLabel "nunsofit_3bp"@de , "nunsofit_3bp"@en ;
+  skos:definition "Variante des Nunsofit mit drei Tagin an der ersten Position, einem Bogen an der zweiten Position und einem Kringel an der dritten Position."@de , "Variant of the Nunsofit with three tagin at the first position, one bow at the second position, and one pretzel at the third position."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-3bp"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nunsofit.html#variante-3bp"@en .
+
+tom:nunsofit_4b0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nunsofit ;
+  skos:prefLabel "nunsofit_4b0"@de , "nunsofit_4b0"@en ;
+  skos:definition "Variante des Nunsofit mit vier Tagin an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with four tagin at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-4b0"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nunsofit.html#variante-4b0"@en .
+
+tom:nunsofit_4p0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nunsofit ;
+  skos:prefLabel "nunsofit_4p0"@de , "nunsofit_4p0"@en ;
+  skos:definition "Variante des Nunsofit mit vier Tagin an der ersten Position, einem Kringel an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with four tagin at the first position, one pretzel at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-4p0"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nunsofit.html#variante-4p0"@en .
+
+tom:nunsofit_w300
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nunsofit ;
+  skos:prefLabel "nunsofit_w300"@de , "nunsofit_w300"@en ;
+  skos:definition "Gewickelte Variante des Nunsofit mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Nunsofit with three tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-w300"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nunsofit.html#variante-w300"@en .
+
+tom:nunsofit_we300
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:nunsofit ;
+  skos:prefLabel "nunsofit_we300"@de , "nunsofit_we300"@en ;
+  skos:definition "Gewickelte, verlängerte Variante des Nunsofit mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped, elongated variant of the Nunsofit with three tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-we300"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/nunsofit.html#variante-we300"@en .
+
 ############################################################
 # Block 15: variants of pe
 ############################################################
+
+tom:pe_0000002
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_0000002"@de , "pe_0000002"@en ;
+  skos:definition "Variante des Pe mit zwei Tagin an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with two tagin at the seventh position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-0000002"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-0000002"@en .
+
+tom:pe_0000010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_0000010"@de , "pe_0000010"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the sixth position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-0000010"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-0000010"@en .
+
+tom:pe_00b0000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_00b0000"@de , "pe_00b0000"@en ;
+  skos:definition "Variante des Pe mit einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one bow at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-00b0000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-00b0000"@en .
+
+tom:pe_0100000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_0100000"@de , "pe_0100000"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-0100000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-0100000"@en .
+
+tom:pe_0110000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_0110000"@de , "pe_0110000"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-0110000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-0110000"@en .
+
+tom:pe_0200000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_0200000"@de , "pe_0200000"@en ;
+  skos:definition "Variante des Pe mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with two tagin at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-0200000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-0200000"@en .
+
+tom:pe_1000000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1000000"@de , "pe_1000000"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1000000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1000000"@en .
+
+tom:pe_1000001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1000001"@de , "pe_1000001"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the seventh position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1000001"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1000001"@en .
+
+tom:pe_1001000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1001000"@de , "pe_1001000"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1001000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1001000"@en .
+
+tom:pe_1010000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1010000"@de , "pe_1010000"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1010000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1010000"@en .
+
+tom:pe_1010001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1010001"@de , "pe_1010001"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, one tag at the seventh position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1010001"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1010001"@en .
+
+tom:pe_1010002
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1010002"@de , "pe_1010002"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, zwei Tagin an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, two tagin at the seventh position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1010002"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1010002"@en .
+
+tom:pe_1010010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1010010"@de , "pe_1010010"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1010010"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1010010"@en .
+
+tom:pe_1010011
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1010011"@de , "pe_1010011"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der sechsten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, one tag at the sixth position, one tag at the seventh position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1010011"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1010011"@en .
+
+tom:pe_1010021
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1010021"@de , "pe_1010021"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, zwei Tagin an der sechsten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, two tagin at the sixth position, one tag at the seventh position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1010021"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1010021"@en .
+
+tom:pe_1010022
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1010022"@de , "pe_1010022"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, zwei Tagin an der sechsten Position, zwei Tagin an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, two tagin at the sixth position, two tagin at the seventh position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1010022"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1010022"@en .
+
+tom:pe_1011000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1011000"@de , "pe_1011000"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1011000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1011000"@en .
+
+tom:pe_1011002
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1011002"@de , "pe_1011002"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, zwei Tagin an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, one tag at the fourth position, two tagin at the seventh position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1011002"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1011002"@en .
+
+tom:pe_1011010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1011010"@de , "pe_1011010"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, one tag at the fourth position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1011010"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1011010"@en .
+
+tom:pe_1011011
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1011011"@de , "pe_1011011"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, einem Tag an der sechsten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, one tag at the fourth position, one tag at the sixth position, one tag at the seventh position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1011011"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1011011"@en .
+
+tom:pe_101b000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_101b000"@de , "pe_101b000"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Bogen an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, one bow at the fourth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-101b000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-101b000"@en .
+
+tom:pe_1020000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1020000"@de , "pe_1020000"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, two tagin at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1020000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1020000"@en .
+
+tom:pe_1100000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1100000"@de , "pe_1100000"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1100000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1100000"@en .
+
+tom:pe_1100001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1100001"@de , "pe_1100001"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the second position, one tag at the seventh position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1100001"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1100001"@en .
+
+tom:pe_1110000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1110000"@de , "pe_1110000"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1110000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1110000"@en .
+
+tom:pe_1111000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1111000"@de , "pe_1111000"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the second position, one tag at the third position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1111000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1111000"@en .
+
+tom:pe_1111010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1111010"@de , "pe_1111010"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the second position, one tag at the third position, one tag at the fourth position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1111010"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1111010"@en .
+
+tom:pe_1111100
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1111100"@de , "pe_1111100"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the second position, one tag at the third position, one tag at the fourth position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1111100"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1111100"@en .
+
+tom:pe_1200002
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1200002"@de , "pe_1200002"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, zwei Tagin an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, two tagin at the second position, two tagin at the seventh position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1200002"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1200002"@en .
+
+tom:pe_1210000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_1210000"@de , "pe_1210000"@en ;
+  skos:definition "Variante des Pe mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, two tagin at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1210000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-1210000"@en .
+
+tom:pe_2000000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_2000000"@de , "pe_2000000"@en ;
+  skos:definition "Variante des Pe mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with two tagin at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-2000000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-2000000"@en .
+
+tom:pe_2100000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_2100000"@de , "pe_2100000"@en ;
+  skos:definition "Variante des Pe mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-2100000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-2100000"@en .
+
+tom:pe_2100001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_2100001"@de , "pe_2100001"@en ;
+  skos:definition "Variante des Pe mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with two tagin at the first position, one tag at the second position, one tag at the seventh position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-2100001"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-2100001"@en .
+
+tom:pe_w0000000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_w0000000"@de , "pe_w0000000"@en ;
+  skos:definition "Gewickelte Variante des Pe ohne Tagin an allen Positionen."@de , "Wrapped variant of the Pe with no tagin at any of the positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w0000000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-w0000000"@en .
+
+tom:pe_w0020000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_w0020000"@de , "pe_w0020000"@en ;
+  skos:definition "Gewickelte Variante des Pe mit zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with two tagin at the third position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w0020000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-w0020000"@en .
+
+tom:pe_w0100000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_w0100000"@de , "pe_w0100000"@en ;
+  skos:definition "Gewickelte Variante des Pe mit einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the second position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w0100000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-w0100000"@en .
+
+tom:pe_w01100b0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_w01100b0"@de , "pe_w01100b0"@en ;
+  skos:definition "Gewickelte Variante des Pe mit einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Bogen an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the second position, one tag at the third position, one bow at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w01100b0"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-w01100b0"@en .
+
+tom:pe_w0111000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_w0111000"@de , "pe_w0111000"@en ;
+  skos:definition "Gewickelte Variante des Pe mit einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the second position, one tag at the third position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w0111000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-w0111000"@en .
+
+tom:pe_w1000000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_w1000000"@de , "pe_w1000000"@en ;
+  skos:definition "Gewickelte Variante des Pe mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the first position and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w1000000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-w1000000"@en .
+
+tom:pe_w1000001
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_w1000001"@de , "pe_w1000001"@en ;
+  skos:definition "Gewickelte Variante des Pe mit einem Tag an der ersten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the first position, one tag at the seventh position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w1000001"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-w1000001"@en .
+
+tom:pe_w10000p0
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_w10000p0"@de , "pe_w10000p0"@en ;
+  skos:definition "Gewickelte Variante des Pe mit einem Tag an der ersten Position, einem Kringel an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the first position, one pretzel at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w10000p0"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-w10000p0"@en .
+
+tom:pe_w1010000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_w1010000"@de , "pe_w1010000"@en ;
+  skos:definition "Gewickelte Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w1010000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-w1010000"@en .
+
+tom:pe_w1011010
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_w1011010"@de , "pe_w1011010"@en ;
+  skos:definition "Gewickelte Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the first position, one tag at the third position, one tag at the fourth position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w1011010"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-w1011010"@en .
+
+tom:pe_w1100000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_w1100000"@de , "pe_w1100000"@en ;
+  skos:definition "Gewickelte Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w1100000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-w1100000"@en .
+
+tom:pe_w1110000
+  a skos:Concept ;
+  skos:inScheme tom: ;
+  skos:broader tom:pe ;
+  skos:prefLabel "pe_w1110000"@de , "pe_w1110000"@en ;
+  skos:definition "Gewickelte Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
+  skos:scopeNote
+  "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w1110000"@de ,
+  "Naming scheme: https://example.github.io/docs/letters/pe.html#variante-w1110000"@en .
 
 ############################################################
 # Block 16: variants of pesofit
