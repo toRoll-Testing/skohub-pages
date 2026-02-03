@@ -2825,3 +2825,319 @@ tom:kaf_b00000
     skos:scopeNote
         "Benennungsschema: https://example.github.io/docs/letters/kaf.html#variante-b00000"@de ,
         "Naming scheme: https://example.github.io/docs/letters/kaf.html#variante-b00000"@en .
+
+############################################################
+# Block 9: variants of kafsofit
+############################################################
+
+tom:kafsofit_0000p
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_0000p"@de , "kafsofit_0000p"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Kringel an der fünften Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one pretzel at the fifth position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-0000p"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-0000p"@en .
+
+tom:kafsofit_00100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_00100"@de , "kafsofit_00100"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Tag an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one tag at the third position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-00100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-00100"@en .
+
+tom:kafsofit_00200
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_00200"@de , "kafsofit_00200"@en ;
+    skos:definition
+        "Variante des Kafsofit mit zwei Tagin an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with two tagin at the third position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-00200"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-00200"@en .
+
+tom:kafsofit_01000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_01000"@de , "kafsofit_01000"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one tag at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-01000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-01000"@en .
+
+tom:kafsofit_010p0
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_010p0"@de , "kafsofit_010p0"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Tag an der zweiten Position und einem Kringel an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one tag at the second position and one pretzel at the fourth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-010p0"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-010p0"@en .
+
+tom:kafsofit_01100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_01100"@de , "kafsofit_01100"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one tag at the second position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-01100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-01100"@en .
+
+tom:kafsofit_02000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_02000"@de , "kafsofit_02000"@en ;
+    skos:definition
+        "Variante des Kafsofit mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with two tagin at the second position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-02000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-02000"@en .
+
+tom:kafsofit_02001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_02001"@de , "kafsofit_02001"@en ;
+    skos:definition
+        "Variante des Kafsofit mit zwei Tagin an der zweiten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with two tagin at the second position and one tag at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-02001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-02001"@en .
+
+tom:kafsofit_0200p
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_0200p"@de , "kafsofit_0200p"@en ;
+    skos:definition
+        "Variante des Kafsofit mit zwei Tagin an der zweiten Position und einem Kringel an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with two tagin at the second position and one pretzel at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-0200p"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-0200p"@en .
+
+tom:kafsofit_020p0
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_020p0"@de , "kafsofit_020p0"@en ;
+    skos:definition
+        "Variante des Kafsofit mit zwei Tagin an der zweiten Position und einem Kringel an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with two tagin at the second position and one pretzel at the fourth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-020p0"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-020p0"@en .
+
+tom:kafsofit_02100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_02100"@de , "kafsofit_02100"@en ;
+    skos:definition
+        "Variante des Kafsofit mit zwei Tagin an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with two tagin at the second position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-02100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-02100"@en .
+
+tom:kafsofit_10000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_10000"@de , "kafsofit_10000"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one tag at the first position and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-10000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-10000"@en .
+
+tom:kafsofit_10100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_10100"@de , "kafsofit_10100"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-10100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-10100"@en .
+
+tom:kafsofit_10101
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_10101"@de , "kafsofit_10101"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one tag at the first position, one tag at the third position, and one tag at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-10101"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-10101"@en .
+
+tom:kafsofit_10200
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_10200"@de , "kafsofit_10200"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Tag an der ersten Position und zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one tag at the first position and two tagin at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-10200"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-10200"@en .
+
+tom:kafsofit_11000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_11000"@de , "kafsofit_11000"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Tag an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one tag at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-11000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-11000"@en .
+
+tom:kafsofit_11100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_11100"@de , "kafsofit_11100"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Tag an der ersten, zweiten und dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one tag at the first, second, and third positions, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-11100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-11100"@en .
+
+tom:kafsofit_11101
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_11101"@de , "kafsofit_11101"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Tag an der ersten, zweiten, dritten und fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one tag at the first, second, third, and fifth positions, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-11101"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-11101"@en .
+
+tom:kafsofit_1110p
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_1110p"@de , "kafsofit_1110p"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Tag an der ersten, zweiten und dritten Position und einem Kringel an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one tag at the first, second, and third positions and one pretzel at the fourth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-1110p"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-1110p"@en .
+
+tom:kafsofit_12001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_12001"@de , "kafsofit_12001"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one tag at the first position, two tagin at the second position, and one tag at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-12001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-12001"@en .
+
+tom:kafsofit_12100
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_12100"@de , "kafsofit_12100"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one tag at the first position, two tagin at the second position, and one tag at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-12100"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-12100"@en .
+
+tom:kafsofit_130z1
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_130z1"@de , "kafsofit_130z1"@en ;
+    skos:definition
+        "Variante des Kafsofit mit einem Tag an der ersten Position, drei Tagin an der zweiten Position, einem Zickzack an der vierten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with one tag at the first position, three tagin at the second position, one zigzag at the fourth position, and one tag at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-130z1"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-130z1"@en .
+
+tom:kafsofit_20200
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_20200"@de , "kafsofit_20200"@en ;
+    skos:definition
+        "Variante des Kafsofit mit zwei Tagin an der ersten Position und zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with two tagin at the first position and two tagin at the third position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-20200"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-20200"@en .
+
+tom:kafsofit_21001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_21001"@de , "kafsofit_21001"@en ;
+    skos:definition
+        "Variante des Kafsofit mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with two tagin at the first position, one tag at the second position, and one tag at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-21001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-21001"@en .
+
+tom:kafsofit_30001
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_30001"@de , "kafsofit_30001"@en ;
+    skos:definition
+        "Variante des Kafsofit mit drei Tagin an der ersten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Variant of the Kafsofit with three tagin at the first position and one tag at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-30001"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-30001"@en .
+
+tom:kafsofit_e0200f
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:kafsofit ;
+    skos:prefLabel "kafsofit_e0200f"@de , "kafsofit_e0200f"@en ;
+    skos:definition
+        "Verlängerte Variante des Kafsofit mit zwei Tagin an der zweiten Position und einem Fähnchen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
+        "Elongated variant of the Kafsofit with two tagin at the second position and one flag at the fifth position, and no tagin at the remaining positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/kafsofit.html#variante-e0200f"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/kafsofit.html#variante-e0200f"@en .
