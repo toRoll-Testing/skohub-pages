@@ -1312,7 +1312,7 @@ tom:ayin_we0000
         "Naming scheme: https://example.github.io/docs/letters/ayin.html#variante-we0000"@en .
 
 ############################################################
-# block 3: variants of beit
+# Block 3: variants of beit
 ############################################################
 
 tom:beit_0000010
@@ -1320,6 +1320,8 @@ tom:beit_0000010
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_0000010"@de , "beit_0000010"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Beit mit einem Tag an der sechsten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with one tag at the sixth position and no tagin at the remaining positions."@en ;
@@ -1332,6 +1334,8 @@ tom:beit_00000b0
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_00000b0"@de , "beit_00000b0"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
     skos:definition
         "Variante des Beit mit einem Bogen an der sechsten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with one bow at the sixth position and no tagin at the remaining positions."@en ;
@@ -1344,6 +1348,8 @@ tom:beit_0001000
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_0001000"@de , "beit_0001000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Beit mit einem Tag an der vierten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with one tag at the fourth position and no tagin at the remaining positions."@en ;
@@ -1356,6 +1362,8 @@ tom:beit_0010000
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_0010000"@de , "beit_0010000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Beit mit einem Tag an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with one tag at the third position and no tagin at the remaining positions."@en ;
@@ -1368,6 +1376,8 @@ tom:beit_00f0000
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_00f0000"@de , "beit_00f0000"@en ;
+    skos:hiddenLabel
+        "Fähnchen"@de, "flag"@en ;
     skos:definition
         "Variante des Beit mit einem Fähnchen an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with one flag at the third position and no tagin at the remaining positions."@en ;
@@ -1380,6 +1390,8 @@ tom:beit_0100000
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_0100000"@de , "beit_0100000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Beit mit einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with one tag at the second position and no tagin at the remaining positions."@en ;
@@ -1392,6 +1404,8 @@ tom:beit_0110000
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_0110000"@de , "beit_0110000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Beit mit einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with one tag at the second position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -1404,6 +1418,8 @@ tom:beit_0200000
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_0200000"@de , "beit_0200000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Beit mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with two tagin at the second position and no tagin at the remaining positions."@en ;
@@ -1416,6 +1432,8 @@ tom:beit_1000000
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_1000000"@de , "beit_1000000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Beit mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with one tag at the first position and no tagin at the remaining positions."@en ;
@@ -1428,6 +1446,8 @@ tom:beit_1010000
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_1010000"@de , "beit_1010000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Beit mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -1440,6 +1460,8 @@ tom:beit_1010001
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_1010001"@de , "beit_1010001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Beit mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie einem Tag an der siebten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with one tag at the first position, one tag at the third position, and one tag at the seventh position, and no tagin at the remaining positions."@en ;
@@ -1452,6 +1474,8 @@ tom:beit_1011010
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_1011010"@de , "beit_1011010"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Beit mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with one tag at the first position, one tag at the third position, one tag at the fourth position, and one tag at the sixth position, and no tagin at the remaining positions."@en ;
@@ -1464,6 +1488,8 @@ tom:beit_1100000
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_1100000"@de , "beit_1100000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Beit mit einem Tag an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with one tag at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
@@ -1476,6 +1502,8 @@ tom:beit_1110000
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_1110000"@de , "beit_1110000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Beit mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with one tag at the first position, one tag at the second position, and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -1488,6 +1516,8 @@ tom:beit_1210000
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_1210000"@de , "beit_1210000"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Beit mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with one tag at the first position, two tagin at the second position, and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -1500,6 +1530,8 @@ tom:beit_2000001
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_2000001"@de , "beit_2000001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Beit mit zwei Tagin an der ersten Position und einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with two tagin at the first position and one tag at the seventh position, and no tagin at the remaining positions."@en ;
@@ -1512,6 +1544,8 @@ tom:beit_2300000
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_2300000"@de , "beit_2300000"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
     skos:definition
         "Variante des Beit mit zwei Tagin an der ersten Position und drei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with two tagin at the first position and three tagin at the second position, and no tagin at the remaining positions."@en ;
@@ -1524,6 +1558,8 @@ tom:beit_3000000
     skos:inScheme tom: ;
     skos:broader tom:beit ;
     skos:prefLabel "beit_3000000"@de , "beit_3000000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Beit mit drei Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Beit with three tagin at the first position and no tagin at the remaining positions."@en ;
@@ -1532,7 +1568,7 @@ tom:beit_3000000
         "Naming scheme: https://example.github.io/docs/letters/beit.html#variante-3000000"@en .
 
 ############################################################
-# block 4: variants of dalet
+# Block 4: variants of dalet
 ############################################################
 
 tom:dalet_0001
@@ -1540,6 +1576,8 @@ tom:dalet_0001
     skos:inScheme tom: ;
     skos:broader tom:dalet ;
     skos:prefLabel "dalet_0001"@de , "dalet_0001"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Dalet mit einem Tag an der vierten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Dalet with one tag at the fourth position and no tagin at the remaining positions."@en ;
@@ -1552,6 +1590,8 @@ tom:dalet_0100
     skos:inScheme tom: ;
     skos:broader tom:dalet ;
     skos:prefLabel "dalet_0100"@de , "dalet_0100"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Dalet mit einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Dalet with one tag at the second position and no tagin at the remaining positions."@en ;
@@ -1564,6 +1604,8 @@ tom:dalet_0110
     skos:inScheme tom: ;
     skos:broader tom:dalet ;
     skos:prefLabel "dalet_0110"@de , "dalet_0110"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Dalet mit einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Dalet with one tag at the second position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -1576,6 +1618,8 @@ tom:dalet_0200
     skos:inScheme tom: ;
     skos:broader tom:dalet ;
     skos:prefLabel "dalet_0200"@de , "dalet_0200"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Dalet mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Dalet with two tagin at the second position and no tagin at the remaining positions."@en ;
@@ -1588,6 +1632,8 @@ tom:dalet_1000
     skos:inScheme tom: ;
     skos:broader tom:dalet ;
     skos:prefLabel "dalet_1000"@de , "dalet_1000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Dalet mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Dalet with one tag at the first position and no tagin at the remaining positions."@en ;
@@ -1600,6 +1646,8 @@ tom:dalet_1010
     skos:inScheme tom: ;
     skos:broader tom:dalet ;
     skos:prefLabel "dalet_1010"@de , "dalet_1010"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Dalet mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Dalet with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -1612,6 +1660,8 @@ tom:dalet_1021
     skos:inScheme tom: ;
     skos:broader tom:dalet ;
     skos:prefLabel "dalet_1021"@de , "dalet_1021"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Dalet mit einem Tag an der ersten Position, keinem Tagin an der zweiten Position, zwei Tagin an der dritten Position und einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Dalet with one tag at the first position, no tagin at the second position, two tagin at the third position, and one tag at the fourth position, and no tagin at the remaining positions."@en ;
@@ -1624,6 +1674,8 @@ tom:dalet_1110
     skos:inScheme tom: ;
     skos:broader tom:dalet ;
     skos:prefLabel "dalet_1110"@de , "dalet_1110"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Dalet mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Dalet with one tag at the first position, one tag at the second position, and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -1636,6 +1688,8 @@ tom:dalet_1111
     skos:inScheme tom: ;
     skos:broader tom:dalet ;
     skos:prefLabel "dalet_1111"@de , "dalet_1111"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Dalet mit einem Tag an jeder der vier Positionen."@de ,
         "Variant of the Dalet with one tag at each of the four positions."@en ;
@@ -1648,6 +1702,8 @@ tom:dalet_1112
     skos:inScheme tom: ;
     skos:broader tom:dalet ;
     skos:prefLabel "dalet_1112"@de , "dalet_1112"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
     skos:definition
         "Variante des Dalet mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position und zwei Tagin an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Dalet with one tag at the first position, one tag at the second position, one tag at the third position, and two tagin at the fourth position, and no tagin at the remaining positions."@en ;
@@ -1660,6 +1716,8 @@ tom:dalet_1210
     skos:inScheme tom: ;
     skos:broader tom:dalet ;
     skos:prefLabel "dalet_1210"@de , "dalet_1210"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Dalet mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Dalet with one tag at the first position, two tagin at the second position, and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -1668,7 +1726,7 @@ tom:dalet_1210
         "Naming scheme: https://example.github.io/docs/letters/dalet.html#variante-1210"@en .
 
 ############################################################
-# block 5: variantes of gimel
+# Block 5: variantes of gimel
 ############################################################
 
 tom:gimel_0b
@@ -1676,6 +1734,8 @@ tom:gimel_0b
     skos:inScheme tom: ;
     skos:broader tom:gimel ;
     skos:prefLabel "gimel_0b"@de , "gimel_0b"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
     skos:definition
         "Variante des Gimel mit einem Bogen an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Gimel with one bow at the second position and no tagin at the remaining positions."@en ;
@@ -1688,6 +1748,8 @@ tom:gimel_20
     skos:inScheme tom: ;
     skos:broader tom:gimel ;
     skos:prefLabel "gimel_20"@de , "gimel_20"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Gimel mit zwei Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Gimel with two tagin at the first position and no tagin at the remaining positions."@en ;
@@ -1700,6 +1762,8 @@ tom:gimel_31
     skos:inScheme tom: ;
     skos:broader tom:gimel ;
     skos:prefLabel "gimel_31"@de , "gimel_31"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Gimel mit drei Tagin an der ersten Position und einem Tag an der zweiten Position."@de ,
         "Variant of the Gimel with three tagin at the first position and one tag at the second position."@en ;
@@ -1712,6 +1776,8 @@ tom:gimel_40
     skos:inScheme tom: ;
     skos:broader tom:gimel ;
     skos:prefLabel "gimel_40"@de , "gimel_40"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Gimel mit vier Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Gimel with four tagin at the first position and no tagin at the remaining positions."@en ;
