@@ -5,6 +5,18 @@
     "en": "ayin_w02b0",
     "de": "ayin_w02b0"
   },
+  "hiddenLabel": {
+    "en": [
+      "2tagin",
+      "bow",
+      "wrapped"
+    ],
+    "de": [
+      "2Tagin",
+      "Bogen",
+      "gewickelt"
+    ]
+  },
   "definition": {
     "en": "Wrapped variant of the Ayin with two tagin at the second position and one bow at the third position, and no tagin at the remaining positions.",
     "de": "Gewickelte Variante des Ayin mit zwei Tagin an der zweiten Position und einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."

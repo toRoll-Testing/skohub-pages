@@ -5,6 +5,16 @@
     "en": "ayin_ep000",
     "de": "ayin_ep000"
   },
+  "hiddenLabel": {
+    "en": [
+      "elongated",
+      "pretzel"
+    ],
+    "de": [
+      "verlängert",
+      "Kringel"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Ayin with one pretzel at the first position and no tagin at the remaining positions.",
     "de": "Verlängerte Variante des Ayin mit einem Kringel an der ersten Position und ohne Tagin an den übrigen Positionen."

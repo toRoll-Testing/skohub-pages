@@ -5,6 +5,14 @@
     "en": "alef_0302",
     "de": "alef_0302"
   },
+  "hiddenLabel": {
+    "en": [
+      "5tagin"
+    ],
+    "de": [
+      "5Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Alef with three tagin at the second position, no tagin at the third position, and two tagin at the fourth position.",
     "de": "Variante des Alef mit drei Tagin an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."

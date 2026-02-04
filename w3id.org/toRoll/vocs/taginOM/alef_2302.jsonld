@@ -5,6 +5,14 @@
     "en": "alef_2302",
     "de": "alef_2302"
   },
+  "hiddenLabel": {
+    "en": [
+      "7tagin"
+    ],
+    "de": [
+      "7Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Alef with two tagin at the first position, three tagin at the second position, no tagin at the third position, and two tagin at the fourth position.",
     "de": "Variante des Alef mit zwei Tagin an der ersten Position, drei Tagin an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."

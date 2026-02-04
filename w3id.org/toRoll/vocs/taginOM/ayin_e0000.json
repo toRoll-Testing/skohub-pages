@@ -5,6 +5,14 @@
     "en": "ayin_e0000",
     "de": "ayin_e0000"
   },
+  "hiddenLabel": {
+    "en": [
+      "elongated"
+    ],
+    "de": [
+      "verlängert"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Ayin with no tagin at any of the four positions.",
     "de": "Verlängerte Variante des Ayin ohne Tagin an allen vier Positionen."

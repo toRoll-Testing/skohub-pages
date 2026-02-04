@@ -5,6 +5,16 @@
     "en": "ayin_we0000",
     "de": "ayin_we0000"
   },
+  "hiddenLabel": {
+    "en": [
+      "elongated",
+      "wrapped"
+    ],
+    "de": [
+      "verlängert",
+      "gewickelt"
+    ]
+  },
   "definition": {
     "en": "Wrapped, elongated variant of the Ayin with no tagin at any of the four positions.",
     "de": "Gewickelte, verlängerte Variante des Ayin ohne Tagin an allen vier Positionen."

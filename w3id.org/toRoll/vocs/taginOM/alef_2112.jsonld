@@ -5,6 +5,14 @@
     "en": "alef_2112",
     "de": "alef_2112"
   },
+  "hiddenLabel": {
+    "en": [
+      "6tagin"
+    ],
+    "de": [
+      "6Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Alef with two tagin at the first position, one tag at the second position, one tag at the third position, and two tagin at the fourth position.",
     "de": "Variante des Alef mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position und zwei Tagin an der vierten Position."

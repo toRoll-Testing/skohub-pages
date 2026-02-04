@@ -5,6 +5,16 @@
     "en": "ayin_e0300",
     "de": "ayin_e0300"
   },
+  "hiddenLabel": {
+    "en": [
+      "3tagin",
+      "elongated"
+    ],
+    "de": [
+      "3Tagin",
+      "verlängert"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Ayin with three tagin at the second position and no tagin at the remaining positions.",
     "de": "Verlängerte Variante des Ayin mit drei Tagin an der zweiten Position und no Tagin an den übrigen Positionen."

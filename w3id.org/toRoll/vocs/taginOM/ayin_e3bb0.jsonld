@@ -5,6 +5,18 @@
     "en": "ayin_e3bb0",
     "de": "ayin_e3bb0"
   },
+  "hiddenLabel": {
+    "en": [
+      "3tagin",
+      "elongated",
+      "bow"
+    ],
+    "de": [
+      "3Tagin",
+      "verlängert",
+      "Bogen"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Ayin with three tagin at the first position, one bow at the second position, and one bow at the third position, and no tagin at the remaining positions.",
     "de": "Verlängerte Variante des Ayin mit drei Tagin an der ersten Position, einem Bogen an der zweiten Position und einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."

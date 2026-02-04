@@ -5,6 +5,16 @@
     "en": "ayin_30b0",
     "de": "ayin_30b0"
   },
+  "hiddenLabel": {
+    "en": [
+      "3tagin",
+      "bow"
+    ],
+    "de": [
+      "3Tagin",
+      "Bogen"
+    ]
+  },
   "definition": {
     "en": "Variant of the Ayin with three tagin at the first position and one bow at the third position, and no tagin at the remaining positions.",
     "de": "Variante des Ayin mit drei Tagin an der ersten Position und einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."
