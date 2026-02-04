@@ -5,6 +5,14 @@
     "en": "alef_e0000",
     "de": "alef_e0000"
   },
+  "hiddenLabel": {
+    "en": [
+      "elongated"
+    ],
+    "de": [
+      "verlängert"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Alef with no tagin at any of the four positions.",
     "de": "Verlängerte Variante des Alef ohne Tagin an allen vier Positionen."
