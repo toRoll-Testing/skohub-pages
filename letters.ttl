@@ -1786,7 +1786,7 @@ tom:gimel_40
         "Naming scheme: https://example.github.io/docs/letters/gimel.html#variante-40"@en .
 
 ############################################################
-# block 6a — variants of he (tagin only)
+# Block 6a — variants of he
 ############################################################
 
 tom:he_0001
@@ -1794,6 +1794,8 @@ tom:he_0001
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_0001"@de , "he_0001"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des He mit einem Tag an der vierten Position und ohne Tagin an den ersten drei Positionen."@de ,
         "Variant of the He with one tag at the fourth position and no tagin at the first three positions."@en ;
@@ -1806,6 +1808,8 @@ tom:he_0010
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_0010"@de , "he_0010"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des He mit einem Tag an der dritten Position und ohne Tagin an den anderen Positionen."@de ,
         "Variant of the He with one tag at the third position and no tagin at the other positions."@en ;
@@ -1818,6 +1822,8 @@ tom:he_0020
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_0020"@de , "he_0020"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des He mit zwei Tagin an der dritten Position und ohne Tagin an den anderen Positionen."@de ,
         "Variant of the He with two tagin at the third position and no tagin at the other positions."@en ;
@@ -1830,6 +1836,8 @@ tom:he_0100
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_0100"@de , "he_0100"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des He mit einem Tag an der zweiten Position und ohne Tagin an den anderen Positionen."@de ,
         "Variant of the He with one tag at the second position and no tagin at the other positions."@en ;
@@ -1842,6 +1850,8 @@ tom:he_0110
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_0110"@de , "he_0110"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des He mit einem Tag an der zweiten Position, einem Tag an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -1854,6 +1864,8 @@ tom:he_0120
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_0120"@de , "he_0120"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des He mit einem Tag an der zweiten Position, zwei Tagin an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with one tag at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
@@ -1866,6 +1878,8 @@ tom:he_0200
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_0200"@de , "he_0200"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des He mit zwei Tagin an der zweiten Position und ohne Tagin an den anderen Positionen."@de ,
         "Variant of the He with two tagin at the second position and no tagin at the other positions."@en ;
@@ -1878,6 +1892,8 @@ tom:he_0201
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_0201"@de , "he_0201"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des He mit zwei Tagin an der zweiten Position, einem Tag an der vierten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with two tagin at the second position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
@@ -1890,6 +1906,8 @@ tom:he_0210
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_0210"@de , "he_0210"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des He mit zwei Tagin an der zweiten Position, einem Tag an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with two tagin at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -1902,6 +1920,8 @@ tom:he_0300
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_0300"@de , "he_0300"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des He mit drei Tagin an der zweiten Position und ohne Tagin an den anderen Positionen."@de ,
         "Variant of the He with three tagin at the second position and no tagin at the other positions."@en ;
@@ -1914,6 +1934,8 @@ tom:he_0301
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_0301"@de , "he_0301"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des He mit drei Tagin an der zweiten Position, einem Tag an der vierten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with three tagin at the second position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
@@ -1926,6 +1948,8 @@ tom:he_1000
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_1000"@de , "he_1000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des He mit einem Tag an der ersten Position und ohne Tagin an den anderen Positionen."@de ,
         "Variant of the He with one tag at the first position and no tagin at the other positions."@en ;
@@ -1938,6 +1962,8 @@ tom:he_1001
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_1001"@de , "he_1001"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des He mit einem Tag an der ersten Position, einem Tag an der vierten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with one tag at the first position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
@@ -1950,6 +1976,8 @@ tom:he_1010
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_1010"@de , "he_1010"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des He mit einem Tag an der ersten Position, einem Tag an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -1962,6 +1990,8 @@ tom:he_1011
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_1011"@de , "he_1011"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des He mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position und ohne Tagin an der zweiten Position."@de ,
         "Variant of the He with one tag at the first position, one tag at the third position, one tag at the fourth position, and no tagin at the second position."@en ;
@@ -1974,6 +2004,8 @@ tom:he_1020
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_1020"@de , "he_1020"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des He mit einem Tag an der ersten Position, zwei Tagin an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with one tag at the first position, two tagin at the third position, and no tagin at the remaining positions."@en ;
@@ -1986,6 +2018,8 @@ tom:he_1100
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_1100"@de , "he_1100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des He mit einem Tag an der ersten Position, einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
@@ -1998,6 +2032,8 @@ tom:he_1110
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_1110"@de , "he_1110"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des He mit drei Tagin: jeweils ein Tag an der ersten, zweiten und dritten Position sowie ohne Tagin an der vierten Position."@de ,
         "Variant of the He with three tagin: one tag at the first, second and third position, and no tagin at the fourth position."@en ;
@@ -2010,6 +2046,8 @@ tom:he_1111
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_1111"@de , "he_1111"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des He mit vier Tagin: jeweils ein Tag an der ersten, zweiten, dritten und vierten Position."@de ,
         "Variant of the He with four tagin: one tag at the first, second, third and fourth position."@en ;
@@ -2022,6 +2060,8 @@ tom:he_1120
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_1120"@de , "he_1120"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des He mit einem Tag an der ersten Position, einem Tag an der zweiten Position, zwei Tagin an der dritten Position und ohne Tagin an der vierten Position."@de ,
         "Variant of the He with one tag at the first position, one tag at the second position, two tagin at the third position, and no tagin at the fourth position."@en ;
@@ -2034,6 +2074,8 @@ tom:he_1200
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_1200"@de , "he_1200"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des He mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with one tag at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
@@ -2046,6 +2088,8 @@ tom:he_1201
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_1201"@de , "he_1201"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des He mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der vierten Position und ohne Tagin an der dritten Position."@de ,
         "Variant of the He with one tag at the first position, two tagin at the second position, one tag at the fourth position, and no tagin at the third position."@en ;
@@ -2058,6 +2102,8 @@ tom:he_1210
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_1210"@de , "he_1210"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des He mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der dritten Position und ohne Tagin an der vierten Position."@de ,
         "Variant of the He with one tag at the first position, two tagin at the second position, one tag at the third position, and no tagin at the fourth position."@en ;
@@ -2070,6 +2116,8 @@ tom:he_2000
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_2000"@de , "he_2000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des He mit zwei Tagin an der ersten Position und ohne Tagin an den anderen Positionen."@de ,
         "Variant of the He with two tagin at the first position and no tagin at the other positions."@en ;
@@ -2082,6 +2130,8 @@ tom:he_2001
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_2001"@de , "he_2001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des He mit zwei Tagin an der ersten Position, einem Tag an der vierten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with two tagin at the first position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
@@ -2094,6 +2144,8 @@ tom:he_2010
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_2010"@de , "he_2010"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des He mit zwei Tagin an der ersten Position, einem Tag an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with two tagin at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -2106,6 +2158,8 @@ tom:he_2020
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_2020"@de , "he_2020"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des He mit zwei Tagin an der ersten Position, zwei Tagin an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with two tagin at the first position, two tagin at the third position, and no tagin at the remaining positions."@en ;
@@ -2118,6 +2172,8 @@ tom:he_2100
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_2100"@de , "he_2100"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des He mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
@@ -2130,6 +2186,8 @@ tom:he_2300
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_2300"@de , "he_2300"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
     skos:definition
         "Variante des He mit zwei Tagin an der ersten Position, drei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with two tagin at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
@@ -2142,6 +2200,8 @@ tom:he_3001
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_3001"@de , "he_3001"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des He mit drei Tagin an der ersten Position, einem Tag an der vierten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with three tagin at the first position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
@@ -2154,6 +2214,8 @@ tom:he_3021
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_3021"@de , "he_3021"@en ;
+    skos:hiddenLabel
+        "6Tagin"@de, "6tagin"@en ;
     skos:definition
         "Variante des He mit drei Tagin an der ersten Position, zwei Tagin an der dritten Position, einem Tag an der vierten Position und ohne Tagin an der zweiten Position."@de ,
         "Variant of the He with three tagin at the first position, two tagin at the third position, one tag at the fourth position, and no tagin at the second position."@en ;
@@ -2161,15 +2223,13 @@ tom:he_3021
         "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-3021"@de ,
         "Naming scheme: https://example.github.io/docs/letters/he.html#variante-3021"@en .
 
-############################################################
-# block 6b — variants of he with 'b' (bow)
-############################################################
-
 tom:he_b000
     a skos:Concept ;
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_b000"@de , "he_b000"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
     skos:definition
         "Variante des He mit einem Bogen an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with one bow at the first position and no tagin at the remaining positions."@en ;
@@ -2177,16 +2237,27 @@ tom:he_b000
         "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-b000"@de ,
         "Naming scheme: https://example.github.io/docs/letters/he.html#variante-b000"@en .
 
-
-############################################################
-# Block 6c — variants of he with 'f' (flag)
-############################################################
+tom:he_e0000
+    a skos:Concept ;
+    skos:inScheme tom: ;
+    skos:broader tom:he ;
+    skos:prefLabel "he_e0000"@de , "he_e0000"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "elongated"@en ;
+    skos:definition
+        "Verlängerte Variante des He ohne Tagin an allen vier Positionen."@de ,
+        "Elongated variant of the He with no tagin at any of the four positions."@en ;
+    skos:scopeNote
+        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-e0000"@de ,
+        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-e0000"@en .
 
 tom:he_f000
     a skos:Concept ;
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_f000"@de , "he_f000"@en ;
+    skos:hiddenLabel
+        "Fähnchen"@de, "flag"@en ;
     skos:definition
         "Variante des He mit einem Fähnchen an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the He with one flag at the first position and no tagin at the remaining positions."@en ;
@@ -2199,29 +2270,14 @@ tom:he_f001
     skos:inScheme tom: ;
     skos:broader tom:he ;
     skos:prefLabel "he_f001"@de , "he_f001"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Fähnchen"@de, "1tag"@en, "flag"@en ;
     skos:definition
         "Variante des He mit einem Fähnchen an der ersten Position, keinem Tagin an der zweiten und dritten Position sowie einem Tag an der vierten Position."@de ,
         "Variant of the He with one flag at the first position, no tagin at the second and third positions, and one tag at the fourth position."@en ;
     skos:scopeNote
         "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-f001"@de ,
         "Naming scheme: https://example.github.io/docs/letters/he.html#variante-f001"@en .
-
-
-############################################################
-# Block 6d — variants of he with 'e' (elongated)
-############################################################
-
-tom:he_e0000
-    a skos:Concept ;
-    skos:inScheme tom: ;
-    skos:broader tom:he ;
-    skos:prefLabel "he_e0000"@de , "he_e0000"@en ;
-    skos:definition
-        "Verlängerte Variante des He ohne Tagin an allen vier Positionen."@de ,
-        "Elongated variant of the He with no tagin at any of the four positions."@en ;
-    skos:scopeNote
-        "Benennungsschema: https://example.github.io/docs/letters/he.html#variante-e0000"@de ,
-        "Naming scheme: https://example.github.io/docs/letters/he.html#variante-e0000"@en .
 
 ############################################################
 # Block 7: variants of het
@@ -2232,6 +2288,8 @@ tom:het_0000b
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_0000b"@de , "het_0000b"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
     skos:definition
         "Variante des Het mit einem Bogen an der fünften Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one bow at the fifth position and no tagin at the remaining positions."@en ;
@@ -2244,6 +2302,8 @@ tom:het_000bb
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_000bb"@de , "het_000bb"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
     skos:definition
         "Variante des Het mit einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one bow at the fourth position and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2256,6 +2316,8 @@ tom:het_01000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_01000"@de , "het_01000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Het mit einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one tag at the second position and no tagin at the remaining positions."@en ;
@@ -2268,6 +2330,8 @@ tom:het_0100b
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_0100b"@de , "het_0100b"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Bogen"@de, "1tag"@en, "bow"@en ;
     skos:definition
         "Variante des Het mit einem Tag an der zweiten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one tag at the second position and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2280,6 +2344,8 @@ tom:het_010bb
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_010bb"@de , "het_010bb"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Bogen"@de, "1tag"@en, "bow"@en ;
     skos:definition
         "Variante des Het mit einem Tag an der zweiten Position, einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one tag at the second position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2292,6 +2358,8 @@ tom:het_01100
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_01100"@de , "het_01100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Het mit einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one tag at the second position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -2304,6 +2372,8 @@ tom:het_0110b
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_0110b"@de , "het_0110b"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Bogen"@de, "2tagin"@en, "bow"@en ;
     skos:definition
         "Variante des Het mit einem Tag an der zweiten Position, einem Tag an der dritten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one tag at the second position, one tag at the third position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2316,6 +2386,8 @@ tom:het_02000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_02000"@de , "het_02000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Het mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with two tagin at the second position and no tagin at the remaining positions."@en ;
@@ -2328,6 +2400,8 @@ tom:het_0f000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_0f000"@de , "het_0f000"@en ;
+    skos:hiddenLabel
+        "Fähnchen"@de, "flag"@en ;
     skos:definition
         "Variante des Het mit einem Fähnchen an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one flag at the second position and no tagin at the remaining positions."@en ;
@@ -2340,6 +2414,8 @@ tom:het_10000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_10000"@de , "het_10000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Het mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one tag at the first position and no tagin at the remaining positions."@en ;
@@ -2352,6 +2428,8 @@ tom:het_1000b
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_1000b"@de , "het_1000b"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Bogen"@de, "1tag"@en, "bow"@en ;
     skos:definition
         "Variante des Het mit einem Tag an der ersten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one tag at the first position and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2364,6 +2442,8 @@ tom:het_10100
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_10100"@de , "het_10100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Het mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -2376,6 +2456,8 @@ tom:het_1010b
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_1010b"@de , "het_1010b"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Bogen"@de, "2tagin"@en, "bow"@en ;
     skos:definition
         "Variante des Het mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one tag at the first position, one tag at the third position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2388,6 +2470,8 @@ tom:het_101bb
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_101bb"@de , "het_101bb"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Bogen"@de, "2tagin"@en, "bow"@en ;
     skos:definition
         "Variante des Het mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one tag at the first position, one tag at the third position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2400,6 +2484,8 @@ tom:het_10200
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_10200"@de , "het_10200"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Het mit einem Tag an der ersten Position und zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one tag at the first position and two tagin at the third position, and no tagin at the remaining positions."@en ;
@@ -2412,6 +2498,8 @@ tom:het_11000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_11000"@de , "het_11000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Het mit einem Tag an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one tag at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
@@ -2424,6 +2512,8 @@ tom:het_110bb
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_110bb"@de , "het_110bb"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Bogen"@de, "2tagin"@en, "bow"@en ;
     skos:definition
         "Variante des Het mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one tag at the first position, one tag at the second position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2436,6 +2526,8 @@ tom:het_11100
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_11100"@de , "het_11100"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Het mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one tag at the first position, one tag at the second position, and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -2448,6 +2540,8 @@ tom:het_12000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_12000"@de , "het_12000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Het mit einem Tag an der ersten Position und zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with one tag at the first position and two tagin at the second position, and no tagin at the remaining positions."@en ;
@@ -2460,6 +2554,8 @@ tom:het_20001
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_20001"@de , "het_20001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Het mit zwei Tagin an der ersten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with two tagin at the first position and one tag at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2472,6 +2568,8 @@ tom:het_21000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_21000"@de , "het_21000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Het mit zwei Tagin an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Het with two tagin at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
@@ -2484,6 +2582,8 @@ tom:het_c00000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_c00000"@de , "het_c00000"@en ;
+    skos:hiddenLabel
+        "verzerrt"@de, "crooked"@en ;
     skos:definition
         "Verzerrte Variante des Het ohne Tagin an allen fünf Positionen."@de ,
         "Crooked variant of the Het with no tagin at any of the five positions."@en ;
@@ -2496,6 +2596,8 @@ tom:het_e0100b
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_e0100b"@de , "het_e0100b"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "verlängert"@de, "Bogen"@de, "1tag"@en, "elongated"@en, "bow"@en ;
     skos:definition
         "Verlängerte Variante des Het mit einem Tag an der zweiten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Het with one tag at the second position and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2508,6 +2610,8 @@ tom:het_e010bb
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_e010bb"@de , "het_e010bb"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "verlängert"@de, "Bogen"@de, "1tag"@en, "elongated"@en, "bow"@en ;
     skos:definition
         "Verlängerte Variante des Het mit einem Tag an der zweiten Position, einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Het with one tag at the second position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2520,6 +2624,8 @@ tom:het_e010pp
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_e010pp"@de , "het_e010pp"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "verlängert"@de, "Kringel"@de, "1tag"@en, "elongated"@en, "pretzel"@en ;
     skos:definition
         "Verlängerte Variante des Het mit einem Tag an der zweiten Position, einem Kringel an der vierten Position und einem Kringel an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Het with one tag at the second position, one pretzel at the fourth position, and one pretzel at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2532,6 +2638,8 @@ tom:het_e011bb
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_e011bb"@de , "het_e011bb"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "verlängert"@de, "Bogen"@de, "2tagin"@en, "elongated"@en, "bow"@en ;
     skos:definition
         "Verlängerte Variante des Het mit einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Het with one tag at the second position, one tag at the third position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2544,6 +2652,8 @@ tom:het_e02000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_e02000"@de , "het_e02000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "verlängert"@de, "2tagin"@en, "elongated"@en ;
     skos:definition
         "Verlängerte Variante des Het mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Het with two tagin at the second position and no tagin at the remaining positions."@en ;
@@ -2556,6 +2666,8 @@ tom:het_e10000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_e10000"@de , "het_e10000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "verlängert"@de, "1tag"@en, "elongated"@en ;
     skos:definition
         "Verlängerte Variante des Het mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Het with one tag at the first position and no tagin at the remaining positions."@en ;
@@ -2568,6 +2680,8 @@ tom:het_e100bb
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_e100bb"@de , "het_e100bb"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "verlängert"@de, "Bogen"@de, "1tag"@en, "elongated"@en, "bow"@en ;
     skos:definition
         "Verlängerte Variante des Het mit einem Tag an der ersten Position, einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Het with one tag at the first position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2580,6 +2694,8 @@ tom:het_e10100
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_e10100"@de , "het_e10100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "verlängert"@de, "2tagin"@en, "elongated"@en ;
     skos:definition
         "Verlängerte Variante des Het mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Het with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -2592,6 +2708,8 @@ tom:het_e1010b
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_e1010b"@de , "het_e1010b"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "verlängert"@de, "Bogen"@de, "2tagin"@en, "elongated"@en, "bow"@en ;
     skos:definition
         "Verlängerte Variante des Het mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Het with one tag at the first position, one tag at the third position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2604,6 +2722,8 @@ tom:het_e11000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_e11000"@de , "het_e11000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "verlängert"@de, "2tagin"@en, "elongated"@en ;
     skos:definition
         "Verlängerte Variante des Het mit einem Tag an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Het with one tag at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
@@ -2616,6 +2736,8 @@ tom:het_eb000b
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_eb000b"@de , "het_eb000b"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "Bogen"@de, "elongated"@en, "bow"@en ;
     skos:definition
         "Verlängerte Variante des Het mit einem Bogen an der fünften Position und ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Het with one bow at the fifth position and no tagin at the remaining positions."@en ;
@@ -2628,6 +2750,8 @@ tom:het_er00000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_er00000"@de , "het_er00000"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "Dach"@de, "elongated"@en, "roof"@en ;
     skos:definition
         "Verlängerte Dach-Variante des Het ohne Tagin an allen fünf Positionen."@de ,
         "Elongated roof variant of the Het with no tagin at any of the five positions."@en ;
@@ -2640,6 +2764,8 @@ tom:het_er0000p
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_er0000p"@de , "het_er0000p"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "Dach"@de, "Kringel"@de, "elongated"@en, "roof"@en, "pretzel"@en ;
     skos:definition
         "Verlängerte Dach-Variante des Het mit einem Kringel an der fünften Position und ohne Tagin an den übrigen Positionen."@de ,
         "Elongated roof variant of the Het with one pretzel at the fifth position and no tagin at the remaining positions."@en ;
@@ -2652,6 +2778,8 @@ tom:het_er000bb
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_er000bb"@de , "het_er000bb"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "Dach"@de, "Bogen"@de, "elongated"@en, "roof"@en, "bow"@en ;
     skos:definition
         "Verlängerte Dach-Variante des Het mit einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated roof variant of the Het with one bow at the fourth position and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2664,6 +2792,8 @@ tom:het_er000pp
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_er000pp"@de , "het_er000pp"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "Dach"@de, "Kringel"@de, "elongated"@en, "roof"@en, "pretzel"@en ;
     skos:definition
         "Verlängerte Dach-Variante des Het mit einem Kringel an der vierten Position und einem Kringel an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated roof variant of the Het with one pretzel at the fourth position and one pretzel at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2676,6 +2806,8 @@ tom:het_er10000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_er10000"@de , "het_er10000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "verlängert"@de, "Dach"@de, "1tag"@en, "elongated"@en, "roof"@en ;
     skos:definition
         "Verlängerte Dach-Variante des Het mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Elongated roof variant of the Het with one tag at the first position and no tagin at the remaining positions."@en ;
@@ -2688,6 +2820,8 @@ tom:het_er10100
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_er10100"@de , "het_er10100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "verlängert"@de, "Dach"@de, "2tagin"@en, "elongated"@en, "roof"@en ;
     skos:definition
         "Verlängerte Dach-Variante des Het mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated roof variant of the Het with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -2700,6 +2834,8 @@ tom:het_er20000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_er20000"@de , "het_er20000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "verlängert"@de, "Dach"@de, "2tagin"@en, "elongated"@en, "roof"@en ;
     skos:definition
         "Verlängerte Dach-Variante des Het mit zwei Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Elongated roof variant of the Het with two tagin at the first position and no tagin at the remaining positions."@en ;
@@ -2712,6 +2848,8 @@ tom:het_r00000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_r00000"@de , "het_r00000"@en ;
+    skos:hiddenLabel
+        "Dach"@de, "roof"@en ;
     skos:definition
         "Dach-Variante des Het ohne Tagin an allen fünf Positionen."@de ,
         "Roof variant of the Het with no tagin at any of the five positions."@en ;
@@ -2724,6 +2862,8 @@ tom:het_r10000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_r10000"@de , "het_r10000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Dach"@de, "1tag"@en, "roof"@en ;
     skos:definition
         "Dach-Variante des Het mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Roof variant of the Het with one tag at the first position and no tagin at the remaining positions."@en ;
@@ -2736,6 +2876,8 @@ tom:het_r10100
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_r10100"@de , "het_r10100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Dach"@de, "2tagin"@en, "roof"@en ;
     skos:definition
         "Dach-Variante des Het mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Roof variant of the Het with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -2748,6 +2890,8 @@ tom:het_r1010b
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_r1010b"@de , "het_r1010b"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Dach"@de, "Bogen"@de, "2tagin"@en, "roof"@en, "bow"@en ;
     skos:definition
         "Dach-Variante des Het mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen。"@de ,
         "Roof variant of the Het with one tag at the first position, one tag at the third position, and one bow at the fifth position, and no tagin at the remaining positions。"@en ;
@@ -2760,6 +2904,8 @@ tom:het_r101bb
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_r101bb"@de , "het_r101bb"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Dach"@de, "Bogen"@de, "2tagin"@en, "roof"@en, "bow"@en ;
     skos:definition
         "Dach-Variante des Het mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Roof variant of the Het with one tag at the first position, one tag at the third position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2772,6 +2918,8 @@ tom:het_r101pp
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_r101pp"@de , "het_r101pp"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Dach"@de, "Kringel"@de, "2tagin"@en, "roof"@en, "pretzel"@en ;
     skos:definition
         "Dach-Variante des Het mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Kringel an der vierten Position und einem Kringel an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Roof variant of the Het with one tag at the first position, one tag at the third position, one pretzel at the fourth position, and one pretzel at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2784,6 +2932,8 @@ tom:het_rb020b
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_rb020b"@de , "het_rb020b"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Dach"@de, "Bogen"@de, "2tagin"@en, "roof"@en, "bow"@en ;
     skos:definition
         "Dach-Variante des Het mit einem Bogen an der zweiten Position, zwei Tagin an der dritten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Roof variant of the Het with one bow at the second position, two tagin at the third position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -2796,6 +2946,8 @@ tom:het_s00000
     skos:inScheme tom: ;
     skos:broader tom:het ;
     skos:prefLabel "het_s00000"@de , "het_s00000"@en ;
+    skos:hiddenLabel
+        "durchgestrichen"@de, "struckthrough"@en ;
     skos:definition
         "Durchgestrichene Variante des Het ohne Tagin an allen fünf Positionen."@de ,
         "Struckthrough variant of the Het with no tagin at any of the five positions."@en ;
