@@ -179,6 +179,7 @@ tom:alef_0001
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_0001"@de , "alef_0001"@en ;
+    skos:hiddenLabel "1tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Alef mit einem Tag an der vierten Position und ohne Tagin an den ersten drei Positionen."@de ,
         "Variant of the Alef with one tag at the fourth position and no tagin at the first three positions."@en ;
