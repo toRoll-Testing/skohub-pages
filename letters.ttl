@@ -171,7 +171,7 @@ tom:zayin
                 "zayin"@de, "zayin"@en .
 
 ############################################################
-# block 1a: variants of alef
+# Block 1: variants of alef
 ############################################################
 
 tom:alef_0001
@@ -192,6 +192,8 @@ tom:alef_0002
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_0002"@de , "alef_0002"@en ;
+    skos:hiddenLabel 
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Alef mit zwei Tagin an der vierten Position und ohne Tagin an den ersten drei Positionen."@de ,
         "Variant of the Alef with two tagin at the fourth position and no tagin at the first three positions."@en ;
@@ -204,6 +206,8 @@ tom:alef_0100
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_0100"@de , "alef_0100"@en ;
+    skos:hiddenLabel 
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Alef mit einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Alef with one tag at the second position and no tagin at the remaining positions."@en ;
@@ -216,6 +220,8 @@ tom:alef_0200
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_0200"@de , "alef_0200"@en ;
+    skos:hiddenLabel 
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Alef mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Alef with two tagin at the second position and no tagin at the remaining positions."@en ;
@@ -228,6 +234,8 @@ tom:alef_0302
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_0302"@de , "alef_0302"@en ;
+    skos:hiddenLabel 
+        "5Tagin"@de, "5tagin"@en ;
     skos:definition
         "Variante des Alef mit drei Tagin an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
         "Variant of the Alef with three tagin at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
@@ -240,6 +248,8 @@ tom:alef_1000
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_1000"@de , "alef_1000"@en ;
+    skos:hiddenLabel 
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Alef mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Alef with one tag at the first position and no tagin at the remaining positions."@en ;
@@ -252,6 +262,8 @@ tom:alef_1100
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_1100"@de , "alef_1100"@en ;
+    skos:hiddenLabel 
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Alef mit einem Tag an der ersten Position, einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Alef with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
@@ -264,6 +276,8 @@ tom:alef_1102
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_1102"@de , "alef_1102"@en ;
+    skos:hiddenLabel 
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Alef mit einem Tag an der ersten Position, einem Tag an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vier­ten Position."@de ,
         "Variant of the Alef with one tag at the first position, one tag at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
@@ -276,6 +290,8 @@ tom:alef_1202
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_1202"@de , "alef_1202"@en ;
+    skos:hiddenLabel 
+        "5Tagin"@de, "5tagin"@en ;
     skos:definition
         "Variante des Alef mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
         "Variant of the Alef with one tag at the first position, two tagin at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
@@ -288,6 +304,8 @@ tom:alef_1203
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_1203"@de , "alef_1203"@en ;
+    skos:hiddenLabel 
+        "6Tagin"@de, "6tagin"@en ;
     skos:definition
         "Variante des Alef mit einem Tag an der erste Position, zwei Tagin an der zweiten Position, keinem Tagin an der dritten Position und drei Tagin an der vierten Position."@de ,
         "Variant of the Alef with one tag at the first position, two tagin at the second position, no tagin at the third position, and three tagin at the fourth position."@en ;
@@ -300,6 +318,8 @@ tom:alef_1300
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_1300"@de , "alef_1300"@en ;
+    skos:hiddenLabel 
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Alef mit einem Tag an der ersten Position, drei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Alef with one tag at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
@@ -312,6 +332,8 @@ tom:alef_1301
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_1301"@de , "alef_1301"@en ;
+    skos:hiddenLabel 
+        "5Tagin"@de, "5tagin"@en ;
     skos:definition
         "Variante des Alef mit einem Tag an der ersten Position, drei Tagin an der zweiten Position, keinem Tagin an der dritten Position und einem Tag an der vierten Position."@de ,
         "Variant of the Alef with one tag at the first position, three tagin at the second position, no tagin at the third position, and one tag at the fourth position."@en ;
@@ -324,6 +346,8 @@ tom:alef_2000
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_2000"@de , "alef_2000"@en ;
+    skos:hiddenLabel 
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Alef mit zwei Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Alef with two tagin at the first position and no tagin at the remaining positions."@en ;
@@ -336,6 +360,8 @@ tom:alef_2100
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_2100"@de , "alef_2100"@en ;
+    skos:hiddenLabel 
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Alef mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Alef with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
@@ -348,6 +374,8 @@ tom:alef_2102
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_2102"@de , "alef_2102"@en ;
+    skos:hiddenLabel 
+        "5Tagin"@de, "5tagin"@en ;
     skos:definition
         "Variante des Alef mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
         "Variant of the Alef with two tagin at the first position, one tag at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
@@ -360,6 +388,8 @@ tom:alef_2112
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_2112"@de , "alef_2112"@en ;
+    skos:hiddenLabel 
+        "6Tagin"@de, "6tagin"@en ;
     skos:definition
         "Variante des Alef mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position und zwei Tagin an der vierten Position."@de ,
         "Variant of the Alef with two tagin at the first position, one tag at the second position, one tag at the third position, and two tagin at the fourth position."@en ;
@@ -372,6 +402,8 @@ tom:alef_2200
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_2200"@de , "alef_2200"@en ;
+    skos:hiddenLabel 
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Alef mit zwei Tagin an der ersten Position, zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Alef with two tagin at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
@@ -384,6 +416,8 @@ tom:alef_2202
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_2202"@de , "alef_2202"@en ;
+    skos:hiddenLabel 
+        "6Tagin"@de, "6tagin"@en ;
     skos:definition
         "Variante des Alef mit zwei Tagin an der ersten Position, zwei Tagin an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
         "Variant of the Alef with two tagin at the first position, two tagin at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
@@ -396,6 +430,8 @@ tom:alef_2212
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_2212"@de , "alef_2212"@en ;
+    skos:hiddenLabel 
+        "7Tagin"@de, "7tagin"@en ;
     skos:definition
         "Variante des Alef mit zwei Tagin an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der dritten Position und zwei Tagin an der vierten Position."@de ,
         "Variant of the Alef with two tagin at the first position, two tagin at the second position, one tag at the third position, and two tagin at the fourth position."@en ;
@@ -408,6 +444,8 @@ tom:alef_2300
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_2300"@de , "alef_2300"@en ;
+    skos:hiddenLabel 
+        "5Tagin"@de, "5tagin"@en ;
     skos:definition
         "Variante des Alef mit zwei Tagin an der ersten Position, drei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Alef with two tagin at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
@@ -420,6 +458,8 @@ tom:alef_2302
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_2302"@de , "alef_2302"@en ;
+    skos:hiddenLabel 
+        "7Tagin"@de, "7tagin"@en ;
     skos:definition
         "Variante des Alef mit zwei Tagin an der ersten Position, drei Tagin an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
         "Variant of the Alef with two tagin at the first position, three tagin at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
@@ -432,6 +472,8 @@ tom:alef_3000
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_3000"@de , "alef_3000"@en ;
+    skos:hiddenLabel 
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Alef mit drei Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Alef with three tagin at the first position and no tagin at the remaining positions."@en ;
@@ -444,6 +486,8 @@ tom:alef_3100
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_3100"@de , "alef_3100"@en ;
+    skos:hiddenLabel 
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Alef mit drei Tagin an der ersten Position, einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Alef with three tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
@@ -456,6 +500,8 @@ tom:alef_3102
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_3102"@de , "alef_3102"@en ;
+    skos:hiddenLabel 
+        "6Tagin"@de, "6tagin"@en ;
     skos:definition
         "Variante des Alef mit drei Tagin an der ersten Position, einem Tag an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
         "Variant of the Alef with three tagin at the first position, one tag at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
@@ -468,6 +514,8 @@ tom:alef_3200
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_3200"@de , "alef_3200"@en ;
+    skos:hiddenLabel 
+        "5Tagin"@de, "5tagin"@en ;
     skos:definition
         "Variante des Alef mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Alef with three tagin at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
@@ -480,6 +528,8 @@ tom:alef_3202
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_3202"@de , "alef_3202"@en ;
+    skos:hiddenLabel 
+        "7Tagin"@de, "7tagin"@en ;
     skos:definition
         "Variante des Alef mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
         "Variant of the Alef with three tagin at the first position, two tagin at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
@@ -492,6 +542,8 @@ tom:alef_3220
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_3220"@de , "alef_3220"@en ;
+    skos:hiddenLabel 
+        "7Tagin"@de, "7tagin"@en ;
     skos:definition
         "Variante des Alef mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position, zwei Tagin an der dritten Position und ohne Tagin an der vierten Position."@de ,
         "Variant of the Alef with three tagin at the first position, two tagin at the second position, two tagin at the third position, and no tagin at the fourth position."@en ;
@@ -504,6 +556,8 @@ tom:alef_3222
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_3222"@de , "alef_3222"@en ;
+    skos:hiddenLabel 
+        "9Tagin"@de, "9tagin"@en ;
     skos:definition
         "Variante des Alef mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position, zwei Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
         "Variant of the Alef with three tagin at the first position, two tagin at the second position, two tagin at the third position, and two tagin at the fourth position."@en ;
@@ -516,6 +570,8 @@ tom:alef_3300
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_3300"@de , "alef_3300"@en ;
+    skos:hiddenLabel 
+        "6Tagin"@de, "6tagin"@en ;
     skos:definition
         "Variante des Alef mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Alef with three tagin at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
@@ -528,6 +584,8 @@ tom:alef_3302
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_3302"@de , "alef_3302"@en ;
+    skos:hiddenLabel 
+        "8Tagin"@de, "8tagin"@en ;
     skos:definition
         "Variante des Alef mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position, keinem Tagin an der dritten Position und zwei Tagin an der vierten Position."@de ,
         "Variant of the Alef with three tagin at the first position, three tagin at the second position, no tagin at the third position, and two tagin at the fourth position."@en ;
@@ -540,6 +598,8 @@ tom:alef_3312
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_3312"@de , "alef_3312"@en ;
+    skos:hiddenLabel 
+        "9Tagin"@de, "9tagin"@en ;
     skos:definition
         "Variante des Alef mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position, einem Tag an der dritten Position und zwei Tagin an der vierten Position."@de ,
         "Variant of the Alef with three tagin at the first position, three tagin at the second position, one tag at the third position, and two tagin at the fourth position."@en ;
@@ -552,6 +612,8 @@ tom:alef_4200
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_4200"@de , "alef_4200"@en ;
+    skos:hiddenLabel 
+        "6Tagin"@de, "6tagin"@en ;
     skos:definition
         "Variante des Alef mit vier Tagin an der ersten Position, zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Alef with four tagin at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
@@ -564,6 +626,8 @@ tom:alef_4300
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_4300"@de , "alef_4300"@en ;
+    skos:hiddenLabel 
+        "7Tagin"@de, "7tagin"@en ;
     skos:definition
         "Variante des Alef mit vier Tagin an der ersten Position, drei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Alef with four tagin at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
@@ -571,16 +635,13 @@ tom:alef_4300
         "Benennungsschema: https://example.github.io/docs/letters/alef.html#variante-4300"@de ,
         "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-4300"@en .
 
-############################################################
-# block 1b: variants of alef with 'e' (elongated)
-############################################################
-
 tom:alef_e0000
     a skos:Concept ;
     skos:inScheme tom: ;
     skos:broader tom:alef ;
     skos:prefLabel "alef_e0000"@de , "alef_e0000"@en ;
-    skos:hiddenLabel "verlängert"@de, "elongated"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "elongated"@en ;
     skos:definition
         "Verlängerte Variante des Alef ohne Tagin an allen vier Positionen."@de ,
         "Elongated variant of the Alef with no tagin at any of the four positions."@en ;
@@ -589,7 +650,7 @@ tom:alef_e0000
         "Naming scheme: https://example.github.io/docs/letters/alef.html#variante-e0000"@en .
 
 ############################################################
-# block 2: variants of ayin
+# Block 2: variants of ayin
 ############################################################
 
 tom:ayin_00b0
@@ -597,6 +658,8 @@ tom:ayin_00b0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_00b0"@de , "ayin_00b0"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
     skos:definition
         "Variante des Ayin mit einem Bogen an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one bow at the third position and no tagin at the remaining positions."@en ;
@@ -609,6 +672,8 @@ tom:ayin_00p0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_00p0"@de , "ayin_00p0"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
     skos:definition
         "Variante des Ayin mit einem Kringel an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one pretzel at the third position and no tagin at the remaining positions."@en ;
@@ -621,7 +686,8 @@ tom:ayin_01b0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_01b0"@de , "ayin_01b0"@en ;
-    skos:hiddenLabel "1tag"@de, "Bogen"@de, "1tag"@en, "bow"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Bogen"@de, "1tag"@en, "bow"@en ;
     skos:definition
         "Variante des Ayin mit einem Tag an der zweiten Position und einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one tag at the second position and one bow at the third position, and no tagin at the remaining positions."@en ;
@@ -634,6 +700,8 @@ tom:ayin_01p0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_01p0"@de , "ayin_01p0"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Kringel"@de, "1tag"@en, "pretzel"@en ;
     skos:definition
         "Variante des Ayin mit einem Tag an der zweiten Position und einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one tag at the second position and one pretzel at the third position, and no tagin at the remaining positions."@en ;
@@ -646,6 +714,8 @@ tom:ayin_0200
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_0200"@de , "ayin_0200"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Ayin mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with two tagin at the second position and no tagin at the remaining positions."@en ;
@@ -658,6 +728,8 @@ tom:ayin_02p0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_02p0"@de , "ayin_02p0"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Kringel"@de, "2tagin"@en, "pretzel"@en ;
     skos:definition
         "Variante des Ayin mit zwei Tagin an der zweiten Position und einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with two tagin at the second position and one pretzel at the third position, and no tagin at the remaining positions."@en ;
@@ -670,6 +742,8 @@ tom:ayin_0300
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_0300"@de , "ayin_0300"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Ayin mit drei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with three tagin at the second position and no tagin at the remaining positions."@en ;
@@ -682,6 +756,8 @@ tom:ayin_0bb0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_0bb0"@de , "ayin_0bb0"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
     skos:definition
         "Variante des Ayin mit einem Bogen an der zweiten Position und einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one bow at the second position and one bow at the third position, and no tagin at the remaining positions."@en ;
@@ -694,6 +770,8 @@ tom:ayin_0p00
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_0p00"@de , "ayin_0p00"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
     skos:definition
         "Variante des Ayin mit einem Kringel an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one pretzel at the second position and no tagin at the remaining positions."@en ;
@@ -706,6 +784,8 @@ tom:ayin_0pp0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_0pp0"@de , "ayin_0pp0"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
     skos:definition
         "Variante des Ayin mit einem Kringel an der zweiten Position und einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one pretzel at the second position and one pretzel at the third position, and no tagin at the remaining positions."@en ;
@@ -718,6 +798,8 @@ tom:ayin_1000
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_1000"@de , "ayin_1000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Ayin mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one tag at the first position and no tagin at the remaining positions."@en ;
@@ -730,6 +812,8 @@ tom:ayin_10b0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_10b0"@de , "ayin_10b0"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Bogen"@de, "1tag"@en, "bow"@en ;
     skos:definition
         "Variante des Ayin mit einem Tag an der ersten Position und einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one tag at the first position and one bow at the third position, and no tagin at the remaining positions."@en ;
@@ -742,6 +826,8 @@ tom:ayin_1100
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_1100"@de , "ayin_1100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Ayin mit einem Tag an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one tag at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
@@ -754,6 +840,8 @@ tom:ayin_11b0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_11b0"@de , "ayin_11b0"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Bogen"@de, "2tagin"@en, "bow"@en ;
     skos:definition
         "Variante des Ayin mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one tag at the first position, one tag at the second position, and one bow at the third position, and no tagin at the remaining positions."@en ;
@@ -766,6 +854,8 @@ tom:ayin_11p0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_11p0"@de , "ayin_11p0"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Kringel"@de, "2tagin"@en, "pretzel"@en ;
     skos:definition
         "Variante des Ayin mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one tag at the first position, one tag at the second position, and one pretzel at the third position, and no tagin at the remaining positions."@en ;
@@ -778,6 +868,8 @@ tom:ayin_1200
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_1200"@de , "ayin_1200"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Ayin mit einem Tag an der ersten Position und zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one tag at the first position and two tagin at the second position, and no tagin at the remaining positions."@en ;
@@ -790,6 +882,8 @@ tom:ayin_2000
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_2000"@de , "ayin_2000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Ayin mit zwei Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with two tagin at the first position and no tagin at the remaining positions."@en ;
@@ -802,6 +896,8 @@ tom:ayin_2100
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_2100"@de , "ayin_2100"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Ayin mit zwei Tagin an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with two tagin at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
@@ -814,6 +910,8 @@ tom:ayin_3010
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_3010"@de , "ayin_3010"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Ayin mit drei Tagin an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with three tagin at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -826,6 +924,8 @@ tom:ayin_30b0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_30b0"@de , "ayin_30b0"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Bogen"@de, "3tagin"@en, "bow"@en ;
     skos:definition
         "Variante des Ayin mit drei Tagin an der ersten Position und einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with three tagin at the first position and one bow at the third position, and no tagin at the remaining positions."@en ;
@@ -838,6 +938,8 @@ tom:ayin_30p0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_30p0"@de , "ayin_30p0"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Kringel"@de, "3tagin"@en, "pretzel"@en ;
     skos:definition
         "Variante des Ayin mit drei Tagin an der ersten Position und einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with three tagin at the first position and one pretzel at the third position, and no tagin at the remaining positions."@en ;
@@ -850,6 +952,8 @@ tom:ayin_3100
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_3100"@de , "ayin_3100"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Ayin mit drei Tagin an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with three tagin at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
@@ -862,6 +966,8 @@ tom:ayin_3200
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_3200"@de , "ayin_3200"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
     skos:definition
         "Variante des Ayin mit drei Tagin an der ersten Position und zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with three tagin at the first position and two tagin at the second position, and no tagin at the remaining positions."@en ;
@@ -874,6 +980,8 @@ tom:ayin_3f00
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_3f00"@de , "ayin_3f00"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Fähnchen"@de, "3tagin"@en, "flag"@en ;
     skos:definition
         "Variante des Ayin mit drei Tagin an der ersten Position und einem Fähnchen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with three tagin at the first position and one flag at the second position, and no tagin at the remaining positions."@en ;
@@ -886,6 +994,8 @@ tom:ayin_3p00
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_3p00"@de , "ayin_3p00"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Kringel"@de, "3tagin"@en, "pretzel"@en ;
     skos:definition
         "Variante des Ayin mit drei Tagin an der ersten Position und einem Kringel an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with three tagin at the first position and one pretzel at the second position, and no tagin at the remaining positions."@en ;
@@ -898,6 +1008,8 @@ tom:ayin_3pp0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_3pp0"@de , "ayin_3pp0"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Kringel"@de, "3tagin"@en, "pretzel"@en ;
     skos:definition
         "Variante des Ayin mit drei Tagin an der ersten Position, einem Kringel an der zweiten Position und einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with three tagin at the first position, one pretzel at the second position, and one pretzel at the third position, and no tagin at the remaining positions."@en ;
@@ -910,6 +1022,8 @@ tom:ayin_4000
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_4000"@de , "ayin_4000"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Ayin mit vier Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with four tagin at the first position and no tagin at the remaining positions."@en ;
@@ -922,6 +1036,8 @@ tom:ayin_e0000
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_e0000"@de , "ayin_e0000"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "elongated"@en ;
     skos:definition
         "Verlängerte Variante des Ayin ohne Tagin an allen vier Positionen."@de ,
         "Elongated variant of the Ayin with no tagin at any of the four positions."@en ;
@@ -934,6 +1050,8 @@ tom:ayin_e00b0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_e00b0"@de , "ayin_e00b0"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "Bogen"@de, "elongated"@en, "bow"@en ;
     skos:definition
         "Verlängerte Variante des Ayin mit einem Bogen an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Ayin with one bow at the third position and no tagin at the remaining positions."@en ;
@@ -946,6 +1064,8 @@ tom:ayin_e0300
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_e0300"@de , "ayin_e0300"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "verlängert"@de, "3tagin"@en, "elongated"@en ;
     skos:definition
         "Verlängerte Variante des Ayin mit drei Tagin an der zweiten Position und no Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Ayin with three tagin at the second position and no tagin at the remaining positions."@en ;
@@ -958,6 +1078,8 @@ tom:ayin_e0b00
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_e0b00"@de , "ayin_e0b00"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "Bogen"@de, "elongated"@en, "bow"@en ;
     skos:definition
         "Verlängerte Variante des Ayin mit einem Bogen an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Ayin with one bow at the second position and no tagin at the remaining positions."@en ;
@@ -970,6 +1092,8 @@ tom:ayin_e1000
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_e1000"@de , "ayin_e1000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "verlängert"@de, "1tag"@en, "elongated"@en ;
     skos:definition
         "Verlängerte Variante des Ayin mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Ayin with one tag at the first position and no tagin at the remaining positions."@en ;
@@ -982,6 +1106,8 @@ tom:ayin_e10p0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_e10p0"@de , "ayin_e10p0"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "verlängert"@de, "Kringel"@de, "1tag"@en, "elongated"@en, "pretzel"@en ;
     skos:definition
         "Verlängerte Variante des Ayin mit einem Tag an der ersten Position und einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Ayin with one tag at the first position and one pretzel at the third position, and no tagin at the remaining positions."@en ;
@@ -994,6 +1120,8 @@ tom:ayin_e3000
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_e3000"@de , "ayin_e3000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "verlängert"@de, "3tagin"@en, "elongated"@en ;
     skos:definition
         "Verlängerte Variante des Ayin mit drei Tagin an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Ayin with three tagin at the first position and no tagin at the remaining positions."@en ;
@@ -1006,6 +1134,8 @@ tom:ayin_e30b0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_e30b0"@de , "ayin_e30b0"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "verlängert"@de, "Bogen"@de, "3tagin"@en, "elongated"@en, "bow"@en ;
     skos:definition
         "Verlängerte Variante des Ayin mit drei Tagin an der ersten Position und einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Ayin with three tagin at the first position and one bow at the third position, and no tagin at the remaining positions."@en ;
@@ -1018,6 +1148,8 @@ tom:ayin_e3bb0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_e3bb0"@de , "ayin_e3bb0"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "verlängert"@de, "Bogen"@de, "3tagin"@en, "elongated"@en, "bow"@en ;
     skos:definition
         "Verlängerte Variante des Ayin mit drei Tagin an der ersten Position, einem Bogen an der zweiten Position und einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Ayin with three tagin at the first position, one bow at the second position, and one bow at the third position, and no tagin at the remaining positions."@en ;
@@ -1030,6 +1162,8 @@ tom:ayin_e3fb0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_e3fb0"@de , "ayin_e3fb0"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "verlängert"@de, "Fähnchen"@de, "Bogen"@de, "3tagin"@en, "elongated"@en, "flag"@en, "bow"@en ;
     skos:definition
         "Verlängerte Variante des Ayin mit drei Tagin an der ersten Position, einem Fähnchen an der zweiten Position und einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Ayin with three tagin at the first position, one flag at the second position, and one bow at the third position, and no tagin at the remaining positions."@en ;
@@ -1042,6 +1176,8 @@ tom:ayin_e3p00
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_e3p00"@de , "ayin_e3p00"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "verlängert"@de, "Kringel"@de, "3tagin"@en, "elongated"@en, "pretzel"@en ;
     skos:definition
         "Verlängerte Variante des Ayin mit drei Tagin an der ersten Position und einem Kringel an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Ayin with three tagin at the first position and one pretzel at the second position, and no tagin at the remaining positions."@en ;
@@ -1054,6 +1190,8 @@ tom:ayin_ep000
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_ep000"@de , "ayin_ep000"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "Kringel"@de, "elongated"@en, "pretzel"@en ;
     skos:definition
         "Verlängerte Variante des Ayin mit einem Kringel an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Ayin with one pretzel at the first position and no tagin at the remaining positions."@en ;
@@ -1066,6 +1204,8 @@ tom:ayin_p000
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_p000"@de , "ayin_p000"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
     skos:definition
         "Variante des Ayin mit einem Kringel an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one pretzel at the first position and no tagin at the remaining positions."@en ;
@@ -1078,6 +1218,8 @@ tom:ayin_p0p0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_p0p0"@de , "ayin_p0p0"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
     skos:definition
         "Variante des Ayin mit einem Kringel an der ersten Position und einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one pretzel at the first position and one pretzel at the third position, and no tagin at the remaining positions."@en ;
@@ -1090,6 +1232,8 @@ tom:ayin_p220
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_p220"@de , "ayin_p220"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "Kringel"@de, "4tagin"@en, "pretzel"@en ;
     skos:definition
         "Variante des Ayin mit einem Kringel an der ersten Position, zwei Tagin an der zweiten Position und zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one pretzel at the first position, two tagin at the second position, and two tagin at the third position, and no tagin at the remaining positions."@en ;
@@ -1102,6 +1246,8 @@ tom:ayin_pp00
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_pp00"@de , "ayin_pp00"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
     skos:definition
         "Variante des Ayin mit einem Kringel an der ersten Position und einem Kringel an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one pretzel at the first position and one pretzel at the second position, and no tagin at the remaining positions."@en ;
@@ -1114,6 +1260,8 @@ tom:ayin_ppp0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_ppp0"@de , "ayin_ppp0"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
     skos:definition
         "Variante des Ayin mit einem Kringel an der ersten Position, einem Kringel an der zweiten Position und einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Ayin with one pretzel at the first position, one pretzel at the second position, and one pretzel at the third position, and no tagin at the remaining positions."@en ;
@@ -1126,6 +1274,8 @@ tom:ayin_w0000
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_w0000"@de , "ayin_w0000"@en ;
+    skos:hiddenLabel
+        "gewickelt"@de, "wrapped"@en ;
     skos:definition
         "Gewickelte Variante des Ayin ohne Tagin an allen vier Positionen."@de ,
         "Wrapped variant of the Ayin with no tagin at any of the four positions."@en ;
@@ -1138,6 +1288,8 @@ tom:ayin_w02b0
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_w02b0"@de , "ayin_w02b0"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "gewickelt"@de, "Bogen"@de, "2tagin"@en, "wrapped"@en, "bow"@en ;
     skos:definition
         "Gewickelte Variante des Ayin mit zwei Tagin an der zweiten Position und einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Wrapped variant of the Ayin with two tagin at the second position and one bow at the third position, and no tagin at the remaining positions."@en ;
@@ -1150,6 +1302,8 @@ tom:ayin_we0000
     skos:inScheme tom: ;
     skos:broader tom:ayin ;
     skos:prefLabel "ayin_we0000"@de , "ayin_we0000"@en ;
+    skos:hiddenLabel
+        "gewickelt"@de, "verlängert"@de, "wrapped"@en, "elongated"@en ;
     skos:definition
         "Gewickelte, verlängerte Variante des Ayin ohne Tagin an allen vier Positionen."@de ,
         "Wrapped, elongated variant of the Ayin with no tagin at any of the four positions."@en ;
