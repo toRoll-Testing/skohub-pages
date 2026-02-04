@@ -5,6 +5,14 @@
     "en": "het_s00000",
     "de": "het_s00000"
   },
+  "hiddenLabel": {
+    "en": [
+      "struckthrough"
+    ],
+    "de": [
+      "durchgestrichen"
+    ]
+  },
   "definition": {
     "en": "Struckthrough variant of the Het with no tagin at any of the five positions.",
     "de": "Durchgestrichene Variante des Het ohne Tagin an allen fünf Positionen."

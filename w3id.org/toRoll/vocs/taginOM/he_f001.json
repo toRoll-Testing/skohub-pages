@@ -5,6 +5,16 @@
     "en": "he_f001",
     "de": "he_f001"
   },
+  "hiddenLabel": {
+    "en": [
+      "1tag",
+      "flag"
+    ],
+    "de": [
+      "1Tag",
+      "Fähnchen"
+    ]
+  },
   "definition": {
     "en": "Variant of the He with one flag at the first position, no tagin at the second and third positions, and one tag at the fourth position.",
     "de": "Variante des He mit einem Fähnchen an der ersten Position, keinem Tagin an der zweiten und dritten Position sowie einem Tag an der vierten Position."

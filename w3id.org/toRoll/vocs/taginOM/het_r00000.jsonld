@@ -5,6 +5,14 @@
     "en": "het_r00000",
     "de": "het_r00000"
   },
+  "hiddenLabel": {
+    "en": [
+      "roof"
+    ],
+    "de": [
+      "Dach"
+    ]
+  },
   "definition": {
     "en": "Roof variant of the Het with no tagin at any of the five positions.",
     "de": "Dach-Variante des Het ohne Tagin an allen fünf Positionen."

@@ -5,6 +5,18 @@
     "en": "het_er0000p",
     "de": "het_er0000p"
   },
+  "hiddenLabel": {
+    "en": [
+      "elongated",
+      "pretzel",
+      "roof"
+    ],
+    "de": [
+      "verlängert",
+      "Kringel",
+      "Dach"
+    ]
+  },
   "definition": {
     "en": "Elongated roof variant of the Het with one pretzel at the fifth position and no tagin at the remaining positions.",
     "de": "Verlängerte Dach-Variante des Het mit einem Kringel an der fünften Position und ohne Tagin an den übrigen Positionen."

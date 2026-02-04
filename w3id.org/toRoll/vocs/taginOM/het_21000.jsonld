@@ -5,6 +5,14 @@
     "en": "het_21000",
     "de": "het_21000"
   },
+  "hiddenLabel": {
+    "en": [
+      "3tagin"
+    ],
+    "de": [
+      "3Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Het with two tagin at the first position and one tag at the second position, and no tagin at the remaining positions.",
     "de": "Variante des Het mit zwei Tagin an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."

@@ -5,6 +5,14 @@
     "en": "het_c00000",
     "de": "het_c00000"
   },
+  "hiddenLabel": {
+    "en": [
+      "crooked"
+    ],
+    "de": [
+      "verzerrt"
+    ]
+  },
   "definition": {
     "en": "Crooked variant of the Het with no tagin at any of the five positions.",
     "de": "Verzerrte Variante des Het ohne Tagin an allen fünf Positionen."

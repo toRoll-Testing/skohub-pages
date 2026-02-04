@@ -5,6 +5,14 @@
     "en": "he_0020",
     "de": "he_0020"
   },
+  "hiddenLabel": {
+    "en": [
+      "2tagin"
+    ],
+    "de": [
+      "2Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the He with two tagin at the third position and no tagin at the other positions.",
     "de": "Variante des He mit zwei Tagin an der dritten Position und ohne Tagin an den anderen Positionen."

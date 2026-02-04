@@ -5,6 +5,16 @@
     "en": "het_010bb",
     "de": "het_010bb"
   },
+  "hiddenLabel": {
+    "en": [
+      "1tag",
+      "bow"
+    ],
+    "de": [
+      "1Tag",
+      "Bogen"
+    ]
+  },
   "definition": {
     "en": "Variant of the Het with one tag at the second position, one bow at the fourth position, and one bow at the fifth position, and no tagin at the remaining positions.",
     "de": "Variante des Het mit einem Tag an der zweiten Position, einem Bogen an der vierten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."

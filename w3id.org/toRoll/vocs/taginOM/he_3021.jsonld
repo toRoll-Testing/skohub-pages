@@ -5,6 +5,14 @@
     "en": "he_3021",
     "de": "he_3021"
   },
+  "hiddenLabel": {
+    "en": [
+      "6tagin"
+    ],
+    "de": [
+      "6Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the He with three tagin at the first position, two tagin at the third position, one tag at the fourth position, and no tagin at the second position.",
     "de": "Variante des He mit drei Tagin an der ersten Position, zwei Tagin an der dritten Position, einem Tag an der vierten Position und ohne Tagin an der zweiten Position."

@@ -5,6 +5,16 @@
     "en": "het_er00000",
     "de": "het_er00000"
   },
+  "hiddenLabel": {
+    "en": [
+      "elongated",
+      "roof"
+    ],
+    "de": [
+      "verlängert",
+      "Dach"
+    ]
+  },
   "definition": {
     "en": "Elongated roof variant of the Het with no tagin at any of the five positions.",
     "de": "Verlängerte Dach-Variante des Het ohne Tagin an allen fünf Positionen."

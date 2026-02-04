@@ -5,6 +5,14 @@
     "en": "he_1120",
     "de": "he_1120"
   },
+  "hiddenLabel": {
+    "en": [
+      "4tagin"
+    ],
+    "de": [
+      "4Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the He with one tag at the first position, one tag at the second position, two tagin at the third position, and no tagin at the fourth position.",
     "de": "Variante des He mit einem Tag an der ersten Position, einem Tag an der zweiten Position, zwei Tagin an der dritten Position und ohne Tagin an der vierten Position."

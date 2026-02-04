@@ -231,6 +231,13 @@
       }
     },
     {
+      "id": "https://w3id.org/toRoll/vocs/taginOM/he_e0000",
+      "prefLabel": {
+        "en": "he_e0000",
+        "de": "he_e0000"
+      }
+    },
+    {
       "id": "https://w3id.org/toRoll/vocs/taginOM/he_f000",
       "prefLabel": {
         "en": "he_f000",
@@ -242,13 +249,6 @@
       "prefLabel": {
         "en": "he_f001",
         "de": "he_f001"
-      }
-    },
-    {
-      "id": "https://w3id.org/toRoll/vocs/taginOM/he_e0000",
-      "prefLabel": {
-        "en": "he_e0000",
-        "de": "he_e0000"
       }
     }
   ],

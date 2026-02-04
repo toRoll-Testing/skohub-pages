@@ -5,6 +5,14 @@
     "en": "he_e0000",
     "de": "he_e0000"
   },
+  "hiddenLabel": {
+    "en": [
+      "elongated"
+    ],
+    "de": [
+      "verlängert"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the He with no tagin at any of the four positions.",
     "de": "Verlängerte Variante des He ohne Tagin an allen vier Positionen."

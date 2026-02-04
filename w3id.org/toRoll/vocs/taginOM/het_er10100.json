@@ -5,6 +5,18 @@
     "en": "het_er10100",
     "de": "het_er10100"
   },
+  "hiddenLabel": {
+    "en": [
+      "2tagin",
+      "elongated",
+      "roof"
+    ],
+    "de": [
+      "2Tagin",
+      "verlängert",
+      "Dach"
+    ]
+  },
   "definition": {
     "en": "Elongated roof variant of the Het with one tag at the first position and one tag at the third position, and no tagin at the remaining positions.",
     "de": "Verlängerte Dach-Variante des Het mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."
