@@ -5,6 +5,14 @@
     "en": "gimel_31",
     "de": "gimel_31"
   },
+  "hiddenLabel": {
+    "en": [
+      "4tagin"
+    ],
+    "de": [
+      "4Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Gimel with three tagin at the first position and one tag at the second position.",
     "de": "Variante des Gimel mit drei Tagin an der ersten Position und einem Tag an der zweiten Position."

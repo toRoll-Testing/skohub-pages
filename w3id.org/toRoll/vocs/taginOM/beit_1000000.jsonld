@@ -5,6 +5,14 @@
     "en": "beit_1000000",
     "de": "beit_1000000"
   },
+  "hiddenLabel": {
+    "en": [
+      "1tag"
+    ],
+    "de": [
+      "1Tag"
+    ]
+  },
   "definition": {
     "en": "Variant of the Beit with one tag at the first position and no tagin at the remaining positions.",
     "de": "Variante des Beit mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."

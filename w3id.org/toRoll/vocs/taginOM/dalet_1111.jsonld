@@ -5,6 +5,14 @@
     "en": "dalet_1111",
     "de": "dalet_1111"
   },
+  "hiddenLabel": {
+    "en": [
+      "4tagin"
+    ],
+    "de": [
+      "4Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Dalet with one tag at each of the four positions.",
     "de": "Variante des Dalet mit einem Tag an jeder der vier Positionen."
