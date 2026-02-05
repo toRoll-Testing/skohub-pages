@@ -2964,6 +2964,8 @@ tom:kaf_000010
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_000010"@de , "kaf_000010"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Kaf mit einem Tag an der fünften Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with one tag at the fifth position and no tagin at the remaining positions."@en ;
@@ -2976,6 +2978,8 @@ tom:kaf_0000b0
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_0000b0"@de , "kaf_0000b0"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
     skos:definition
         "Variante des Kaf mit einem Bogen an der fünften Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with one bow at the fifth position and no tagin at the remaining positions."@en ;
@@ -2988,6 +2992,8 @@ tom:kaf_002000
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_002000"@de , "kaf_002000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Kaf mit zwei Tagin an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with two tagin at the third position and no tagin at the remaining positions."@en ;
@@ -3000,6 +3006,8 @@ tom:kaf_010000
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_010000"@de , "kaf_010000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Kaf mit einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with one tag at the second position and no tagin at the remaining positions."@en ;
@@ -3012,6 +3020,8 @@ tom:kaf_011000
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_011000"@de , "kaf_011000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Kaf mit einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with one tag at the second position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -3024,6 +3034,8 @@ tom:kaf_011010
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_011010"@de , "kaf_011010"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Kaf mit einem Tag an der zweiten Position, einem Tag an der dritten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with one tag at the second position, one tag at the third position, and one tag at the fifth position, and no tagin at the remaining positions."@en ;
@@ -3036,6 +3048,8 @@ tom:kaf_020000
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_020000"@de , "kaf_020000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Kaf mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with two tagin at the second position and no tagin at the remaining positions."@en ;
@@ -3048,6 +3062,8 @@ tom:kaf_030000
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_030000"@de , "kaf_030000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Kaf mit drei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with three tagin at the second position and no tagin at the remaining positions."@en ;
@@ -3060,6 +3076,8 @@ tom:kaf_100000
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_100000"@de , "kaf_100000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Kaf mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with one tag at the first position and no tagin at the remaining positions."@en ;
@@ -3072,6 +3090,8 @@ tom:kaf_101000
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_101000"@de , "kaf_101000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Kaf mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -3084,6 +3104,8 @@ tom:kaf_101001
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_101001"@de , "kaf_101001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Kaf mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with one tag at the first position, one tag at the third position, and one tag at the sixth position, and no tagin at the remaining positions."@en ;
@@ -3096,6 +3118,8 @@ tom:kaf_101010
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_101010"@de , "kaf_101010"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Kaf mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with one tag at the first position, one tag at the third position, and one tag at the fifth position, and no tagin at the remaining positions."@en ;
@@ -3108,6 +3132,8 @@ tom:kaf_1010b0
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_1010b0"@de , "kaf_1010b0"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Bogen"@de, "2tagin"@en, "bow"@en ;
     skos:definition
         "Variante des Kaf mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with one tag at the first position, one tag at the third position, and one bow at the fifth position, and no tagin at the remaining positions."@en ;
@@ -3120,6 +3146,8 @@ tom:kaf_101b00
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_101b00"@de , "kaf_101b00"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Bogen"@de, "2tagin"@en, "bow"@en ;
     skos:definition
         "Variante des Kaf mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Bogen an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with one tag at the first position, one tag at the third position, and one bow at the fourth position, and no tagin at the remaining positions."@en ;
@@ -3132,6 +3160,8 @@ tom:kaf_110000
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_110000"@de , "kaf_110000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Kaf mit einem Tag an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with one tag at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
@@ -3144,6 +3174,8 @@ tom:kaf_110001
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_110001"@de , "kaf_110001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Kaf mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with one tag at the first position, one tag at the second position, and one tag at the sixth position, and no tagin at the remaining positions."@en ;
@@ -3156,6 +3188,8 @@ tom:kaf_111000
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_111000"@de , "kaf_111000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Kaf mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with one tag at the first position, one tag at the second position, and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -3168,6 +3202,8 @@ tom:kaf_11100b
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_11100b"@de , "kaf_11100b"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Bogen"@de, "3tagin"@en, "bow"@en ;
     skos:definition
         "Variante des Kaf mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position und einem Bogen an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with one tag at the first position, one tag at the second position, one tag at the third position, and one bow at the sixth position, and no tagin at the remaining positions."@en ;
@@ -3180,6 +3216,8 @@ tom:kaf_200001
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_200001"@de , "kaf_200001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Kaf mit zwei Tagin an der ersten Position und einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with two tagin at the first position and one tag at the sixth position, and no tagin at the remaining positions."@en ;
@@ -3192,6 +3230,8 @@ tom:kaf_b00000
     skos:inScheme tom: ;
     skos:broader tom:kaf ;
     skos:prefLabel "kaf_b00000"@de , "kaf_b00000"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
     skos:definition
         "Variante des Kaf mit einem Bogen an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kaf with one bow at the first position and no tagin at the remaining positions."@en ;
@@ -3208,6 +3248,8 @@ tom:kafsofit_0000p
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_0000p"@de , "kafsofit_0000p"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
     skos:definition
         "Variante des Kafsofit mit einem Kringel an der fünften Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with one pretzel at the fifth position and no tagin at the remaining positions."@en ;
@@ -3220,6 +3262,8 @@ tom:kafsofit_00100
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_00100"@de , "kafsofit_00100"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Kafsofit mit einem Tag an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with one tag at the third position and no tagin at the remaining positions."@en ;
@@ -3232,6 +3276,8 @@ tom:kafsofit_00200
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_00200"@de , "kafsofit_00200"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Kafsofit mit zwei Tagin an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with two tagin at the third position and no tagin at the remaining positions."@en ;
@@ -3244,6 +3290,8 @@ tom:kafsofit_01000
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_01000"@de , "kafsofit_01000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Kafsofit mit einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with one tag at the second position and no tagin at the remaining positions."@en ;
@@ -3256,6 +3304,8 @@ tom:kafsofit_010p0
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_010p0"@de , "kafsofit_010p0"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Kringel"@de, "1tag"@en, "pretzel"@en ;
     skos:definition
         "Variante des Kafsofit mit einem Tag an der zweiten Position und einem Kringel an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with one tag at the second position and one pretzel at the fourth position, and no tagin at the remaining positions."@en ;
@@ -3268,6 +3318,8 @@ tom:kafsofit_01100
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_01100"@de , "kafsofit_01100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Kafsofit mit einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with one tag at the second position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -3280,6 +3332,8 @@ tom:kafsofit_02000
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_02000"@de , "kafsofit_02000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Kafsofit mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with two tagin at the second position and no tagin at the remaining positions."@en ;
@@ -3292,6 +3346,8 @@ tom:kafsofit_02001
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_02001"@de , "kafsofit_02001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Kafsofit mit zwei Tagin an der zweiten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with two tagin at the second position and one tag at the fifth position, and no tagin at the remaining positions."@en ;
@@ -3304,6 +3360,8 @@ tom:kafsofit_0200p
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_0200p"@de , "kafsofit_0200p"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Kringel"@de, "2tagin"@en, "pretzel"@en ;
     skos:definition
         "Variante des Kafsofit mit zwei Tagin an der zweiten Position und einem Kringel an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with two tagin at the second position and one pretzel at the fifth position, and no tagin at the remaining positions."@en ;
@@ -3316,6 +3374,8 @@ tom:kafsofit_020p0
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_020p0"@de , "kafsofit_020p0"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Kringel"@de, "2tagin"@en, "pretzel"@en ;
     skos:definition
         "Variante des Kafsofit mit zwei Tagin an der zweiten Position und einem Kringel an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with two tagin at the second position and one pretzel at the fourth position, and no tagin at the remaining positions."@en ;
@@ -3328,6 +3388,8 @@ tom:kafsofit_02100
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_02100"@de , "kafsofit_02100"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Kafsofit mit zwei Tagin an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with two tagin at the second position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -3340,6 +3402,8 @@ tom:kafsofit_10000
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_10000"@de , "kafsofit_10000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Kafsofit mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with one tag at the first position and no tagin at the remaining positions."@en ;
@@ -3352,6 +3416,8 @@ tom:kafsofit_10100
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_10100"@de , "kafsofit_10100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Kafsofit mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -3364,6 +3430,8 @@ tom:kafsofit_10101
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_10101"@de , "kafsofit_10101"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Kafsofit mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with one tag at the first position, one tag at the third position, and one tag at the fifth position, and no tagin at the remaining positions."@en ;
@@ -3376,6 +3444,8 @@ tom:kafsofit_10200
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_10200"@de , "kafsofit_10200"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Kafsofit mit einem Tag an der ersten Position und zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with one tag at the first position and two tagin at the third position, and no tagin at the remaining positions."@en ;
@@ -3388,6 +3458,8 @@ tom:kafsofit_11000
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_11000"@de , "kafsofit_11000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Kafsofit mit einem Tag an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with one tag at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
@@ -3400,6 +3472,8 @@ tom:kafsofit_11100
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_11100"@de , "kafsofit_11100"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Kafsofit mit einem Tag an der ersten, zweiten und dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with one tag at the first, second, and third positions, and no tagin at the remaining positions."@en ;
@@ -3412,6 +3486,8 @@ tom:kafsofit_11101
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_11101"@de , "kafsofit_11101"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Kafsofit mit einem Tag an der ersten, zweiten, dritten und fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with one tag at the first, second, third, and fifth positions, and no tagin at the remaining positions."@en ;
@@ -3424,6 +3500,8 @@ tom:kafsofit_1110p
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_1110p"@de , "kafsofit_1110p"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Kringel"@de, "3tagin"@en, "pretzel"@en ;
     skos:definition
         "Variante des Kafsofit mit einem Tag an der ersten, zweiten und dritten Position und einem Kringel an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with one tag at the first, second, and third positions and one pretzel at the fourth position, and no tagin at the remaining positions."@en ;
@@ -3436,6 +3514,8 @@ tom:kafsofit_12001
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_12001"@de , "kafsofit_12001"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Kafsofit mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with one tag at the first position, two tagin at the second position, and one tag at the fifth position, and no tagin at the remaining positions."@en ;
@@ -3448,6 +3528,8 @@ tom:kafsofit_12100
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_12100"@de , "kafsofit_12100"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Kafsofit mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with one tag at the first position, two tagin at the second position, and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -3460,6 +3542,8 @@ tom:kafsofit_130z1
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_130z1"@de , "kafsofit_130z1"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "Zickzack"@de, "5tagin"@en, "zigzag"@en ;
     skos:definition
         "Variante des Kafsofit mit einem Tag an der ersten Position, drei Tagin an der zweiten Position, einem Zickzack an der vierten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with one tag at the first position, three tagin at the second position, one zigzag at the fourth position, and one tag at the fifth position, and no tagin at the remaining positions."@en ;
@@ -3472,6 +3556,8 @@ tom:kafsofit_20200
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_20200"@de , "kafsofit_20200"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Kafsofit mit zwei Tagin an der ersten Position und zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with two tagin at the first position and two tagin at the third position, and no tagin at the remaining positions."@en ;
@@ -3484,6 +3570,8 @@ tom:kafsofit_21001
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_21001"@de , "kafsofit_21001"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Kafsofit mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with two tagin at the first position, one tag at the second position, and one tag at the fifth position, and no tagin at the remaining positions."@en ;
@@ -3496,6 +3584,8 @@ tom:kafsofit_30001
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_30001"@de , "kafsofit_30001"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Kafsofit mit drei Tagin an der ersten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Kafsofit with three tagin at the first position and one tag at the fifth position, and no tagin at the remaining positions."@en ;
@@ -3508,6 +3598,8 @@ tom:kafsofit_e0200f
     skos:inScheme tom: ;
     skos:broader tom:kafsofit ;
     skos:prefLabel "kafsofit_e0200f"@de , "kafsofit_e0200f"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "verlängert"@de, "Fähnchen"@de, "2tagin"@en, "elongated"@en, "flag"@en ;
     skos:definition
         "Verlängerte Variante des Kafsofit mit zwei Tagin an der zweiten Position und einem Fähnchen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Elongated variant of the Kafsofit with two tagin at the second position and one flag at the fifth position, and no tagin at the remaining positions."@en ;
@@ -3524,6 +3616,8 @@ tom:lamed_002
     skos:inScheme tom: ;
     skos:broader tom:lamed ;
     skos:prefLabel "lamed_002"@de , "lamed_002"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Lamed mit zwei Tagin an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Lamed with two tagin at the third position and no tagin at the remaining positions."@en ;
@@ -3536,6 +3630,8 @@ tom:lamed_00p
     skos:inScheme tom: ;
     skos:broader tom:lamed ;
     skos:prefLabel "lamed_00p"@de , "lamed_00p"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
     skos:definition
         "Variante des Lamed mit einem Kringel an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Lamed with one pretzel at the third position and no tagin at the remaining positions."@en ;
@@ -3548,6 +3644,8 @@ tom:lamed_010
     skos:inScheme tom: ;
     skos:broader tom:lamed ;
     skos:prefLabel "lamed_010"@de , "lamed_010"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Lamed mit einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Lamed with one tag at the second position and no tagin at the remaining positions."@en ;
@@ -3560,6 +3658,8 @@ tom:lamed_0f0
     skos:inScheme tom: ;
     skos:broader tom:lamed ;
     skos:prefLabel "lamed_0f0"@de , "lamed_0f0"@en ;
+    skos:hiddenLabel
+        "Fähnchen"@de, "flag"@en ;
     skos:definition
         "Variante des Lamed mit einem Fähnchen an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Lamed with one flag at the second position and no tagin at the remaining positions."@en ;
@@ -3572,6 +3672,8 @@ tom:lamed_1f0
     skos:inScheme tom: ;
     skos:broader tom:lamed ;
     skos:prefLabel "lamed_1f0"@de , "lamed_1f0"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Fähnchen"@de, "1tag"@en, "flag"@en ;
     skos:definition
         "Variante des Lamed mit einem Tag an der ersten Position und einem Fähnchen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Lamed with one tag at the first position and one flag at the second position, and no tagin at the remaining positions."@en ;
@@ -3584,6 +3686,8 @@ tom:lamed_2f0
     skos:inScheme tom: ;
     skos:broader tom:lamed ;
     skos:prefLabel "lamed_2f0"@de , "lamed_2f0"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Fähnchen"@de, "2tagin"@en, "flag"@en ;
     skos:definition
         "Variante des Lamed mit zwei Tagin an der ersten Position und einem Fähnchen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Lamed with two tagin at the first position and one flag at the second position, and no tagin at the remaining positions."@en ;
@@ -3596,6 +3700,8 @@ tom:lamed_b00
     skos:inScheme tom: ;
     skos:broader tom:lamed ;
     skos:prefLabel "lamed_b00"@de , "lamed_b00"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
     skos:definition
         "Variante des Lamed mit einem Bogen an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Lamed with one bow at the first position and no tagin at the remaining positions."@en ;
@@ -3608,6 +3714,8 @@ tom:lamed_b02
     skos:inScheme tom: ;
     skos:broader tom:lamed ;
     skos:prefLabel "lamed_b02"@de , "lamed_b02"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Bogen"@de, "2tagin"@en, "bow"@en ;
     skos:definition
         "Variante des Lamed mit einem Bogen an der ersten Position und zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Lamed with one bow at the first position and two tagin at the third position, and no tagin at the remaining positions."@en ;
@@ -3620,6 +3728,8 @@ tom:lamed_f00
     skos:inScheme tom: ;
     skos:broader tom:lamed ;
     skos:prefLabel "lamed_f00"@de , "lamed_f00"@en ;
+    skos:hiddenLabel
+        "Fähnchen"@de, "flag"@en ;
     skos:definition
         "Variante des Lamed mit einem Fähnchen an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Lamed with one flag at the first position and no tagin at the remaining positions."@en ;
@@ -3632,6 +3742,8 @@ tom:lamed_f20
     skos:inScheme tom: ;
     skos:broader tom:lamed ;
     skos:prefLabel "lamed_f20"@de , "lamed_f20"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Fähnchen"@de, "2tagin"@en, "flag"@en ;
     skos:definition
         "Variante des Lamed mit einem Fähnchen an der ersten Position und zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Lamed with one flag at the first position and two tagin at the second position, and no tagin at the remaining positions."@en ;
@@ -3644,6 +3756,8 @@ tom:lamed_p00
     skos:inScheme tom: ;
     skos:broader tom:lamed ;
     skos:prefLabel "lamed_p00"@de , "lamed_p00"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
     skos:definition
         "Variante des Lamed mit einem Kringel an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Lamed with one pretzel at the first position and no tagin at the remaining positions."@en ;
@@ -3660,6 +3774,8 @@ tom:mem_00200
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_00200"@de , "mem_00200"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Mem mit zwei Tagin an der dritten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with two tagin at the third position and no tagin at the remaining positions."@en ;
@@ -3672,6 +3788,8 @@ tom:mem_01000
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_01000"@de , "mem_01000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Mem mit einem Tag an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with one tag at the second position and no tagin at the remaining positions."@en ;
@@ -3684,6 +3802,8 @@ tom:mem_01100
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_01100"@de , "mem_01100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Mem mit einem Tag an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with one tag at the second position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -3696,6 +3816,8 @@ tom:mem_01200
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_01200"@de , "mem_01200"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Mem mit einem Tag an der zweiten Position und zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with one tag at the second position and two tagin at the third position, and no tagin at the remaining positions."@en ;
@@ -3708,6 +3830,8 @@ tom:mem_02000
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_02000"@de , "mem_02000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Mem mit zwei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with two tagin at the second position and no tagin at the remaining positions."@en ;
@@ -3720,6 +3844,8 @@ tom:mem_02100
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_02100"@de , "mem_02100"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Mem mit zwei Tagin an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with two tagin at the second position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -3732,6 +3858,8 @@ tom:mem_03000
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_03000"@de , "mem_03000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Mem mit drei Tagin an der zweiten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with three tagin at the second position and no tagin at the remaining positions."@en ;
@@ -3744,6 +3872,8 @@ tom:mem_10000
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_10000"@de , "mem_10000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
     skos:definition
         "Variante des Mem mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with one tag at the first position and no tagin at the remaining positions."@en ;
@@ -3756,6 +3886,8 @@ tom:mem_10100
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_10100"@de , "mem_10100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Mem mit einem Tag an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with one tag at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -3768,6 +3900,8 @@ tom:mem_10101
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_10101"@de , "mem_10101"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Mem mit einem Tag an der ersten, dritten und fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with one tag at the first, third, and fifth positions, and no tagin at the remaining positions."@en ;
@@ -3780,6 +3914,8 @@ tom:mem_11000
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_11000"@de , "mem_11000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
     skos:definition
         "Variante des Mem mit einem Tag an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with one tag at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
@@ -3792,6 +3928,8 @@ tom:mem_11001
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_11001"@de , "mem_11001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Mem mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with one tag at the first position, one tag at the second position, and one tag at the fifth position, and no tagin at the remaining positions."@en ;
@@ -3804,6 +3942,8 @@ tom:mem_11100
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_11100"@de , "mem_11100"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Mem mit einem Tag an der ersten, zweiten und dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with one tag at the first, second, and third positions, and no tagin at the remaining positions."@en ;
@@ -3816,6 +3956,8 @@ tom:mem_12100
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_12100"@de , "mem_12100"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Mem mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with one tag at the first position, two tagin at the second position, and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -3828,6 +3970,8 @@ tom:mem_20100
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_20100"@de , "mem_20100"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
     skos:definition
         "Variante des Mem mit zwei Tagin an der ersten Position und einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with two tagin at the first position and one tag at the third position, and no tagin at the remaining positions."@en ;
@@ -3840,6 +3984,8 @@ tom:mem_20200
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_20200"@de , "mem_20200"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Mem mit zwei Tagin an der ersten Position und zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with two tagin at the first position and two tagin at the third position, and no tagin at the remaining positions."@en ;
@@ -3852,6 +3998,8 @@ tom:mem_31000
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_31000"@de , "mem_31000"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
     skos:definition
         "Variante des Mem mit drei Tagin an der ersten Position und einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with three tagin at the first position and one tag at the second position, and no tagin at the remaining positions."@en ;
@@ -3864,6 +4012,8 @@ tom:mem_b0000
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_b0000"@de , "mem_b0000"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
     skos:definition
         "Variante des Mem mit einem Bogen an der ersten Position und ohne Tagin an den übrigen Positionen."@de ,
         "Variant of the Mem with one bow at the first position and no tagin at the remaining positions."@en ;
@@ -3876,6 +4026,8 @@ tom:mem_e00000
     skos:inScheme tom: ;
     skos:broader tom:mem ;
     skos:prefLabel "mem_e00000"@de , "mem_e00000"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "elongated"@en ;
     skos:definition
         "Verlängerte Variante des Mem ohne Tagin an allen fünf Positionen."@de ,
         "Elongated variant of the Mem with no tagin at any of the five positions."@en ;
@@ -3892,6 +4044,8 @@ tom:memsofit_000001
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_000001"@de , "memsofit_000001"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the sixth position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-000001"@de ,
@@ -3902,6 +4056,8 @@ tom:memsofit_002000
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_002000"@de , "memsofit_002000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Memsofit mit zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with two tagin at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-002000"@de ,
@@ -3912,6 +4068,8 @@ tom:memsofit_003000
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_003000"@de , "memsofit_003000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Memsofit mit drei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with three tagin at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-003000"@de ,
@@ -3922,6 +4080,8 @@ tom:memsofit_011000
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_011000"@de , "memsofit_011000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-011000"@de ,
@@ -3932,6 +4092,8 @@ tom:memsofit_011001
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_011001"@de , "memsofit_011001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the second position, one tag at the third position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-011001"@de ,
@@ -3942,6 +4104,8 @@ tom:memsofit_020000
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_020000"@de , "memsofit_020000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Memsofit mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with two tagin at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-020000"@de ,
@@ -3952,6 +4116,8 @@ tom:memsofit_100000
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_100000"@de , "memsofit_100000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-100000"@de ,
@@ -3962,6 +4128,8 @@ tom:memsofit_100001
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_100001"@de , "memsofit_100001"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-100001"@de ,
@@ -3972,6 +4140,8 @@ tom:memsofit_101000
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_101000"@de , "memsofit_101000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-101000"@de ,
@@ -3982,6 +4152,8 @@ tom:memsofit_101001
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_101001"@de , "memsofit_101001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the third position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-101001"@de ,
@@ -3992,6 +4164,8 @@ tom:memsofit_101010
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_101010"@de , "memsofit_101010"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-101010"@de ,
@@ -4002,6 +4176,8 @@ tom:memsofit_101011
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_101011"@de , "memsofit_101011"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der fünften Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the third position, one tag at the fifth position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-101011"@de ,
@@ -4012,6 +4188,8 @@ tom:memsofit_101100
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_101100"@de , "memsofit_101100"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the third position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-101100"@de ,
@@ -4022,6 +4200,8 @@ tom:memsofit_101110
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_101110"@de , "memsofit_101110"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the third position, one tag at the fourth position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-101110"@de ,
@@ -4032,6 +4212,8 @@ tom:memsofit_102000
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_102000"@de , "memsofit_102000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, two tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-102000"@de ,
@@ -4042,6 +4224,8 @@ tom:memsofit_102001
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_102001"@de , "memsofit_102001"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, zwei Tagin an der dritten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, two tagin at the third position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-102001"@de ,
@@ -4052,6 +4236,8 @@ tom:memsofit_102110
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_102110"@de , "memsofit_102110"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, zwei Tagin an der dritten Position, einem Tag an der vierten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, two tagin at the third position, one tag at the fourth position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-102110"@de ,
@@ -4062,6 +4248,8 @@ tom:memsofit_110000
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_110000"@de , "memsofit_110000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-110000"@de ,
@@ -4072,6 +4260,8 @@ tom:memsofit_110001
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_110001"@de , "memsofit_110001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the second position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-110001"@de ,
@@ -4082,6 +4272,8 @@ tom:memsofit_111000
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_111000"@de , "memsofit_111000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-111000"@de ,
@@ -4092,6 +4284,8 @@ tom:memsofit_112000
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_112000"@de , "memsofit_112000"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position, zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, one tag at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-112000"@de ,
@@ -4102,6 +4296,8 @@ tom:memsofit_120001
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_120001"@de , "memsofit_120001"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, two tagin at the second position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-120001"@de ,
@@ -4112,6 +4308,8 @@ tom:memsofit_121111
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_121111"@de , "memsofit_121111"@en ;
+    skos:hiddenLabel
+        "7Tagin"@de, "7tagin"@en ;
   skos:definition "Variante des Memsofit mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, einem Tag an der fünften Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with one tag at the first position, two tagin at the second position, one tag at the third position, one tag at the fourth position, one tag at the fifth position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-121111"@de ,
@@ -4122,6 +4320,8 @@ tom:memsofit_200000
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_200000"@de , "memsofit_200000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Memsofit mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with two tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-200000"@de ,
@@ -4132,6 +4332,8 @@ tom:memsofit_200001
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_200001"@de , "memsofit_200001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Memsofit mit zwei Tagin an der ersten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with two tagin at the first position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-200001"@de ,
@@ -4142,6 +4344,8 @@ tom:memsofit_210000
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_210000"@de , "memsofit_210000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Memsofit mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-210000"@de ,
@@ -4152,6 +4356,8 @@ tom:memsofit_300000
   skos:inScheme tom: ;
   skos:broader tom:memsofit ;
   skos:prefLabel "memsofit_300000"@de , "memsofit_300000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Memsofit mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Memsofit with three tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/memsofit.html#variante-300000"@de ,
