@@ -5,6 +5,14 @@
     "en": "memsofit_003000",
     "de": "memsofit_003000"
   },
+  "hiddenLabel": {
+    "en": [
+      "3tagin"
+    ],
+    "de": [
+      "3Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Memsofit with three tagin at the third position and no tagin at the remaining positions.",
     "de": "Variante des Memsofit mit drei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."

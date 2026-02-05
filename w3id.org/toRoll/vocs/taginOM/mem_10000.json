@@ -5,6 +5,14 @@
     "en": "mem_10000",
     "de": "mem_10000"
   },
+  "hiddenLabel": {
+    "en": [
+      "1tag"
+    ],
+    "de": [
+      "1Tag"
+    ]
+  },
   "definition": {
     "en": "Variant of the Mem with one tag at the first position and no tagin at the remaining positions.",
     "de": "Variante des Mem mit einem Tag an der ersten Position und ohne Tagin an den übrigen Positionen."

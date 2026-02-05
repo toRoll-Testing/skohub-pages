@@ -5,6 +5,14 @@
     "en": "kafsofit_21001",
     "de": "kafsofit_21001"
   },
+  "hiddenLabel": {
+    "en": [
+      "4tagin"
+    ],
+    "de": [
+      "4Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Kafsofit with two tagin at the first position, one tag at the second position, and one tag at the fifth position, and no tagin at the remaining positions.",
     "de": "Variante des Kafsofit mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position und einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."

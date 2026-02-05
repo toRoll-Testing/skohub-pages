@@ -5,6 +5,14 @@
     "en": "mem_e00000",
     "de": "mem_e00000"
   },
+  "hiddenLabel": {
+    "en": [
+      "elongated"
+    ],
+    "de": [
+      "verlängert"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Mem with no tagin at any of the five positions.",
     "de": "Verlängerte Variante des Mem ohne Tagin an allen fünf Positionen."

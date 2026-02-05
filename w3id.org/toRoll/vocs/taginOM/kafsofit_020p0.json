@@ -5,6 +5,16 @@
     "en": "kafsofit_020p0",
     "de": "kafsofit_020p0"
   },
+  "hiddenLabel": {
+    "en": [
+      "2tagin",
+      "pretzel"
+    ],
+    "de": [
+      "2Tagin",
+      "Kringel"
+    ]
+  },
   "definition": {
     "en": "Variant of the Kafsofit with two tagin at the second position and one pretzel at the fourth position, and no tagin at the remaining positions.",
     "de": "Variante des Kafsofit mit zwei Tagin an der zweiten Position und einem Kringel an der vierten Position sowie ohne Tagin an den übrigen Positionen."

@@ -5,6 +5,18 @@
     "en": "kafsofit_e0200f",
     "de": "kafsofit_e0200f"
   },
+  "hiddenLabel": {
+    "en": [
+      "2tagin",
+      "elongated",
+      "flag"
+    ],
+    "de": [
+      "2Tagin",
+      "verlängert",
+      "Fähnchen"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Kafsofit with two tagin at the second position and one flag at the fifth position, and no tagin at the remaining positions.",
     "de": "Verlängerte Variante des Kafsofit mit zwei Tagin an der zweiten Position und einem Fähnchen an der fünften Position sowie ohne Tagin an den übrigen Positionen."

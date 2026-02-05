@@ -5,6 +5,14 @@
     "en": "kaf_000010",
     "de": "kaf_000010"
   },
+  "hiddenLabel": {
+    "en": [
+      "1tag"
+    ],
+    "de": [
+      "1Tag"
+    ]
+  },
   "definition": {
     "en": "Variant of the Kaf with one tag at the fifth position and no tagin at the remaining positions.",
     "de": "Variante des Kaf mit einem Tag an der fünften Position und ohne Tagin an den übrigen Positionen."

@@ -5,6 +5,14 @@
     "en": "mem_10101",
     "de": "mem_10101"
   },
+  "hiddenLabel": {
+    "en": [
+      "3tagin"
+    ],
+    "de": [
+      "3Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Mem with one tag at the first, third, and fifth positions, and no tagin at the remaining positions.",
     "de": "Variante des Mem mit einem Tag an der ersten, dritten und fünften Position sowie ohne Tagin an den übrigen Positionen."

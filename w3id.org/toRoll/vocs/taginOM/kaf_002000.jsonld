@@ -5,6 +5,14 @@
     "en": "kaf_002000",
     "de": "kaf_002000"
   },
+  "hiddenLabel": {
+    "en": [
+      "2tagin"
+    ],
+    "de": [
+      "2Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Kaf with two tagin at the third position and no tagin at the remaining positions.",
     "de": "Variante des Kaf mit zwei Tagin an der dritten Position und ohne Tagin an den übrigen Positionen."

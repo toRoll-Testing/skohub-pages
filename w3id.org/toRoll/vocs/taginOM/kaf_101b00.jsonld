@@ -5,6 +5,16 @@
     "en": "kaf_101b00",
     "de": "kaf_101b00"
   },
+  "hiddenLabel": {
+    "en": [
+      "2tagin",
+      "bow"
+    ],
+    "de": [
+      "2Tagin",
+      "Bogen"
+    ]
+  },
   "definition": {
     "en": "Variant of the Kaf with one tag at the first position, one tag at the third position, and one bow at the fourth position, and no tagin at the remaining positions.",
     "de": "Variante des Kaf mit einem Tag an der ersten Position, einem Tag an der dritten Position und einem Bogen an der vierten Position sowie ohne Tagin an den übrigen Positionen."
