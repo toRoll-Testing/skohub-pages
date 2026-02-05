@@ -5,6 +5,14 @@
     "en": "nun_i000",
     "de": "nun_i000"
   },
+  "hiddenLabel": {
+    "en": [
+      "inverse"
+    ],
+    "de": [
+      "invertiert"
+    ]
+  },
   "definition": {
     "en": "Inverse variant of the Nun with no tagin at any of the positions.",
     "de": "Inverse Variante des Nun ohne Tagin an allen Positionen."

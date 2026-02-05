@@ -5,6 +5,14 @@
     "en": "nunsofit_00p",
     "de": "nunsofit_00p"
   },
+  "hiddenLabel": {
+    "en": [
+      "pretzel"
+    ],
+    "de": [
+      "Kringel"
+    ]
+  },
   "definition": {
     "en": "Variant of the Nunsofit with one pretzel at the third position and no tagin at the remaining positions.",
     "de": "Variante des Nunsofit mit einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."
