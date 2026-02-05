@@ -4372,6 +4372,8 @@ tom:nun_00b
   skos:inScheme tom: ;
   skos:broader tom:nun ;
   skos:prefLabel "nun_00b"@de , "nun_00b"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
   skos:definition "Variante des Nun mit einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with one bow at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-00b"@de ,
@@ -4382,6 +4384,8 @@ tom:nun_00p
   skos:inScheme tom: ;
   skos:broader tom:nun ;
   skos:prefLabel "nun_00p"@de , "nun_00p"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
   skos:definition "Variante des Nun mit einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with one pretzel at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-00p"@de ,
@@ -4392,6 +4396,8 @@ tom:nun_10b
   skos:inScheme tom: ;
   skos:broader tom:nun ;
   skos:prefLabel "nun_10b"@de , "nun_10b"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Bogen"@de, "1tag"@en, "bow"@en ;
   skos:definition "Variante des Nun mit einem Tag an der ersten Position, einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with one tag at the first position, one bow at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-10b"@de ,
@@ -4402,6 +4408,8 @@ tom:nun_10p
   skos:inScheme tom: ;
   skos:broader tom:nun ;
   skos:prefLabel "nun_10p"@de , "nun_10p"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Kringel"@de, "1tag"@en, "pretzel"@en ;
   skos:definition "Variante des Nun mit einem Tag an der ersten Position, einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with one tag at the first position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-10p"@de ,
@@ -4412,6 +4420,8 @@ tom:nun_200
   skos:inScheme tom: ;
   skos:broader tom:nun ;
   skos:prefLabel "nun_200"@de , "nun_200"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Nun mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with two tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-200"@de ,
@@ -4422,6 +4432,8 @@ tom:nun_30b
   skos:inScheme tom: ;
   skos:broader tom:nun ;
   skos:prefLabel "nun_30b"@de , "nun_30b"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Bogen"@de, "3tagin"@en, "bow"@en ;
   skos:definition "Variante des Nun mit drei Tagin an der ersten Position, einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with three tagin at the first position, one bow at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-30b"@de ,
@@ -4432,6 +4444,8 @@ tom:nun_30f
   skos:inScheme tom: ;
   skos:broader tom:nun ;
   skos:prefLabel "nun_30f"@de , "nun_30f"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Fähnchen"@de, "3tagin"@en, "flag"@en ;
   skos:definition "Variante des Nun mit drei Tagin an der ersten Position, einem Fähnchen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with three tagin at the first position, one flag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-30f"@de ,
@@ -4442,6 +4456,8 @@ tom:nun_30p
   skos:inScheme tom: ;
   skos:broader tom:nun ;
   skos:prefLabel "nun_30p"@de , "nun_30p"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Kringel"@de, "3tagin"@en, "pretzel"@en ;
   skos:definition "Variante des Nun mit drei Tagin an der ersten Position, einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with three tagin at the first position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-30p"@de ,
@@ -4452,6 +4468,8 @@ tom:nun_3b0
   skos:inScheme tom: ;
   skos:broader tom:nun ;
   skos:prefLabel "nun_3b0"@de , "nun_3b0"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Bogen"@de, "3tagin"@en, "bow"@en ;
   skos:definition "Variante des Nun mit drei Tagin an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with three tagin at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-3b0"@de ,
@@ -4462,6 +4480,8 @@ tom:nun_3p0
   skos:inScheme tom: ;
   skos:broader tom:nun ;
   skos:prefLabel "nun_3p0"@de , "nun_3p0"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Kringel"@de, "3tagin"@en, "pretzel"@en ;
   skos:definition "Variante des Nun mit drei Tagin an der ersten Position, einem Kringel an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with three tagin at the first position, one pretzel at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-3p0"@de ,
@@ -4472,6 +4492,8 @@ tom:nun_3pp
   skos:inScheme tom: ;
   skos:broader tom:nun ;
   skos:prefLabel "nun_3pp"@de , "nun_3pp"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Kringel"@de, "3tagin"@en, "pretzel"@en ;
   skos:definition "Variante des Nun mit drei Tagin an der ersten Position, einem Kringel an der zweiten Position, einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with three tagin at the first position, one pretzel at the second position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-3pp"@de ,
@@ -4482,6 +4504,8 @@ tom:nun_e300
   skos:inScheme tom: ;
   skos:broader tom:nun ;
   skos:prefLabel "nun_e300"@de , "nun_e300"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "verlängert"@de, "3tagin"@en, "elongated"@en ;
   skos:definition "Verlängerte Variante des Nun mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Elongated variant of the Nun with three tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-e300"@de ,
@@ -4492,6 +4516,8 @@ tom:nun_i000
   skos:inScheme tom: ;
   skos:broader tom:nun ;
   skos:prefLabel "nun_i000"@de , "nun_i000"@en ;
+    skos:hiddenLabel
+        "invertiert"@de, "inverse"@en ;
   skos:definition "Inverse Variante des Nun ohne Tagin an allen Positionen."@de , "Inverse variant of the Nun with no tagin at any of the positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-i000"@de ,
@@ -4502,6 +4528,8 @@ tom:nun_i300
   skos:inScheme tom: ;
   skos:broader tom:nun ;
   skos:prefLabel "nun_i300"@de , "nun_i300"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "invertiert"@de, "3tagin"@en, "inverse"@en ;
   skos:definition "Inverse Variante des Nun mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Inverse variant of the Nun with three tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-i300"@de ,
@@ -4512,6 +4540,8 @@ tom:nun_p0p
   skos:inScheme tom: ;
   skos:broader tom:nun ;
   skos:prefLabel "nun_p0p"@de , "nun_p0p"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
   skos:definition "Variante des Nun mit einem Kringel an der ersten Position, einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nun with one pretzel at the first position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nun.html#variante-p0p"@de ,
@@ -4526,6 +4556,8 @@ tom:nunsofit_00p
   skos:inScheme tom: ;
   skos:broader tom:nunsofit ;
   skos:prefLabel "nunsofit_00p"@de , "nunsofit_00p"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
   skos:definition "Variante des Nunsofit mit einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with one pretzel at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-00p"@de ,
@@ -4536,6 +4568,8 @@ tom:nunsofit_0b0
   skos:inScheme tom: ;
   skos:broader tom:nunsofit ;
   skos:prefLabel "nunsofit_0b0"@de , "nunsofit_0b0"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
   skos:definition "Variante des Nunsofit mit einem Bogen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with one bow at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-0b0"@de ,
@@ -4546,6 +4580,8 @@ tom:nunsofit_0p0
   skos:inScheme tom: ;
   skos:broader tom:nunsofit ;
   skos:prefLabel "nunsofit_0p0"@de , "nunsofit_0p0"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
   skos:definition "Variante des Nunsofit mit einem Kringel an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with one pretzel at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-0p0"@de ,
@@ -4556,6 +4592,8 @@ tom:nunsofit_100
   skos:inScheme tom: ;
   skos:broader tom:nunsofit ;
   skos:prefLabel "nunsofit_100"@de , "nunsofit_100"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Nunsofit mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-100"@de ,
@@ -4566,6 +4604,8 @@ tom:nunsofit_10p
   skos:inScheme tom: ;
   skos:broader tom:nunsofit ;
   skos:prefLabel "nunsofit_10p"@de , "nunsofit_10p"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Kringel"@de, "1tag"@en, "pretzel"@en ;
   skos:definition "Variante des Nunsofit mit einem Tag an der ersten Position, einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with one tag at the first position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-10p"@de ,
@@ -4576,6 +4616,8 @@ tom:nunsofit_110
   skos:inScheme tom: ;
   skos:broader tom:nunsofit ;
   skos:prefLabel "nunsofit_110"@de , "nunsofit_110"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Nunsofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-110"@de ,
@@ -4586,6 +4628,8 @@ tom:nunsofit_1p0
   skos:inScheme tom: ;
   skos:broader tom:nunsofit ;
   skos:prefLabel "nunsofit_1p0"@de , "nunsofit_1p0"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Kringel"@de, "1tag"@en, "pretzel"@en ;
   skos:definition "Variante des Nunsofit mit einem Tag an der ersten Position, einem Kringel an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with one tag at the first position, one pretzel at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-1p0"@de ,
@@ -4596,6 +4640,8 @@ tom:nunsofit_200
   skos:inScheme tom: ;
   skos:broader tom:nunsofit ;
   skos:prefLabel "nunsofit_200"@de , "nunsofit_200"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Nunsofit mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with two tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-200"@de ,
@@ -4606,6 +4652,8 @@ tom:nunsofit_300
   skos:inScheme tom: ;
   skos:broader tom:nunsofit ;
   skos:prefLabel "nunsofit_300"@de , "nunsofit_300"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Nunsofit mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with three tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-300"@de ,
@@ -4616,6 +4664,8 @@ tom:nunsofit_3b0
   skos:inScheme tom: ;
   skos:broader tom:nunsofit ;
   skos:prefLabel "nunsofit_3b0"@de , "nunsofit_3b0"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Bogen"@de, "3tagin"@en, "bow"@en ;
   skos:definition "Variante des Nunsofit mit drei Tagin an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with three tagin at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-3b0"@de ,
@@ -4626,6 +4676,8 @@ tom:nunsofit_3bp
   skos:inScheme tom: ;
   skos:broader tom:nunsofit ;
   skos:prefLabel "nunsofit_3bp"@de , "nunsofit_3bp"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Bogen"@de, "Kringel"@de, "3tagin"@en, "bow"@en, "pretzel"@en ;
   skos:definition "Variante des Nunsofit mit drei Tagin an der ersten Position, einem Bogen an der zweiten Position und einem Kringel an der dritten Position."@de , "Variant of the Nunsofit with three tagin at the first position, one bow at the second position, and one pretzel at the third position."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-3bp"@de ,
@@ -4636,6 +4688,8 @@ tom:nunsofit_4b0
   skos:inScheme tom: ;
   skos:broader tom:nunsofit ;
   skos:prefLabel "nunsofit_4b0"@de , "nunsofit_4b0"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "Bogen"@de, "4tagin"@en, "bow"@en ;
   skos:definition "Variante des Nunsofit mit vier Tagin an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with four tagin at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-4b0"@de ,
@@ -4646,6 +4700,8 @@ tom:nunsofit_4p0
   skos:inScheme tom: ;
   skos:broader tom:nunsofit ;
   skos:prefLabel "nunsofit_4p0"@de , "nunsofit_4p0"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "Kringel"@de, "4tagin"@en, "pretzel"@en ;
   skos:definition "Variante des Nunsofit mit vier Tagin an der ersten Position, einem Kringel an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Nunsofit with four tagin at the first position, one pretzel at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-4p0"@de ,
@@ -4656,6 +4712,8 @@ tom:nunsofit_w300
   skos:inScheme tom: ;
   skos:broader tom:nunsofit ;
   skos:prefLabel "nunsofit_w300"@de , "nunsofit_w300"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "gewickelt"@de, "3tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Nunsofit mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Nunsofit with three tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-w300"@de ,
@@ -4666,6 +4724,8 @@ tom:nunsofit_we300
   skos:inScheme tom: ;
   skos:broader tom:nunsofit ;
   skos:prefLabel "nunsofit_we300"@de , "nunsofit_we300"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "gewickelt"@de, "verlängert"@de, "3tagin"@en, "wrapped"@en, "elongated"@en ;
   skos:definition "Gewickelte, verlängerte Variante des Nunsofit mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped, elongated variant of the Nunsofit with three tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/nunsofit.html#variante-we300"@de ,
