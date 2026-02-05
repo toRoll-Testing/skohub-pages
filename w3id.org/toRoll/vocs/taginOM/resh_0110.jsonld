@@ -5,6 +5,14 @@
     "en": "resh_0110",
     "de": "resh_0110"
   },
+  "hiddenLabel": {
+    "en": [
+      "2tagin"
+    ],
+    "de": [
+      "2Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Resh with one tag at the second position, one tag at the third position, and no tagin at the remaining positions.",
     "de": "Variante des Resh mit einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."

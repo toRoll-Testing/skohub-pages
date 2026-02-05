@@ -5,6 +5,16 @@
     "en": "vav_1b1",
     "de": "vav_1b1"
   },
+  "hiddenLabel": {
+    "en": [
+      "2tagin",
+      "bow"
+    ],
+    "de": [
+      "2Tagin",
+      "Bogen"
+    ]
+  },
   "definition": {
     "en": "Variant of the Vav with one tag at the first position, one bow at the second position, and one tag at the third position.",
     "de": "Variante des Vav mit einem Tag an der ersten Position, einem Bogen an der zweiten Position und einem Tag an der dritten Position."

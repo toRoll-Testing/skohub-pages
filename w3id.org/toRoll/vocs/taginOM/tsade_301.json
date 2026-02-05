@@ -5,6 +5,14 @@
     "en": "tsade_301",
     "de": "tsade_301"
   },
+  "hiddenLabel": {
+    "en": [
+      "4tagin"
+    ],
+    "de": [
+      "4Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Tsade with three tagin at the first position, no tagin at the second position, one tag at the third position.",
     "de": "Variante des Tsade mit drei Tagin an der ersten Position, keinem Tag an der zweiten Position, einem Tag an der dritten Position."

@@ -5,6 +5,16 @@
     "en": "zayin_1bb",
     "de": "zayin_1bb"
   },
+  "hiddenLabel": {
+    "en": [
+      "1tag",
+      "bow"
+    ],
+    "de": [
+      "1Tag",
+      "Bogen"
+    ]
+  },
   "definition": {
     "en": "Variant of the Zayin with one tag at the first position, one bow at the second position, and one bow at the third position.",
     "de": "Variante des Zayin mit einem Tag an der ersten Position, einem Bogen an der zweiten Position und einem Bogen an der dritten Position."

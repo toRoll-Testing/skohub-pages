@@ -5,6 +5,14 @@
     "en": "yod_e000",
     "de": "yod_e000"
   },
+  "hiddenLabel": {
+    "en": [
+      "elongated"
+    ],
+    "de": [
+      "verlängert"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Yod with no tagin at any of the positions.",
     "de": "Verlängerte Variante des Yod ohne Tagin an allen Positionen."

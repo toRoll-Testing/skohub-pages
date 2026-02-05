@@ -5,6 +5,14 @@
     "en": "tsade_200",
     "de": "tsade_200"
   },
+  "hiddenLabel": {
+    "en": [
+      "2tagin"
+    ],
+    "de": [
+      "2Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Tsade with two tagin at the first position and no tagin at the remaining positions.",
     "de": "Variante des Tsade mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."

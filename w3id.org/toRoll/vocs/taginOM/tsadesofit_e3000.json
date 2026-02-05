@@ -5,6 +5,16 @@
     "en": "tsadesofit_e3000",
     "de": "tsadesofit_e3000"
   },
+  "hiddenLabel": {
+    "en": [
+      "3tagin",
+      "elongated"
+    ],
+    "de": [
+      "3Tagin",
+      "verlängert"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Tsadesofit with three tagin at the first position and no tagin at the remaining positions.",
     "de": "Verlängerte Variante des Tsadesofit mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."

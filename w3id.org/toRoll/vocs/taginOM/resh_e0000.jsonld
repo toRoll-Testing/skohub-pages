@@ -5,6 +5,14 @@
     "en": "resh_e0000",
     "de": "resh_e0000"
   },
+  "hiddenLabel": {
+    "en": [
+      "elongated"
+    ],
+    "de": [
+      "verlängert"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Resh with no tagin at any of the positions.",
     "de": "Verlängerte Variante des Resh ohne Tagin an allen Positionen."

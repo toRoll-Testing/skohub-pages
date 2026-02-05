@@ -5,6 +5,14 @@
     "en": "pesofit_11000",
     "de": "pesofit_11000"
   },
+  "hiddenLabel": {
+    "en": [
+      "2tagin"
+    ],
+    "de": [
+      "2Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Pesofit with one tag at the first position, one tag at the second position, and no tagin at the remaining positions.",
     "de": "Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."

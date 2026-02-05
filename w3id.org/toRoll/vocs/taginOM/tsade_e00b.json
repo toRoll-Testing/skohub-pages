@@ -5,6 +5,16 @@
     "en": "tsade_e00b",
     "de": "tsade_e00b"
   },
+  "hiddenLabel": {
+    "en": [
+      "elongated",
+      "bow"
+    ],
+    "de": [
+      "verlängert",
+      "Bogen"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Tsade with one bow at the third position and no tagin at the remaining positions.",
     "de": "Verlängerte Variante des Tsade mit einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."

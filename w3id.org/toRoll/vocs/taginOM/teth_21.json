@@ -5,6 +5,14 @@
     "en": "teth_21",
     "de": "teth_21"
   },
+  "hiddenLabel": {
+    "en": [
+      "3tagin"
+    ],
+    "de": [
+      "3Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Teth with two tagin at the first position and one tag at the second position.",
     "de": "Variante des Teth mit zwei Tagin an der ersten Position und einem Tag an der zweiten Position."

@@ -5,6 +5,16 @@
     "en": "pe_w1100000",
     "de": "pe_w1100000"
   },
+  "hiddenLabel": {
+    "en": [
+      "2tagin",
+      "wrapped"
+    ],
+    "de": [
+      "2Tagin",
+      "gewickelt"
+    ]
+  },
   "definition": {
     "en": "Wrapped variant of the Pe with one tag at the first position, one tag at the second position, and no tagin at the remaining positions.",
     "de": "Gewickelte Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."

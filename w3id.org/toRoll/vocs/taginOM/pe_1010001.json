@@ -5,6 +5,14 @@
     "en": "pe_1010001",
     "de": "pe_1010001"
   },
+  "hiddenLabel": {
+    "en": [
+      "3tagin"
+    ],
+    "de": [
+      "3Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Pe with one tag at the first position, one tag at the third position, one tag at the seventh position, and no tagin at the remaining positions.",
     "de": "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."

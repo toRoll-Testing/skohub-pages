@@ -5,6 +5,14 @@
     "en": "qof_c00000",
     "de": "qof_c00000"
   },
+  "hiddenLabel": {
+    "en": [
+      "crooked"
+    ],
+    "de": [
+      "verzerrt"
+    ]
+  },
   "definition": {
     "en": "Crooked variant of the Qof with no tagin at any of the positions.",
     "de": "Verzerrte Variante des Qof ohne Tagin an allen Positionen."

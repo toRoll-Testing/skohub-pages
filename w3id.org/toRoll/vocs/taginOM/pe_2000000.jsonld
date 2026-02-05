@@ -5,6 +5,14 @@
     "en": "pe_2000000",
     "de": "pe_2000000"
   },
+  "hiddenLabel": {
+    "en": [
+      "2tagin"
+    ],
+    "de": [
+      "2Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Pe with two tagin at the first position and no tagin at the remaining positions.",
     "de": "Variante des Pe mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."

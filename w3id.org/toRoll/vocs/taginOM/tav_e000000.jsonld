@@ -5,6 +5,14 @@
     "en": "tav_e000000",
     "de": "tav_e000000"
   },
+  "hiddenLabel": {
+    "en": [
+      "elongated"
+    ],
+    "de": [
+      "verlängert"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Tav with no tagin at any of the positions.",
     "de": "Verlängerte Variante des Tav ohne Tagin an allen Positionen."

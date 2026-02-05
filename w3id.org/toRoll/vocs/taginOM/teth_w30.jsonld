@@ -5,6 +5,16 @@
     "en": "teth_w30",
     "de": "teth_w30"
   },
+  "hiddenLabel": {
+    "en": [
+      "3tagin",
+      "wrapped"
+    ],
+    "de": [
+      "3Tagin",
+      "gewickelt"
+    ]
+  },
   "definition": {
     "en": "Wrapped variant of the Teth with three tagin at the first position and no tagin at the remaining positions.",
     "de": "Gewickelte Variante des Teth mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."

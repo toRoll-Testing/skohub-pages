@@ -5,6 +5,14 @@
     "en": "qof_00p00",
     "de": "qof_00p00"
   },
+  "hiddenLabel": {
+    "en": [
+      "pretzel"
+    ],
+    "de": [
+      "Kringel"
+    ]
+  },
   "definition": {
     "en": "Variant of the Qof with one pretzel at the third position and no tagin at the remaining positions.",
     "de": "Variante des Qof mit einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."

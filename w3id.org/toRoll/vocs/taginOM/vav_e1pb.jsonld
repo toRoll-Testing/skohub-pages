@@ -5,6 +5,20 @@
     "en": "vav_e1pb",
     "de": "vav_e1pb"
   },
+  "hiddenLabel": {
+    "en": [
+      "1tag",
+      "elongated",
+      "bow",
+      "pretzel"
+    ],
+    "de": [
+      "1Tag",
+      "verlängert",
+      "Bogen",
+      "Kringel"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Vav with one tag at the first position, one pretzel at the second position, and one bow at the third position.",
     "de": "Verlängerte Variante des Vav mit einem Tag an der ersten Position, einem Kringel an der zweiten Position und einem Bogen an der dritten Position."

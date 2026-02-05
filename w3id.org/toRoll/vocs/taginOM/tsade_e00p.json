@@ -5,6 +5,16 @@
     "en": "tsade_e00p",
     "de": "tsade_e00p"
   },
+  "hiddenLabel": {
+    "en": [
+      "elongated",
+      "pretzel"
+    ],
+    "de": [
+      "verlängert",
+      "Kringel"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Tsade with one pretzel at the third position and no tagin at the remaining positions.",
     "de": "Verlängerte Variante des Tsade mit einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."

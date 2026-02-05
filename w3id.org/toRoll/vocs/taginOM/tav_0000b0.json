@@ -5,6 +5,14 @@
     "en": "tav_0000b0",
     "de": "tav_0000b0"
   },
+  "hiddenLabel": {
+    "en": [
+      "bow"
+    ],
+    "de": [
+      "Bogen"
+    ]
+  },
   "definition": {
     "en": "Variant of the Tav with one bow at the fifth position and no tagin at the remaining positions.",
     "de": "Variante des Tav mit einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."

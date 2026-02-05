@@ -5,6 +5,16 @@
     "en": "zayin_3bb",
     "de": "zayin_3bb"
   },
+  "hiddenLabel": {
+    "en": [
+      "3tagin",
+      "bow"
+    ],
+    "de": [
+      "3Tagin",
+      "Bogen"
+    ]
+  },
   "definition": {
     "en": "Variant of the Zayin with three tagin at the first position, one bow at the second position, and one bow at the third position.",
     "de": "Variante des Zayin mit drei Tagin an der ersten Position, einem Bogen an der zweiten Position und einem Bogen an der dritten Position."

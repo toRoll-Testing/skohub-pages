@@ -5,6 +5,14 @@
     "en": "pe_w0000000",
     "de": "pe_w0000000"
   },
+  "hiddenLabel": {
+    "en": [
+      "wrapped"
+    ],
+    "de": [
+      "gewickelt"
+    ]
+  },
   "definition": {
     "en": "Wrapped variant of the Pe with no tagin at any of the positions.",
     "de": "Gewickelte Variante des Pe ohne Tagin an allen Positionen."

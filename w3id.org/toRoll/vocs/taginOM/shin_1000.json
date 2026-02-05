@@ -5,6 +5,14 @@
     "en": "shin_1000",
     "de": "shin_1000"
   },
+  "hiddenLabel": {
+    "en": [
+      "1tag"
+    ],
+    "de": [
+      "1Tag"
+    ]
+  },
   "definition": {
     "en": "Variant of the Shin with one tag at the first position and no tagin at the remaining positions.",
     "de": "Variante des Shin mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."

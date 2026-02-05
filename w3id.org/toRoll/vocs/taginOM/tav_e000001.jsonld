@@ -5,6 +5,16 @@
     "en": "tav_e000001",
     "de": "tav_e000001"
   },
+  "hiddenLabel": {
+    "en": [
+      "1tag",
+      "elongated"
+    ],
+    "de": [
+      "1Tag",
+      "verlängert"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Tav with one tag at the sixth position and no tagin at the remaining positions.",
     "de": "Verlängerte Variante des Tav mit einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."

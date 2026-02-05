@@ -5,6 +5,14 @@
     "en": "shin_3300",
     "de": "shin_3300"
   },
+  "hiddenLabel": {
+    "en": [
+      "6tagin"
+    ],
+    "de": [
+      "6Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Shin with three tagin at the first position, three tagin at the second position, and no tagin at the remaining positions.",
     "de": "Variante des Shin mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."

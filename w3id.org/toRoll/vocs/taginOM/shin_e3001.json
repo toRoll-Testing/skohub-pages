@@ -5,6 +5,16 @@
     "en": "shin_e3001",
     "de": "shin_e3001"
   },
+  "hiddenLabel": {
+    "en": [
+      "4tagin",
+      "elongated"
+    ],
+    "de": [
+      "4Tagin",
+      "verlängert"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Shin with three tagin at the first position, one tag at the fourth position, and no tagin at the remaining positions.",
     "de": "Verlängerte Variante des Shin mit drei Tagin an der ersten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."

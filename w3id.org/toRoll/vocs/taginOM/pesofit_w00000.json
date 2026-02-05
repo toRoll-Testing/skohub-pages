@@ -5,6 +5,14 @@
     "en": "pesofit_w00000",
     "de": "pesofit_w00000"
   },
+  "hiddenLabel": {
+    "en": [
+      "wrapped"
+    ],
+    "de": [
+      "gewickelt"
+    ]
+  },
   "definition": {
     "en": "Wrapped variant of the Pesofit with no tagin at any of the positions.",
     "de": "Gewickelte Variante des Pesofit ohne Tagin an allen Positionen."

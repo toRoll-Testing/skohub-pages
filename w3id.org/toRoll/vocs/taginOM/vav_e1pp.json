@@ -5,6 +5,18 @@
     "en": "vav_e1pp",
     "de": "vav_e1pp"
   },
+  "hiddenLabel": {
+    "en": [
+      "1tag",
+      "elongated",
+      "pretzel"
+    ],
+    "de": [
+      "1Tag",
+      "verlängert",
+      "Kringel"
+    ]
+  },
   "definition": {
     "en": "Elongated variant of the Vav with one tag at the first position, one pretzel at the second position, and one pretzel at the third position.",
     "de": "Verlängerte Variante des Vav mit einem Tag an der ersten Position, einem Kringel an der zweiten Position und einem Kringel an der dritten Position."

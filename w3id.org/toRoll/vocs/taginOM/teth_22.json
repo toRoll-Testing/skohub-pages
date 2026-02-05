@@ -5,6 +5,14 @@
     "en": "teth_22",
     "de": "teth_22"
   },
+  "hiddenLabel": {
+    "en": [
+      "4tagin"
+    ],
+    "de": [
+      "4Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Teth with two tagin at the first position and two tagin at the second position.",
     "de": "Variante des Teth mit zwei Tagin an der ersten Position und zwei Tagin an der zweiten Position."

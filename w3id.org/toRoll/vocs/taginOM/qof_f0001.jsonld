@@ -5,6 +5,16 @@
     "en": "qof_f0001",
     "de": "qof_f0001"
   },
+  "hiddenLabel": {
+    "en": [
+      "1tag",
+      "flag"
+    ],
+    "de": [
+      "1Tag",
+      "Fähnchen"
+    ]
+  },
   "definition": {
     "en": "Variant of the Qof with one flag at the first position, one tag at the fifth position, and no tagin at the remaining positions.",
     "de": "Variante des Qof mit einem Fähnchen an der ersten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."

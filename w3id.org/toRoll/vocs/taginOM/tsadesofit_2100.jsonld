@@ -5,6 +5,14 @@
     "en": "tsadesofit_2100",
     "de": "tsadesofit_2100"
   },
+  "hiddenLabel": {
+    "en": [
+      "3tagin"
+    ],
+    "de": [
+      "3Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Tsadesofit with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions.",
     "de": "Variante des Tsadesofit mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."

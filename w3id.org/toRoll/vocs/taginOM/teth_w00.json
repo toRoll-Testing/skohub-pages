@@ -5,6 +5,14 @@
     "en": "teth_w00",
     "de": "teth_w00"
   },
+  "hiddenLabel": {
+    "en": [
+      "wrapped"
+    ],
+    "de": [
+      "gewickelt"
+    ]
+  },
   "definition": {
     "en": "Wrapped variant of the Teth with no tagin at any of the positions.",
     "de": "Gewickelte Variante des Teth ohne Tagin an allen Positionen."

@@ -5,6 +5,16 @@
     "en": "qof_b1100",
     "de": "qof_b1100"
   },
+  "hiddenLabel": {
+    "en": [
+      "2tagin",
+      "bow"
+    ],
+    "de": [
+      "2Tagin",
+      "Bogen"
+    ]
+  },
   "definition": {
     "en": "Variant of the Qof with one bow at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions.",
     "de": "Variante des Qof mit einem Bogen an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."

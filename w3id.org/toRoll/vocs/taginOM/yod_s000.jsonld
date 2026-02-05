@@ -5,6 +5,14 @@
     "en": "yod_s000",
     "de": "yod_s000"
   },
+  "hiddenLabel": {
+    "en": [
+      "struckthrough"
+    ],
+    "de": [
+      "durchgestrichen"
+    ]
+  },
   "definition": {
     "en": "Struckthrough variant of the Yod with no tagin at any of the positions.",
     "de": "Durchgestrichene Variante des Yod ohne Tagin an allen Positionen."

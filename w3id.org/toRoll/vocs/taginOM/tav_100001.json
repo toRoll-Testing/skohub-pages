@@ -5,6 +5,14 @@
     "en": "tav_100001",
     "de": "tav_100001"
   },
+  "hiddenLabel": {
+    "en": [
+      "2tagin"
+    ],
+    "de": [
+      "2Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Tav with one tag at the first position, one tag at the sixth position, and no tagin at the remaining positions.",
     "de": "Variante des Tav mit einem Tag an der ersten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."

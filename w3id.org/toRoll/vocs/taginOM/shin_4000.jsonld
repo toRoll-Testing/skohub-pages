@@ -5,6 +5,14 @@
     "en": "shin_4000",
     "de": "shin_4000"
   },
+  "hiddenLabel": {
+    "en": [
+      "4tagin"
+    ],
+    "de": [
+      "4Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Shin with four tagin at the first position and no tagin at the remaining positions.",
     "de": "Variante des Shin mit vier Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."

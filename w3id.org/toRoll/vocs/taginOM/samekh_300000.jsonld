@@ -5,6 +5,14 @@
     "en": "samekh_300000",
     "de": "samekh_300000"
   },
+  "hiddenLabel": {
+    "en": [
+      "3tagin"
+    ],
+    "de": [
+      "3Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Samekh with three tagin at the first position and no tagin at the remaining positions.",
     "de": "Variante des Samekh mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."

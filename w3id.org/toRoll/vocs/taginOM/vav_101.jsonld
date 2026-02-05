@@ -5,6 +5,14 @@
     "en": "vav_101",
     "de": "vav_101"
   },
+  "hiddenLabel": {
+    "en": [
+      "2tagin"
+    ],
+    "de": [
+      "2Tagin"
+    ]
+  },
   "definition": {
     "en": "Variant of the Vav with one tag at the first position, one tag at the third position, and no tagin at the remaining positions.",
     "de": "Variante des Vav mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an der zweiten Position."

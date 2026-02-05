@@ -5,6 +5,16 @@
     "en": "zayin_w400",
     "de": "zayin_w400"
   },
+  "hiddenLabel": {
+    "en": [
+      "4tagin",
+      "wrapped"
+    ],
+    "de": [
+      "4Tagin",
+      "gewickelt"
+    ]
+  },
   "definition": {
     "en": "Wrapped variant of the Zayin with four tagin at the first position and no tagin at the remaining positions.",
     "de": "Gewickelte Variante des Zayin mit vier Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."
