@@ -4740,6 +4740,8 @@ tom:pe_0000002
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_0000002"@de , "pe_0000002"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Pe mit zwei Tagin an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with two tagin at the seventh position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-0000002"@de ,
@@ -4750,6 +4752,8 @@ tom:pe_0000010
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_0000010"@de , "pe_0000010"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Pe mit einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the sixth position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-0000010"@de ,
@@ -4760,6 +4764,8 @@ tom:pe_00b0000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_00b0000"@de , "pe_00b0000"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
   skos:definition "Variante des Pe mit einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one bow at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-00b0000"@de ,
@@ -4770,6 +4776,8 @@ tom:pe_0100000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_0100000"@de , "pe_0100000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Pe mit einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-0100000"@de ,
@@ -4780,6 +4788,8 @@ tom:pe_0110000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_0110000"@de , "pe_0110000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-0110000"@de ,
@@ -4790,6 +4800,8 @@ tom:pe_0200000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_0200000"@de , "pe_0200000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Pe mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with two tagin at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-0200000"@de ,
@@ -4800,6 +4812,8 @@ tom:pe_1000000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1000000"@de , "pe_1000000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1000000"@de ,
@@ -4810,6 +4824,8 @@ tom:pe_1000001
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1000001"@de , "pe_1000001"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the seventh position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1000001"@de ,
@@ -4820,6 +4836,8 @@ tom:pe_1001000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1001000"@de , "pe_1001000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1001000"@de ,
@@ -4830,6 +4848,8 @@ tom:pe_1010000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1010000"@de , "pe_1010000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1010000"@de ,
@@ -4840,6 +4860,8 @@ tom:pe_1010001
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1010001"@de , "pe_1010001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, one tag at the seventh position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1010001"@de ,
@@ -4850,6 +4872,8 @@ tom:pe_1010002
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1010002"@de , "pe_1010002"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, zwei Tagin an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, two tagin at the seventh position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1010002"@de ,
@@ -4860,6 +4884,8 @@ tom:pe_1010010
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1010010"@de , "pe_1010010"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1010010"@de ,
@@ -4870,6 +4896,8 @@ tom:pe_1010011
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1010011"@de , "pe_1010011"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der sechsten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, one tag at the sixth position, one tag at the seventh position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1010011"@de ,
@@ -4880,6 +4908,8 @@ tom:pe_1010021
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1010021"@de , "pe_1010021"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, zwei Tagin an der sechsten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, two tagin at the sixth position, one tag at the seventh position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1010021"@de ,
@@ -4890,6 +4920,8 @@ tom:pe_1010022
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1010022"@de , "pe_1010022"@en ;
+    skos:hiddenLabel
+        "6Tagin"@de, "6tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, zwei Tagin an der sechsten Position, zwei Tagin an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, two tagin at the sixth position, two tagin at the seventh position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1010022"@de ,
@@ -4900,6 +4932,8 @@ tom:pe_1011000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1011000"@de , "pe_1011000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1011000"@de ,
@@ -4910,6 +4944,8 @@ tom:pe_1011002
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1011002"@de , "pe_1011002"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, zwei Tagin an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, one tag at the fourth position, two tagin at the seventh position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1011002"@de ,
@@ -4920,6 +4956,8 @@ tom:pe_1011010
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1011010"@de , "pe_1011010"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, one tag at the fourth position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1011010"@de ,
@@ -4930,6 +4968,8 @@ tom:pe_1011011
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1011011"@de , "pe_1011011"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, einem Tag an der sechsten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, one tag at the fourth position, one tag at the sixth position, one tag at the seventh position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1011011"@de ,
@@ -4940,6 +4980,8 @@ tom:pe_101b000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_101b000"@de , "pe_101b000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Bogen"@de, "2tagin"@en, "bow"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Bogen an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the third position, one bow at the fourth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-101b000"@de ,
@@ -4950,6 +4992,8 @@ tom:pe_1020000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1020000"@de , "pe_1020000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, two tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1020000"@de ,
@@ -4960,6 +5004,8 @@ tom:pe_1100000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1100000"@de , "pe_1100000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1100000"@de ,
@@ -4970,6 +5016,8 @@ tom:pe_1100001
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1100001"@de , "pe_1100001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the second position, one tag at the seventh position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1100001"@de ,
@@ -4980,6 +5028,8 @@ tom:pe_1110000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1110000"@de , "pe_1110000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1110000"@de ,
@@ -4990,6 +5040,8 @@ tom:pe_1111000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1111000"@de , "pe_1111000"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the second position, one tag at the third position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1111000"@de ,
@@ -5000,6 +5052,8 @@ tom:pe_1111010
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1111010"@de , "pe_1111010"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the second position, one tag at the third position, one tag at the fourth position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1111010"@de ,
@@ -5010,6 +5064,8 @@ tom:pe_1111100
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1111100"@de , "pe_1111100"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, one tag at the second position, one tag at the third position, one tag at the fourth position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1111100"@de ,
@@ -5020,6 +5076,8 @@ tom:pe_1200002
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1200002"@de , "pe_1200002"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, zwei Tagin an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, two tagin at the second position, two tagin at the seventh position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1200002"@de ,
@@ -5030,6 +5088,8 @@ tom:pe_1210000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_1210000"@de , "pe_1210000"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Pe mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with one tag at the first position, two tagin at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-1210000"@de ,
@@ -5040,6 +5100,8 @@ tom:pe_2000000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_2000000"@de , "pe_2000000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Pe mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with two tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-2000000"@de ,
@@ -5050,6 +5112,8 @@ tom:pe_2100000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_2100000"@de , "pe_2100000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Pe mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-2100000"@de ,
@@ -5060,6 +5124,8 @@ tom:pe_2100001
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_2100001"@de , "pe_2100001"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Pe mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Variant of the Pe with two tagin at the first position, one tag at the second position, one tag at the seventh position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-2100001"@de ,
@@ -5070,6 +5136,8 @@ tom:pe_w0000000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_w0000000"@de , "pe_w0000000"@en ;
+    skos:hiddenLabel
+        "gewickelt"@de, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Pe ohne Tagin an allen Positionen."@de , "Wrapped variant of the Pe with no tagin at any of the positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w0000000"@de ,
@@ -5080,6 +5148,8 @@ tom:pe_w0020000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_w0020000"@de , "pe_w0020000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "gewickelt"@de, "2tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Pe mit zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with two tagin at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w0020000"@de ,
@@ -5090,6 +5160,8 @@ tom:pe_w0100000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_w0100000"@de , "pe_w0100000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "gewickelt"@de, "1tag"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Pe mit einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w0100000"@de ,
@@ -5100,6 +5172,8 @@ tom:pe_w01100b0
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_w01100b0"@de , "pe_w01100b0"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "gewickelt"@de, "Bogen"@de, "2tagin"@en, "wrapped"@en, "bow"@en ;
   skos:definition "Gewickelte Variante des Pe mit einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Bogen an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the second position, one tag at the third position, one bow at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w01100b0"@de ,
@@ -5110,6 +5184,8 @@ tom:pe_w0111000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_w0111000"@de , "pe_w0111000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "gewickelt"@de, "3tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Pe mit einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the second position, one tag at the third position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w0111000"@de ,
@@ -5120,6 +5196,8 @@ tom:pe_w1000000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_w1000000"@de , "pe_w1000000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "gewickelt"@de, "1tag"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Pe mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w1000000"@de ,
@@ -5130,6 +5208,8 @@ tom:pe_w1000001
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_w1000001"@de , "pe_w1000001"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "gewickelt"@de, "2tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Pe mit einem Tag an der ersten Position, einem Tag an der siebten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the first position, one tag at the seventh position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w1000001"@de ,
@@ -5140,6 +5220,8 @@ tom:pe_w10000p0
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_w10000p0"@de , "pe_w10000p0"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "gewickelt"@de, "Kringel"@de, "1tag"@en, "wrapped"@en, "pretzel"@en ;
   skos:definition "Gewickelte Variante des Pe mit einem Tag an der ersten Position, einem Kringel an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the first position, one pretzel at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w10000p0"@de ,
@@ -5150,6 +5232,8 @@ tom:pe_w1010000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_w1010000"@de , "pe_w1010000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "gewickelt"@de, "2tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w1010000"@de ,
@@ -5160,6 +5244,8 @@ tom:pe_w1011010
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_w1011010"@de , "pe_w1011010"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "gewickelt"@de, "4tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Pe mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the first position, one tag at the third position, one tag at the fourth position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w1011010"@de ,
@@ -5170,6 +5256,8 @@ tom:pe_w1100000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_w1100000"@de , "pe_w1100000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "gewickelt"@de, "2tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w1100000"@de ,
@@ -5180,6 +5268,8 @@ tom:pe_w1110000
   skos:inScheme tom: ;
   skos:broader tom:pe ;
   skos:prefLabel "pe_w1110000"@de , "pe_w1110000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "gewickelt"@de, "3tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Pe mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de , "Wrapped variant of the Pe with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
   "Benennungsschema: https://example.github.io/docs/letters/pe.html#variante-w1110000"@de ,
@@ -5194,6 +5284,8 @@ tom:pesofit_00001
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_00001"@de , "pesofit_00001"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Pesofit mit einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with one tag at the fifth position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5205,6 +5297,8 @@ tom:pesofit_00002
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_00002"@de , "pesofit_00002"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Pesofit mit zwei Tagin an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with two tagin at the fifth position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5216,6 +5310,8 @@ tom:pesofit_01100
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_01100"@de , "pesofit_01100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Pesofit mit einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5227,6 +5323,8 @@ tom:pesofit_01101
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_01101"@de , "pesofit_01101"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Pesofit mit einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with one tag at the second position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5238,6 +5336,8 @@ tom:pesofit_01102
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_01102"@de , "pesofit_01102"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Pesofit mit einem Tag an der zweiten Position, einem Tag an der dritten Position, zwei Tagin an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with one tag at the second position, one tag at the third position, two tagin at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5249,6 +5349,8 @@ tom:pesofit_02001
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_02001"@de , "pesofit_02001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Pesofit mit zwei Tagin an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with two tagin at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5260,6 +5362,8 @@ tom:pesofit_10000
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_10000"@de , "pesofit_10000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Pesofit mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5271,6 +5375,8 @@ tom:pesofit_10002
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_10002"@de , "pesofit_10002"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, zwei Tagin an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with one tag at the first position, two tagin at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5282,6 +5388,8 @@ tom:pesofit_100p0
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_100p0"@de , "pesofit_100p0"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Kringel"@de, "1tag"@en, "pretzel"@en ;
   skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, einem Kringel an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with one tag at the first position, one pretzel at the fourth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5293,6 +5401,8 @@ tom:pesofit_10100
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_10100"@de , "pesofit_10100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5304,6 +5414,8 @@ tom:pesofit_10101
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_10101"@de , "pesofit_10101"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with one tag at the first position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5315,6 +5427,8 @@ tom:pesofit_10102
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_10102"@de , "pesofit_10102"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der dritten Position, zwei Tagin an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with one tag at the first position, one tag at the third position, two tagin at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5326,6 +5440,8 @@ tom:pesofit_11000
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_11000"@de , "pesofit_11000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5337,6 +5453,8 @@ tom:pesofit_11001
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_11001"@de , "pesofit_11001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with one tag at the first position, one tag at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5348,6 +5466,8 @@ tom:pesofit_11002
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_11002"@de , "pesofit_11002"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position, zwei Tagin an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with one tag at the first position, one tag at the second position, two tagin at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5359,6 +5479,8 @@ tom:pesofit_11100
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_11100"@de , "pesofit_11100"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5370,6 +5492,8 @@ tom:pesofit_20001
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_20001"@de , "pesofit_20001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Pesofit mit zwei Tagin an der ersten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Pesofit with two tagin at the first position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5381,6 +5505,8 @@ tom:pesofit_w00000
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_w00000"@de , "pesofit_w00000"@en ;
+    skos:hiddenLabel
+        "gewickelt"@de, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Pesofit ohne Tagin an allen Positionen."@de ,
                   "Wrapped variant of the Pesofit with no tagin at any of the positions."@en ;
   skos:scopeNote
@@ -5392,6 +5518,8 @@ tom:pesofit_w10000
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_w10000"@de , "pesofit_w10000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "gewickelt"@de, "1tag"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Pesofit mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Wrapped variant of the Pesofit with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5403,6 +5531,8 @@ tom:pesofit_w10100
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_w10100"@de , "pesofit_w10100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "gewickelt"@de, "2tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Wrapped variant of the Pesofit with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5414,6 +5544,8 @@ tom:pesofit_w11000
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_w11000"@de , "pesofit_w11000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "gewickelt"@de, "2tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Wrapped variant of the Pesofit with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5425,6 +5557,8 @@ tom:pesofit_w11100
   skos:inScheme tom: ;
   skos:broader tom:pesofit ;
   skos:prefLabel "pesofit_w11100"@de , "pesofit_w11100"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "gewickelt"@de, "3tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Pesofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Wrapped variant of the Pesofit with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5440,6 +5574,8 @@ tom:qof_00100
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_00100"@de , "qof_00100"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Qof mit einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one tag at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5451,6 +5587,8 @@ tom:qof_00200
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_00200"@de , "qof_00200"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Qof mit zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with two tagin at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5462,6 +5600,8 @@ tom:qof_00p00
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_00p00"@de , "qof_00p00"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
   skos:definition "Variante des Qof mit einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one pretzel at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5473,6 +5613,8 @@ tom:qof_01000
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_01000"@de , "qof_01000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Qof mit einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one tag at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5484,6 +5626,8 @@ tom:qof_01100
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_01100"@de , "qof_01100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Qof mit einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5495,6 +5639,8 @@ tom:qof_01101
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_01101"@de , "qof_01101"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Qof mit einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one tag at the second position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5506,6 +5652,8 @@ tom:qof_02000
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_02000"@de , "qof_02000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Qof mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with two tagin at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5517,6 +5665,8 @@ tom:qof_02100
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_02100"@de , "qof_02100"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Qof mit zwei Tagin an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with two tagin at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5528,6 +5678,8 @@ tom:qof_03000
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_03000"@de , "qof_03000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Qof mit drei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with three tagin at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5539,6 +5691,8 @@ tom:qof_10000
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_10000"@de , "qof_10000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Qof mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5550,6 +5704,8 @@ tom:qof_10100
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_10100"@de , "qof_10100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Qof mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5561,6 +5717,8 @@ tom:qof_10101
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_10101"@de , "qof_10101"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Qof mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one tag at the first position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5572,6 +5730,8 @@ tom:qof_101p0
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_101p0"@de , "qof_101p0"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Kringel"@de, "2tagin"@en, "pretzel"@en ;
   skos:definition "Variante des Qof mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Kringel an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one tag at the first position, one tag at the third position, one pretzel at the fourth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5583,6 +5743,8 @@ tom:qof_10200
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_10200"@de , "qof_10200"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Qof mit einem Tag an der ersten Position, zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one tag at the first position, two tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5594,6 +5756,8 @@ tom:qof_11000
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_11000"@de , "qof_11000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Qof mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5605,6 +5769,8 @@ tom:qof_11001
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_11001"@de , "qof_11001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Qof mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one tag at the first position, one tag at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5616,6 +5782,8 @@ tom:qof_11100
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_11100"@de , "qof_11100"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Qof mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5627,6 +5795,8 @@ tom:qof_11101
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_11101"@de , "qof_11101"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Qof mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one tag at the first position, one tag at the second position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5638,6 +5808,8 @@ tom:qof_12001
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_12001"@de , "qof_12001"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Qof mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one tag at the first position, two tagin at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5649,6 +5821,8 @@ tom:qof_20000
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_20000"@de , "qof_20000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Qof mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with two tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5660,6 +5834,8 @@ tom:qof_20001
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_20001"@de , "qof_20001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Qof mit zwei Tagin an der ersten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with two tagin at the first position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5671,6 +5847,8 @@ tom:qof_200p1
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_200p1"@de , "qof_200p1"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Kringel"@de, "3tagin"@en, "pretzel"@en ;
   skos:definition "Variante des Qof mit zwei Tagin an der ersten Position, einem Kringel an der vierten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with two tagin at the first position, one pretzel at the fourth position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5682,6 +5860,8 @@ tom:qof_b1100
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_b1100"@de , "qof_b1100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Bogen"@de, "2tagin"@en, "bow"@en ;
   skos:definition "Variante des Qof mit einem Bogen an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one bow at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5693,6 +5873,8 @@ tom:qof_c00000
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_c00000"@de , "qof_c00000"@en ;
+    skos:hiddenLabel
+        "verzerrt"@de, "crooked"@en ;
   skos:definition "Verzerrte Variante des Qof ohne Tagin an allen Positionen."@de ,
                   "Crooked variant of the Qof with no tagin at any of the positions."@en ;
   skos:scopeNote
@@ -5704,6 +5886,8 @@ tom:qof_f0001
   skos:inScheme tom: ;
   skos:broader tom:qof ;
   skos:prefLabel "qof_f0001"@de , "qof_f0001"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Fähnchen"@de, "1tag"@en, "flag"@en ;
   skos:definition "Variante des Qof mit einem Fähnchen an der ersten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Qof with one flag at the first position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5719,6 +5903,8 @@ tom:resh_0001
   skos:inScheme tom: ;
   skos:broader tom:resh ;
   skos:prefLabel "resh_0001"@de , "resh_0001"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Resh mit einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Resh with one tag at the fourth position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5730,6 +5916,8 @@ tom:resh_0010
   skos:inScheme tom: ;
   skos:broader tom:resh ;
   skos:prefLabel "resh_0010"@de , "resh_0010"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Resh mit einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Resh with one tag at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5741,6 +5929,8 @@ tom:resh_0011
   skos:inScheme tom: ;
   skos:broader tom:resh ;
   skos:prefLabel "resh_0011"@de , "resh_0011"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Resh mit einem Tag an der dritten Position, einem Tag an der quatrième Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Resh with one tag at the third position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5752,6 +5942,8 @@ tom:resh_01000
   skos:inScheme tom: ;
   skos:broader tom:resh ;
   skos:prefLabel "resh_0100"@de , "resh_0100"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Resh mit einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Resh with one tag at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5763,6 +5955,8 @@ tom:resh_0101
   skos:inScheme tom: ;
   skos:broader tom:resh ;
   skos:prefLabel "resh_0101"@de , "resh_0101"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Resh mit einem Tag an der zweiten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Resh with one tag at the second position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5774,6 +5968,8 @@ tom:resh_0110
   skos:inScheme tom: ;
   skos:broader tom:resh ;
   skos:prefLabel "resh_0110"@de , "resh_0110"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Resh mit einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Resh with one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5785,6 +5981,8 @@ tom:resh_0200
   skos:inScheme tom: ;
   skos:broader tom:resh ;
   skos:prefLabel "resh_0200"@de , "resh_0200"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Resh mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Resh with two tagin at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5796,6 +5994,8 @@ tom:resh_1000
   skos:inScheme tom: ;
   skos:broader tom:resh ;
   skos:prefLabel "resh_1000"@de , "resh_1000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Resh mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Resh with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5807,6 +6007,8 @@ tom:resh_1001
   skos:inScheme tom: ;
   skos:broader tom:resh ;
   skos:prefLabel "resh_1001"@de , "resh_1001"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Resh mit einem Tag an der ersten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Resh with one tag at the first position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5818,6 +6020,8 @@ tom:resh_1010
   skos:inScheme tom: ;
   skos:broader tom:resh ;
   skos:prefLabel "resh_1010"@de , "resh_1010"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Resh mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Resh with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5829,6 +6033,8 @@ tom:resh_1011
   skos:inScheme tom: ;
   skos:broader tom:resh ;
   skos:prefLabel "resh_1011"@de , "resh_1011"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Resh mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Resh with one tag at the first position, one tag at the third position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5840,6 +6046,8 @@ tom:resh_1100
   skos:inScheme tom: ;
   skos:broader tom:resh ;
   skos:prefLabel "resh_1100"@de , "resh_1100"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Resh mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Resh with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5851,6 +6059,8 @@ tom:resh_1110
   skos:inScheme tom: ;
   skos:broader tom:resh ;
   skos:prefLabel "resh_1110"@de , "resh_1110"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Resh mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Resh with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5862,6 +6072,8 @@ tom:resh_2000
   skos:inScheme tom: ;
   skos:broader tom:resh ;
   skos:prefLabel "resh_2000"@de , "resh_2000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Resh mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Resh with two tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5873,6 +6085,8 @@ tom:resh_b000
   skos:inScheme tom: ;
   skos:broader tom:resh ;
   skos:prefLabel "resh_b000"@de , "resh_b000"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
   skos:definition "Variante des Resh mit einem Bogen an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Resh with one bow at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5884,6 +6098,8 @@ tom:resh_e0000
   skos:inScheme tom: ;
   skos:broader tom:resh ;
   skos:prefLabel "resh_e0000"@de , "resh_e0000"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "elongated"@en ;
   skos:definition "Verlängerte Variante des Resh ohne Tagin an allen Positionen."@de ,
                   "Elongated variant of the Resh with no tagin at any of the positions."@en ;
   skos:scopeNote
@@ -5899,6 +6115,8 @@ tom:samekh_000010
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_000010"@de , "samekh_000010"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the fifth position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5910,6 +6128,8 @@ tom:samekh_002000
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_002000"@de , "samekh_002000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Samekh mit zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with two tagin at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5921,6 +6141,8 @@ tom:samekh_011000
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_011000"@de , "samekh_011000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5932,6 +6154,8 @@ tom:samekh_011010
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_011010"@de , "samekh_011010"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the second position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5943,6 +6167,8 @@ tom:samekh_020000
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_020000"@de , "samekh_020000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Samekh mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with two tagin at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5954,6 +6180,8 @@ tom:samekh_020010
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_020010"@de , "samekh_020010"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Samekh mit zwei Tagin an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with two tagin at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5965,6 +6193,8 @@ tom:samekh_030010
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_030010"@de , "samekh_030010"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Samekh mit drei Tagin an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with three tagin at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5976,6 +6206,8 @@ tom:samekh_100000
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_100000"@de , "samekh_100000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5987,6 +6219,8 @@ tom:samekh_101000
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_101000"@de , "samekh_101000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -5998,6 +6232,8 @@ tom:samekh_101001
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_101001"@de , "samekh_101001"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the first position, one tag at the third position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6009,6 +6245,8 @@ tom:samekh_101010
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_101010"@de , "samekh_101010"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the first position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6020,6 +6258,8 @@ tom:samekh_101011
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_101011"@de , "samekh_101011"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der fünften Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the first position, one tag at the third position, one tag at the fifth position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6031,6 +6271,8 @@ tom:samekh_101100
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_101100"@de , "samekh_101100"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der ersten Position, einem Tag an der dritten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the first position, one tag at the third position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6042,6 +6284,8 @@ tom:samekh_102000
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_102000"@de , "samekh_102000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der ersten Position, zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the first position, two tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6053,6 +6297,8 @@ tom:samekh_110010
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_110010"@de , "samekh_110010"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the first position, one tag at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6064,6 +6310,8 @@ tom:samekh_111000
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_111000"@de , "samekh_111000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6075,6 +6323,8 @@ tom:samekh_111010
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_111010"@de , "samekh_111010"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the first position, one tag at the second position, one tag at the third position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6086,6 +6336,8 @@ tom:samekh_120000
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_120000"@de , "samekh_120000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6097,6 +6349,8 @@ tom:samekh_120001
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_120001"@de , "samekh_120001"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the first position, two tagin at the second position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6108,6 +6362,8 @@ tom:samekh_120010
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_120010"@de , "samekh_120010"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the first position, two tagin at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6119,6 +6375,8 @@ tom:samekh_130000
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_130000"@de , "samekh_130000"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Samekh mit einem Tag an der ersten Position, drei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one tag at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6130,6 +6388,8 @@ tom:samekh_210010
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_210010"@de , "samekh_210010"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Samekh mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position, einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with two tagin at the first position, one tag at the second position, one tag at the fifth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6141,6 +6401,8 @@ tom:samekh_300000
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_300000"@de , "samekh_300000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Samekh mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with three tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6152,6 +6414,8 @@ tom:samekh_300001
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_300001"@de , "samekh_300001"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Samekh mit drei Tagin an der ersten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with three tagin at the first position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6163,6 +6427,8 @@ tom:samekh_f00000
   skos:inScheme tom: ;
   skos:broader tom:samekh ;
   skos:prefLabel "samekh_f00000"@de , "samekh_f00000"@en ;
+    skos:hiddenLabel
+        "Fähnchen"@de, "flag"@en ;
   skos:definition "Variante des Samekh mit einem Fähnchen an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Samekh with one flag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6178,6 +6444,8 @@ tom:shin_0010
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_0010"@de , "shin_0010"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Shin mit einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Shin with one tag at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6189,6 +6457,8 @@ tom:shin_0210
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_0210"@de , "shin_0210"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Shin mit zwei Tagin an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Shin with two tagin at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6200,6 +6470,8 @@ tom:shin_0300
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_0300"@de , "shin_0300"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Shin mit drei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Shin with three tagin at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6211,6 +6483,8 @@ tom:shin_1000
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_1000"@de , "shin_1000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Shin mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Shin with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6222,6 +6496,8 @@ tom:shin_1110
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_1110"@de , "shin_1110"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Shin mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Shin with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6233,6 +6509,8 @@ tom:shin_1200
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_1200"@de , "shin_1200"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Shin mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Shin with one tag at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6244,6 +6522,8 @@ tom:shin_1230
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_1230"@de , "shin_1230"@en ;
+    skos:hiddenLabel
+        "6Tagin"@de, "6tagin"@en ;
   skos:definition "Variante des Shin mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position, drei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Shin with one tag at the first position, two tagin at the second position, three tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6255,6 +6535,8 @@ tom:shin_2000
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_2000"@de , "shin_2000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Shin mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Shin with two tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6266,6 +6548,8 @@ tom:shin_2010
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_2010"@de , "shin_2010"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Shin mit zwei Tagin an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Shin with two tagin at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6277,6 +6561,8 @@ tom:shin_2100
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_2100"@de , "shin_2100"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Shin mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Shin with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6288,6 +6574,8 @@ tom:shin_2120
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_2120"@de , "shin_2120"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Shin mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position, zwei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Shin with two tagin at the first position, one tag at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6299,6 +6587,8 @@ tom:shin_2130
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_2130"@de , "shin_2130"@en ;
+    skos:hiddenLabel
+        "6Tagin"@de, "6tagin"@en ;
   skos:definition "Variante des Shin mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position, drei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Shin with two tagin at the first position, one tag at the second position, three tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6310,6 +6600,8 @@ tom:shin_2210
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_2210"@de , "shin_2210"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Shin mit zwei Tagin an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Shin with two tagin at the first position, two tagin at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6321,6 +6613,8 @@ tom:shin_2220
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_2220"@de , "shin_2220"@en ;
+    skos:hiddenLabel
+        "6Tagin"@de, "6tagin"@en ;
   skos:definition "Variante des Shin mit zwei Tagin an der ersten Position, zwei Tagin an der zweiten Position, zwei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Shin with two tagin at the first position, two tagin at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6332,6 +6626,8 @@ tom:shin_2230
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_2230"@de , "shin_2230"@en ;
+    skos:hiddenLabel
+        "7Tagin"@de, "7tagin"@en ;
   skos:definition "Variante des Shin mit zwei Tagin an der ersten Position, zwei Tagin an der zweiten Position, drei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Shin with two tagin at the first position, two tagin at the second position, three tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6343,6 +6639,8 @@ tom:shin_2320
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_2320"@de , "shin_2320"@en ;
+    skos:hiddenLabel
+        "7Tagin"@de, "7tagin"@en ;
   skos:definition "Variante des Shin mit zwei Tagin an der ersten Position, drei Tagin an der zweiten Position, zwei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Shin with two tagin at the first position, three tagin at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6354,6 +6652,8 @@ tom:shin_3010
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_3010"@de , "shin_3010"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Shin mit drei Tagin an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Shin with three tagin at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6365,6 +6665,8 @@ tom:shin_3020
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_3020"@de , "shin_3020"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Shin mit drei Tagin an der ersten Position, zwei Tagin an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Shin with three tagin at the first position, two tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6376,6 +6678,8 @@ tom:shin_3100
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_3100"@de , "shin_3100"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Shin mit drei Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Shin with three tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6387,6 +6691,8 @@ tom:shin_3110
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_3110"@de , "shin_3110"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Shin mit drei Tagin an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Shin with three tagin at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6398,6 +6704,8 @@ tom:shin_3120
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_3120"@de , "shin_3120"@en ;
+    skos:hiddenLabel
+        "6Tagin"@de, "6tagin"@en ;
   skos:definition "Variante des Shin mit drei Tagin an der erste Position, einem Tag an der zweiten Position, zwei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Shin with three tagin at the first position, one tag at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6409,6 +6717,8 @@ tom:shin_3130
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_3130"@de , "shin_3130"@en ;
+    skos:hiddenLabel
+        "7Tagin"@de, "7tagin"@en ;
   skos:definition "Variante des Shin mit drei Tagin an der ersten Position, einem Tag an der zweiten Position, drei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Shin with three tagin at the first position, one tag at the second position, three tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6420,6 +6730,8 @@ tom:shin_3210
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_3210"@de , "shin_3210"@en ;
+    skos:hiddenLabel
+        "6Tagin"@de, "6tagin"@en ;
   skos:definition "Variante des Shin mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Shin with three tagin at the first position, two tagin at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6431,6 +6743,8 @@ tom:shin_3220
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_3220"@de , "shin_3220"@en ;
+    skos:hiddenLabel
+        "7Tagin"@de, "7tagin"@en ;
   skos:definition "Variante des Shin mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position, zwei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Shin with three tagin at the first position, two tagin at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6442,6 +6756,8 @@ tom:shin_3230
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_3230"@de , "shin_3230"@en ;
+    skos:hiddenLabel
+        "8Tagin"@de, "8tagin"@en ;
   skos:definition "Variante des Shin mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position, drei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Shin with three tagin at the first position, two tagin at the second position, three tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6453,6 +6769,8 @@ tom:shin_3300
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_3300"@de , "shin_3300"@en ;
+    skos:hiddenLabel
+        "6Tagin"@de, "6tagin"@en ;
   skos:definition "Variante des Shin mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Shin with three tagin at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6464,6 +6782,8 @@ tom:shin_3320
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_3320"@de , "shin_3320"@en ;
+    skos:hiddenLabel
+        "8Tagin"@de, "8tagin"@en ;
   skos:definition "Variante des Shin mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position, zwei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Shin with three tagin at the first position, three tagin at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6475,6 +6795,8 @@ tom:shin_3330
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_3330"@de , "shin_3330"@en ;
+    skos:hiddenLabel
+        "9Tagin"@de, "9tagin"@en ;
   skos:definition "Variante des Shin mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position, drei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Shin with three tagin at the first position, three tagin at the second position, three tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6486,6 +6808,8 @@ tom:shin_4000
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_4000"@de , "shin_4000"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Shin mit vier Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Shin with four tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6497,6 +6821,8 @@ tom:shin_e3000
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_e3000"@de , "shin_e3000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "verlängert"@de, "3tagin"@en, "elongated"@en ;
   skos:definition "Verlängerte Variante des Shin mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Elongated variant of the Shin with three tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6508,6 +6834,8 @@ tom:shin_e3001
   skos:inScheme tom: ;
   skos:broader tom:shin ;
   skos:prefLabel "shin_e3001"@de , "shin_e3001"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "verlängert"@de, "4tagin"@en, "elongated"@en ;
   skos:definition "Verlängerte Variante des Shin mit drei Tagin an der ersten Position, einem Tag an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Elongated variant of the Shin with three tagin at the first position, one tag at the fourth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6523,6 +6851,8 @@ tom:tav_000010
   skos:inScheme tom: ;
   skos:broader tom:tav ;
   skos:prefLabel "tav_000010"@de , "tav_000010"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Tav mit einem Tag an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tav with one tag at the fifth position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6534,6 +6864,8 @@ tom:tav_0000b0
   skos:inScheme tom: ;
   skos:broader tom:tav ;
   skos:prefLabel "tav_0000b0"@de , "tav_0000b0"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
   skos:definition "Variante des Tav mit einem Bogen an der fünften Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tav with one bow at the fifth position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6545,6 +6877,8 @@ tom:tav_000p00
   skos:inScheme tom: ;
   skos:broader tom:tav ;
   skos:prefLabel "tav_000p00"@de , "tav_000p00"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
   skos:definition "Variante des Tav mit einem Kringel an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tav with one pretzel at the fourth position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6556,6 +6890,8 @@ tom:tav_010000
   skos:inScheme tom: ;
   skos:broader tom:tav ;
   skos:prefLabel "tav_010000"@de , "tav_010000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Tav mit einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tav with one tag at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6567,6 +6903,8 @@ tom:tav_011000
   skos:inScheme tom: ;
   skos:broader tom:tav ;
   skos:prefLabel "tav_011000"@de , "tav_011000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Tav mit einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tav with one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6578,6 +6916,8 @@ tom:tav_02000
   skos:inScheme tom: ;
   skos:broader tom:tav ;
   skos:prefLabel "tav_02000"@de , "tav_02000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Tav mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tav with two tagin at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6589,6 +6929,8 @@ tom:tav_020000
   skos:inScheme tom: ;
   skos:broader tom:tav ;
   skos:prefLabel "tav_020000"@de , "tav_020000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Tav mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tav with two tagin at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6600,6 +6942,8 @@ tom:tav_100000
   skos:inScheme tom: ;
   skos:broader tom:tav ;
   skos:prefLabel "tav_100000"@de , "tav_100000"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Tav mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tav with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6611,6 +6955,8 @@ tom:tav_100001
   skos:inScheme tom: ;
   skos:broader tom:tav ;
   skos:prefLabel "tav_100001"@de , "tav_100001"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Tav mit einem Tag an der ersten Position, einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tav with one tag at the first position, one tag at the sixth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6622,6 +6968,8 @@ tom:tav_101000
   skos:inScheme tom: ;
   skos:broader tom:tav ;
   skos:prefLabel "tav_101000"@de , "tav_101000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Tav mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tav with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6633,6 +6981,8 @@ tom:tav_111000
   skos:inScheme tom: ;
   skos:broader tom:tav ;
   skos:prefLabel "tav_111000"@de , "tav_111000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Tav mit einem Tag an der ersten Position, einem Tag an der zweiten Position, einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tav with one tag at the first position, one tag at the second position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6644,6 +6994,8 @@ tom:tav_200000
   skos:inScheme tom: ;
   skos:broader tom:tav ;
   skos:prefLabel "tav_200000"@de , "tav_200000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Tav mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tav with two tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6655,6 +7007,8 @@ tom:tav_e000000
   skos:inScheme tom: ;
   skos:broader tom:tav ;
   skos:prefLabel "tav_e000000"@de , "tav_e000000"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "elongated"@en ;
   skos:definition "Verlängerte Variante des Tav ohne Tagin an allen Positionen."@de ,
                   "Elongated variant of the Tav with no tagin at any of the positions."@en ;
   skos:scopeNote
@@ -6666,6 +7020,8 @@ tom:tav_e000001
   skos:inScheme tom: ;
   skos:broader tom:tav ;
   skos:prefLabel "tav_e000001"@de , "tav_e000001"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "verlängert"@de, "1tag"@en, "elongated"@en ;
   skos:definition "Verlängerte Variante des Tav mit einem Tag an der sechsten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Elongated variant of the Tav with one tag at the sixth position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6677,6 +7033,8 @@ tom:tav_f00000
   skos:inScheme tom: ;
   skos:broader tom:tav ;
   skos:prefLabel "tav_f00000"@de , "tav_f00000"@en ;
+    skos:hiddenLabel
+        "Fähnchen"@de, "flag"@en ;
   skos:definition "Variante des Tav mit einem Fähnchen an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tav with one flag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6688,6 +7046,8 @@ tom:tav_f00b00
   skos:inScheme tom: ;
   skos:broader tom:tav ;
   skos:prefLabel "tav_f00b00"@de , "tav_f00b00"@en ;
+    skos:hiddenLabel
+        "Fähnchen"@de, "Bogen"@de, "flag"@en, "bow"@en ;
   skos:definition "Variante des Tav mit einem Fähnchen an der ersten Position, einem Bogen an der vierten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tav with one flag at the first position, one bow at the fourth position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6703,6 +7063,8 @@ tom:teth_02
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_02"@de , "teth_02"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Teth mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Teth with two tagin at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6714,6 +7076,8 @@ tom:teth_10
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_10"@de , "teth_10"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Teth mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Teth with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6725,6 +7089,8 @@ tom:teth_11
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_11"@de , "teth_11"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Teth mit einem Tag an der ersten Position und einem Tag an der zweiten Position."@de ,
                   "Variant of the Teth with one tag at the first position and one tag at the second position."@en ;
   skos:scopeNote
@@ -6736,6 +7102,8 @@ tom:teth_12
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_12"@de , "teth_12"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Teth mit einem Tag an der ersten Position und zwei Tagin an der zweiten Position."@de ,
                   "Variant of the Teth with one tag at the first position and two tagin at the second position."@en ;
   skos:scopeNote
@@ -6747,6 +7115,8 @@ tom:teth_20
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_20"@de , "teth_20"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Teth mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Teth with two tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6758,6 +7128,8 @@ tom:teth_21
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_21"@de , "teth_21"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Teth mit zwei Tagin an der ersten Position und einem Tag an der zweiten Position."@de ,
                   "Variant of the Teth with two tagin at the first position and one tag at the second position."@en ;
   skos:scopeNote
@@ -6769,6 +7141,8 @@ tom:teth_22
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_22"@de , "teth_22"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Teth mit zwei Tagin an der ersten Position und zwei Tagin an der zweiten Position."@de ,
                   "Variant of the Teth with two tagin at the first position and two tagin at the second position."@en ;
   skos:scopeNote
@@ -6780,6 +7154,8 @@ tom:teth_31
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_31"@de , "teth_31"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Teth mit drei Tagin an der ersten Position und einem Tag an der zweiten Position."@de ,
                   "Variant of the Teth with three tagin at the first position and one tag at the second position."@en ;
   skos:scopeNote
@@ -6791,6 +7167,8 @@ tom:teth_32
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_32"@de , "teth_32"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Teth mit drei Tagin an der ersten Position und zwei Tagin an der zweiten Position."@de ,
                   "Variant of the Teth with three tagin at the first position and two tagin at the second position."@en ;
   skos:scopeNote
@@ -6802,6 +7180,8 @@ tom:teth_40
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_40"@de , "teth_40"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Teth mit vier Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Teth with four tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6813,6 +7193,8 @@ tom:teth_41
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_41"@de , "teth_41"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Teth mit vier Tagin an der ersten Position und einem Tag an der zweiten Position."@de ,
                   "Variant of the Teth with four tagin at the first position and one tag at the second position."@en ;
   skos:scopeNote
@@ -6824,6 +7206,8 @@ tom:teth_42
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_42"@de , "teth_42"@en ;
+    skos:hiddenLabel
+        "6Tagin"@de, "6tagin"@en ;
   skos:definition "Variante des Teth mit vier Tagin an der ersten Position und zwei Tagin an der zweiten Position."@de ,
                   "Variant of the Teth with four tagin at the first position and two tagin at the second position."@en ;
   skos:scopeNote
@@ -6835,6 +7219,8 @@ tom:teth_e30
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_e30"@de , "teth_e30"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "verlängert"@de, "3tagin"@en, "elongated"@en ;
   skos:definition "Verlängerte Variante des Teth mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Elongated variant of the Teth with three tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6846,6 +7232,8 @@ tom:teth_w00
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_w00"@de , "teth_w00"@en ;
+    skos:hiddenLabel
+        "gewickelt"@de, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Teth ohne Tagin an allen Positionen."@de ,
                   "Wrapped variant of the Teth with no tagin at any of the positions."@en ;
   skos:scopeNote
@@ -6857,6 +7245,8 @@ tom:teth_w10
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_w10"@de , "teth_w10"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "gewickelt"@de, "1tag"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Teth mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Wrapped variant of the Teth with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6869,6 +7259,8 @@ tom:teth_w11
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_w11"@de , "teth_w11"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "gewickelt"@de, "2tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Teth mit einem Tag an der ersten Position und einem Tag an der zweiten Position."@de ,
                   "Wrapped variant of the Teth with one tag at the first position and one tag at the second position."@en ;
   skos:scopeNote
@@ -6880,6 +7272,8 @@ tom:teth_w21
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_w21"@de , "teth_w21"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "gewickelt"@de, "3tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Teth mit zwei Tagin an der ersten Position und einem Tag an der zweiten Position."@de ,
                   "Wrapped variant of the Teth with two tagin at the first position and one tag at the second position."@en ;
   skos:scopeNote
@@ -6891,6 +7285,8 @@ tom:teth_w23
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_w23"@de , "teth_w23"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "gewickelt"@de, "5tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Teth mit zwei Tagin an der ersten Position und drei Tagin an der zweiten Position."@de ,
                   "Wrapped variant of the Teth with two tagin at the first position and three tagin at the second position."@en ;
   skos:scopeNote
@@ -6902,6 +7298,8 @@ tom:teth_w30
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_w30"@de , "teth_w30"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "gewickelt"@de, "3tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Teth mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Wrapped variant of the Teth with three tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6913,6 +7311,8 @@ tom:teth_w31
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_w31"@de , "teth_w31"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "gewickelt"@de, "4tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Teth mit drei Tagin an der ersten Position und einem Tag an der zweiten Position."@de ,
                   "Wrapped variant of the Teth with three tagin at the first position and one tag at the second position."@en ;
   skos:scopeNote
@@ -6924,6 +7324,8 @@ tom:teth_w32
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_w32"@de , "teth_w32"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "gewickelt"@de, "5tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Teth mit drei Tagin an der ersten Position und zwei Tagin an der zweiten Position."@de ,
                   "Wrapped variant of the Teth with three tagin at the first position and two tagin at the second position."@en ;
   skos:scopeNote
@@ -6935,6 +7337,8 @@ tom:teth_w33
   skos:inScheme tom: ;
   skos:broader tom:teth ;
   skos:prefLabel "teth_w33"@de , "teth_w33"@en ;
+    skos:hiddenLabel
+        "6Tagin"@de, "gewickelt"@de, "6tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Teth mit drei Tagin an der ersten Position und drei Tagin an der zweiten Position."@de ,
                   "Wrapped variant of the Teth with three tagin at the first position and three tagin at the second position."@en ;
   skos:scopeNote
@@ -6950,6 +7354,8 @@ tom:tsade_020
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_020"@de , "tsade_020"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Tsade mit zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tsade with two tagin at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6961,6 +7367,8 @@ tom:tsade_100
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_100"@de , "tsade_100"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Tsade mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tsade with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6972,6 +7380,8 @@ tom:tsade_110
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_110"@de , "tsade_110"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Tsade mit einem Tag an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Tsade with one tag at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -6983,6 +7393,8 @@ tom:tsade_111
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_111"@de , "tsade_111"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Tsade mit einem Tag an der ersten Position, einem Tag an der zweiten Position und einem Tag an der dritten Position."@de ,
                   "Variant of the Tsade with one tag at the first position, one tag at the second position, and one tag at the third position."@en ;
   skos:scopeNote
@@ -6994,6 +7406,8 @@ tom:tsade_120
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_120"@de , "tsade_120"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Tsade mit einem Tag an der ersten Position, zwei Tagin an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Tsade with one tag at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7005,6 +7419,8 @@ tom:tsade_200
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_200"@de , "tsade_200"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Tsade mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tsade with two tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7016,6 +7432,8 @@ tom:tsade_210
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_210"@de , "tsade_210"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Tsade mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Tsade with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7027,6 +7445,8 @@ tom:tsade_230
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_230"@de , "tsade_230"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Tsade mit zwei Tagin an der ersten Position, drei Tagin an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Tsade with two tagin at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7038,6 +7458,8 @@ tom:tsade_301
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_301"@de , "tsade_301"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Tsade mit drei Tagin an der ersten Position, keinem Tag an der zweiten Position, einem Tag an der dritten Position."@de ,
                   "Variant of the Tsade with three tagin at the first position, no tagin at the second position, one tag at the third position."@en ;
   skos:scopeNote
@@ -7049,6 +7471,8 @@ tom:tsade_310
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_310"@de , "tsade_310"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Tsade mit drei Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Tsade with three tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7060,6 +7484,8 @@ tom:tsade_320
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_320"@de , "tsade_320"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Tsade mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Tsade with three tagin at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7071,6 +7497,8 @@ tom:tsade_32p
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_32p"@de , "tsade_32p"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "Kringel"@de, "5tagin"@en, "pretzel"@en ;
   skos:definition "Variante des Tsade mit drei Tagin an der ersten Position, zwei Tagin an der zweiten Position und einem Kringel an der dritten Position."@de ,
                   "Variant of the Tsade with three tagin at the first position, two tagin at the second position, and one pretzel at the third position."@en ;
   skos:scopeNote
@@ -7082,6 +7510,8 @@ tom:tsade_330
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_330"@de , "tsade_330"@en ;
+    skos:hiddenLabel
+        "6Tagin"@de, "6tagin"@en ;
   skos:definition "Variante des Tsade mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Tsade with three tagin at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7093,6 +7523,8 @@ tom:tsade_410
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_410"@de , "tsade_410"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Tsade mit vier Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Tsade with four tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7104,6 +7536,8 @@ tom:tsade_420
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_420"@de , "tsade_420"@en ;
+    skos:hiddenLabel
+        "6Tagin"@de, "6tagin"@en ;
   skos:definition "Variante des Tsade mit vier Tagin an der ersten Position, zwei Tagin an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Tsade with four tagin at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7115,6 +7549,8 @@ tom:tsade_b0b
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_b0b"@de , "tsade_b0b"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
   skos:definition "Variante des Tsade mit einem Bogen an der ersten Position, einem Bogen an der dritten Position sowie ohne Tagin an der zweiten Position."@de ,
                   "Variant of the Tsade with one bow at the first position, one bow at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7126,6 +7562,8 @@ tom:tsade_e00b
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_e00b"@de , "tsade_e00b"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "Bogen"@de, "elongated"@en, "bow"@en ;
   skos:definition "Verlängerte Variante des Tsade mit einem Bogen an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Elongated variant of the Tsade with one bow at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7137,6 +7575,8 @@ tom:tsade_e00p
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_e00p"@de , "tsade_e00p"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "Kringel"@de, "elongated"@en, "pretzel"@en ;
   skos:definition "Verlängerte Variante des Tsade mit einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Elongated variant of the Tsade with one pretzel at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7148,6 +7588,8 @@ tom:tsade_e300
   skos:inScheme tom: ;
   skos:broader tom:tsade ;
   skos:prefLabel "tsade_e300"@de , "tsade_e300"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "verlängert"@de, "3tagin"@en, "elongated"@en ;
   skos:definition "Verlängerte Variante des Tsade mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Elongated variant of the Tsade with three tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7163,6 +7605,8 @@ tom:tsadesofit_0100
   skos:inScheme tom: ;
   skos:broader tom:tsadesofit ;
   skos:prefLabel "tsadesofit_0100"@de , "tsadesofit_0100"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Tsadesofit mit einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tsadesofit with one tag at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7174,6 +7618,8 @@ tom:tsadesofit_1120
   skos:inScheme tom: ;
   skos:broader tom:tsadesofit ;
   skos:prefLabel "tsadesofit_1120"@de , "tsadesofit_1120"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Tsadesofit mit einem Tag an der ersten Position, einem Tag an der zweiten Position, zwei Tagin an der dritten Position sowie ohne Tagin an der vierten Position."@de ,
                   "Variant of the Tsadesofit with one tag at the first position, one tag at the second position, two tagin at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7185,6 +7631,8 @@ tom:tsadesofit_2000
   skos:inScheme tom: ;
   skos:broader tom:tsadesofit ;
   skos:prefLabel "tsadesofit_2000"@de , "tsadesofit_2000"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Tsadesofit mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tsadesofit with two tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7196,6 +7644,8 @@ tom:tsadesofit_2100
   skos:inScheme tom: ;
   skos:broader tom:tsadesofit ;
   skos:prefLabel "tsadesofit_2100"@de , "tsadesofit_2100"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Tsadesofit mit zwei Tagin an der ersten Position, einem Tag an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tsadesofit with two tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7207,6 +7657,8 @@ tom:tsadesofit_3100
   skos:inScheme tom: ;
   skos:broader tom:tsadesofit ;
   skos:prefLabel "tsadesofit_3100"@de , "tsadesofit_3100"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "4tagin"@en ;
   skos:definition "Variante des Tsadesofit mit drei Tagin an der ersten Position, einem Tag an der zweite Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tsadesofit with three tagin at the first position, one tag at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7218,6 +7670,8 @@ tom:tsadesofit_3200
   skos:inScheme tom: ;
   skos:broader tom:tsadesofit ;
   skos:prefLabel "tsadesofit_3200"@de , "tsadesofit_3200"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "5tagin"@en ;
   skos:definition "Variante des Tsadesofit mit drei Tagin an der erste Position, zwei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tsadesofit with three tagin at the first position, two tagin at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7229,6 +7683,8 @@ tom:tsadesofit_3300
   skos:inScheme tom: ;
   skos:broader tom:tsadesofit ;
   skos:prefLabel "tsadesofit_3300"@de , "tsadesofit_3300"@en ;
+    skos:hiddenLabel
+        "6Tagin"@de, "6tagin"@en ;
   skos:definition "Variante des Tsadesofit mit drei Tagin an der ersten Position, drei Tagin an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Tsadesofit with three tagin at the first position, three tagin at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7240,6 +7696,8 @@ tom:tsadesofit_e3000
   skos:inScheme tom: ;
   skos:broader tom:tsadesofit ;
   skos:prefLabel "tsadesofit_e3000"@de , "tsadesofit_e3000"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "verlängert"@de, "3tagin"@en, "elongated"@en ;
   skos:definition "Verlängerte Variante des Tsadesofit mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Elongated variant of the Tsadesofit with three tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7255,6 +7713,8 @@ tom:vav_001
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_001"@de , "vav_001"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Vav mit einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Vav with one tag at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7266,6 +7726,8 @@ tom:vav_00p
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_00p"@de , "vav_00p"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
   skos:definition "Variante des Vav mit einem Kringel an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Vav with one pretzel at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7277,6 +7739,8 @@ tom:vav_0b0
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_0b0"@de , "vav_0b0"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
   skos:definition "Variante des Vav mit einem Bogen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Vav with one bow at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7288,6 +7752,8 @@ tom:vav_0bb
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_0bb"@de , "vav_0bb"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
   skos:definition "Variante des Vav mit einem Bogen an der zweiten Position, einem Bogen an der dritten Position sowie ohne Tagin an der ersten Position."@de ,
                   "Variant of the Vav with one bow at the second position, one bow at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7299,6 +7765,8 @@ tom:vav_0pp
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_0pp"@de , "vav_0pp"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
   skos:definition "Variante des Vav mit einem Kringel an der zweiten Position, einem Kringel an der dritten Position sowie ohne Tagin an der ersten Position."@de ,
                   "Variant of the Vav with one pretzel at the second position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7310,6 +7778,8 @@ tom:vav_100
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_100"@de , "vav_100"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Vav mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Vav with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7321,6 +7791,8 @@ tom:vav_101
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_101"@de , "vav_101"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Vav mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an der zweiten Position."@de ,
                   "Variant of the Vav with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7332,6 +7804,8 @@ tom:vav_10p
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_10p"@de , "vav_10p"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Kringel"@de, "1tag"@en, "pretzel"@en ;
   skos:definition "Variante des Vav mit einem Tag an der ersten Position, einem Kringel an der dritten Position sowie ohne Tagin an der zweiten Position."@de ,
                   "Variant of the Vav with one tag at the first position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7343,6 +7817,8 @@ tom:vav_1b0
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_1b0"@de , "vav_1b0"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Bogen"@de, "1tag"@en, "bow"@en ;
   skos:definition "Variante des Vav mit einem Tag an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Vav with one tag at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7354,6 +7830,8 @@ tom:vav_1b1
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_1b1"@de , "vav_1b1"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Bogen"@de, "2tagin"@en, "bow"@en ;
   skos:definition "Variante des Vav mit einem Tag an der ersten Position, einem Bogen an der zweiten Position und einem Tag an der dritten Position."@de ,
                   "Variant of the Vav with one tag at the first position, one bow at the second position, and one tag at the third position."@en ;
   skos:scopeNote
@@ -7365,6 +7843,8 @@ tom:vav_1bb
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_1bb"@de , "vav_1bb"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Bogen"@de, "1tag"@en, "bow"@en ;
   skos:definition "Variante des Vav mit einem Tag an der ersten Position, einem Bogen an der zweiten Position und einem Bogen an der dritten Position."@de ,
                   "Variant of the Vav with one tag at the first position, one bow at the second position, and one bow at the third position."@en ;
   skos:scopeNote
@@ -7376,6 +7856,8 @@ tom:vav_1pp
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_1pp"@de , "vav_1pp"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Kringel"@de, "1tag"@en, "pretzel"@en ;
   skos:definition "Variante des Vav mit einem Tag an der ersten Position, einem Kringel an der zweiten Position und einem Kringel an der dritten Position."@de ,
                   "Variant of the Vav with one tag at the first position, one pretzel at the second position, and one pretzel at the third position."@en ;
   skos:scopeNote
@@ -7387,6 +7869,8 @@ tom:vav_200
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_200"@de , "vav_200"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Vav mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Vav with two tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7398,6 +7882,8 @@ tom:vav_e0b0
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_e0b0"@de , "vav_e0b0"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "Bogen"@de, "elongated"@en, "bow"@en ;
   skos:definition "Verlängerte Variante des Vav mit einem Bogen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Elongated variant of the Vav with one bow at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7409,6 +7895,8 @@ tom:vav_e0bb
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_e0bb"@de , "vav_e0bb"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "Bogen"@de, "elongated"@en, "bow"@en ;
   skos:definition "Verlängerte Variante des Vav mit einem Bogen an der zweiten Position, einem Bogen an der dritten Position sowie ohne Tagin an der ersten Position."@de ,
                   "Elongated variant of the Vav with one bow at the second position, one bow at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7420,6 +7908,8 @@ tom:vav_e0bp
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_e0bp"@de , "vav_e0bp"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "Bogen"@de, "Kringel"@de, "elongated"@en, "bow"@en, "pretzel"@en ;
   skos:definition "Verlängerte Variante des Vav mit einem Bogen an der zweiten Position, einem Kringel an der dritten Position sowie ohne Tagin an der ersten Position."@de ,
                   "Elongated variant of the Vav with one bow at the second position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7431,6 +7921,8 @@ tom:vav_e0p0
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_e0p0"@de , "vav_e0p0"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "Kringel"@de, "elongated"@en, "pretzel"@en ;
   skos:definition "Verlängerte Variante des Vav mit einem Kringel an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Elongated variant of the Vav with one pretzel at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7442,6 +7934,8 @@ tom:vav_e100
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_e100"@de , "vav_e100"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "verlängert"@de, "1tag"@en, "elongated"@en ;
   skos:definition "Verlängerte Variante des Vav mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Elongated variant of the Vav with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7453,6 +7947,8 @@ tom:vav_e1pb
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_e1pb"@de , "vav_e1pb"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "verlängert"@de, "Kringel"@de, "Bogen"@de, "1tag"@en, "elongated"@en, "pretzel"@en, "bow"@en ;
   skos:definition "Verlängerte Variante des Vav mit einem Tag an der ersten Position, einem Kringel an der zweiten Position und einem Bogen an der dritten Position."@de ,
                   "Elongated variant of the Vav with one tag at the first position, one pretzel at the second position, and one bow at the third position."@en ;
   skos:scopeNote
@@ -7464,6 +7960,8 @@ tom:vav_e1pp
   skos:inScheme tom: ;
   skos:broader tom:vav ;
   skos:prefLabel "vav_e1pp"@de , "vav_e1pp"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "verlängert"@de, "Kringel"@de, "1tag"@en, "elongated"@en, "pretzel"@en ;
   skos:definition "Verlängerte Variante des Vav mit einem Tag an der ersten Position, einem Kringel an der zweiten Position und einem Kringel an der dritten Position."@de ,
                   "Elongated variant of the Vav with one tag at the first position, one pretzel at the second position, and one pretzel at the third position."@en ;
   skos:scopeNote
@@ -7479,6 +7977,8 @@ tom:yod_001
   skos:inScheme tom: ;
   skos:broader tom:yod ;
   skos:prefLabel "yod_001"@de , "yod_001"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Yod mit einem Tag an der dritten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Yod with one tag at the third position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7490,6 +7990,8 @@ tom:yod_0p0
   skos:inScheme tom: ;
   skos:broader tom:yod ;
   skos:prefLabel "yod_0p0"@de , "yod_0p0"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
   skos:definition "Variante des Yod mit einem Kringel an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Yod with one pretzel at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7501,6 +8003,8 @@ tom:yod_100
   skos:inScheme tom: ;
   skos:broader tom:yod ;
   skos:prefLabel "yod_100"@de , "yod_100"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Yod mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Yod with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7512,6 +8016,8 @@ tom:yod_101
   skos:inScheme tom: ;
   skos:broader tom:yod ;
   skos:prefLabel "yod_101"@de , "yod_101"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Yod mit einem Tag an der ersten Position, einem Tag an der dritten Position sowie ohne Tagin an der zweiten Position."@de ,
                   "Variant of the Yod with one tag at the first position, one tag at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7523,6 +8029,8 @@ tom:yod_10p
   skos:inScheme tom: ;
   skos:broader tom:yod ;
   skos:prefLabel "yod_10p"@de , "yod_10p"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Kringel"@de, "1tag"@en, "pretzel"@en ;
   skos:definition "Variante des Yod mit einem Tag an der ersten Position, einem Kringel an der dritten Position sowie ohne Tagin an der zweiten Position."@de ,
                   "Variant of the Yod with one tag at the first position, one pretzel at the third position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7534,6 +8042,8 @@ tom:yod_1p0
   skos:inScheme tom: ;
   skos:broader tom:yod ;
   skos:prefLabel "yod_1p0"@de , "yod_1p0"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Kringel"@de, "1tag"@en, "pretzel"@en ;
   skos:definition "Variante des Yod mit einem Tag an der ersten Position, einem Kringel an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Yod with one tag at the first position, one pretzel at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7545,6 +8055,8 @@ tom:yod_200
   skos:inScheme tom: ;
   skos:broader tom:yod ;
   skos:prefLabel "yod_200"@de , "yod_200"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Yod mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Yod with two tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7556,6 +8068,8 @@ tom:yod_300
   skos:inScheme tom: ;
   skos:broader tom:yod ;
   skos:prefLabel "yod_300"@de , "yod_300"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "3tagin"@en ;
   skos:definition "Variante des Yod mit drei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Yod with three tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7567,6 +8081,8 @@ tom:yod_e000
   skos:inScheme tom: ;
   skos:broader tom:yod ;
   skos:prefLabel "yod_e000"@de , "yod_e000"@en ;
+    skos:hiddenLabel
+        "verlängert"@de, "elongated"@en ;
   skos:definition "Verlängerte Variante des Yod ohne Tagin an allen Positionen."@de ,
                   "Elongated variant of the Yod with no tagin at any of the positions."@en ;
   skos:scopeNote
@@ -7578,6 +8094,8 @@ tom:yod_s000
   skos:inScheme tom: ;
   skos:broader tom:yod ;
   skos:prefLabel "yod_s000"@de , "yod_s000"@en ;
+    skos:hiddenLabel
+        "durchgestrichen"@de, "struckthrough"@en ;
   skos:definition "Durchgestrichene Variante des Yod ohne Tagin an allen Positionen."@de ,
                   "Struckthrough variant of the Yod with no tagin at any of the positions."@en ;
   skos:scopeNote
@@ -7593,6 +8111,8 @@ tom:zayin_0b0
   skos:inScheme tom: ;
   skos:broader tom:zayin ;
   skos:prefLabel "zayin_0b0"@de , "zayin_0b0"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
   skos:definition "Variante des Zayin mit einem Bogen an der zweiten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Zayin with one bow at the second position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7604,6 +8124,8 @@ tom:zayin_100
   skos:inScheme tom: ;
   skos:broader tom:zayin ;
   skos:prefLabel "zayin_100"@de , "zayin_100"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "1tag"@en ;
   skos:definition "Variante des Zayin mit einem Tag an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Zayin with one tag at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7615,6 +8137,8 @@ tom:zayin_1b0
   skos:inScheme tom: ;
   skos:broader tom:zayin ;
   skos:prefLabel "zayin_1b0"@de , "zayin_1b0"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Bogen"@de, "1tag"@en, "bow"@en ;
   skos:definition "Variante des Zayin mit einem Tag an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Zayin with one tag at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7626,6 +8150,8 @@ tom:zayin_1bb
   skos:inScheme tom: ;
   skos:broader tom:zayin ;
   skos:prefLabel "zayin_1bb"@de , "zayin_1bb"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Bogen"@de, "1tag"@en, "bow"@en ;
   skos:definition "Variante des Zayin mit einem Tag an der ersten Position, einem Bogen an der zweiten Position und einem Bogen an der dritten Position."@de ,
                   "Variant of the Zayin with one tag at the first position, one bow at the second position, and one bow at the third position."@en ;
   skos:scopeNote
@@ -7637,6 +8163,8 @@ tom:zayin_1p0
   skos:inScheme tom: ;
   skos:broader tom:zayin ;
   skos:prefLabel "zayin_1p0"@de , "zayin_1p0"@en ;
+    skos:hiddenLabel
+        "1Tag"@de, "Kringel"@de, "1tag"@en, "pretzel"@en ;
   skos:definition "Variante des Zayin mit einem Tag an der ersten Position, einem Kringel an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Zayin with one tag at the first position, one pretzel at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7648,6 +8176,8 @@ tom:zayin_200
   skos:inScheme tom: ;
   skos:broader tom:zayin ;
   skos:prefLabel "zayin_200"@de , "zayin_200"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "2tagin"@en ;
   skos:definition "Variante des Zayin mit zwei Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Zayin with two tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7659,6 +8189,8 @@ tom:zayin_2b0
   skos:inScheme tom: ;
   skos:broader tom:zayin ;
   skos:prefLabel "zayin_2b0"@de , "zayin_2b0"@en ;
+    skos:hiddenLabel
+        "2Tagin"@de, "Bogen"@de, "2tagin"@en, "bow"@en ;
   skos:definition "Variante des Zayin mit zwei Tagin an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Zayin with two tagin at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7670,6 +8202,8 @@ tom:zayin_3b0
   skos:inScheme tom: ;
   skos:broader tom:zayin ;
   skos:prefLabel "zayin_3b0"@de , "zayin_3b0"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Bogen"@de, "3tagin"@en, "bow"@en ;
   skos:definition "Variante des Zayin mit drei Tagin an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Zayin with three tagin at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7681,6 +8215,8 @@ tom:zayin_3bb
   skos:inScheme tom: ;
   skos:broader tom:zayin ;
   skos:prefLabel "zayin_3bb"@de , "zayin_3bb"@en ;
+    skos:hiddenLabel
+        "3Tagin"@de, "Bogen"@de, "3tagin"@en, "bow"@en ;
   skos:definition "Variante des Zayin mit drei Tagin an der ersten Position, einem Bogen an der zweiten Position und einem Bogen an der dritten Position."@de ,
                   "Variant of the Zayin with three tagin at the first position, one bow at the second position, and one bow at the third position."@en ;
   skos:scopeNote
@@ -7692,6 +8228,8 @@ tom:zayin_4b0
   skos:inScheme tom: ;
   skos:broader tom:zayin ;
   skos:prefLabel "zayin_4b0"@de , "zayin_4b0"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "Bogen"@de, "4tagin"@en, "bow"@en ;
   skos:definition "Variante des Zayin mit vier Tagin an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Zayin with four tagin at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7703,6 +8241,8 @@ tom:zayin_5b0
   skos:inScheme tom: ;
   skos:broader tom:zayin ;
   skos:prefLabel "zayin_5b0"@de , "zayin_5b0"@en ;
+    skos:hiddenLabel
+        "5Tagin"@de, "Bogen"@de, "5tagin"@en, "bow"@en ;
   skos:definition "Variante des Zayin mit fünf Tagin an der ersten Position, einem Bogen an der zweiten Position sowie ohne Tagin an der dritten Position."@de ,
                   "Variant of the Zayin with five tagin at the first position, one bow at the second position, and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7714,6 +8254,8 @@ tom:zayin_b00
   skos:inScheme tom: ;
   skos:broader tom:zayin ;
   skos:prefLabel "zayin_b00"@de , "zayin_b00"@en ;
+    skos:hiddenLabel
+        "Bogen"@de, "bow"@en ;
   skos:definition "Variante des Zayin mit einem Bogen an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Zayin with one bow at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7725,6 +8267,8 @@ tom:zayin_p00
   skos:inScheme tom: ;
   skos:broader tom:zayin ;
   skos:prefLabel "zayin_p00"@de , "zayin_p00"@en ;
+    skos:hiddenLabel
+        "Kringel"@de, "pretzel"@en ;
   skos:definition "Variante des Zayin mit einem Kringel an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Variant of the Zayin with one pretzel at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
@@ -7736,6 +8280,8 @@ tom:zayin_w400
   skos:inScheme tom: ;
   skos:broader tom:zayin ;
   skos:prefLabel "zayin_w400"@de , "zayin_w400"@en ;
+    skos:hiddenLabel
+        "4Tagin"@de, "gewickelt"@de, "4tagin"@en, "wrapped"@en ;
   skos:definition "Gewickelte Variante des Zayin mit vier Tagin an der ersten Position sowie ohne Tagin an den übrigen Positionen."@de ,
                   "Wrapped variant of the Zayin with four tagin at the first position and no tagin at the remaining positions."@en ;
   skos:scopeNote
